@@ -1,0 +1,1472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News — Blockchain Club</title>
+  <meta
+    name="description"
+    content="Latest blockchain and cybersecurity news curated by the Blockchain Club."
+  >
+
+  <!-- Same fonts as the main site -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  >
+
+  <style>
+    /* =========================================================
+       DESIGN SYSTEM — MATCHES THE MAIN SITE
+    ========================================================= */
+
+    :root {
+      --bg: #070707;
+      --bg-alt: #0c0c0c;
+      --bg-elevated: #111110;
+
+      --text: #f1ece1;
+      --text-dim: #8b8a85;
+      --text-faint: #4c4b47;
+
+      --border: #1d1d1c;
+      --border-light: #2b2b29;
+
+      --accent: #900c20;
+      --accent-bright: #d02b44;
+      --accent-dim: #2c1216;
+
+      --font-display: "Space Grotesk", sans-serif;
+      --font-body: "Inter", sans-serif;
+      --font-mono: "JetBrains Mono", monospace;
+
+      --container: 1240px;
+      --radius: 2px;
+    }
+
+    /* =========================================================
+       RESET
+    ========================================================= */
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-body);
+      font-weight: 400;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font-family: inherit;
+      cursor: pointer;
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    :focus-visible {
+      outline: 1.5px solid var(--accent-bright);
+      outline-offset: 2px;
+    }
+
+    /* =========================================================
+       LAYOUT
+    ========================================================= */
+
+    .container {
+      width: min(var(--container), calc(100% - 64px));
+      margin: 0 auto;
+    }
+
+    .mono {
+      font-family: var(--font-mono);
+    }
+
+    .text-dim {
+      color: var(--text-dim);
+    }
+
+    .text-faint {
+      color: var(--text-faint);
+    }
+
+    .accent {
+      color: var(--accent-bright);
+    }
+
+    /* =========================================================
+       NAVBAR
+    ========================================================= */
+
+    .nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+
+      z-index: 1000;
+
+      height: 72px;
+
+      border-bottom: 1px solid var(--border);
+
+      background: rgba(7, 7, 7, 0.78);
+      backdrop-filter: blur(10px);
+    }
+
+    .nav-inner {
+      height: 100%;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+
+      color: var(--text);
+    }
+
+    .nav-logo img {
+      width: 42px;
+      height: 42px;
+
+      object-fit: contain;
+    }
+
+    .brand-name {
+      font-family: var(--font-display);
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 34px;
+    }
+
+    .nav-link {
+      position: relative;
+
+      padding: 4px 0;
+
+      font-family: var(--font-mono);
+      font-size: 11.5px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+
+      color: var(--text-dim);
+
+      transition: color 0.2s ease;
+    }
+
+    .nav-link::after {
+      content: "";
+
+      position: absolute;
+      left: 0;
+      bottom: -3px;
+
+      width: 0;
+      height: 1px;
+
+      background: var(--accent-bright);
+
+      transition: width 0.25s ease;
+    }
+
+    .nav-link:hover,
+    .nav-link.active {
+      color: var(--text);
+    }
+
+    .nav-link:hover::after,
+    .nav-link.active::after {
+      width: 100%;
+    }
+
+    .nav-toggle {
+      display: none;
+
+      flex-direction: column;
+      gap: 5px;
+
+      padding: 8px;
+
+      background: none;
+      border: none;
+    }
+
+    .nav-toggle span {
+      display: block;
+
+      width: 20px;
+      height: 1px;
+
+      background: var(--text);
+    }
+
+    /* =========================================================
+       PAGE HEADER
+    ========================================================= */
+
+    .page-head {
+      position: relative;
+
+      padding: 160px 0 70px;
+
+      border-bottom: 1px solid var(--border);
+
+      overflow: hidden;
+    }
+
+    .page-head::before {
+      content: "";
+
+      position: absolute;
+
+      left: -15%;
+      top: 20%;
+
+      width: 60%;
+      height: 80%;
+
+      background:
+        radial-gradient(
+          ellipse,
+          rgba(144, 12, 32, 0.14),
+          transparent 70%
+        );
+
+      filter: blur(30px);
+
+      pointer-events: none;
+    }
+
+    .page-head-content {
+      position: relative;
+      z-index: 2;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+
+      color: var(--text-dim);
+    }
+
+    .eyebrow::before {
+      content: "";
+
+      width: 5px;
+      height: 5px;
+
+      display: inline-block;
+
+      background: var(--accent);
+    }
+
+    .page-head h1 {
+      margin: 16px 0 0;
+
+      font-family: var(--font-display);
+      font-size: clamp(42px, 6vw, 70px);
+      font-weight: 500;
+
+      line-height: 0.98;
+      letter-spacing: -0.03em;
+
+      text-transform: uppercase;
+    }
+
+    .page-head p {
+      max-width: 620px;
+
+      margin: 18px 0 0;
+
+      color: var(--text-dim);
+
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    /* =========================================================
+       NEWS SECTION
+    ========================================================= */
+
+    .news-section {
+      padding: 70px 0 100px;
+    }
+
+    .news-top {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+
+      gap: 30px;
+
+      margin-bottom: 42px;
+    }
+
+    .news-top-left {
+      display: flex;
+      align-items: flex-start;
+
+      gap: 22px;
+    }
+
+    .section-num {
+      font-family: var(--font-display);
+      font-size: 52px;
+      font-weight: 300;
+
+      line-height: 1;
+
+      color: var(--text-faint);
+    }
+
+    .section-title {
+      margin: 2px 0 0;
+
+      font-family: var(--font-display);
+      font-size: clamp(24px, 3vw, 36px);
+      font-weight: 500;
+
+      text-transform: uppercase;
+      letter-spacing: 0.01em;
+    }
+
+    .section-copy {
+      max-width: 450px;
+
+      margin-top: 10px;
+
+      color: var(--text-dim);
+
+      font-size: 14px;
+    }
+
+    .updated-info {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 0.06em;
+
+      color: var(--text-faint);
+
+      text-align: right;
+    }
+
+    /* =========================================================
+       FILTERS
+    ========================================================= */
+
+    .filters {
+      display: flex;
+      gap: 8px;
+
+      margin-bottom: 32px;
+
+      padding-bottom: 18px;
+
+      border-bottom: 1px solid var(--border);
+
+      overflow-x: auto;
+    }
+
+    .filters button {
+      flex-shrink: 0;
+
+      padding: 9px 14px;
+
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius);
+
+      background: transparent;
+
+      color: var(--text-dim);
+
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+
+      transition:
+        border-color 0.2s ease,
+        background 0.2s ease,
+        color 0.2s ease,
+        transform 0.2s ease;
+    }
+
+    .filters button:hover {
+      color: var(--text);
+
+      border-color: var(--text-dim);
+
+      transform: translateY(-1px);
+    }
+
+    .filters button.active {
+      color: var(--text);
+
+      background: var(--accent-dim);
+
+      border-color: var(--accent);
+    }
+
+    /* =========================================================
+       NEWS GRID
+    ========================================================= */
+
+    .news-grid {
+      display: grid;
+
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+
+      gap: 1px;
+
+      background: var(--border);
+
+      border: 1px solid var(--border);
+    }
+
+    /* =========================================================
+       NEWS CARD
+    ========================================================= */
+
+    .news-card {
+      position: relative;
+
+      min-width: 0;
+
+      padding: 28px;
+
+      background: var(--bg);
+
+      display: flex;
+      flex-direction: column;
+
+      min-height: 245px;
+
+      transition:
+        background 0.25s ease,
+        padding-left 0.25s ease;
+    }
+
+    .news-card:hover {
+      background: var(--bg-alt);
+    }
+
+    .news-card:hover .news-arrow {
+      opacity: 1;
+
+      transform: translate(3px, -3px);
+    }
+
+    .news-category {
+      display: block;
+
+      margin-bottom: 16px;
+
+      font-family: var(--font-mono);
+      font-size: 9px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+
+      color: var(--accent-bright);
+    }
+
+    .news-category::before {
+      content: "//";
+
+      margin-right: 8px;
+
+      color: var(--text-faint);
+    }
+
+    .news-title {
+      margin: 0 0 9px;
+
+      padding-right: 30px;
+
+      font-family: var(--font-display);
+      font-size: 19px;
+      font-weight: 500;
+
+      line-height: 1.25;
+    }
+
+    .news-title a {
+      color: var(--text);
+
+      transition: color 0.2s ease;
+    }
+
+    .news-title a:hover {
+      color: var(--accent-bright);
+    }
+
+    .news-meta {
+      margin-bottom: 16px;
+
+      font-family: var(--font-mono);
+      font-size: 9.5px;
+      letter-spacing: 0.04em;
+
+      color: var(--text-faint);
+    }
+
+    .news-summary {
+      margin: 0;
+
+      color: var(--text-dim);
+
+      font-size: 13px;
+      line-height: 1.65;
+    }
+
+    .news-arrow {
+      position: absolute;
+
+      top: 27px;
+      right: 26px;
+
+      color: var(--accent-bright);
+
+      font-family: var(--font-mono);
+      font-size: 15px;
+
+      opacity: 0.45;
+
+      transition:
+        opacity 0.2s ease,
+        transform 0.2s ease;
+    }
+
+    /* =========================================================
+       EMPTY / ERROR STATES
+    ========================================================= */
+
+    .empty-state {
+      grid-column: 1 / -1;
+
+      padding: 80px 30px;
+
+      text-align: center;
+
+      background: var(--bg);
+    }
+
+    .empty-state .eyebrow {
+      margin-bottom: 12px;
+    }
+
+    .empty-state h3 {
+      margin: 0;
+
+      font-family: var(--font-display);
+      font-size: 23px;
+      font-weight: 500;
+
+      text-transform: uppercase;
+    }
+
+    .empty-state p {
+      max-width: 420px;
+
+      margin: 10px auto 0;
+
+      color: var(--text-dim);
+
+      font-size: 13px;
+    }
+
+    .error {
+      grid-column: 1 / -1;
+
+      padding: 28px;
+
+      border-left: 2px solid var(--accent);
+
+      background: var(--accent-dim);
+
+      color: var(--text-dim);
+
+      font-family: var(--font-mono);
+      font-size: 11px;
+    }
+
+    /* =========================================================
+       FOOTER
+    ========================================================= */
+
+    .site-footer {
+      border-top: 1px solid var(--border);
+
+      padding: 70px 0 0;
+    }
+
+    .footer-inner {
+      display: grid;
+
+      grid-template-columns: 2fr 1fr 1fr;
+
+      gap: 40px;
+
+      padding-bottom: 52px;
+    }
+
+    .footer-brand {
+      font-family: var(--font-display);
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .footer-description {
+      max-width: 320px;
+
+      margin-top: 14px;
+
+      color: var(--text-dim);
+
+      font-size: 13px;
+    }
+
+    .footer-heading {
+      margin-bottom: 14px;
+
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+
+      color: var(--text-faint);
+    }
+
+    .footer-col a {
+      display: block;
+
+      padding: 6px 0;
+
+      color: var(--text-dim);
+
+      font-size: 13px;
+
+      transition: color 0.2s ease;
+    }
+
+    .footer-col a:hover {
+      color: var(--text);
+    }
+
+    .footer-bottom {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      padding: 22px 0;
+
+      border-top: 1px solid var(--border);
+
+      color: var(--text-faint);
+
+      font-family: var(--font-mono);
+      font-size: 9.5px;
+      letter-spacing: 0.06em;
+    }
+
+    /* =========================================================
+       PAGE ENTER ANIMATION
+    ========================================================= */
+
+    .page-fade {
+      animation: pageIn 0.45s ease both;
+    }
+
+    @keyframes pageIn {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* =========================================================
+       RESPONSIVE
+    ========================================================= */
+
+    @media (max-width: 1000px) {
+      .news-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 800px) {
+      .container {
+        width: min(100% - 40px, var(--container));
+      }
+
+      .nav-links {
+        position: fixed;
+
+        top: 72px;
+        left: 0;
+        right: 0;
+
+        flex-direction: column;
+        align-items: stretch;
+
+        gap: 0;
+
+        max-height: 0;
+
+        overflow: hidden;
+
+        background: var(--bg);
+
+        border-bottom: 1px solid var(--border);
+
+        transition: max-height 0.3s ease;
+      }
+
+      .nav.nav-open .nav-links {
+        max-height: 400px;
+      }
+
+      .nav-link {
+        width: 100%;
+
+        padding: 16px 20px;
+
+        border-top: 1px solid var(--border);
+      }
+
+      .nav-toggle {
+        display: flex;
+      }
+
+      .news-top {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .updated-info {
+        text-align: left;
+      }
+
+      .footer-inner {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .page-head {
+        padding: 130px 0 55px;
+      }
+
+      .page-head h1 {
+        font-size: 42px;
+      }
+
+      .news-section {
+        padding: 55px 0 80px;
+      }
+
+      .news-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .news-top-left {
+        gap: 14px;
+      }
+
+      .section-num {
+        font-size: 40px;
+      }
+
+      .news-card {
+        min-height: auto;
+
+        padding: 24px;
+      }
+
+      .news-arrow {
+        top: 23px;
+        right: 22px;
+      }
+
+      .footer-bottom {
+        flex-direction: column;
+        align-items: flex-start;
+
+        gap: 6px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- =======================================================
+       NAVBAR
+  ======================================================== -->
+
+  <header class="nav" id="site-nav">
+    <div class="container nav-inner">
+
+      <a href="/" class="nav-logo">
+        <!-- Replace with the site's actual logo -->
+        <img src="logo.jpeg" alt="Blockchain Club">
+
+        <span class="brand-name">
+          Blockchain Club
+        </span>
+      </a>
+
+      <nav class="nav-links">
+
+        <a href="/" class="nav-link">
+          Home
+        </a>
+
+        <a href="/about.html" class="nav-link">
+          About
+        </a>
+
+        <a href="/events.html" class="nav-link">
+          Events
+        </a>
+
+        <a href="/news.html" class="nav-link active">
+          News
+        </a>
+
+        <a href="/team.html" class="nav-link">
+          Team
+        </a>
+
+      </nav>
+
+      <button
+        class="nav-toggle"
+        id="nav-toggle"
+        aria-label="Toggle navigation"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+    </div>
+  </header>
+
+
+  <!-- =======================================================
+       PAGE
+  ======================================================== -->
+
+  <main class="page-fade">
+
+    <!-- PAGE HEADER -->
+
+    <section class="page-head">
+
+      <div class="container page-head-content">
+
+        <div class="eyebrow">
+          Intelligence / Feed
+        </div>
+
+        <h1>
+          News
+        </h1>
+
+        <p>
+          A curated stream of developments across blockchain,
+          cybersecurity, cryptography, and distributed systems.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- NEWS -->
+
+    <section class="news-section">
+
+      <div class="container">
+
+        <div class="news-top">
+
+          <div class="news-top-left">
+
+            <div class="section-num">
+              06
+            </div>
+
+            <div>
+
+              <h2 class="section-title">
+                Intelligence Feed
+              </h2>
+
+              <p class="section-copy">
+                Recent articles collected from external sources
+                and grouped by subject.
+              </p>
+
+            </div>
+
+          </div>
+
+          <div
+            id="status"
+            class="updated-info"
+          >
+            INITIALIZING FEED...
+          </div>
+
+        </div>
+
+
+        <!-- FILTERS -->
+
+        <div class="filters">
+
+          <button
+            data-filter="all"
+            class="active"
+          >
+            All
+          </button>
+
+          <button
+            data-filter="blockchain"
+          >
+            Blockchain
+          </button>
+
+          <button
+            data-filter="cybersecurity"
+          >
+            Cybersecurity
+          </button>
+
+        </div>
+
+
+        <!-- NEWS -->
+
+        <div
+          id="news-container"
+          class="news-grid"
+        ></div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- =======================================================
+       FOOTER
+  ======================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="container">
+
+      <div class="footer-inner">
+
+        <div>
+
+          <div class="footer-brand">
+            Blockchain Club
+          </div>
+
+          <p class="footer-description">
+            Student organization researching distributed systems,
+            applied cryptography, blockchain infrastructure,
+            and security.
+          </p>
+
+        </div>
+
+
+        <div class="footer-col">
+
+          <div class="footer-heading">
+            Navigation
+          </div>
+
+          <a href="/">
+            Home
+          </a>
+
+          <a href="/about.html">
+            About
+          </a>
+
+          <a href="/events.html">
+            Events
+          </a>
+
+          <a href="/news.html">
+            News
+          </a>
+
+        </div>
+
+
+        <div class="footer-col">
+
+          <div class="footer-heading">
+            Connect
+          </div>
+
+          <a href="#">
+            GitHub
+          </a>
+
+          <a href="#">
+            Instagram
+          </a>
+
+          <a href="#">
+            Discord
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <div class="footer-bottom">
+
+        <span>
+          BLOCKCHAIN CLUB
+        </span>
+
+        <span>
+          SYSTEM STATUS // ONLINE
+        </span>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+
+  <!-- =======================================================
+       JAVASCRIPT
+  ======================================================== -->
+
+  <script>
+
+    /* -------------------------------------------------------
+       MOBILE NAV
+    ------------------------------------------------------- */
+
+    const nav = document.getElementById("site-nav");
+    const navToggle = document.getElementById("nav-toggle");
+
+    navToggle.addEventListener("click", () => {
+      nav.classList.toggle("nav-open");
+    });
+
+
+    /* -------------------------------------------------------
+       NEWS FEED
+    ------------------------------------------------------- */
+
+    (async function () {
+
+      const container =
+        document.getElementById("news-container");
+
+      const statusEl =
+        document.getElementById("status");
+
+        async function fetchLatestNews() {
+        const base =
+            'https://cdn.jsdelivr.net/gh/Caesar0468/blockchain-news-feed@main';
+
+        // 1. Fetch the pointer file — cache busted so it is always fresh
+        const pointerUrl =
+            `${base}/data/latest.json?t=${Date.now()}`;
+
+        const pointerRes =
+            await fetch(pointerUrl);
+
+        if (!pointerRes.ok) {
+            throw new Error('Failed to load latest pointer');
+        }
+
+        const pointer =
+            await pointerRes.json();
+
+        const sha =
+            pointer.sha;
+
+        // 2. Fetch news from the exact commit SHA
+        const newsUrl =
+            `${base}@${sha}/data/news.json`;
+
+        const newsRes =
+            await fetch(newsUrl);
+
+        if (!newsRes.ok) {
+            throw new Error('Failed to load news data');
+        }
+
+        return await newsRes.json();
+        }
+
+
+        let allItems = [];
+
+        try {
+
+        const data =
+            await fetchLatestNews();
+
+        allItems =
+            data.items || [];
+
+        allItems =
+          data.items || [];
+
+
+        /* ---------------------------------------------------
+           STATUS
+        --------------------------------------------------- */
+
+        if (data.lastUpdated) {
+
+          statusEl.textContent =
+            `UPDATED // ${
+              new Date(data.lastUpdated)
+                .toLocaleString()
+            }`;
+
+        } else {
+
+          statusEl.textContent =
+            `LOADED // ${allItems.length} ARTICLES`;
+
+        }
+
+
+        /* ---------------------------------------------------
+           FAILED SOURCES
+        --------------------------------------------------- */
+
+        if (
+          data.sources &&
+          data.sources.failed &&
+          data.sources.failed.length > 0
+        ) {
+
+          const failedNames =
+            data.sources.failed
+              .map(source => source.name)
+              .join(", ");
+
+          statusEl.textContent +=
+            ` // FAILED SOURCES: ${failedNames}`;
+        }
+
+
+      } catch (err) {
+
+        console.error(err);
+
+        container.innerHTML = `
+          <div class="error">
+            FEED ERROR // FAILED TO LOAD NEWS DATA
+          </div>
+        `;
+
+        statusEl.textContent =
+          "STATUS // OFFLINE";
+
+        return;
+      }
+
+
+      /* -----------------------------------------------------
+         RENDER
+      ----------------------------------------------------- */
+
+      function render(filter = "all") {
+
+        const filtered =
+          filter === "all"
+            ? allItems
+            : allItems.filter(
+                item => item.type === filter
+              );
+
+
+        container.innerHTML = "";
+
+
+        /* Empty */
+
+        if (!filtered.length) {
+
+          container.innerHTML = `
+            <div class="empty-state">
+
+              <div class="eyebrow">
+                Query Result
+              </div>
+
+              <h3>
+                No Articles Found
+              </h3>
+
+              <p>
+                No articles are currently available
+                for this filter.
+              </p>
+
+            </div>
+          `;
+
+          return;
+        }
+
+
+        const fragment =
+          document.createDocumentFragment();
+
+
+        /* ---------------------------------------------------
+           ARTICLES
+        --------------------------------------------------- */
+
+        filtered.forEach(item => {
+
+          const card =
+            document.createElement("article");
+
+          card.className =
+            "news-card";
+
+
+          /* CATEGORY */
+
+          const category =
+            document.createElement("span");
+
+          category.className =
+            "news-category";
+
+          category.textContent =
+            item.category || "General";
+
+          card.appendChild(category);
+
+
+          /* TITLE */
+
+          const title =
+            document.createElement("h3");
+
+          title.className =
+            "news-title";
+
+
+          const titleLink =
+            document.createElement("a");
+
+          titleLink.href =
+            item.link || "#";
+
+          titleLink.target =
+            "_blank";
+
+          titleLink.rel =
+            "noopener noreferrer";
+
+          titleLink.textContent =
+            item.title || "Untitled";
+
+
+          title.appendChild(titleLink);
+          card.appendChild(title);
+
+
+          /* META */
+
+          const meta =
+            document.createElement("div");
+
+          meta.className =
+            "news-meta";
+
+
+          let dateText =
+            "Unknown date";
+
+          if (item.pubDate) {
+
+            const parsedDate =
+              new Date(item.pubDate);
+
+            if (!Number.isNaN(parsedDate.getTime())) {
+
+              dateText =
+                parsedDate.toLocaleDateString(
+                  undefined,
+                  {
+                    year: "numeric",
+                    month: "short",
+                    day: "numeric"
+                  }
+                );
+            }
+          }
+
+
+          meta.textContent =
+            `${item.source || "Unknown Source"} // ${dateText}`;
+
+          card.appendChild(meta);
+
+
+          /* SUMMARY */
+
+          const summary =
+            document.createElement("p");
+
+          summary.className =
+            "news-summary";
+
+          summary.textContent =
+            item.summary || "";
+
+          card.appendChild(summary);
+
+
+          /* ARROW */
+
+          const arrow =
+            document.createElement("a");
+
+          arrow.className =
+            "news-arrow";
+
+          arrow.href =
+            item.link || "#";
+
+          arrow.target =
+            "_blank";
+
+          arrow.rel =
+            "noopener noreferrer";
+
+          arrow.textContent =
+            "↗";
+
+          arrow.setAttribute(
+            "aria-label",
+            "Open original article"
+          );
+
+          card.appendChild(arrow);
+
+
+          fragment.appendChild(card);
+
+        });
+
+
+        container.appendChild(fragment);
+      }
+
+
+      /* -----------------------------------------------------
+         FILTER BUTTONS
+      ----------------------------------------------------- */
+
+      document
+        .querySelectorAll(".filters button")
+        .forEach(button => {
+
+          button.addEventListener(
+            "click",
+            () => {
+
+              document
+                .querySelectorAll(".filters button")
+                .forEach(btn =>
+                  btn.classList.remove("active")
+                );
+
+
+              button.classList.add("active");
+
+
+              render(
+                button.dataset.filter
+              );
+
+            }
+          );
+
+        });
+
+
+      /* -----------------------------------------------------
+         INITIAL RENDER
+      ----------------------------------------------------- */
+
+      render("all");
+
+    })();
+
+  </script>
+
+</body>
+</html>

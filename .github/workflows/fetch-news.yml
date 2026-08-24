@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -33,10 +35,32 @@ jobs:
       - name: Run aggregation script
         run: npm run fetch
 
-      - name: Commit and push updated news.json
+      - name: Check if news.json changed
+        id: check_changes
+        run: |
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit news.json
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update aggregated news data"
-          git push
+          git commit -m "chore: update aggregated news data"
+          echo "NEWS_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Create latest.json pointer
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          mkdir -p data
+          printf '{"sha":"%s"}\n' "$NEWS_SHA" > data/latest.json
+          git add data/latest.json
+          git commit -m "chore: update latest news pointer"
+
+      - name: Push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: git push
