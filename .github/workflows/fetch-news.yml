@@ -2,15 +2,21 @@ name: Fetch and Aggregate News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch:          # allows manual run from GitHub UI
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write             # allow the bot to commit changes
+  contents: write
+
+concurrency:
+  group: news-fetch
+  cancel-in-progress: false
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,12 +25,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install rss-parser
+        run: npm ci
 
       - name: Run aggregation script
-        run: node scripts/fetch-news.js
+        run: npm run fetch
 
       - name: Commit and push updated news.json
         run: |
