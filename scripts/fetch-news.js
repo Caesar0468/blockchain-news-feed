@@ -13,47 +13,56 @@ const TARGET_FEEDS = [
   {
     name: 'Ethereum Foundation',
     category: 'Protocol Development',
+    type: 'blockchain',
     url: 'https://blog.ethereum.org/feed.xml'
   },
   {
     name: 'Trail of Bits',
     category: 'Security Research',
+    type: 'cybersecurity',
     url: 'https://blog.trailofbits.com/feed/'
   },
   {
     name: 'Zero Day Initiative',
     category: 'Vulnerability Research',
+    type: 'cybersecurity',
     url: 'https://www.zerodayinitiative.com/rss/published/'
   },
   {
     name: 'Hack The Box',
     category: 'Threat Intelligence',
+    type: 'cybersecurity',
     url: 'https://www.hackthebox.com/rss/blog/threat-intelligence'
   },
   {
     name: 'Project Zero',
     category: 'Vulnerability Research',
+    type: 'cybersecurity',
     url: 'https://googleprojectzero.blogspot.com/feeds/posts/default'
   },
   {
     name: 'Immunefi',
     category: 'Web3 Bug Bounty',
+    type: 'blockchain',
     url: 'https://immunefi.com/blog/feed/'
+  },
+  {
+    name: 'The Defiant',
+    category: 'DeFi & Web3',
+    type: 'blockchain',
+    url: 'https://thedefiant.io/feed/'
   },
   {
     name: 'The Hacker News',
     category: 'Cybersecurity News',
+    type: 'cybersecurity',
     url: 'https://feeds.feedburner.com/TheHackersNews'
   },
   {
     name: 'PortSwigger Research',
     category: 'Web Security',
+    type: 'cybersecurity',
     url: 'https://portswigger.net/research/rss'
-  },
-  {
-    name: 'a16z crypto',
-    category: 'Blockchain Engineering',
-    url: 'https://a16zcrypto.com/feed/'
   }
 ];
 
@@ -88,16 +97,17 @@ async function runIngestion() {
       console.log(`Fetching ${source.name}...`);
       const feed = await fetchWithRetry(source.url);
 
-      const items = feed.items.slice(0, 5).map(item => ({
-        title: item.title ? item.title.trim() : 'Untitled',
-        link: item.link ? item.link.trim() : '#',
-        pubDate: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
-        source: source.name,
-        category: source.category,
-        summary: item.contentSnippet
-          ? item.contentSnippet.slice(0, 160).replace(/\s+/g, ' ').trim() + '...'
-          : ''
-      }));
+  const items = feed.items.slice(0, 5).map(item => ({
+    title: item.title ? item.title.trim() : 'Untitled',
+    link: item.link ? item.link.trim() : '#',
+    pubDate: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+    source: source.name,
+    category: source.category,
+    type: source.type,
+    summary: item.contentSnippet
+      ? item.contentSnippet.slice(0, 160).replace(/\s+/g, ' ').trim() + '...'
+      : ''
+  }));
 
       aggregatedEntries.push(...items);
       sourcesSucceeded.push(source.name);
