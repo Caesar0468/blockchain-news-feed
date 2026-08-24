@@ -21,11 +21,6 @@ const TARGET_FEEDS = [
     url: 'https://blog.trailofbits.com/feed/'
   },
   {
-    name: 'OpenZeppelin',
-    category: 'Smart Contract Security',
-    url: 'https://blog.openzeppelin.com/feed/'
-  },
-  {
     name: 'Zero Day Initiative',
     category: 'Vulnerability Research',
     url: 'https://www.zerodayinitiative.com/rss/published/'
@@ -43,7 +38,22 @@ const TARGET_FEEDS = [
   {
     name: 'Immunefi',
     category: 'Web3 Bug Bounty',
-    url: 'https://immunefi.com/feed/'
+    url: 'https://immunefi.com/blog/feed/'
+  },
+  {
+    name: 'The Hacker News',
+    category: 'Cybersecurity News',
+    url: 'https://feeds.feedburner.com/TheHackersNews'
+  },
+  {
+    name: 'PortSwigger Research',
+    category: 'Web Security',
+    url: 'https://portswigger.net/research/rss'
+  },
+  {
+    name: 'a16z crypto',
+    category: 'Blockchain Engineering',
+    url: 'https://a16zcrypto.com/feed/'
   }
 ];
 
