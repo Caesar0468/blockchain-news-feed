@@ -1,0 +1,224 @@
+{
+  "lastUpdated": "2026-08-24T08:17:12.286Z",
+  "sources": {
+    "succeeded": [
+      "Ethereum Foundation",
+      "Trail of Bits",
+      "Zero Day Initiative",
+      "Hack The Box",
+      "Project Zero"
+    ],
+    "failed": [
+      {
+        "name": "OpenZeppelin",
+        "error": "Status code 404"
+      },
+      {
+        "name": "Immunefi",
+        "error": "Status code 404"
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
+      "link": "https://blog.ethereum.org/en/2026/08/20/better-codes-challenge",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "summary": "better.codes, an open autoresearch challenge built by the Ethereum Foundation Formal Verification team in collaboration with Yukon and zkSecurity, is now live...."
+    },
+    {
+      "title": "Allocation Update - Q2 2026",
+      "link": "https://blog.ethereum.org/en/2026/08/18/allocation-q2-26",
+      "pubDate": "2026-08-18T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "summary": "Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal ve..."
+    },
+    {
+      "title": "Announcing the Platåberget Testnet",
+      "link": "https://blog.ethereum.org/en/2026/08/17/plataberget-testnet",
+      "pubDate": "2026-08-17T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for appli..."
+    },
+    {
+      "title": "ZDI-26-584: dnsmasq DNSSEC NSEC/NSEC3 Type Bitmap Processing Infinite Loop Denial-of-Service Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-584/",
+      "pubDate": "2026-08-13T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "summary": "This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of dnsmasq. Authentication is not required to explo..."
+    },
+    {
+      "title": "ZDI-26-583: Clam AntiVirus 7z Archive Parsing Integer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-583/",
+      "pubDate": "2026-08-13T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Clam AntiVirus. Interaction with this product is required to e..."
+    },
+    {
+      "title": "ZDI-26-582: Cisco Identity Services Engine PatchUpdateListener Directory Traversal Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-582/",
+      "pubDate": "2026-08-13T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Cisco Identity Services Engine. Authentication is requ..."
+    },
+    {
+      "title": "ZDI-26-581: Cisco Identity Services Engine invokeScript Command Injection Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-581/",
+      "pubDate": "2026-08-13T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine. Authentication is required to..."
+    },
+    {
+      "title": "ZDI-26-580: Cisco Identity Services Engine Missing Authentication for Critical Function Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-580/",
+      "pubDate": "2026-08-13T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "summary": "The vulnerability allows remote attackers to disclose sensitive information on affected installations of Cisco Identity Services Engine. Authentication is not r..."
+    },
+    {
+      "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "pubDate": "2026-08-11T17:30:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "summary": "Every Signal chat starts the same way: the client asks the Signal server for the public key associated with your contact’s phone number. But how do you know the..."
+    },
+    {
+      "title": "A few notes on AWS Nitro Enclaves: KMS integration",
+      "link": "https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/",
+      "pubDate": "2026-08-05T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "summary": "Nitro Enclaves and Key Management Service (KMS) feel like a natural fit: since the KMS can verify attestation documents generated by the enclaves, developers ca..."
+    },
+    {
+      "title": "Announcing a Trillion Dollar Security grant for WEBCAT",
+      "link": "https://blog.ethereum.org/en/2026/08/05/1ts-grant",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "summary": "The Ethereum Foundation’s Trillion Dollar Security (1TS) initiative is proud to announce a grant allocation to Freedom of the Press Foundation (FPF) to support..."
+    },
+    {
+      "title": "Building secure Uniswap v4 hooks",
+      "link": "https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks/",
+      "pubDate": "2026-07-30T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "summary": "Uniswap v4 hooks let developers add custom behavior to pools, including dynamic fees, custom accounting, and external integrations. This flexibility moves some..."
+    },
+    {
+      "title": "Ethereum Foundation Board Update",
+      "link": "https://blog.ethereum.org/en/2026/07/29/ef-board-update",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "summary": "We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder..."
+    },
+    {
+      "title": "How we use /goal to find bugs in Patch the Planet",
+      "link": "https://blog.trailofbits.com/2026/07/28/how-we-use-goal-to-find-bugs-in-patch-the-planet/",
+      "pubDate": "2026-07-28T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "summary": "Codex’s /goal feature amplifies bug hunting, but getting good results requires the right prompt, the right scope, and the right number of outcomes per run. For..."
+    },
+    {
+      "title": "Rust-proof your code with our new Testing Handbook chapter",
+      "link": "https://blog.trailofbits.com/2026/07/13/rust-proof-your-code-with-our-new-testing-handbook-chapter/",
+      "pubDate": "2026-07-13T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "summary": "We’ve added a new chapter to our Testing Handbook: a comprehensive guide to security testing Rust programs. This chapter covers the tools and techniques we use..."
+    },
+    {
+      "title": "War Room: CVE-2026-4480, when a Samba print job name is a shell command",
+      "link": "https://www.hackthebox.com/blog/cve-2026-4480-samba-rce-vulnerability",
+      "pubDate": "2026-06-05T13:15:00.000Z",
+      "source": "Hack The Box",
+      "category": "Threat Intelligence",
+      "summary": "A deep dive into CVE-2026-4480, a critical pre-auth command injection vulnerability in Samba's printing path. Find affected versions and mitigations...."
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "pubDate": "2026-05-13T07:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two e..."
+    },
+    {
+      "title": "War Room: Linux Kernel \"Copy Fail\" LPE (CVE-2026-31431) Exploit Analysis and Defense Strategy",
+      "link": "https://www.hackthebox.com/blog/linux-kernel-copy-fail-cve-2026-31431",
+      "pubDate": "2026-05-11T13:20:00.000Z",
+      "source": "Hack The Box",
+      "category": "Threat Intelligence",
+      "summary": "CVE-2026-31431 \"Copy Fail\" is a deterministic Linux LPE flaw granting root access across cloud workloads. Understand the business risks and immediate actions re..."
+    },
+    {
+      "title": "The Notebook You Trust Could Be Reading Your Secrets",
+      "link": "https://www.hackthebox.com/blog/path-traversal-vulnerabilities-in-jupyter-nbconvert",
+      "pubDate": "2026-04-28T14:23:00.000Z",
+      "source": "Hack The Box",
+      "category": "Threat Intelligence",
+      "summary": "Think Jupyter notebooks are safe? This breakdown reveals how nbconvert path traversal flaws allow file reads and writes without ever executing a single cell...."
+    },
+    {
+      "title": "War Room: CVE-2026-27944 & CVE-2026-3888",
+      "link": "https://www.hackthebox.com/blog/CVE-2026-27944-CVE-2026-3888",
+      "pubDate": "2026-03-23T13:27:00.000Z",
+      "source": "Hack The Box",
+      "category": "Threat Intelligence",
+      "summary": "Learn all about CVE-2026-27944 and CVE-2026-3888, two high-impact vulnerabilities affecting Nginx-UI and snapd, enabling unauthenticated data exposure and local..."
+    },
+    {
+      "title": "On the Effectiveness of Mutational Grammar Fuzzing",
+      "link": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
+      "pubDate": "2026-03-05T08:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets..."
+    },
+    {
+      "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+      "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+      "pubDate": "2026-02-26T08:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn’t know existed until I found a publicly disclosed UAC bypass using..."
+    },
+    {
+      "title": "Bypassing Administrator Protection by Abusing UI Access",
+      "link": "https://projectzero.google/2026/02/windows-administrator-protection.html",
+      "pubDate": "2026-02-12T08:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn’t exist...."
+    },
+    {
+      "title": "Federal judiciary cyber breach: How SolarWinds and Legacy Systems left US courts exposed",
+      "link": "https://www.hackthebox.com/blog/us-federal-judiciary-cyberattacks-solarwinds-pacer",
+      "pubDate": "2026-01-30T13:57:00.000Z",
+      "source": "Hack The Box",
+      "category": "Threat Intelligence",
+      "summary": "A technical breakdown of the 2020 and 2025 cyberattacks on US federal judiciary systems, including SolarWinds, PACER vulnerabilities, and key defensive lessons...."
+    },
+    {
+      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+      "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
+      "pubDate": "2026-01-30T08:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-545..."
+    }
+  ]
+}
