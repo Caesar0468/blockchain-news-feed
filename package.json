@@ -2,10 +2,6 @@
   "name": "blockchain-news-feed",
   "version": "1.0.0",
   "private": true,
-  "type": "commonjs",
-  "scripts": {
-    "fetch": "node scripts/fetch-news.js"
-  },
   "dependencies": {
     "rss-parser": "3.13.0"
   }
