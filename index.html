@@ -1125,22 +1125,23 @@
 
       const statusEl =
         document.getElementById("status");
-
+        
         async function fetchLatestNews() {
-        const base = 'https://cdn.jsdelivr.net/gh/Caesar0468/blockchain-news-feed';
-
-        // 1. Fetch the pointer file (cache‑busted so it is always fresh)
-        const pointerUrl = `${base}@main/data/latest.json?t=${Date.now()}`;
-        const pointerRes = await fetch(pointerUrl);
-        if (!pointerRes.ok) throw new Error('Failed to load latest pointer');
-        const pointer = await pointerRes.json();
-        const sha = pointer.sha;
-
-        // 2. Fetch the actual news using the immutable commit SHA
-        const newsUrl = `${base}@${sha}/data/news.json`;
-        const newsRes = await fetch(newsUrl);
-        if (!newsRes.ok) throw new Error('Failed to load news data');
-        return await newsRes.json();
+          // Use raw GitHub for the pointer to avoid stale CDN cache
+          const base = 'https://raw.githubusercontent.com/Caesar0468/blockchain-news-feed';
+        
+          // 1. Fetch pointer file (cache‑busted to ensure freshness)
+          const pointerUrl = `${base}/main/data/latest.json?t=${Date.now()}`;
+          const pointerRes = await fetch(pointerUrl);
+          if (!pointerRes.ok) throw new Error('Failed to load latest pointer');
+          const pointer = await pointerRes.json();
+          const sha = pointer.sha;
+        
+          // 2. Fetch news using the exact commit SHA (raw GitHub also works)
+          const newsUrl = `${base}/${sha}/data/news.json`;
+          const newsRes = await fetch(newsUrl);
+          if (!newsRes.ok) throw new Error('Failed to load news data');
+          return await newsRes.json();
         }
 
 
