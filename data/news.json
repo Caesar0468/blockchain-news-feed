@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T12:40:31.315Z",
+  "lastUpdated": "2026-08-25T18:34:49.789Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -15,6 +15,69 @@
     "failed": []
   },
   "items": [
+    {
+      "title": "LayerZero Unveils ATLAS Exchange Engine",
+      "link": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
+      "pubDate": "2026-08-25T16:28:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The headless exchange routes 75% of post-venue trading fees into ZRO buybacks and burns, and pays trading venues rebates of up to 65%...."
+    },
+    {
+      "title": "Pendle Oracle Move Liquidates $36 Million",
+      "link": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million",
+      "pubDate": "2026-08-25T16:19:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "A wallet bought yield tokens in a $9 million Pendle pool, pushing the principal token price down 2.8% and clearing out looped positions on a Morpho market carry..."
+    },
+    {
+      "title": "Ex-X Product Chief Says Trade Buttons Coming",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming",
+      "pubDate": "2026-08-25T16:10:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Nikita Bier left the role on Aug. 5. No X corporate account has ever announced a trading feature, and Bier said in February that the company is not handling tra..."
+    },
+    {
+      "title": "What's in a tag name? JavaScript, apparently",
+      "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+      "pubDate": "2026-08-25T14:24:32.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with..."
+    },
+    {
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "pubDate": "2026-08-25T14:07:37.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instan..."
+    },
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "pubDate": "2026-08-25T13:19:41.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS a..."
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "pubDate": "2026-08-25T12:43:51.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP..."
+    },
     {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
       "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
@@ -34,24 +97,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to Cli..."
     },
     {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "pubDate": "2026-08-25T11:33:44.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported re..."
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "pubDate": "2026-08-25T11:14:07.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability..."
-    },
-    {
       "title": "State divergence enables unauthorized access",
       "link": "https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/",
       "pubDate": "2026-08-25T11:00:00.000Z",
@@ -59,15 +104,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "We found and reported a bug in Provenance Blockchain, a public proof-of-stake chain built on Cosmos SDK, that lets any user grant themselves admin control over..."
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "pubDate": "2026-08-25T08:34:07.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it p..."
     },
     {
       "title": "Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains",
@@ -133,31 +169,13 @@
       "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
     },
     {
-      "title": "Eric Trump Denies New Coin Launch as TRUMP Jumps 38%",
-      "link": "https://thedefiant.io/news/tokens/eric-trump-denies-new-coin-launch-as-trump-jumps-38",
-      "pubDate": "2026-08-22T21:21:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
+      "title": "Glamsterdam Repricing Impact for Smart Contract Developers",
+      "link": "https://blog.ethereum.org/en/2026/08/24/glamsterdam-repricing-testing",
+      "pubDate": "2026-08-24T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
       "type": "blockchain",
-      "summary": "The rumor included an unverified claim about a 290 ETH Robinhood Chain wallet, while MELANIA gained 18.4% over 24 hours...."
-    },
-    {
-      "title": "The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC",
-      "link": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
-      "pubDate": "2026-08-22T17:08:34.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Upbit and Bithumb froze SAND transfers under South Korea's user-protection law, with Upbit halting deposits and withdrawals on Ethereum — the chain the studio s..."
-    },
-    {
-      "title": "Solana Activates 350-Millisecond Slots on Mainnet",
-      "link": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
-      "pubDate": "2026-08-21T22:09:27.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The first cut since Solana’s inception shortens the block-production window for validators and begins an epoch-by-epoch path toward 200 milliseconds...."
+      "summary": "......"
     },
     {
       "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
@@ -221,24 +239,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use the..."
-    },
-    {
-      "title": "A few notes on AWS Nitro Enclaves: KMS integration",
-      "link": "https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/",
-      "pubDate": "2026-08-05T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Nitro Enclaves and Key Management Service (KMS) feel like a natural fit: since the KMS can verify attestation documents generated by the enclaves, developers ca..."
-    },
-    {
-      "title": "Announcing a Trillion Dollar Security grant for WEBCAT",
-      "link": "https://blog.ethereum.org/en/2026/08/05/1ts-grant",
-      "pubDate": "2026-08-05T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "The Ethereum Foundation’s Trillion Dollar Security (1TS) initiative is proud to announce a grant allocation to Freedom of the Press Foundation (FPF) to support..."
     }
   ]
 }
