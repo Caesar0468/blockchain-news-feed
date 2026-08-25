@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T18:35:20.823Z",
+  "lastUpdated": "2026-08-25T01:03:46.100Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -15,6 +15,42 @@
     "failed": []
   },
   "items": [
+    {
+      "title": "Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains",
+      "link": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
+      "pubDate": "2026-08-24T21:26:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitcoin touched $79,999.99 on Coinbase before easing, its highest level since May, while 80 of the 123 largest non-stablecoin tokens fell on the day. Total cryp..."
+    },
+    {
+      "title": "Coinbase Launches Tokenized Stocks On Base",
+      "link": "https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base",
+      "pubDate": "2026-08-24T21:10:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Four tokens covering Nvidia, Apple, Meta and Alphabet went live for non-US users, with about $4.5 million minted and $3 million of DEX liquidity on day one. Cha..."
+    },
+    {
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "pubDate": "2026-08-24T17:41:30.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. T..."
+    },
+    {
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "pubDate": "2026-08-24T17:41:11.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minec..."
+    },
     {
       "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
       "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
@@ -34,15 +70,6 @@
       "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell..."
     },
     {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "pubDate": "2026-08-24T11:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. T..."
-    },
-    {
       "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
       "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
       "pubDate": "2026-08-24T11:56:34.000Z",
@@ -52,13 +79,49 @@
       "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could a..."
     },
     {
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "pubDate": "2026-08-24T11:51:36.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-610: Apple Safari JavaScriptCore B3 ReduceStrength Phase Use-After-Free Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-610/",
+      "pubDate": "2026-08-24T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor call..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required to exploit this vul..."
+    },
+    {
+      "title": "ZDI-26-609: Linux Kernel Net Scheduler Packet Classifier Use-After-Free Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-609/",
+      "pubDate": "2026-08-24T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
+    },
+    {
+      "title": "ZDI-26-608: Linux Kernel KVM IOAPIC Use-After-Free Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-608/",
+      "pubDate": "2026-08-24T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
+    },
+    {
+      "title": "ZDI-26-607: Microsoft Office HTML Injection Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-607/",
+      "pubDate": "2026-08-24T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Office. User interaction is required to expl..."
+    },
+    {
+      "title": "ZDI-26-606: Microsoft Windows Compatibility Appraiser Link Following Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-606/",
+      "pubDate": "2026-08-24T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
     },
     {
       "title": "Eric Trump Denies New Coin Launch as TRUMP Jumps 38%",
@@ -88,24 +151,6 @@
       "summary": "The first cut since Solana’s inception shortens the block-production window for validators and begins an epoch-by-epoch path toward 200 milliseconds...."
     },
     {
-      "title": "Bitcoin Posts Biggest Week Since 2024 as Trump Pushes Senate on CLARITY Act",
-      "link": "https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail",
-      "pubDate": "2026-08-21T21:56:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitcoin gained 22.6% over seven days, its largest advance over any seven-day window since November 2024, after the president told crypto executives at the White..."
-    },
-    {
-      "title": "Circle Targets Sept. 16 for Arc Public Mainnet Launch",
-      "link": "https://thedefiant.io/converge/blockchains/circle-targets-sept-16-for-arc-public-mainnet-launch",
-      "pubDate": "2026-08-21T15:13:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Official materials name Circle and 11 founding validators, while an Arc documentation page describes approximately 20 validators at launch...."
-    },
-    {
       "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
       "link": "https://blog.ethereum.org/en/2026/08/20/better-codes-challenge",
       "pubDate": "2026-08-20T00:00:00.000Z",
@@ -131,51 +176,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for appli..."
-    },
-    {
-      "title": "ZDI-26-584: dnsmasq DNSSEC NSEC/NSEC3 Type Bitmap Processing Infinite Loop Denial-of-Service Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-584/",
-      "pubDate": "2026-08-13T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of dnsmasq. Authentication is not required to explo..."
-    },
-    {
-      "title": "ZDI-26-583: Clam AntiVirus 7z Archive Parsing Integer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-583/",
-      "pubDate": "2026-08-13T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Clam AntiVirus. Interaction with this product is required to e..."
-    },
-    {
-      "title": "ZDI-26-582: Cisco Identity Services Engine PatchUpdateListener Directory Traversal Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-582/",
-      "pubDate": "2026-08-13T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Cisco Identity Services Engine. Authentication is requ..."
-    },
-    {
-      "title": "ZDI-26-581: Cisco Identity Services Engine invokeScript Command Injection Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-581/",
-      "pubDate": "2026-08-13T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine. Authentication is required to..."
-    },
-    {
-      "title": "ZDI-26-580: Cisco Identity Services Engine Missing Authentication for Critical Function Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-580/",
-      "pubDate": "2026-08-13T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "The vulnerability allows remote attackers to disclose sensitive information on affected installations of Cisco Identity Services Engine. Authentication is not r..."
     },
     {
       "title": "How Trail of Bits helps verify the integrity of your Signal chats",
