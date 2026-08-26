@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T18:34:49.789Z",
+  "lastUpdated": "2026-08-26T01:05:39.364Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -15,6 +15,42 @@
     "failed": []
   },
   "items": [
+    {
+      "title": "Cosmos Labs Urges EVM Chains To Halt As Shared Bug Drains Three Networks",
+      "link": "https://thedefiant.io/news/blockchains/cosmos-labs-urges-evm-chains-halt-shared-bug-drains-three-networks",
+      "pubDate": "2026-08-25T22:28:06.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The recommendation came six days after the patch shipped without a security advisory. KiiChain, one of three chains drained, says the sequence cost it 148 milli..."
+    },
+    {
+      "title": "Term Finance Permanently Shuts Meta Vaults After Exploit PeckShield Estimated at $8.5 Million",
+      "link": "https://thedefiant.io/news/hacks/term-finance-permanently-shuts-meta-vaults-after-exploit-peckshield-estimated-at-8-5-million",
+      "pubDate": "2026-08-25T19:24:38.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Withdrawals remain open, but Term’s Aug. 23 update did not quantify remaining vault assets and only said it would explore ways to address any shortfall...."
+    },
+    {
+      "title": "Bitwise Launches Self-Custodied Tokenized Stock Portfolio on Base",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-launches-self-custodied-tokenized-stock-portfolio-on-base",
+      "pubDate": "2026-08-25T19:17:25.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Only the Mag7X strategy is active at launch, holding four Coinbase-issued stock tokens; two additional Bitwise models remain marked ‘coming soon.’..."
+    },
+    {
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "pubDate": "2026-08-25T18:17:17.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, econ..."
+    },
     {
       "title": "LayerZero Unveils ATLAS Exchange Engine",
       "link": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
@@ -32,15 +68,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "A wallet bought yield tokens in a $9 million Pendle pool, pushing the principal token price down 2.8% and clearing out looped positions on a Morpho market carry..."
-    },
-    {
-      "title": "Ex-X Product Chief Says Trade Buttons Coming",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming",
-      "pubDate": "2026-08-25T16:10:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Nikita Bier left the role on Aug. 5. No X corporate account has ever announced a trading feature, and Bier said in February that the company is not handling tra..."
     },
     {
       "title": "What's in a tag name? JavaScript, apparently",
@@ -88,15 +115,6 @@
       "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accoun..."
     },
     {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "pubDate": "2026-08-25T11:52:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to Cli..."
-    },
-    {
       "title": "State divergence enables unauthorized access",
       "link": "https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/",
       "pubDate": "2026-08-25T11:00:00.000Z",
@@ -104,24 +122,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "We found and reported a bug in Provenance Blockchain, a public proof-of-stake chain built on Cosmos SDK, that lets any user grant themselves admin control over..."
-    },
-    {
-      "title": "Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains",
-      "link": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
-      "pubDate": "2026-08-24T21:26:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitcoin touched $79,999.99 on Coinbase before easing, its highest level since May, while 80 of the 123 largest non-stablecoin tokens fell on the day. Total cryp..."
-    },
-    {
-      "title": "Coinbase Launches Tokenized Stocks On Base",
-      "link": "https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base",
-      "pubDate": "2026-08-24T21:10:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Four tokens covering Nvidia, Apple, Meta and Alphabet went live for non-US users, with about $4.5 million minted and $3 million of DEX liquidity on day one. Cha..."
     },
     {
       "title": "ZDI-26-610: Apple Safari JavaScriptCore B3 ReduceStrength Phase Use-After-Free Remote Code Execution Vulnerability",
