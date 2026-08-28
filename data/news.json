@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T08:54:15.176Z",
+  "lastUpdated": "2026-08-28T21:41:58.824Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-08-28T08:54:14.000Z",
+      "pubDate": "2026-08-28T21:41:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,83 +27,83 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-08-28T08:54:14.000Z",
+      "pubDate": "2026-08-28T21:41:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "pubDate": "2026-08-28T08:25:36.000Z",
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "pubDate": "2026-08-28T20:38:47.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print managemen..."
+      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20..."
     },
     {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "pubDate": "2026-08-28T08:20:59.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late Se..."
-    },
-    {
-      "title": "Bitcoin Clears $80,000 As Schwab Adds Solana",
-      "link": "https://thedefiant.io/news/markets/bitcoin-clears-usd80-000-as-schwab-adds-solana",
-      "pubDate": "2026-08-27T20:57:14.000Z",
+      "title": "Ninth Circuit Says Kalshi Sports Contracts Aren’t Swaps, Splitting With Third Circuit",
+      "link": "https://thedefiant.io/news/regulation/ninth-circuit-says-kalshi-sports-contracts-aren-t-swaps-splitting-with-third-circuit",
+      "pubDate": "2026-08-28T20:15:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Charles Schwab said Thursday it will add Solana, Avalanche and Chainlink to its retail crypto platform, and SOL rose 12.9% to lead the ten largest tokens. Ethen..."
+      "summary": "The panel affirmed the dissolution of Kalshi’s Nevada injunction after finding no likely federal preemption, reaching the opposite preliminary conclusion from t..."
     },
     {
-      "title": "Aave V4 Deposits Reach $806 Million After 30% Weekly Gain",
-      "link": "https://thedefiant.io/news/defi/aave-v4-deposits-reach-806-million-after-30-weekly-gain",
-      "pubDate": "2026-08-27T20:52:17.000Z",
+      "title": "Attacker Drains More Than $1 Million From Avici Users In Live Solana Neobank Attack",
+      "link": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack",
+      "pubDate": "2026-08-28T19:05:09.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "EtherFi Cash was V4’s second-largest market at $257 million, while Aave V3 retained a much larger $31 billion deposit base...."
+      "summary": "The wallet behind the attack held 10,005 SOL at press time and was still taking funds. Avici said it was \"aware of an issue affecting card balance withdrawals\"..."
     },
     {
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "pubDate": "2026-08-27T18:36:19.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that i..."
-    },
-    {
-      "title": "Moonwell Loses $8.7 Million To MAMO Price Manipulation On Base",
-      "link": "https://thedefiant.io/news/hacks/moonwell-loses-8-7-million-to-mamo-price-manipulation-on-base",
-      "pubDate": "2026-08-27T16:54:49.000Z",
+      "title": "Bullish Provides USD.AI $100 Million Facility for GPU-Backed Loans",
+      "link": "https://thedefiant.io/news/defi/bullish-provides-usd-ai-100-million-facility-for-gpu-backed-loans",
+      "pubDate": "2026-08-28T17:50:32.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The lending protocol cut borrow caps on every Base core market to 1 wei after an attacker inflated the price of a thinly traded collateral token and borrowed ag..."
+      "summary": "The commitment will fund more GPU loans; USD.AI’s API reported $265 million in loan reserves and $491 million in TVL...."
     },
     {
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "pubDate": "2026-08-27T15:13:00.000Z",
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "pubDate": "2026-08-28T17:12:15.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticate..."
+      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released..."
     },
     {
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "pubDate": "2026-08-27T15:12:16.000Z",
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "pubDate": "2026-08-28T16:20:46.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest..."
+      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the p..."
+    },
+    {
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "pubDate": "2026-08-28T15:56:55.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabil..."
+    },
+    {
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "pubDate": "2026-08-28T15:27:26.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbo..."
     },
     {
       "title": "VMs won't contain cyber-capable agents",
