@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T03:27:26.908Z",
+  "lastUpdated": "2026-08-30T11:11:06.435Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-08-30T03:27:25.000Z",
+      "pubDate": "2026-08-30T11:11:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,20 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-08-30T03:27:25.000Z",
+      "pubDate": "2026-08-30T11:11:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "pubDate": "2026-08-30T07:36:33.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or..."
     },
     {
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
@@ -95,15 +104,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released..."
-    },
-    {
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-      "pubDate": "2026-08-28T16:20:46.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the p..."
     },
     {
       "title": "VMs won't contain cyber-capable agents",
