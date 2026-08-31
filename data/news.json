@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T12:36:42.348Z",
+  "lastUpdated": "2026-08-31T22:23:29.633Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-08-31T12:36:41.000Z",
+      "pubDate": "2026-08-31T22:23:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,56 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-08-31T12:36:41.000Z",
+      "pubDate": "2026-08-31T22:23:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Robinhood Chain Tops Ethereum In Daily App Revenue",
+      "link": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue",
+      "pubDate": "2026-08-31T20:38:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Applications on the two-month-old Arbitrum network earned $2.66 million in 24 hours, ranking second behind Solana, with a memecoin launchpad as the biggest sing..."
+    },
+    {
+      "title": "Bloomberg: Hyperliquid in Advanced Talks With Kraken Parent on US Perpetuals Push",
+      "link": "https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push",
+      "pubDate": "2026-08-31T20:37:55.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The reported plan would route U.S. traders through CFTC-regulated Bitnomial, while neither Payward nor Hyperliquid has confirmed a deal...."
+    },
+    {
+      "title": "A Memecoin Called BONER Has Cornered Half the Tokenized Hims & Hers Float",
+      "link": "https://thedefiant.io/news/tokens/a-memecoin-called-boner-has-cornered-half-the-tokenized-hims-and-hers-float",
+      "pubDate": "2026-08-31T17:34:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The BONER/HIMS pool on Robinhood Chain holds 31,198 of the 58,714 tokenized Hims & Hers shares that exist. With the NYSE closed on Sunday night, the tokenized s..."
+    },
+    {
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "pubDate": "2026-08-31T17:24:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the informati..."
+    },
+    {
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "pubDate": "2026-08-31T13:50:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traff..."
     },
     {
       "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
@@ -61,49 +106,49 @@
       "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance..."
     },
     {
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "pubDate": "2026-08-31T09:04:55.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-615/",
+      "pubDate": "2026-08-31T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Termi..."
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of pdfforge PDF Architect. An attacker must first obtain the ability..."
     },
     {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "pubDate": "2026-08-31T07:56:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-614: (0Day) pdfforge PDF Architect PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-614/",
+      "pubDate": "2026-08-31T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
     },
     {
-      "title": "Ninth Circuit Says Kalshi Sports Contracts Aren’t Swaps, Splitting With Third Circuit",
-      "link": "https://thedefiant.io/news/regulation/ninth-circuit-says-kalshi-sports-contracts-aren-t-swaps-splitting-with-third-circuit",
-      "pubDate": "2026-08-28T20:15:18.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The panel affirmed the dissolution of Kalshi’s Nevada injunction after finding no likely federal preemption, reaching the opposite preliminary conclusion from t..."
+      "title": "ZDI-26-613: (0Day) pdfforge PDF Architect PDF File Parsing Memory Corruption Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-613/",
+      "pubDate": "2026-08-31T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
     },
     {
-      "title": "Avici Says 1,685 Users Lost $500,859 In Rain Card Contract Exploit",
-      "link": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack",
-      "pubDate": "2026-08-28T19:05:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Card issuer Rain says an attacker used an outdated version of its Solana contract, which a small number of programs were running. Both companies say affected us..."
+      "title": "ZDI-26-612: (0Day) pdfforge PDF Architect PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-612/",
+      "pubDate": "2026-08-31T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
     },
     {
-      "title": "Bullish Provides USD.AI $100 Million Facility for GPU-Backed Loans",
-      "link": "https://thedefiant.io/news/defi/bullish-provides-usd-ai-100-million-facility-for-gpu-backed-loans",
-      "pubDate": "2026-08-28T17:50:32.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The commitment will fund more GPU loans; USD.AI’s API reported $265 million in loan reserves and $491 million in TVL...."
+      "title": "ZDI-26-611: (0Day) pdfforge PDF Architect App Object Out-Of-Bounds Read Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-611/",
+      "pubDate": "2026-08-31T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
     },
     {
       "title": "VMs won't contain cyber-capable agents",
@@ -131,51 +176,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "We found and reported a bug in Provenance Blockchain, a public proof-of-stake chain built on Cosmos SDK, that lets any user grant themselves admin control over..."
-    },
-    {
-      "title": "ZDI-26-610: Apple Safari JavaScriptCore B3 ReduceStrength Phase Use-After-Free Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-610/",
-      "pubDate": "2026-08-24T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required to exploit this vul..."
-    },
-    {
-      "title": "ZDI-26-609: Linux Kernel Net Scheduler Packet Classifier Use-After-Free Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-609/",
-      "pubDate": "2026-08-24T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
-    },
-    {
-      "title": "ZDI-26-608: Linux Kernel KVM IOAPIC Use-After-Free Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-608/",
-      "pubDate": "2026-08-24T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
-    },
-    {
-      "title": "ZDI-26-607: Microsoft Office HTML Injection Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-607/",
-      "pubDate": "2026-08-24T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Office. User interaction is required to expl..."
-    },
-    {
-      "title": "ZDI-26-606: Microsoft Windows Compatibility Appraiser Link Following Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-606/",
-      "pubDate": "2026-08-24T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
     },
     {
       "title": "Glamsterdam Repricing Impact for Smart Contract Developers",
