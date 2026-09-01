@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T11:02:31.147Z",
+  "lastUpdated": "2026-09-01T16:01:04.057Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-01T11:02:30.000Z",
+      "pubDate": "2026-09-01T16:01:03.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,65 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-01T11:02:30.000Z",
+      "pubDate": "2026-09-01T16:01:03.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Ethena Launches Pay App on Avalanche With Tiered Rate Up to 6%",
+      "link": "https://thedefiant.io/news/defi/ethena-launches-pay-app-on-avalanche-with-tiered-rate-up-to-6",
+      "pubDate": "2026-09-01T14:30:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The iOS beta starts with 400 users, while official terms cap boosted balances and put cashback at up to 5% — not 10%...."
+    },
+    {
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "pubDate": "2026-09-01T14:07:20.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movi..."
+    },
+    {
+      "title": "Firelight Raises $8 Million to Backstop DeFi Vaults With Staked XRP",
+      "link": "https://thedefiant.io/news/defi/firelight-raises-8-million-to-backstop-defi-vaults-with-staked-xrp",
+      "pubDate": "2026-09-01T14:05:49.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Sentora-incubated cover protocol already holds $76 million in staked XRP on Flare. Its first cover integrations go live this month, into a market where onch..."
+    },
+    {
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "pubDate": "2026-09-01T13:08:58.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its too..."
+    },
+    {
+      "title": "Securitize's HINC Becomes Collateral on Solana's Loopscale",
+      "link": "https://thedefiant.io/converge/defi/neuberger-tokenized-high-yield-fund-becomes-loopscale-collateral",
+      "pubDate": "2026-09-01T13:00:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Eligible investors can now borrow USDG against a fund holding high-yield corporate bonds and CLO tranches, collateral whose value moves daily with credit spread..."
+    },
+    {
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "pubDate": "2026-09-01T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quiet..."
     },
     {
       "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
@@ -50,60 +104,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a..."
-    },
-    {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "pubDate": "2026-09-01T07:22:30.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question..."
-    },
-    {
-      "title": "Robinhood Chain Tops Ethereum In Daily App Revenue",
-      "link": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue",
-      "pubDate": "2026-08-31T20:38:48.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Applications on the two-month-old Arbitrum network earned $2.66 million in 24 hours, ranking second behind Solana, with a memecoin launchpad as the biggest sing..."
-    },
-    {
-      "title": "Bloomberg: Hyperliquid in Advanced Talks With Kraken Parent on US Perpetuals Push",
-      "link": "https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push",
-      "pubDate": "2026-08-31T20:37:55.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The reported plan would route U.S. traders through CFTC-regulated Bitnomial, while neither Payward nor Hyperliquid has confirmed a deal...."
-    },
-    {
-      "title": "A Memecoin Called BONER Has Cornered Half the Tokenized Hims & Hers Float",
-      "link": "https://thedefiant.io/news/tokens/a-memecoin-called-boner-has-cornered-half-the-tokenized-hims-and-hers-float",
-      "pubDate": "2026-08-31T17:34:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The BONER/HIMS pool on Robinhood Chain holds 31,198 of the 58,714 tokenized Hims & Hers shares that exist. With the NYSE closed on Sunday night, the tokenized s..."
-    },
-    {
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "pubDate": "2026-08-31T17:24:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the informati..."
-    },
-    {
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "pubDate": "2026-08-31T13:50:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traff..."
     },
     {
       "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
