@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T15:43:58.595Z",
+  "lastUpdated": "2026-09-03T20:27:16.708Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-03T15:43:57.000Z",
+      "pubDate": "2026-09-03T20:27:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,74 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-03T15:43:57.000Z",
+      "pubDate": "2026-09-03T20:27:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Curve Hands Its Risk Mandate To Two Resupply Developers",
+      "link": "https://thedefiant.io/news/defi/curve-dao-yrisk-risk-provider-crvusd-llamalend",
+      "pubDate": "2026-09-03T18:11:53.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "veCRV holders backed yRisk with 536.9 million votes and none against, then funded the mandate on Sept. 2 with 125,000 frxUSD and 568,181 CRV. yRisk's two contri..."
+    },
+    {
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "pubDate": "2026-09-03T18:02:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone migh..."
+    },
+    {
+      "title": "Wyoming Puts Its Stablecoin Reserves Onchain With Under $1 Million Outstanding",
+      "link": "https://thedefiant.io/converge/regulation/wyoming-stable-token-chainlink-proof-of-reserve-frnt",
+      "pubDate": "2026-09-03T17:47:15.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Wyoming Stable Token Commission adopted Chainlink Proof of Reserve for the Frontier Stable Token on Sept. 2. FRNT's total supply is 967,948 tokens, about 0...."
+    },
+    {
+      "title": "Tether Froze $42.4 Million Three Months Before A Seizure Warrant, Lawsuit Says",
+      "link": "https://thedefiant.io/news/regulation/tether-sued-42-million-usdt-freeze-before-seizure-warrant",
+      "pubDate": "2026-09-03T17:36:04.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Two Thai businessmen are suing Tether in Manhattan federal court over 42,417,785.62 USDT blacklisted across 10 Ethereum addresses. Onchain records show all 10 w..."
+    },
+    {
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "pubDate": "2026-09-03T15:52:07.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote at..."
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "pubDate": "2026-09-03T15:26:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace..."
+    },
+    {
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "pubDate": "2026-09-03T14:39:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Co..."
     },
     {
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
@@ -41,69 +104,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part..."
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "pubDate": "2026-09-03T10:43:01.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report..."
-    },
-    {
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "pubDate": "2026-09-03T10:36:39.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across..."
-    },
-    {
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "pubDate": "2026-09-03T08:43:17.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen..."
-    },
-    {
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "pubDate": "2026-09-03T06:26:59.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a p..."
-    },
-    {
-      "title": "'Money Mushroom' Moved A Nasdaq Penny Stock, But Its 'Tokenized Stock' Is A Memecoin Too",
-      "link": "https://thedefiant.io/news/tokens/money-mushroom-moved-a-nasdaq-penny-stock-but-its-tokenized-stock-is-a-memecoin-too",
-      "pubDate": "2026-09-02T19:33:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The FAMI token that Money Mushroom trades against on Robinhood Chain is not a Robinhood stock token. Its 37,430,000 supply, close to Farmmi's entire share count..."
-    },
-    {
-      "title": "Bitcoin Holds $77,000 After Weak Hiring Print",
-      "link": "https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print",
-      "pubDate": "2026-09-02T16:26:51.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "ADP reported 38,000 private jobs added in August, down from 44,000 in July, and traders raised the odds of a September Federal Reserve increase anyway. Eighty-f..."
-    },
-    {
-      "title": "OpenSea Adds Solana NFT Trading Across OS2",
-      "link": "https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2",
-      "pubDate": "2026-09-02T16:24:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Collectors can browse, buy and sell Solana NFTs alongside the network’s fungible tokens, with Mad Lads and Claynosaurz available at launch...."
     },
     {
       "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
