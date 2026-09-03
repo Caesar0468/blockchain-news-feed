@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T10:37:43.302Z",
+  "lastUpdated": "2026-09-03T15:43:58.595Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-03T10:37:42.000Z",
+      "pubDate": "2026-09-03T15:43:57.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,38 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-03T10:37:42.000Z",
+      "pubDate": "2026-09-03T15:43:57.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "pubDate": "2026-09-03T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part..."
+    },
+    {
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "pubDate": "2026-09-03T10:43:01.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report..."
+    },
+    {
+      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+      "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+      "pubDate": "2026-09-03T10:36:39.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across..."
     },
     {
       "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
@@ -52,15 +79,6 @@
       "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a p..."
     },
     {
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "pubDate": "2026-09-03T05:19:04.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog af..."
-    },
-    {
       "title": "'Money Mushroom' Moved A Nasdaq Penny Stock, But Its 'Tokenized Stock' Is A Memecoin Too",
       "link": "https://thedefiant.io/news/tokens/money-mushroom-moved-a-nasdaq-penny-stock-but-its-tokenized-stock-is-a-memecoin-too",
       "pubDate": "2026-09-02T19:33:49.000Z",
@@ -68,24 +86,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The FAMI token that Money Mushroom trades against on Robinhood Chain is not a Robinhood stock token. Its 37,430,000 supply, close to Farmmi's entire share count..."
-    },
-    {
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "pubDate": "2026-09-02T18:27:49.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted..."
-    },
-    {
-      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-      "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
-      "pubDate": "2026-09-02T16:41:06.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targ..."
     },
     {
       "title": "Bitcoin Holds $77,000 After Weak Hiring Print",
