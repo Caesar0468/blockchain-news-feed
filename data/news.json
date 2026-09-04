@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T20:27:16.708Z",
+  "lastUpdated": "2026-09-04T02:46:40.053Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-03T20:27:15.000Z",
+      "pubDate": "2026-09-04T02:46:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,20 +27,38 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-03T20:27:15.000Z",
+      "pubDate": "2026-09-04T02:46:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
-      "title": "Curve Hands Its Risk Mandate To Two Resupply Developers",
-      "link": "https://thedefiant.io/news/defi/curve-dao-yrisk-risk-provider-crvusd-llamalend",
-      "pubDate": "2026-09-03T18:11:53.000Z",
+      "title": "Uniswap Labs Bought Pons Token for 'Long-Term Alignment'",
+      "link": "https://thedefiant.io/news/defi/uniswap-labs-bought-pons-token-for-long-term-alignment",
+      "pubDate": "2026-09-03T23:34:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "veCRV holders backed yRisk with 536.9 million votes and none against, then funded the mandate on Sept. 2 with 125,000 frxUSD and 568,181 CRV. yRisk's two contri..."
+      "summary": "Pons said Uniswap Labs purchased its token \"for long-term alignment\" four weeks after Uniswap Labs put a rival launchpad on Robinhood Chain. Neither company dis..."
+    },
+    {
+      "title": "Lighter Leads Perp DEX Token Rally",
+      "link": "https://thedefiant.io/news/defi/lighter-lit-perp-dex-token-rally-robinhood-volume",
+      "pubDate": "2026-09-03T23:31:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "LIT rose 13% to $4.21 and has doubled in 30 days as traders position for a U.S. perpetuals opening that Lighter has not applied for. Robinhood order flow now su..."
+    },
+    {
+      "title": "Coinbase Files SEC Notices in Bid to Bring Single-Stock Perpetuals to US",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-files-sec-notices-in-bid-to-bring-single-stock-perpetuals-to-us",
+      "pubDate": "2026-09-03T21:13:05.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The proposal would expand Coinbase’s U.S. equity-derivatives lineup beyond thematic stock indexes, while CFTC product approval remains the company’s stated next..."
     },
     {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
@@ -50,24 +68,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone migh..."
-    },
-    {
-      "title": "Wyoming Puts Its Stablecoin Reserves Onchain With Under $1 Million Outstanding",
-      "link": "https://thedefiant.io/converge/regulation/wyoming-stable-token-chainlink-proof-of-reserve-frnt",
-      "pubDate": "2026-09-03T17:47:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Wyoming Stable Token Commission adopted Chainlink Proof of Reserve for the Frontier Stable Token on Sept. 2. FRNT's total supply is 967,948 tokens, about 0...."
-    },
-    {
-      "title": "Tether Froze $42.4 Million Three Months Before A Seizure Warrant, Lawsuit Says",
-      "link": "https://thedefiant.io/news/regulation/tether-sued-42-million-usdt-freeze-before-seizure-warrant",
-      "pubDate": "2026-09-03T17:36:04.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Two Thai businessmen are suing Tether in Manhattan federal court over 42,417,785.62 USDT blacklisted across 10 Ethereum addresses. Onchain records show all 10 w..."
     },
     {
       "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
