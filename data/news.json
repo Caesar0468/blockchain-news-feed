@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T15:42:50.545Z",
+  "lastUpdated": "2026-09-04T20:13:56.591Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-04T15:42:49.000Z",
+      "pubDate": "2026-09-04T20:13:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,47 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-04T15:42:49.000Z",
+      "pubDate": "2026-09-04T20:13:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "August Payrolls Knock Bitcoin Off $81,000",
+      "link": "https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000",
+      "pubDate": "2026-09-04T19:40:14.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitcoin fell $1,430 in the five minutes after the Bureau of Labor Statistics reported 162,000 August jobs, five times the average of the prior year. Polymarket..."
+    },
+    {
+      "title": "AMC's CEO Told Robinhood To Halt Its Stock Token. Robinhood Told Him To Send Lawyers",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/amc-s-ceo-told-robinhood-to-halt-its-stock-token-robinhood-told-him-to-send-lawyers",
+      "pubDate": "2026-09-04T16:02:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Adam Aron called on Robinhood to \"CEASE AND DECIST\" trading of AMC stock tokens and said the company's securities counsel is looking at whether it can force a h..."
+    },
+    {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "pubDate": "2026-09-04T15:57:15.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these chara..."
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "pubDate": "2026-09-04T15:20:19.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system u..."
     },
     {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
@@ -61,24 +97,6 @@
       "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are ava..."
     },
     {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "pubDate": "2026-09-04T07:18:47.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity..."
-    },
-    {
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "pubDate": "2026-09-04T06:47:52.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after th..."
-    },
-    {
       "title": "Uniswap Labs Bought Pons Token for 'Long-Term Alignment'",
       "link": "https://thedefiant.io/news/defi/uniswap-labs-bought-pons-token-for-long-term-alignment",
       "pubDate": "2026-09-03T23:34:05.000Z",
@@ -86,24 +104,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Pons said Uniswap Labs purchased its token \"for long-term alignment\" four weeks after Uniswap Labs put a rival launchpad on Robinhood Chain. Neither company dis..."
-    },
-    {
-      "title": "Lighter Leads Perp DEX Token Rally",
-      "link": "https://thedefiant.io/news/defi/lighter-lit-perp-dex-token-rally-robinhood-volume",
-      "pubDate": "2026-09-03T23:31:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "LIT rose 13% to $4.21 and has doubled in 30 days as traders position for a U.S. perpetuals opening that Lighter has not applied for. Robinhood order flow now su..."
-    },
-    {
-      "title": "Coinbase Files SEC Notices in Bid to Bring Single-Stock Perpetuals to US",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-files-sec-notices-in-bid-to-bring-single-stock-perpetuals-to-us",
-      "pubDate": "2026-09-03T21:13:05.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The proposal would expand Coinbase’s U.S. equity-derivatives lineup beyond thematic stock indexes, while CFTC product approval remains the company’s stated next..."
     },
     {
       "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
