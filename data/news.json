@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T20:13:56.591Z",
+  "lastUpdated": "2026-09-05T02:48:26.224Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-04T20:13:55.000Z",
+      "pubDate": "2026-09-05T02:48:25.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,20 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-04T20:13:55.000Z",
+      "pubDate": "2026-09-05T02:48:25.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Robinhood Chain Never Stopped But its Blobs Did Stop Reaching Ethereum For 14 Minutes",
+      "link": "https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes",
+      "pubDate": "2026-09-04T21:12:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Blocks came every 101 milliseconds throughout the outage reported on Friday. The chain's transaction data went missing on Ethereum for exactly 14 minutes, acros..."
     },
     {
       "title": "August Payrolls Knock Bitcoin Off $81,000",
@@ -95,15 +104,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are ava..."
-    },
-    {
-      "title": "Uniswap Labs Bought Pons Token for 'Long-Term Alignment'",
-      "link": "https://thedefiant.io/news/defi/uniswap-labs-bought-pons-token-for-long-term-alignment",
-      "pubDate": "2026-09-03T23:34:05.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Pons said Uniswap Labs purchased its token \"for long-term alignment\" four weeks after Uniswap Labs put a rival launchpad on Robinhood Chain. Neither company dis..."
     },
     {
       "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
