@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T19:57:13.034Z",
+  "lastUpdated": "2026-09-07T02:44:18.301Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-06T19:57:12.000Z",
+      "pubDate": "2026-09-07T02:44:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,20 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-06T19:57:12.000Z",
+      "pubDate": "2026-09-07T02:44:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Liquid Sidechain Paused After 3,998 BTC Leaves Federation Wallet",
+      "link": "https://thedefiant.io/news/security/liquid-sidechain-paused-after-3998-btc-leaves-federation-wallet",
+      "pubDate": "2026-09-06T23:15:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Blockstream's Liquid disabled its bridge nodes on Sunday after almost the entire bitcoin reserve backing L-BTC was withdrawn to a single address, whose owner wr..."
     },
     {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -95,15 +104,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Blocks came every 101 milliseconds throughout the outage reported on Friday. The chain's transaction data went missing on Ethereum for exactly 14 minutes, acros..."
-    },
-    {
-      "title": "August Payrolls Knock Bitcoin Off $81,000",
-      "link": "https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000",
-      "pubDate": "2026-09-04T19:40:14.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitcoin fell $1,430 in the five minutes after the Bureau of Labor Statistics reported 162,000 August jobs, five times the average of the prior year. Polymarket..."
     },
     {
       "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
