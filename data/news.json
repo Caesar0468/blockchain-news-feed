@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T10:31:39.662Z",
+  "lastUpdated": "2026-09-08T15:56:18.675Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-08T10:31:38.000Z",
+      "pubDate": "2026-09-08T15:56:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,83 +27,83 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-08T10:31:38.000Z",
+      "pubDate": "2026-09-08T15:56:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "pubDate": "2026-09-08T09:13:47.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploit..."
-    },
-    {
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "pubDate": "2026-09-08T08:43:51.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment an..."
-    },
-    {
-      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "pubDate": "2026-09-08T07:00:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal informatio..."
-    },
-    {
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-      "pubDate": "2026-09-07T18:12:09.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for..."
-    },
-    {
-      "title": "Orionx Halts Withdrawals and Winds Down After Alleged $7M Asset Transfers",
-      "link": "https://thedefiant.io/news/cefi/orionx-halts-withdrawals-and-winds-down-after-alleged-7m-asset-transfers",
-      "pubDate": "2026-09-07T16:14:35.000Z",
+      "title": "Ethereum Foundation Sets 2029 Quantum Target and Narrows Hegotá Scope",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-sets-2029-quantum-target-and-narrows-hegot-scope",
+      "pubDate": "2026-09-08T15:48:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Chile’s financial regulator says it does not oversee the exchange’s closure or have the power to order customer repayments...."
+      "summary": "FOCIL and Frame Transactions are the two must-ship proposals. A tapered issuance burn and a mandatory burn of execution rewards were declined because the cluste..."
     },
     {
-      "title": "Liquid Attacker Broadcasts Return Of 3,400 BTC, Keeps 598",
-      "link": "https://thedefiant.io/news/security/liquid-attacker-broadcasts-return-of-3400-btc-keeps-598",
-      "pubDate": "2026-09-07T16:06:06.000Z",
+      "title": "Harmony Proposes Sunsetting Network and Moving ONE to Ethereum for AI Video Pivot",
+      "link": "https://thedefiant.io/news/blockchains/harmony-proposes-sunsetting-network-and-moving-one-to-ethereum",
+      "pubDate": "2026-09-08T15:40:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The transaction pays 3,400 BTC back to the Liquid federation wallet and 598.50 BTC to the attacker’s own address. It is unconfirmed and flagged replaceable, and..."
+      "summary": "The plan would snapshot ONE at the final block and redirect emissions to an AI video business, but Harmony urged users to exit smart contracts before Sept. 10 b..."
     },
     {
-      "title": "Hunter Biden Confirms LAPTOP Memecoin Launch On Sept. 9",
-      "link": "https://thedefiant.io/news/tokens/hunter-biden-confirms-laptop-memecoin-launch-sept-9",
-      "pubDate": "2026-09-07T15:53:01.000Z",
+      "title": "BitMine Adds 28,086 ETH as Treasury Nears 5% of Supply",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-28-086-eth-as-treasury-nears-5-of-supply",
+      "pubDate": "2026-09-08T15:29:09.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The token deploys on Coinbase's Base network, with a fifth of a 1 billion supply set aside for airdrops that include wallets that lost money on TRUMP, according..."
+      "summary": "The company valued its 5.93 million ETH at about $14.79 billion, while aggregate reported holdings rose to $15.7 billion from $15.6 billion a week earlier...."
     },
     {
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-      "pubDate": "2026-09-07T15:51:56.000Z",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "pubDate": "2026-09-08T14:54:30.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (Sa..."
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5..."
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "pubDate": "2026-09-08T14:19:17.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an att..."
+    },
+    {
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "pubDate": "2026-09-08T13:48:16.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an..."
+    },
+    {
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "pubDate": "2026-09-08T11:54:29.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test ph..."
+    },
+    {
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "pubDate": "2026-09-08T11:49:02.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique containe..."
     },
     {
       "title": "EF Protocol: The Hegotá EIP Opinion Post and Tier List",
