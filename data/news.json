@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T15:56:18.675Z",
+  "lastUpdated": "2026-09-08T20:40:21.080Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-08T15:56:18.000Z",
+      "pubDate": "2026-09-08T20:40:20.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,11 +27,38 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-08T15:56:18.000Z",
+      "pubDate": "2026-09-08T20:40:20.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Compound Opens Institutional-Only Lending Market",
+      "link": "https://thedefiant.io/news/defi/compound-institutional-market-launch",
+      "pubDate": "2026-09-08T17:33:14.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The market lends USDC against ETH, wstETH, WBTC and cbBTC to whitelisted institutions only, at loan-to-value ratios of up to 87%. Compound says it was oversubsc..."
+    },
+    {
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "pubDate": "2026-09-08T16:20:23.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. C..."
+    },
+    {
+      "title": "DBS and Citi Complete Weekend Dollar Payment on Swift Ledger",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-and-citi-complete-weekend-dollar-payment-on-swift-ledger",
+      "pubDate": "2026-09-08T16:01:32.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Singapore-US transfer took minutes, but Swift says final settlement still occurs through existing banking systems...."
     },
     {
       "title": "Ethereum Foundation Sets 2029 Quantum Target and Narrows Hegotá Scope",
@@ -41,24 +68,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "FOCIL and Frame Transactions are the two must-ship proposals. A tapered issuance burn and a mandatory burn of execution rewards were declined because the cluste..."
-    },
-    {
-      "title": "Harmony Proposes Sunsetting Network and Moving ONE to Ethereum for AI Video Pivot",
-      "link": "https://thedefiant.io/news/blockchains/harmony-proposes-sunsetting-network-and-moving-one-to-ethereum",
-      "pubDate": "2026-09-08T15:40:18.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The plan would snapshot ONE at the final block and redirect emissions to an AI video business, but Harmony urged users to exit smart contracts before Sept. 10 b..."
-    },
-    {
-      "title": "BitMine Adds 28,086 ETH as Treasury Nears 5% of Supply",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-28-086-eth-as-treasury-nears-5-of-supply",
-      "pubDate": "2026-09-08T15:29:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The company valued its 5.93 million ETH at about $14.79 billion, while aggregate reported holdings rose to $15.7 billion from $15.6 billion a week earlier...."
     },
     {
       "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
@@ -97,13 +106,13 @@
       "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test ph..."
     },
     {
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "pubDate": "2026-09-08T11:49:02.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "pubDate": "2026-09-08T07:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique containe..."
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates ch..."
     },
     {
       "title": "EF Protocol: The Hegotá EIP Opinion Post and Tier List",
@@ -230,15 +239,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Every Signal chat starts the same way: the client asks the Signal server for the public key associated with your contact’s phone number. But how do you know the..."
-    },
-    {
-      "title": "CSS:the bomb inside your inbox",
-      "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "pubDate": "2026-08-06T22:00:00.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make t..."
     }
   ]
 }
