@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T15:52:12.389Z",
+  "lastUpdated": "2026-09-09T20:21:14.548Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-09T15:52:11.000Z",
+      "pubDate": "2026-09-09T20:21:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,20 +31,56 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-09T15:52:11.000Z",
+      "pubDate": "2026-09-09T20:21:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
-      "title": "Consensys Software Inc. Splits In Two, Rebrands As MetaMask",
-      "link": "https://thedefiant.io/news/defi/consensys-software-inc-splits-in-two-rebrands-as-metamask",
-      "pubDate": "2026-09-09T15:00:08.000Z",
+      "title": "Report Links $2.08M in LAPTOP Sales to Wintermute-Tagged Wallet",
+      "link": "https://thedefiant.io/news/markets/report-links-2-08m-in-laptop-sales-to-wintermute-tagged-wallet",
+      "pubDate": "2026-09-09T19:24:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The company behind the MetaMask wallet will keep the wallet and rename itself MetaMask, with Joe Lubin as CEO. Linea, Besu and the institutional infrastructure..."
+      "summary": "Lookonchain traced a 2.5 million-token team allocation to the address; separately, one trader reported nearly empty launch pools and a 98% early drop...."
+    },
+    {
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "pubDate": "2026-09-09T18:26:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam..."
+    },
+    {
+      "title": "Block Seeks OCC Charter for Uninsured Bitcoin and Stablecoin Custody Bank",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
+      "pubDate": "2026-09-09T16:58:22.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Builders Bank would operate under direct federal supervision without taking deposits or making loans, but the application still requires OCC approval...."
+    },
+    {
+      "title": "Circle to Acquire Tazapay in $400 Million All-Stock Payments Deal",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/circle-to-acquire-tazapay-in-400-million-all-stock-payments-deal",
+      "pubDate": "2026-09-09T16:57:42.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Singapore-based target would add more than 60 banking and fintech partners and local payout rails across over 100 markets to Circle’s network...."
+    },
+    {
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "pubDate": "2026-09-09T16:34:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multi..."
     },
     {
       "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
@@ -83,24 +119,6 @@
       "summary": "Fermat famously claimed to have a “truly marvelous proof” of his Last Theorem, but he never wrote it down, insisting the margin of his page was too narrow to co..."
     },
     {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "pubDate": "2026-09-09T10:43:04.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the..."
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "pubDate": "2026-09-09T09:32:26.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietar..."
-    },
-    {
       "title": "Join Us: EF Protocol Reddit AMA - September 16th, 2026",
       "link": "https://blog.ethereum.org/en/2026/09/09/reddit-ama",
       "pubDate": "2026-09-09T00:00:00.000Z",
@@ -108,24 +126,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The forma..."
-    },
-    {
-      "title": "Polkadot Leads A Rotation Into Old Layer-1s As Hike Odds Widen",
-      "link": "https://thedefiant.io/news/markets/polkadot-leads-rotation-old-layer-1s-hike-odds-widen-sep-8-2026",
-      "pubDate": "2026-09-08T21:32:57.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Polkadot rose 16.7% on the day and 42.5% on the week, with Cosmos Hub, Decred and Ethereum Classic all up more than 8%, while bitcoin ended the first U.S. sessi..."
-    },
-    {
-      "title": "ARK Asks SEC To Approve Tokenized Share Class of Venture Fund",
-      "link": "https://thedefiant.io/news/regulation/ark-sec-tokenized-share-class-venture-fund",
-      "pubDate": "2026-09-08T21:19:54.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A pending exemptive application would let ARK Venture Fund record ownership of a new share class using distributed ledger technology and trade it on registered..."
     },
     {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
