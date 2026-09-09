@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:40:21.080Z",
+  "lastUpdated": "2026-09-09T02:56:08.470Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -18,7 +18,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-08T20:40:20.000Z",
+      "pubDate": "2026-09-09T02:56:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -27,20 +27,38 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-08T20:40:20.000Z",
+      "pubDate": "2026-09-09T02:56:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
-      "title": "Compound Opens Institutional-Only Lending Market",
-      "link": "https://thedefiant.io/news/defi/compound-institutional-market-launch",
-      "pubDate": "2026-09-08T17:33:14.000Z",
+      "title": "Polkadot Leads A Rotation Into Old Layer-1s As Hike Odds Widen",
+      "link": "https://thedefiant.io/news/markets/polkadot-leads-rotation-old-layer-1s-hike-odds-widen-sep-8-2026",
+      "pubDate": "2026-09-08T21:32:57.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The market lends USDC against ETH, wstETH, WBTC and cbBTC to whitelisted institutions only, at loan-to-value ratios of up to 87%. Compound says it was oversubsc..."
+      "summary": "Polkadot rose 16.7% on the day and 42.5% on the week, with Cosmos Hub, Decred and Ethereum Classic all up more than 8%, while bitcoin ended the first U.S. sessi..."
+    },
+    {
+      "title": "ARK Asks SEC To Approve Tokenized Share Class of Venture Fund",
+      "link": "https://thedefiant.io/news/regulation/ark-sec-tokenized-share-class-venture-fund",
+      "pubDate": "2026-09-08T21:19:54.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "A pending exemptive application would let ARK Venture Fund record ownership of a new share class using distributed ledger technology and trade it on registered..."
+    },
+    {
+      "title": "Tokenized Stocks Traded $1 Billion While The Stock Market Was Shut",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stocks-traded-1-billion-while-the-stock-market-was-shut",
+      "pubDate": "2026-09-08T21:16:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The 42 largest tokenized equities turned over $1.01 billion on Saturday and Sunday, roughly matching Friday's session, and another $398.3 million on Labor Day...."
     },
     {
       "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
@@ -50,24 +68,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. C..."
-    },
-    {
-      "title": "DBS and Citi Complete Weekend Dollar Payment on Swift Ledger",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-and-citi-complete-weekend-dollar-payment-on-swift-ledger",
-      "pubDate": "2026-09-08T16:01:32.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Singapore-US transfer took minutes, but Swift says final settlement still occurs through existing banking systems...."
-    },
-    {
-      "title": "Ethereum Foundation Sets 2029 Quantum Target and Narrows Hegotá Scope",
-      "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-sets-2029-quantum-target-and-narrows-hegot-scope",
-      "pubDate": "2026-09-08T15:48:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "FOCIL and Frame Transactions are the two must-ship proposals. A tapered issuance burn and a mandatory burn of execution rewards were declined because the cluste..."
     },
     {
       "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
@@ -115,6 +115,51 @@
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates ch..."
     },
     {
+      "title": "ZDI-26-622: Microsoft Windows IKEv2 AES-GCM Decryption Integer Underflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-622/",
+      "pubDate": "2026-09-08T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Windows. Authentication is not required to exploit t..."
+    },
+    {
+      "title": "ZDI-26-621: Microsoft Windows UMPDDrvRealizeBrush Improper Object Management Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-621/",
+      "pubDate": "2026-09-08T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
+    },
+    {
+      "title": "ZDI-26-620: Microsoft Windows UMPDDrvPlgBlt Improper Object Management Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-620/",
+      "pubDate": "2026-09-08T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
+    },
+    {
+      "title": "ZDI-26-619: Microsoft Windows UMPDDrvStretchBltROP Improper Object Management Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-619/",
+      "pubDate": "2026-09-08T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
+    },
+    {
+      "title": "ZDI-26-618: Microsoft Windows UMPDDrvStretchBlt Improper Object Management Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-618/",
+      "pubDate": "2026-09-08T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
+    },
+    {
       "title": "EF Protocol: The Hegotá EIP Opinion Post and Tier List",
       "link": "https://blog.ethereum.org/en/2026/09/07/protocol-hegota-eips",
       "pubDate": "2026-09-07T00:00:00.000Z",
@@ -131,51 +176,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "In May, the Protocol cluster welcomed a trio of new cluster coordinators and promised updates to follow. After months of settling in and aligning with contribu..."
-    },
-    {
-      "title": "ZDI-26-615: (0Day) pdfforge PDF Architect activation-service Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-615/",
-      "pubDate": "2026-08-31T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of pdfforge PDF Architect. An attacker must first obtain the ability..."
-    },
-    {
-      "title": "ZDI-26-614: (0Day) pdfforge PDF Architect PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-614/",
-      "pubDate": "2026-08-31T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
-    },
-    {
-      "title": "ZDI-26-613: (0Day) pdfforge PDF Architect PDF File Parsing Memory Corruption Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-613/",
-      "pubDate": "2026-08-31T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
-    },
-    {
-      "title": "ZDI-26-612: (0Day) pdfforge PDF Architect PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-612/",
-      "pubDate": "2026-08-31T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
-    },
-    {
-      "title": "ZDI-26-611: (0Day) pdfforge PDF Architect App Object Out-Of-Bounds Read Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-611/",
-      "pubDate": "2026-08-31T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of pdfforge PDF Architect. User interaction is required to exploi..."
     },
     {
       "title": "VMs won't contain cyber-capable agents",
