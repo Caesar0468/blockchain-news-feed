@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:21:14.548Z",
+  "lastUpdated": "2026-09-10T02:56:37.992Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-09T20:21:13.000Z",
+      "pubDate": "2026-09-10T02:56:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,20 +31,38 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-09T20:21:13.000Z",
+      "pubDate": "2026-09-10T02:56:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
-      "title": "Report Links $2.08M in LAPTOP Sales to Wintermute-Tagged Wallet",
-      "link": "https://thedefiant.io/news/markets/report-links-2-08m-in-laptop-sales-to-wintermute-tagged-wallet",
-      "pubDate": "2026-09-09T19:24:00.000Z",
+      "title": "Pump.fun Lets Creators Launch Coins Priced In Tokenized Stocks",
+      "link": "https://thedefiant.io/news/defi/pump-fun-lets-creators-launch-coins-priced-in-tokenized-stocks",
+      "pubDate": "2026-09-09T21:15:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Lookonchain traced a 2.5 million-token team allocation to the address; separately, one trader reported nearly empty launch pools and a 98% early drop...."
+      "summary": "Pump.fun opened token launches to quote assets beyond SOL and USDC on Wednesday afternoon, putting the count at 93 pairs including tokenized Nvidia, Tesla and t..."
+    },
+    {
+      "title": "Zora Co-Founder Dee Goens Replaces Jacob Horne as CEO",
+      "link": "https://thedefiant.io/news/defi/zora-co-founder-dee-goens-replaces-jacob-horne-as-ceo",
+      "pubDate": "2026-09-09T20:38:02.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Goens said Zora is now under 10 people after a headcount reduction this year and named ZORA buybacks among his first priorities. Fees from the protocol’s Base d..."
+    },
+    {
+      "title": "Tenev Says Robinhood Stock Tokens Should Not Automatically Require Issuer Consent",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/tenev-says-robinhood-stock-tokens-should-not-automatically-require-issuer-consent",
+      "pubDate": "2026-09-09T20:36:11.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Robinhood CEO acknowledged that token holders lack voting rights, reflecting a structure that provides economic exposure through Jersey-issued debt securiti..."
     },
     {
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -54,24 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam..."
-    },
-    {
-      "title": "Block Seeks OCC Charter for Uninsured Bitcoin and Stablecoin Custody Bank",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
-      "pubDate": "2026-09-09T16:58:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Builders Bank would operate under direct federal supervision without taking deposits or making loans, but the application still requires OCC approval...."
-    },
-    {
-      "title": "Circle to Acquire Tazapay in $400 Million All-Stock Payments Deal",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/circle-to-acquire-tazapay-in-400-million-all-stock-payments-deal",
-      "pubDate": "2026-09-09T16:57:42.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Singapore-based target would add more than 60 banking and fintech partners and local payout rails across over 100 markets to Circle’s network...."
     },
     {
       "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
@@ -119,6 +119,51 @@
       "summary": "Fermat famously claimed to have a “truly marvelous proof” of his Last Theorem, but he never wrote it down, insisting the margin of his page was too narrow to co..."
     },
     {
+      "title": "ZDI-26-647: VMware Workstation VMXNET3 TSO Segmentation Integer Overflow Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-647/",
+      "pubDate": "2026-09-09T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of VMware Workstation. An attacker must first obtain the ability to e..."
+    },
+    {
+      "title": "ZDI-26-646: Progress Software Kemp LoadMaster escape_quotes Uninitialized Memory Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-646/",
+      "pubDate": "2026-09-09T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Progress Software Kemp LoadMaster. Authentication is required..."
+    },
+    {
+      "title": "ZDI-26-645: Fortinet FortiSandbox write_remote_backup_to_crontab cronValue Command Injection Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-645/",
+      "pubDate": "2026-09-09T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiSandbox. Authentication is required to exploit t..."
+    },
+    {
+      "title": "ZDI-26-644: Oracle VirtualBox VMSVGA Race Condition Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-644/",
+      "pubDate": "2026-09-09T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to ex..."
+    },
+    {
+      "title": "ZDI-26-643: Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-643/",
+      "pubDate": "2026-09-09T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ab..."
+    },
+    {
       "title": "Join Us: EF Protocol Reddit AMA - September 16th, 2026",
       "link": "https://blog.ethereum.org/en/2026/09/09/reddit-ama",
       "pubDate": "2026-09-09T00:00:00.000Z",
@@ -135,51 +180,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates ch..."
-    },
-    {
-      "title": "ZDI-26-622: Microsoft Windows IKEv2 AES-GCM Decryption Integer Underflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-622/",
-      "pubDate": "2026-09-08T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Windows. Authentication is not required to exploit t..."
-    },
-    {
-      "title": "ZDI-26-621: Microsoft Windows UMPDDrvRealizeBrush Improper Object Management Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-621/",
-      "pubDate": "2026-09-08T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
-    },
-    {
-      "title": "ZDI-26-620: Microsoft Windows UMPDDrvPlgBlt Improper Object Management Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-620/",
-      "pubDate": "2026-09-08T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
-    },
-    {
-      "title": "ZDI-26-619: Microsoft Windows UMPDDrvStretchBltROP Improper Object Management Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-619/",
-      "pubDate": "2026-09-08T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
-    },
-    {
-      "title": "ZDI-26-618: Microsoft Windows UMPDDrvStretchBlt Improper Object Management Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-618/",
-      "pubDate": "2026-09-08T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
     },
     {
       "title": "EF Protocol: The Hegotá EIP Opinion Post and Tier List",
