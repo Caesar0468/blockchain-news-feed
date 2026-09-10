@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T15:46:36.010Z",
+  "lastUpdated": "2026-09-10T20:23:19.273Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-10T15:46:35.000Z",
+      "pubDate": "2026-09-10T20:23:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,11 +31,47 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-10T15:46:35.000Z",
+      "pubDate": "2026-09-10T20:23:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+    },
+    {
+      "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
+      "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
+      "pubDate": "2026-09-10T20:23:18.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "Uniswap Launches Dynamic Fees for Two Stable-Pair Pools",
+      "link": "https://thedefiant.io/news/defi/uniswap-launches-dynamic-fees-for-two-stable-pair-pools",
+      "pubDate": "2026-09-10T18:38:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The two Ethereum launch pools pair USDC with USDT and USDG; corrective trades outside the price band face a fee that falls each block...."
+    },
+    {
+      "title": "Valinor Launches Tokenized BDC Fund On Superstate",
+      "link": "https://thedefiant.io/news/defi/valinor-launches-tokenized-bdc-fund-on-superstate",
+      "pubDate": "2026-09-10T18:23:27.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Valinor BDC Exposure Fund buys the listed equity of business development companies, charges 1.25% on top of the fees those BDCs already charge, and accepts..."
+    },
+    {
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "pubDate": "2026-09-10T17:47:38.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much..."
     },
     {
       "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
@@ -45,33 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Ear..."
-    },
-    {
-      "title": "Latitude Raises $35 Million For Local Stablecoin Off-Ramps",
-      "link": "https://thedefiant.io/converge/defi/latitude-35-million-series-a-stablecoin-local-rails",
-      "pubDate": "2026-09-10T14:20:39.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Oak HC/FT led the round with NEA, Coinbase Ventures, Lightspeed Faction and OpenFX participating, taking total funding to $43 million. Latitude's own site break..."
-    },
-    {
-      "title": "U.S. Bank Issues Its Own Stablecoin On Stellar",
-      "link": "https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot",
-      "pubDate": "2026-09-10T14:14:04.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The bank said Wednesday it moved value between its North American and European entities with USBDC, a dollar-backed token it issued on Stellar. The pilot tested..."
-    },
-    {
-      "title": "Tether And Fasanara Seed A $400 Million Private Credit Fund",
-      "link": "https://thedefiant.io/news/defi/tether-fasanara-400-million-private-credit-fund",
-      "pubDate": "2026-09-10T14:11:50.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The evergreen fund opens with $400 million from the two sponsors and targets up to $3 billion from outside institutions. Fasanara manages the investments while..."
     },
     {
       "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, securi..."
-    },
-    {
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "pubDate": "2026-09-10T10:36:46.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploi..."
     },
     {
       "title": "ZDI-26-679: Adobe Photoshop DCM JPEG Image Parsing Integer Overflow Remote Code Execution Vulnerability",
