@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T03:13:05.400Z",
+  "lastUpdated": "2026-09-14T11:42:16.594Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-14T03:13:04.000Z",
+      "pubDate": "2026-09-14T11:42:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-14T03:13:04.000Z",
+      "pubDate": "2026-09-14T11:42:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,11 +40,20 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-14T03:13:04.000Z",
+      "pubDate": "2026-09-14T11:42:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "pubDate": "2026-09-14T07:24:39.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial b..."
     },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -99,15 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The chain kept $943,728 on Sept. 10 against $5.44 million on Sept. 4, its lowest daily take since Aug. 29. Transactions were flat and decentralized exchange vol..."
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "pubDate": "2026-09-11T16:30:18.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of..."
     },
     {
       "title": "ZDI-26-679: Adobe Photoshop DCM JPEG Image Parsing Integer Overflow Remote Code Execution Vulnerability",
