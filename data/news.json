@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T17:36:44.708Z",
+  "lastUpdated": "2026-09-14T21:25:05.687Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-14T17:36:43.000Z",
+      "pubDate": "2026-09-14T21:25:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-14T17:36:43.000Z",
+      "pubDate": "2026-09-14T21:25:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,20 +40,56 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-14T17:36:43.000Z",
+      "pubDate": "2026-09-14T21:25:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
+      "title": "Balancer Proposes Shutting Down and Returning Its $9 Million Treasury to BAL Holders",
+      "link": "https://thedefiant.io/news/defi/balancer-proposes-shutting-down-and-distributing-treasury-to-bal-holders",
+      "pubDate": "2026-09-14T20:33:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Holders would burn BAL for a pro-rata share of the treasury starting May 2027. Pools move to withdrawals-only on Oct. 30. BAL's market cap is $7.7 million...."
+    },
+    {
+      "title": "XRP Leads a Broad Crypto Bid on the Eve of a Senate Vote and a Fed Decision",
+      "link": "https://thedefiant.io/news/markets/xrp-leads-broad-crypto-bid-senate-vote-fed-decision-sep-14-2026",
+      "pubDate": "2026-09-14T20:09:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitcoin added 2.3% to $79,164 and set its session high in New York rather than overnight, while the S&P 500 held a 0.3% loss. Seventy-nine of the 121 largest no..."
+    },
+    {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "pubDate": "2026-09-14T16:58:42.000Z",
+      "pubDate": "2026-09-14T18:02:13.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping w..."
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "pubDate": "2026-09-14T18:01:49.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a l..."
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "pubDate": "2026-09-14T17:58:16.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a..."
     },
     {
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
@@ -62,7 +98,7 @@
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise..."
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to c..."
     },
     {
       "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API s..."
-    },
-    {
-      "title": "Pixelmon Ends Game Development After Publisher Test Falls Short",
-      "link": "https://thedefiant.io/news/nfts-and-web3/pixelmon-ends-game-development-after-publisher-test-falls-short",
-      "pubDate": "2026-09-14T15:52:16.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The NFT project gave notice to its gaming team and will take its titles offline, while a smaller group searches for a non-gaming business model...."
-    },
-    {
-      "title": "Base-Ethereum Account Abstraction Collaboration Broke Down, Developer Says",
-      "link": "https://thedefiant.io/news/infrastructure/base-ethereum-account-abstraction-collaboration-broke-down-developer-says",
-      "pubDate": "2026-09-14T15:38:47.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The two draft proposals take different approaches to native smart accounts, potentially shifting cross-chain compatibility work to wallets and apps...."
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "pubDate": "2026-09-14T14:40:34.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing..."
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "pubDate": "2026-09-14T11:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is..."
     },
     {
       "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
