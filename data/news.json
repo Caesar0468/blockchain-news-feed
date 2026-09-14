@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T11:42:16.594Z",
+  "lastUpdated": "2026-09-14T17:36:44.708Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-14T11:42:15.000Z",
+      "pubDate": "2026-09-14T17:36:43.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-14T11:42:15.000Z",
+      "pubDate": "2026-09-14T17:36:43.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,119 +40,119 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-14T11:42:15.000Z",
+      "pubDate": "2026-09-14T17:36:43.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "pubDate": "2026-09-14T07:24:39.000Z",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "pubDate": "2026-09-14T16:58:42.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial b..."
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping w..."
     },
     {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "pubDate": "2026-09-13T10:11:48.000Z",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "pubDate": "2026-09-14T16:56:30.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam mess..."
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise..."
     },
     {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "pubDate": "2026-09-12T15:54:45.000Z",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "pubDate": "2026-09-14T16:00:04.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and Mikro..."
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API s..."
     },
     {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "pubDate": "2026-09-12T10:24:44.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts th..."
-    },
-    {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "pubDate": "2026-09-12T09:07:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spe..."
-    },
-    {
-      "title": "ANON Triples After Sesta Deploys AMM On Robinhood Chain",
-      "link": "https://thedefiant.io/news/defi/anon-triples-after-sesta-deploys-amm-on-robinhood-chain",
-      "pubDate": "2026-09-11T18:19:01.000Z",
+      "title": "Pixelmon Ends Game Development After Publisher Test Falls Short",
+      "link": "https://thedefiant.io/news/nfts-and-web3/pixelmon-ends-game-development-after-publisher-test-falls-short",
+      "pubDate": "2026-09-14T15:52:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Daniele Sesta says Equilibra, a custom automated market maker with adaptive fees and optional auto-repeg, is testing on Robinhood Chain and sits under the HeyAn..."
+      "summary": "The NFT project gave notice to its gaming team and will take its titles offline, while a smaller group searches for a non-gaming business model...."
     },
     {
-      "title": "Robinhood Chain Revenue Falls 83% From Its Peak While Trading Volume Sets Records",
-      "link": "https://thedefiant.io/news/blockchains/robinhood-chain-revenue-falls-83-from-peak-while-trading-volume-sets-records",
-      "pubDate": "2026-09-11T17:47:02.000Z",
+      "title": "Base-Ethereum Account Abstraction Collaboration Broke Down, Developer Says",
+      "link": "https://thedefiant.io/news/infrastructure/base-ethereum-account-abstraction-collaboration-broke-down-developer-says",
+      "pubDate": "2026-09-14T15:38:47.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The chain kept $943,728 on Sept. 10 against $5.44 million on Sept. 4, its lowest daily take since Aug. 29. Transactions were flat and decentralized exchange vol..."
+      "summary": "The two draft proposals take different approaches to native smart accounts, potentially shifting cross-chain compatibility work to wallets and apps...."
     },
     {
-      "title": "ZDI-26-679: Adobe Photoshop DCM JPEG Image Parsing Integer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-679/",
-      "pubDate": "2026-09-10T05:00:00.000Z",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "pubDate": "2026-09-14T14:40:34.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing..."
+    },
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "pubDate": "2026-09-14T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is..."
+    },
+    {
+      "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-702/",
+      "pubDate": "2026-09-14T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Photoshop. User interaction is required to exploit this..."
+      "summary": "This vulnerability allows physically present attackers to escalate privileges on affected installations of Linux Kernel. Authentication is not required to explo..."
     },
     {
-      "title": "ZDI-26-678: Adobe Photoshop DCM File Parsing Integer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-678/",
-      "pubDate": "2026-09-10T05:00:00.000Z",
+      "title": "ZDI-26-701: Linux Kernel TLS Protocol Out-Of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-701/",
+      "pubDate": "2026-09-14T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Photoshop. User interaction is required to exploit this..."
+      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must first obtain the ability..."
     },
     {
-      "title": "ZDI-26-677: Adobe Photoshop DCM JPEG-LS Image Parsing Integer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-677/",
-      "pubDate": "2026-09-10T05:00:00.000Z",
+      "title": "ZDI-26-700: Linux Kernel QFQ Plus Scheduler Use-After-Free Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-700/",
+      "pubDate": "2026-09-14T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Photoshop. User interaction is required to exploit this..."
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
     },
     {
-      "title": "ZDI-26-676: Adobe Acrobat Reader DC DigSig Use-After-Free Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-676/",
-      "pubDate": "2026-09-10T05:00:00.000Z",
+      "title": "ZDI-26-699: Linux Kernel NTFS3 Out-of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-699/",
+      "pubDate": "2026-09-14T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required to explo..."
+      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must first obtain the ability..."
     },
     {
-      "title": "ZDI-26-675: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-675/",
-      "pubDate": "2026-09-10T05:00:00.000Z",
+      "title": "ZDI-26-698: Linux Kernel NTFS3 Out-Of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-698/",
+      "pubDate": "2026-09-14T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required to explo..."
+      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must first obtain the ability..."
     },
     {
       "title": "A “proof” of Fermat’s Last Theorem that fits the margin",
