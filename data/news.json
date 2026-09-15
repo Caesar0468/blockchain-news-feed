@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T03:15:06.820Z",
+  "lastUpdated": "2026-09-15T11:00:17.129Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-15T03:15:06.000Z",
+      "pubDate": "2026-09-15T11:00:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-15T03:15:06.000Z",
+      "pubDate": "2026-09-15T11:00:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,11 +40,38 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-15T03:15:06.000Z",
+      "pubDate": "2026-09-15T11:00:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "pubDate": "2026-09-15T06:52:16.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in..."
+    },
+    {
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "pubDate": "2026-09-15T06:11:11.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. Th..."
+    },
+    {
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "pubDate": "2026-09-15T05:31:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to..."
     },
     {
       "title": "Balancer Proposes Shutting Down and Returning Its $9 Million Treasury to BAL Holders",
@@ -81,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a l..."
-    },
-    {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "pubDate": "2026-09-14T17:58:16.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a..."
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "pubDate": "2026-09-14T16:56:30.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to c..."
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "pubDate": "2026-09-14T16:00:04.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API s..."
     },
     {
       "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
