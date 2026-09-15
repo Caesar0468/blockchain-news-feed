@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T16:10:47.802Z",
+  "lastUpdated": "2026-09-15T20:49:59.069Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-15T16:10:46.000Z",
+      "pubDate": "2026-09-15T20:49:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-15T16:10:46.000Z",
+      "pubDate": "2026-09-15T20:49:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,29 +40,47 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-15T16:10:46.000Z",
+      "pubDate": "2026-09-15T20:49:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
-      "title": "MEV Bot Front-Runs $7.8 Million rsETH Exploit on Ethereum",
-      "link": "https://thedefiant.io/news/hacks/mev-bot-front-runs-7-8-million-rseth-exploit-on-ethereum",
-      "pubDate": "2026-09-15T16:03:00.000Z",
+      "title": "Senate Blocks CLARITY Act 49-50 With No Democratic Votes to Proceed",
+      "link": "https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed",
+      "pubDate": "2026-09-15T19:56:20.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Yoink sent 2,882.37 rsETH to one address after its transaction beat the original attack into the same Ethereum block...."
+      "summary": "Cloture on the motion to proceed to H.R. 3633 fell 11 votes short of the 60 it needed. All 49 votes to proceed came from Republicans. Collins, Hawley, Moran and..."
     },
     {
-      "title": "Kamino Names Michael Weisz CEO for US and Institutional Expansion",
-      "link": "https://thedefiant.io/news/people/kamino-names-michael-weisz-ceo-for-us-and-institutional-expansion",
-      "pubDate": "2026-09-15T15:59:53.000Z",
+      "title": "0x Says Uniswap v4 Hooks Were A Mistake, Hayden Adams Says \"Skill Issue\"",
+      "link": "https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue",
+      "pubDate": "2026-09-15T18:56:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Solana lending protocol has $1.35 billion in TVL and $1.02 billion in active loans, according to DefiLlama...."
+      "summary": "The DEX aggregator found 54.2% of the 84,163 hooks it analyzed were malicious. Uniswap's founder and Paradigm's Dan Robinson said the failure is in 0x's routing..."
+    },
+    {
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "pubDate": "2026-09-15T18:54:14.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Secu..."
+    },
+    {
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "pubDate": "2026-09-15T16:29:51.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service u..."
     },
     {
       "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
@@ -92,15 +110,6 @@
       "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the..."
     },
     {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "pubDate": "2026-09-15T11:12:32.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automate..."
-    },
-    {
       "title": "1Password's AI patching benchmark is misleading",
       "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
       "pubDate": "2026-09-15T11:00:00.000Z",
@@ -108,15 +117,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "1Password’s FLAWED report, published on August 6, 2026, gives defenders a misleading picture of AI patching. Its headline says models produced clean fixes only..."
-    },
-    {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "pubDate": "2026-09-15T06:52:16.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in..."
     },
     {
       "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
