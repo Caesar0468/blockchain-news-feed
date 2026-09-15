@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T11:00:17.129Z",
+  "lastUpdated": "2026-09-15T16:10:47.802Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-15T11:00:16.000Z",
+      "pubDate": "2026-09-15T16:10:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-15T11:00:16.000Z",
+      "pubDate": "2026-09-15T16:10:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,11 +40,74 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-15T11:00:16.000Z",
+      "pubDate": "2026-09-15T16:10:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "MEV Bot Front-Runs $7.8 Million rsETH Exploit on Ethereum",
+      "link": "https://thedefiant.io/news/hacks/mev-bot-front-runs-7-8-million-rseth-exploit-on-ethereum",
+      "pubDate": "2026-09-15T16:03:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Yoink sent 2,882.37 rsETH to one address after its transaction beat the original attack into the same Ethereum block...."
+    },
+    {
+      "title": "Kamino Names Michael Weisz CEO for US and Institutional Expansion",
+      "link": "https://thedefiant.io/news/people/kamino-names-michael-weisz-ceo-for-us-and-institutional-expansion",
+      "pubDate": "2026-09-15T15:59:53.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Solana lending protocol has $1.35 billion in TVL and $1.02 billion in active loans, according to DefiLlama...."
+    },
+    {
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "pubDate": "2026-09-15T15:23:19.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communicat..."
+    },
+    {
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "pubDate": "2026-09-15T11:52:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new fi..."
+    },
+    {
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "pubDate": "2026-09-15T11:26:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the..."
+    },
+    {
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "pubDate": "2026-09-15T11:12:32.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automate..."
+    },
+    {
+      "title": "1Password's AI patching benchmark is misleading",
+      "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+      "pubDate": "2026-09-15T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "1Password’s FLAWED report, published on August 6, 2026, gives defenders a misleading picture of AI patching. Its headline says models produced clean fixes only..."
     },
     {
       "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
@@ -54,60 +117,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in..."
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "pubDate": "2026-09-15T06:11:11.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. Th..."
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "pubDate": "2026-09-15T05:31:05.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to..."
-    },
-    {
-      "title": "Balancer Proposes Shutting Down and Returning Its $9 Million Treasury to BAL Holders",
-      "link": "https://thedefiant.io/news/defi/balancer-proposes-shutting-down-and-distributing-treasury-to-bal-holders",
-      "pubDate": "2026-09-14T20:33:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Holders would burn BAL for a pro-rata share of the treasury starting May 2027. Pools move to withdrawals-only on Oct. 30. BAL's market cap is $7.7 million...."
-    },
-    {
-      "title": "XRP Leads a Broad Crypto Bid on the Eve of a Senate Vote and a Fed Decision",
-      "link": "https://thedefiant.io/news/markets/xrp-leads-broad-crypto-bid-senate-vote-fed-decision-sep-14-2026",
-      "pubDate": "2026-09-14T20:09:56.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitcoin added 2.3% to $79,164 and set its session high in New York rather than overnight, while the S&P 500 held a 0.3% loss. Seventy-nine of the 121 largest no..."
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "pubDate": "2026-09-14T18:02:13.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping w..."
-    },
-    {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "pubDate": "2026-09-14T18:01:49.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a l..."
     },
     {
       "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "......"
-    },
-    {
-      "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
-      "link": "https://blog.ethereum.org/en/2026/08/20/better-codes-challenge",
-      "pubDate": "2026-08-20T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "better.codes, an open autoresearch challenge built by the Ethereum Foundation Formal Verification team in collaboration with Yukon and zkSecurity, is now live...."
     }
   ]
 }
