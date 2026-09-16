@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T16:03:50.021Z",
+  "lastUpdated": "2026-09-16T20:50:14.337Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-16T16:03:49.000Z",
+      "pubDate": "2026-09-16T20:50:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-16T16:03:49.000Z",
+      "pubDate": "2026-09-16T20:50:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,20 +40,56 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-16T16:03:49.000Z",
+      "pubDate": "2026-09-16T20:50:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
-      "title": "Crypto Industry Points to SEC and CFTC After CLARITY Setback",
-      "link": "https://thedefiant.io/news/regulation/crypto-industry-points-to-sec-and-cftc-after-clarity-setback",
-      "pubDate": "2026-09-16T14:39:12.000Z",
+      "title": "The Next Bull Run Could Be One Big Airdrop Away",
+      "link": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
+      "pubDate": "2026-09-16T19:54:38.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Trade groups and executives responded to the Senate blocking the CLARITY Act by pointing at agency rulemaking, saying the SEC and the CFTC can keep writing cryp..."
+      "summary": "History says major airdrops mark tops as often as they spark rallies, but the timing is everything...."
+    },
+    {
+      "title": "SEC and CFTC Chairmen Say They Will Write Crypto Rules Without CLARITY Act",
+      "link": "https://thedefiant.io/news/regulation/sec-and-cftc-chairmen-say-they-will-write-crypto-rules-without-clarity-act",
+      "pubDate": "2026-09-16T19:05:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Michael Selig said the CFTC is \"locked in and ready to ship its rules for the new frontier of finance.\" Paul Atkins said the SEC will \"act decisively within the..."
+    },
+    {
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "pubDate": "2026-09-16T15:50:59.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation..."
+    },
+    {
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "pubDate": "2026-09-16T15:27:49.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple rep..."
+    },
+    {
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "pubDate": "2026-09-16T14:36:44.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based p..."
     },
     {
       "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said thi..."
-    },
-    {
-      "title": "Kraken Parent Plans Permissioned Hyperliquid Perps for US Traders",
-      "link": "https://thedefiant.io/news/defi/kraken-parent-plans-permissioned-hyperliquid-perps-for-us-traders",
-      "pubDate": "2026-09-16T13:09:34.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitnomial would deploy, administer, clear and settle the proposed markets, while NinjaTrader Clearing would carry approved customer accounts...."
-    },
-    {
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "pubDate": "2026-09-16T11:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication fl..."
-    },
-    {
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "pubDate": "2026-09-16T11:15:58.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-..."
-    },
-    {
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "pubDate": "2026-09-16T11:15:48.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target be..."
     },
     {
       "title": "ZDI-26-708: (0Day) Microsoft Windows HTTP Proxy Privilege Escalation Vulnerability",
