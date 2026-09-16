@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:11:17.785Z",
+  "lastUpdated": "2026-09-16T10:47:56.377Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-16T03:11:17.000Z",
+      "pubDate": "2026-09-16T10:47:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-16T03:11:17.000Z",
+      "pubDate": "2026-09-16T10:47:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,11 +40,38 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-16T03:11:17.000Z",
+      "pubDate": "2026-09-16T10:47:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa Producing Blocks",
+      "link": "https://thedefiant.io/news/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks",
+      "pubDate": "2026-09-16T10:30:41.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Layer 1 charges gas in USDC and runs proof-of-authority across a permissioned set of 11 institutions plus Circle. More than 100 applications are live at lau..."
+    },
+    {
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "pubDate": "2026-09-16T05:48:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs..."
+    },
+    {
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "pubDate": "2026-09-16T05:18:06.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked a..."
     },
     {
       "title": "Senate Blocks CLARITY Act 49-50 With No Democratic Votes to Proceed",
@@ -54,15 +81,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Cloture on the motion to proceed to H.R. 3633 fell 11 votes short of the 60 it needed. All 49 votes to proceed came from Republicans. Collins, Hawley, Moran and..."
-    },
-    {
-      "title": "0x Says Uniswap v4 Hooks Were A Mistake, Hayden Adams Says \"Skill Issue\"",
-      "link": "https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue",
-      "pubDate": "2026-09-15T18:56:26.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The DEX aggregator found 54.2% of the 84,163 hooks it analyzed were malicious. Uniswap's founder and Paradigm's Dan Robinson said the failure is in 0x's routing..."
     },
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -90,24 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communicat..."
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "pubDate": "2026-09-15T11:52:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new fi..."
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "pubDate": "2026-09-15T11:26:36.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the..."
     },
     {
       "title": "1Password's AI patching benchmark is misleading",
