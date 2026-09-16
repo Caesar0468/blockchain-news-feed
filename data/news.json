@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:47:56.377Z",
+  "lastUpdated": "2026-09-16T16:03:50.021Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-16T10:47:55.000Z",
+      "pubDate": "2026-09-16T16:03:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-16T10:47:55.000Z",
+      "pubDate": "2026-09-16T16:03:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,74 +40,119 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-16T10:47:55.000Z",
+      "pubDate": "2026-09-16T16:03:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
-      "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa Producing Blocks",
-      "link": "https://thedefiant.io/news/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks",
-      "pubDate": "2026-09-16T10:30:41.000Z",
+      "title": "Crypto Industry Points to SEC and CFTC After CLARITY Setback",
+      "link": "https://thedefiant.io/news/regulation/crypto-industry-points-to-sec-and-cftc-after-clarity-setback",
+      "pubDate": "2026-09-16T14:39:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Layer 1 charges gas in USDC and runs proof-of-authority across a permissioned set of 11 institutions plus Circle. More than 100 applications are live at lau..."
+      "summary": "Trade groups and executives responded to the Senate blocking the CLARITY Act by pointing at agency rulemaking, saying the SEC and the CFTC can keep writing cryp..."
     },
     {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "pubDate": "2026-09-16T05:48:28.000Z",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "pubDate": "2026-09-16T13:37:07.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs..."
+      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 1..."
     },
     {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "pubDate": "2026-09-16T05:18:06.000Z",
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "pubDate": "2026-09-16T13:14:05.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked a..."
+      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said thi..."
     },
     {
-      "title": "Senate Blocks CLARITY Act 49-50 With No Democratic Votes to Proceed",
-      "link": "https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed",
-      "pubDate": "2026-09-15T19:56:20.000Z",
+      "title": "Kraken Parent Plans Permissioned Hyperliquid Perps for US Traders",
+      "link": "https://thedefiant.io/news/defi/kraken-parent-plans-permissioned-hyperliquid-perps-for-us-traders",
+      "pubDate": "2026-09-16T13:09:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Cloture on the motion to proceed to H.R. 3633 fell 11 votes short of the 60 it needed. All 49 votes to proceed came from Republicans. Collins, Hawley, Moran and..."
+      "summary": "Bitnomial would deploy, administer, clear and settle the proposed markets, while NinjaTrader Clearing would carry approved customer accounts...."
     },
     {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "pubDate": "2026-09-15T18:54:14.000Z",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "pubDate": "2026-09-16T11:58:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Secu..."
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication fl..."
     },
     {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "pubDate": "2026-09-15T16:29:51.000Z",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "pubDate": "2026-09-16T11:15:58.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service u..."
+      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-..."
     },
     {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "pubDate": "2026-09-15T15:23:19.000Z",
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "pubDate": "2026-09-16T11:15:48.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communicat..."
+      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target be..."
+    },
+    {
+      "title": "ZDI-26-708: (0Day) Microsoft Windows HTTP Proxy Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-708/",
+      "pubDate": "2026-09-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to ex..."
+    },
+    {
+      "title": "ZDI-26-707: (0Day) MindsDB OpenBBtable Code Injection Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-707/",
+      "pubDate": "2026-09-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MindsDB. Authentication is required to exploit this vulnerabil..."
+    },
+    {
+      "title": "ZDI-26-706: (0Day) CrewAI crewAI Framework Agent Loading Unsafe Reflection Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-706/",
+      "pubDate": "2026-09-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of CrewAI crewAI. User interaction is required to exploit this vu..."
+    },
+    {
+      "title": "ZDI-26-705: (0Day) BusyBox libarchive Symlink Directory Traversal Arbitrary File Creation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-705/",
+      "pubDate": "2026-09-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to create arbitrary files on affected installations of BusyBox. User interaction is required to exploit this vulnerab..."
+    },
+    {
+      "title": "ZDI-26-704: (0Day) Airbyte OneDrive Connector _get_shared_drive_object Server-Side Request Forgery Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-704/",
+      "pubDate": "2026-09-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of Airbyte. Authentication is required to exploi..."
     },
     {
       "title": "1Password's AI patching benchmark is misleading",
@@ -117,51 +162,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "1Password’s FLAWED report, published on August 6, 2026, gives defenders a misleading picture of AI patching. Its headline says models produced clean fixes only..."
-    },
-    {
-      "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-702/",
-      "pubDate": "2026-09-14T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows physically present attackers to escalate privileges on affected installations of Linux Kernel. Authentication is not required to explo..."
-    },
-    {
-      "title": "ZDI-26-701: Linux Kernel TLS Protocol Out-Of-Bounds Read Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-701/",
-      "pubDate": "2026-09-14T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must first obtain the ability..."
-    },
-    {
-      "title": "ZDI-26-700: Linux Kernel QFQ Plus Scheduler Use-After-Free Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-700/",
-      "pubDate": "2026-09-14T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
-    },
-    {
-      "title": "ZDI-26-699: Linux Kernel NTFS3 Out-of-Bounds Read Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-699/",
-      "pubDate": "2026-09-14T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must first obtain the ability..."
-    },
-    {
-      "title": "ZDI-26-698: Linux Kernel NTFS3 Out-Of-Bounds Read Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-698/",
-      "pubDate": "2026-09-14T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must first obtain the ability..."
     },
     {
       "title": "A “proof” of Fermat’s Last Theorem that fits the margin",
