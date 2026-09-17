@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T10:54:43.755Z",
+  "lastUpdated": "2026-09-17T16:10:19.851Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,9 +20,18 @@
   },
   "items": [
     {
+      "title": "Blockworks Lets Exchanges Take Compliance Alerts Straight From AI Agents",
+      "link": "https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges",
+      "pubDate": "2026-09-17T16:10:18.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Agentic Detection, live Thursday in Messari Monitoring, lets a listings or compliance desk take a development the moment Blockworks' agents find it, before an a..."
+    },
+    {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-17T10:54:42.000Z",
+      "pubDate": "2026-09-17T16:10:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +40,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-17T10:54:42.000Z",
+      "pubDate": "2026-09-17T16:10:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,74 +49,74 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-17T10:54:42.000Z",
+      "pubDate": "2026-09-17T16:10:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
-      "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
-      "link": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
-      "pubDate": "2026-09-16T22:33:10.000Z",
+      "title": "Tenka Announces Pre-Seed Round Led by Maven 11 to Build Market Infrastructure for Asset-Backed Finance",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance",
+      "pubDate": "2026-09-17T14:00:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Federal Open Market Committee voted 12-0 to lift its target range a quarter point to 3.75%-4%, and the median projection now puts the rate at 4.1% at the en..."
+      "summary": "Tenka, the liquidity platform for asset-backed finance, has closed its pre-seed round led by Maven 11, with participation from Gami Capital and several angel in..."
     },
     {
-      "title": "The Next Bull Run Could Be One Big Airdrop Away",
-      "link": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
-      "pubDate": "2026-09-16T19:54:38.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "History says major airdrops mark tops as often as they spark rallies, but the timing is everything...."
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "pubDate": "2026-09-16T15:50:59.000Z",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "pubDate": "2026-09-17T12:30:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation..."
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wedne..."
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "pubDate": "2026-09-16T15:27:49.000Z",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "pubDate": "2026-09-17T11:50:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple rep..."
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited i..."
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "pubDate": "2026-09-16T14:36:44.000Z",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "pubDate": "2026-09-17T10:50:53.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based p..."
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBI..."
     },
     {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "pubDate": "2026-09-16T13:37:07.000Z",
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "pubDate": "2026-09-17T10:05:45.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 1..."
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks..."
     },
     {
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "pubDate": "2026-09-16T13:14:05.000Z",
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "pubDate": "2026-09-17T09:53:38.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said thi..."
+      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new frame..."
+    },
+    {
+      "title": "ZDI-26-714: Samsung rlottie Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-714/",
+      "pubDate": "2026-09-17T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung rlottie. Interaction with the rlottie library is requi..."
     },
     {
       "title": "ZDI-26-713: GIMP APNG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
@@ -144,15 +153,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of NoMachine. Authentication is not required to exploit..."
-    },
-    {
-      "title": "ZDI-26-709: Cisco Secure Firewall Management Center CommandSinkRmi Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-709/",
-      "pubDate": "2026-09-16T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Secure Firewall Management Center. Authentication is not..."
     },
     {
       "title": "1Password's AI patching benchmark is misleading",
