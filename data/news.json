@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T16:10:19.851Z",
+  "lastUpdated": "2026-09-17T20:55:23.144Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Blockworks Lets Exchanges Take Compliance Alerts Straight From AI Agents",
       "link": "https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges",
-      "pubDate": "2026-09-17T16:10:18.000Z",
+      "pubDate": "2026-09-17T20:55:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-17T16:10:18.000Z",
+      "pubDate": "2026-09-17T20:55:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,29 +40,29 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-17T16:10:18.000Z",
+      "pubDate": "2026-09-17T20:55:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
     },
     {
+      "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
+      "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
+      "pubDate": "2026-09-17T20:55:22.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Securities and Exchange Commission issued a five-year conditional exemption on Thursday letting tokenized National Market System (NMS) stock trade on permis..."
+    },
+    {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-17T16:10:18.000Z",
+      "pubDate": "2026-09-17T20:55:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
-    },
-    {
-      "title": "Tenka Announces Pre-Seed Round Led by Maven 11 to Build Market Infrastructure for Asset-Backed Finance",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance",
-      "pubDate": "2026-09-17T14:00:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Tenka, the liquidity platform for asset-backed finance, has closed its pre-seed round led by Maven 11, with participation from Gami Capital and several angel in..."
     },
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
