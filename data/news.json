@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T15:18:00.460Z",
+  "lastUpdated": "2026-09-19T19:59:32.427Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-19T15:17:59.000Z",
+      "pubDate": "2026-09-19T19:59:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-19T15:17:59.000Z",
+      "pubDate": "2026-09-19T19:59:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,7 +40,7 @@
     {
       "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
       "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-      "pubDate": "2026-09-19T15:17:59.000Z",
+      "pubDate": "2026-09-19T19:59:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -49,11 +49,20 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-19T15:17:59.000Z",
+      "pubDate": "2026-09-19T19:59:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "pubDate": "2026-09-19T18:36:53.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI..."
     },
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
@@ -72,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial acce..."
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "pubDate": "2026-09-19T13:28:35.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI..."
     },
     {
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
