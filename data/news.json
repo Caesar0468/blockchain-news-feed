@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T11:54:42.433Z",
+  "lastUpdated": "2026-09-21T17:49:28.447Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-21T11:54:41.000Z",
+      "pubDate": "2026-09-21T17:49:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-21T11:54:41.000Z",
+      "pubDate": "2026-09-21T17:49:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,7 +40,7 @@
     {
       "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
       "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-      "pubDate": "2026-09-21T11:54:41.000Z",
+      "pubDate": "2026-09-21T17:49:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -49,11 +49,38 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-21T11:54:41.000Z",
+      "pubDate": "2026-09-21T17:49:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+    },
+    {
+      "title": "Bitcoin Reaches Its Highest Level Since January as Crude Sinks 8%",
+      "link": "https://thedefiant.io/news/markets/bitcoin-highest-since-january-crude-sinks-sep-21-2026",
+      "pubDate": "2026-09-21T15:40:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitcoin traded as high as $86,355 on Coinbase, its best level since Jan. 29, in a leg that started in the 8 a.m. UTC hour and extended through the U.S. open. We..."
+    },
+    {
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "pubDate": "2026-09-21T14:24:13.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people alread..."
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "pubDate": "2026-09-21T14:15:40.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from..."
     },
     {
       "title": "SAML: A fractal of bad design",
@@ -74,6 +101,15 @@
       "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared..."
     },
     {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "pubDate": "2026-09-21T07:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This i..."
+    },
+    {
       "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
       "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
       "pubDate": "2026-09-21T06:06:44.000Z",
@@ -90,33 +126,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI..."
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "pubDate": "2026-09-19T13:28:48.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited i..."
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "pubDate": "2026-09-19T13:28:41.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial acce..."
-    },
-    {
-      "title": "Polygon Prepares Permissionless Burn of 100 Million POL",
-      "link": "https://thedefiant.io/news/tokens/polygon-prepares-permissionless-burn-of-100-million-pol",
-      "pubDate": "2026-09-18T20:25:25.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Contracts are on testnet and await final Security Council signatures, with later base-fee burns set to become community-callable each quarter, Sandeep Nailwal s..."
     },
     {
       "title": "Auditing in the age of (good enough) AI",
@@ -234,15 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "As part of Patch the Planet, we received preview access to GPT 5.6-Cyber with a simple task: evaluate its cyber capabilities. Recent events inspired me to give..."
-    },
-    {
-      "title": "What's in a tag name? JavaScript, apparently",
-      "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
-      "pubDate": "2026-08-25T14:24:32.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with..."
     }
   ]
 }
