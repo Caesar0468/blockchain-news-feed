@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T10:43:02.334Z",
+  "lastUpdated": "2026-09-23T16:02:11.771Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -22,7 +22,7 @@
     {
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-23T10:43:01.000Z",
+      "pubDate": "2026-09-23T16:02:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -31,7 +31,7 @@
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-23T10:43:01.000Z",
+      "pubDate": "2026-09-23T16:02:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -40,7 +40,7 @@
     {
       "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
       "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-      "pubDate": "2026-09-23T10:43:01.000Z",
+      "pubDate": "2026-09-23T16:02:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
@@ -49,65 +49,74 @@
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-23T10:43:01.000Z",
+      "pubDate": "2026-09-23T16:02:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
     },
     {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "pubDate": "2026-09-23T08:29:48.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The f..."
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "pubDate": "2026-09-23T08:29:24.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through..."
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "pubDate": "2026-09-23T07:04:40.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social..."
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "pubDate": "2026-09-23T05:30:09.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current..."
-    },
-    {
-      "title": "Bitcoin Cash Runs 27% on CME Futures Listing as Bitcoin Gives Up the Day",
-      "link": "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
-      "pubDate": "2026-09-22T20:42:46.000Z",
+      "title": "Six Canadian Banks Outline First Phase of Tokenized Deposit Project",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project",
+      "pubDate": "2026-09-23T14:24:44.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Bitcoin Cash gained 14% in the hour CME Group said it would list futures on the token and kept climbing through the afternoon, finishing the session up 27% on m..."
+      "summary": "The exploratory project would first move deposits among participating institutions, while a US counterpart names its operator and payment rails...."
     },
     {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "pubDate": "2026-09-22T18:29:39.000Z",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "pubDate": "2026-09-23T14:17:58.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The fl..."
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September..."
+    },
+    {
+      "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
+      "link": "https://portswigger.net/research/http3-in-burp-suite",
+      "pubDate": "2026-09-23T14:00:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests pe..."
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "pubDate": "2026-09-23T13:52:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platfor..."
+    },
+    {
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "pubDate": "2026-09-23T12:16:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said..."
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "pubDate": "2026-09-23T11:47:19.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a..."
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "pubDate": "2026-09-23T11:47:13.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving al..."
     },
     {
       "title": "ZDI-26-719: Cisco ThousandEyes Virtual Appliance DHCP Client Command Injection Remote Code Execution Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "In May, the Protocol cluster welcomed a trio of new cluster coordinators and promised updates to follow. After months of settling in and aligning with contribu..."
-    },
-    {
-      "title": "VMs won't contain cyber-capable agents",
-      "link": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "pubDate": "2026-08-26T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "As part of Patch the Planet, we received preview access to GPT 5.6-Cyber with a simple task: evaluate its cyber capabilities. Recent events inspired me to give..."
     }
   ]
 }
