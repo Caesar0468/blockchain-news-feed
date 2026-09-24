@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T16:26:50.377Z",
+  "lastUpdated": "2026-09-24T21:06:30.496Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,76 @@
   },
   "items": [
     {
-      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "pubDate": "2026-09-24T16:26:49.000Z",
+      "title": "Kamino Opens GPU-loan-linked sUSDai Collateral Market on Solana",
+      "link": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
+      "pubDate": "2026-09-24T19:57:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC...."
+      "summary": "The Allez Labs-curated market lets holders borrow USDC at up to 80% loan-to-value, with liquidations starting at 85%...."
     },
     {
-      "title": "SEC Crypto Custody Rewrite Enters White House Review",
-      "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "pubDate": "2026-09-24T16:26:49.000Z",
+      "title": "Gnosis Pay Sets Dec. 20 Card Shutdown as It Shifts to B2B",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/gnosis-pay-sets-dec-20-card-shutdown-as-it-shifts-to-b2b",
+      "pubDate": "2026-09-24T19:48:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal...."
+      "summary": "Funds in users’ Safes will remain accessible after the cutoff, but continued card spending will require a partner account and a replacement card...."
     },
     {
-      "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
-      "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-      "pubDate": "2026-09-24T16:26:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Securities and Exchange Commission issued a five-year conditional exemption on Thursday letting tokenized National Market System (NMS) stock trade on permis..."
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "pubDate": "2026-09-24T18:10:18.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moo..."
     },
     {
-      "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
-      "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "pubDate": "2026-09-24T16:26:49.000Z",
+      "title": "IBM Connects Digital Asset Haven to Swift Ledger in Beta",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ibm-connects-digital-asset-haven-to-swift-ledger-in-beta",
+      "pubDate": "2026-09-24T17:54:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield..."
+      "summary": "Banks can instruct tokenized-deposit transactions using existing payment messages, while final settlement remains on established banking systems...."
     },
     {
-      "title": "New York Sues Polymarket US Over Unlicensed Gambling",
-      "link": "https://thedefiant.io/news/regulation/new-york-sues-polymarket-us-unlicensed-gambling",
-      "pubDate": "2026-09-24T16:19:07.000Z",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "pubDate": "2026-09-24T17:52:43.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hun..."
+    },
+    {
+      "title": "ARK Launches Tokenized Venture Fund on Ethereum With $500 Minimum",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ark-launches-tokenized-venture-fund-on-ethereum-with-500-minimum",
+      "pubDate": "2026-09-24T17:23:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Attorney General Letitia James asks a Manhattan court to shut the CFTC-designated exchange out of the state, award three times its gains, and impose $100,000 fo..."
+      "summary": "US retail investors can subscribe through Securitize, while fund buybacks remain limited to quarterly repurchase offers...."
+    },
+    {
+      "title": "Morgan Stanley, Oliver Wyman See Tokenized Assets Reaching $2.3 Trillion by 2030",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-oliver-wyman-see-tokenized-assets-reaching-2-3-trillion-by-2030",
+      "pubDate": "2026-09-24T17:19:11.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Collateral mobility accounts for about $1.7 trillion of the base-case forecast, with reserve and treasury management contributing another $400 billion...."
+    },
+    {
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "pubDate": "2026-09-24T15:27:32.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a h..."
     },
     {
       "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
@@ -81,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been S..."
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "pubDate": "2026-09-24T11:00:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian..."
-    },
-    {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "pubDate": "2026-09-24T09:14:21.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new glo..."
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "pubDate": "2026-09-24T07:07:25.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony..."
     },
     {
       "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
