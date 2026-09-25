@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-09-25T16:27:52.971Z",
+  "lastUpdated": "2026-09-25T21:03:49.893Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
       "Trail of Bits",
+      "Zero Day Initiative",
       "Project Zero",
       "Immunefi",
       "The Defiant",
@@ -12,10 +13,6 @@
     ],
     "failed": [
       {
-        "name": "Zero Day Initiative",
-        "error": "Request timed out after 10000ms"
-      },
-      {
         "name": "Hack The Box",
         "error": "Status code 404"
       }
@@ -23,31 +20,49 @@
   },
   "items": [
     {
-      "title": "Legacy Magic Eden Approvals Exploited as White Hats Rescue NFTs",
-      "link": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
-      "pubDate": "2026-09-25T16:12:07.000Z",
+      "title": "EBA Floats Stablecoin Lending Restrictions for EU Crypto Firms",
+      "link": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
+      "pubDate": "2026-09-25T20:50:59.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Yuga Labs’ 0xQuit says 23,155 NFTs worth more than $5.7 million were secured. Holders still need to revoke the vulnerable contracts’ NFT and token approvals...."
+      "summary": "The regulator wants the EU to examine rules for DeFi gateways, with leverage caps and certification of lending protocols among the options...."
     },
     {
-      "title": "Tether Says EQIBank Exposure Is Below 0.034% of Group Assets",
-      "link": "https://thedefiant.io/news/cefi/tether-says-eqibank-exposure-is-below-0-034-of-group-assets",
-      "pubDate": "2026-09-25T15:44:25.000Z",
+      "title": "Duelbits Co-Founder Reports $7 Million Hack as Casino Stays Offline",
+      "link": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
+      "pubDate": "2026-09-25T20:26:09.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A federal court order lists $79.1 million seized...."
+      "summary": "The platform says customer balances are unchanged and withdrawals will resume when it reopens, while onchain records show funds consolidated into ETH...."
     },
     {
-      "title": "Ethena Starts Equity-Basis Rollout for USDe With Binance",
-      "link": "https://thedefiant.io/news/defi/ethena-starts-equity-basis-rollout-for-usde-with-binance",
-      "pubDate": "2026-09-25T14:59:16.000Z",
+      "title": "Circle CFO Jeremy Fox-Geen to Step Down by Year-End",
+      "link": "https://thedefiant.io/converge/people/circle-cfo-jeremy-fox-geen-to-step-down-by-year-end",
+      "pubDate": "2026-09-25T20:16:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The strategy pairs bStocks with short equity perpetuals, while eligible hedged accounts receive lower auto-deleveraging priority...."
+      "summary": "Circle has begun a replacement search, while Fox-Geen’s exit agreement includes $1.05 million in conditional cash payments...."
+    },
+    {
+      "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+      "link": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
+      "pubDate": "2026-09-25T20:14:02.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Qualifying staking receipts fall into non-security categories, while the FAQs reaffirm an earlier position on maintenance and development funding...."
+    },
+    {
+      "title": "Bitget Raises Hack Estimate To $387.5 Million As Token Accounting Widens",
+      "link": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
+      "pubDate": "2026-09-25T16:55:57.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "XRP and ether dominate the identified outflows. Withdrawals remain paused as the exchange adds Zcash and TRON assets to its accounting...."
     },
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -57,24 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised duri..."
-    },
-    {
-      "title": "Aave Adds Coinbase Stock Tokens as Collateral on Base",
-      "link": "https://thedefiant.io/news/defi/aave-adds-coinbase-stock-tokens-as-collateral-on-base",
-      "pubDate": "2026-09-25T14:44:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Seven stock tokens back USDC loans in a dedicated V4 market with a 21 million USDC borrowing cap. Access is limited to eligible non-US investors...."
-    },
-    {
-      "title": "Binance-Owned CoinMarketCap Acquires CoinGlass",
-      "link": "https://thedefiant.io/news/infrastructure/binance-owned-coinmarketcap-acquires-coinglass",
-      "pubDate": "2026-09-25T14:42:01.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "CoinGlass says it will keep operating independently, with its brand, website, app, API and pricing unchanged...."
     },
     {
       "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
@@ -129,6 +126,51 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests pe..."
+    },
+    {
+      "title": "ZDI-26-748: Luxion KeyShot BIP File Parsing Uncontrolled Search Path Element Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-748/",
+      "pubDate": "2026-09-23T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Luxion KeyShot. User interaction is required to exploit this v..."
+    },
+    {
+      "title": "ZDI-26-747: Wireshark RF4CE Packet Parsing Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-747/",
+      "pubDate": "2026-09-23T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark. User interaction is required to exploit this vulner..."
+    },
+    {
+      "title": "ZDI-26-746: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-746/",
+      "pubDate": "2026-09-23T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this..."
+    },
+    {
+      "title": "ZDI-26-745: Foxit PDF Reader AcroForm Out-of-Bounds Read Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-745/",
+      "pubDate": "2026-09-23T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this..."
+    },
+    {
+      "title": "ZDI-26-744: Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-744/",
+      "pubDate": "2026-09-23T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this..."
     },
     {
       "title": "SAML: A fractal of bad design",
@@ -201,51 +243,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "This is the EF Protocol cluster’s tier list for Hegotá. We evaluated the 62 EIPs proposed for inclusion, each with a tier and a short note on the grade. It is..."
-    },
-    {
-      "title": "EF Protocol: Current and Emerging Priorities",
-      "link": "https://blog.ethereum.org/en/2026/09/07/protocol-priorities",
-      "pubDate": "2026-09-07T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "In May, the Protocol cluster welcomed a trio of new cluster coordinators and promised updates to follow. After months of settling in and aligning with contribu..."
-    },
-    {
-      "title": "What's in a tag name? JavaScript, apparently",
-      "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
-      "pubDate": "2026-08-25T14:24:32.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with..."
-    },
-    {
-      "title": "Glamsterdam Repricing Impact for Smart Contract Developers",
-      "link": "https://blog.ethereum.org/en/2026/08/24/glamsterdam-repricing-testing",
-      "pubDate": "2026-08-24T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "......"
-    },
-    {
-      "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
-      "link": "https://blog.ethereum.org/en/2026/08/20/better-codes-challenge",
-      "pubDate": "2026-08-20T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "better.codes, an open autoresearch challenge built by the Ethereum Foundation Formal Verification team in collaboration with Yukon and zkSecurity, is now live...."
-    },
-    {
-      "title": "CSS:the bomb inside your inbox",
-      "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "pubDate": "2026-08-06T22:00:00.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make t..."
     }
   ]
 }
