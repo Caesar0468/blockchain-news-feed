@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T21:06:30.496Z",
+  "lastUpdated": "2026-09-25T03:17:42.214Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,22 +20,49 @@
   },
   "items": [
     {
-      "title": "Kamino Opens GPU-loan-linked sUSDai Collateral Market on Solana",
-      "link": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
-      "pubDate": "2026-09-24T19:57:06.000Z",
+      "title": "Block Adds Bitcoin Lightning to x402 Standard",
+      "link": "https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard",
+      "pubDate": "2026-09-25T02:55:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Allez Labs-curated market lets holders borrow USDC at up to 80% loan-to-value, with liquidations starting at 85%...."
+      "summary": "The Lightning payment specification has been merged into x402’s repository, while a Python implementation still awaits review and real-node testing...."
     },
     {
-      "title": "Gnosis Pay Sets Dec. 20 Card Shutdown as It Shifts to B2B",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/gnosis-pay-sets-dec-20-card-shutdown-as-it-shifts-to-b2b",
-      "pubDate": "2026-09-24T19:48:55.000Z",
+      "title": "Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens",
+      "link": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
+      "pubDate": "2026-09-25T02:26:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Funds in users’ Safes will remain accessible after the cutoff, but continued card spending will require a partner account and a replacement card...."
+      "summary": "The draft keeps amounts confidential but preserves issuer enforcement powers, tackling requirements behind institutional interest in permissioned networks...."
+    },
+    {
+      "title": "Tokenized-Stock Holder Count Reaches 4.3 Million, Led by BNB Chain",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stock-holder-count-reaches-4-3-million-led-by-bnb-chain",
+      "pubDate": "2026-09-25T01:28:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Robinhood Chain ranks second with 1.3 million holders, ahead of Solana’s 997,000, in Token Terminal’s latest update. The metric measures token balances, not dis..."
+    },
+    {
+      "title": "KelpDAO Files BC Civil Claim Against LayerZero",
+      "link": "https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says",
+      "pubDate": "2026-09-24T23:54:59.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "LayerZero CEO Bryan Pellegrino says he is also named in the claim and calls it 'meritless,' promising to defend himself in Vancouver...."
+    },
+    {
+      "title": "Paxos Labs Launches PAXGy, Adding Lending Yield to Tokenized Gold",
+      "link": "https://thedefiant.io/news/tokens/paxos-labs-launches-paxgy-adding-lending-yield-to-tokenized-gold",
+      "pubDate": "2026-09-24T23:05:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Holders bear borrower-default risk, while direct redemptions return PAXG through an approval-gated withdrawal queue...."
     },
     {
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
@@ -47,15 +74,6 @@
       "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moo..."
     },
     {
-      "title": "IBM Connects Digital Asset Haven to Swift Ledger in Beta",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ibm-connects-digital-asset-haven-to-swift-ledger-in-beta",
-      "pubDate": "2026-09-24T17:54:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Banks can instruct tokenized-deposit transactions using existing payment messages, while final settlement remains on established banking systems...."
-    },
-    {
       "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
       "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
       "pubDate": "2026-09-24T17:52:43.000Z",
@@ -63,24 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hun..."
-    },
-    {
-      "title": "ARK Launches Tokenized Venture Fund on Ethereum With $500 Minimum",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ark-launches-tokenized-venture-fund-on-ethereum-with-500-minimum",
-      "pubDate": "2026-09-24T17:23:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "US retail investors can subscribe through Securitize, while fund buybacks remain limited to quarterly repurchase offers...."
-    },
-    {
-      "title": "Morgan Stanley, Oliver Wyman See Tokenized Assets Reaching $2.3 Trillion by 2030",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-oliver-wyman-see-tokenized-assets-reaching-2-3-trillion-by-2030",
-      "pubDate": "2026-09-24T17:19:11.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Collateral mobility accounts for about $1.7 trillion of the base-case forecast, with reserve and treasury management contributing another $400 billion...."
     },
     {
       "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
