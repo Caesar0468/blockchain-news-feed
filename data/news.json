@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T15:42:30.318Z",
+  "lastUpdated": "2026-09-26T20:36:47.963Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,42 @@
     ]
   },
   "items": [
+    {
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "pubDate": "2026-09-26T18:22:52.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as..."
+    },
+    {
+      "title": "CleanSpark Closes $2.276 Billion Debt Deal for Sandersville Data Center",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/cleanspark-closes-2-276-billion-debt-deal-for-sandersville-data-center",
+      "pubDate": "2026-09-26T17:01:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The 7.875% notes fund construction and reimburse earlier equity contributions to a Georgia project with a 20-year lease...."
+    },
+    {
+      "title": "StarkWare Challenge Cuts Quantum-Safe Bitcoin Compute Estimate by 79%",
+      "link": "https://thedefiant.io/news/blockchains/starkware-challenge-cuts-quantum-safe-bitcoin-compute-estimate-by-79",
+      "pubDate": "2026-09-26T16:54:17.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The AI-assisted contest targets offchain GPU work, not Bitcoin fees. The experimental method still requires a direct path to a miner...."
+    },
+    {
+      "title": "Morpho Blames AI Marketing Tool for Deleted Post Saying Its Own Curator Business Model is Broken",
+      "link": "https://thedefiant.io/news/defi/morpho-blames-ai-marketing-tool-for-deleted-post-saying-its-own-curator-business-model-is-broken",
+      "pubDate": "2026-09-26T15:50:36.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The post from Morpho's official X account said most curator businesses are not self-sustaining from vault fees and that the business lives in private distributi..."
+    },
     {
       "title": "Solana’s Alpenglow Goes Live on Devnet Ahead of Mainnet Migration",
       "link": "https://thedefiant.io/news/blockchains/solana-s-alpenglow-goes-live-on-devnet-ahead-of-mainnet-migration",
@@ -65,15 +101,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its..."
     },
     {
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "pubDate": "2026-09-26T07:48:33.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threa..."
-    },
-    {
       "title": "AlphaFi Winds Down After Oracle Error, With Sui Foundation Support",
       "link": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
       "pubDate": "2026-09-26T00:27:19.000Z",
@@ -81,33 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "New deposits and loans are disabled, while Slush users are told to exit four strategies with immediate withdrawals...."
-    },
-    {
-      "title": "EBA Floats Stablecoin Lending Restrictions for EU Crypto Firms",
-      "link": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
-      "pubDate": "2026-09-25T20:50:59.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The regulator wants the EU to examine rules for DeFi gateways, with leverage caps and certification of lending protocols among the options...."
-    },
-    {
-      "title": "Duelbits Co-Founder Reports $7 Million Hack as Casino Stays Offline",
-      "link": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
-      "pubDate": "2026-09-25T20:26:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The platform says customer balances are unchanged and withdrawals will resume when it reopens, while onchain records show funds consolidated into ETH...."
-    },
-    {
-      "title": "Circle CFO Jeremy Fox-Geen to Step Down by Year-End",
-      "link": "https://thedefiant.io/converge/people/circle-cfo-jeremy-fox-geen-to-step-down-by-year-end",
-      "pubDate": "2026-09-25T20:16:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Circle has begun a replacement search, while Fox-Geen’s exit agreement includes $1.05 million in conditional cash payments...."
     },
     {
       "title": "Don't let TEEs break your MPC",
