@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T21:03:49.893Z",
+  "lastUpdated": "2026-09-26T03:22:05.182Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "AlphaFi Winds Down After Oracle Error, With Sui Foundation Support",
+      "link": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
+      "pubDate": "2026-09-26T00:27:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "New deposits and loans are disabled, while Slush users are told to exit four strategies with immediate withdrawals...."
+    },
     {
       "title": "EBA Floats Stablecoin Lending Restrictions for EU Crypto Firms",
       "link": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
@@ -54,15 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Qualifying staking receipts fall into non-security categories, while the FAQs reaffirm an earlier position on maintenance and development funding...."
-    },
-    {
-      "title": "Bitget Raises Hack Estimate To $387.5 Million As Token Accounting Widens",
-      "link": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
-      "pubDate": "2026-09-25T16:55:57.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "XRP and ether dominate the identified outflows. Withdrawals remain paused as the exchange adds Zcash and TRON assets to its accounting...."
     },
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
