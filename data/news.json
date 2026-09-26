@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T03:22:05.182Z",
+  "lastUpdated": "2026-09-26T10:45:46.227Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,33 @@
     ]
   },
   "items": [
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "pubDate": "2026-09-26T09:55:22.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacke..."
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "pubDate": "2026-09-26T08:49:53.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its..."
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "pubDate": "2026-09-26T07:48:33.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threa..."
+    },
     {
       "title": "AlphaFi Winds Down After Oracle Error, With Sui Foundation Support",
       "link": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
@@ -83,15 +110,6 @@
       "summary": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain..."
     },
     {
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "pubDate": "2026-09-25T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a fai..."
-    },
-    {
       "title": "Don't let TEEs break your MPC",
       "link": "https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/",
       "pubDate": "2026-09-25T11:00:00.000Z",
@@ -99,24 +117,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Threshold signature schemes, a form of multi-party computation (MPC) that lets a set of parties sign together without any one of them holding the key, are incre..."
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "pubDate": "2026-09-25T10:35:55.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September..."
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "pubDate": "2026-09-25T10:14:02.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability..."
     },
     {
       "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
