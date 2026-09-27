@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T11:20:26.578Z",
+  "lastUpdated": "2026-09-27T16:20:41.686Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "THORChain Pushes Back on Bitget’s Demand to Block Hacker Addresses",
+      "link": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
+      "pubDate": "2026-09-27T14:45:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "An address flagged by Bitget completed an XRP-to-bitcoin swap after the request, while OKX’s Star Xu challenged THORChain’s comparison with Bitcoin...."
+    },
+    {
+      "title": "Buterin Maps Ethereum's Post-Hegota 'Cryptographic World Computer'",
+      "link": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
+      "pubDate": "2026-09-27T14:44:40.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Hegota's scheduled changes target censorship resistance and wallet flexibility; the broader vision relies on proof aggregation and open research...."
+    },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -65,15 +83,6 @@
       "summary": "The post from Morpho's official X account said most curator businesses are not self-sustaining from vault fees and that the business lives in private distributi..."
     },
     {
-      "title": "Solana’s Alpenglow Goes Live on Devnet Ahead of Mainnet Migration",
-      "link": "https://thedefiant.io/news/blockchains/solana-s-alpenglow-goes-live-on-devnet-ahead-of-mainnet-migration",
-      "pubDate": "2026-09-26T14:37:38.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Anza is asking app developers to test programs and integrations as the upgrade moves validator voting off-chain. Mainnet activation remains pending...."
-    },
-    {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
       "pubDate": "2026-09-26T11:46:40.000Z",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacke..."
-    },
-    {
-      "title": "AlphaFi Winds Down After Oracle Error, With Sui Foundation Support",
-      "link": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
-      "pubDate": "2026-09-26T00:27:19.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "New deposits and loans are disabled, while Slush users are told to exit four strategies with immediate withdrawals...."
     },
     {
       "title": "Don't let TEEs break your MPC",
