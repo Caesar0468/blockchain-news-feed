@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T03:28:14.534Z",
+  "lastUpdated": "2026-09-28T12:49:42.795Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,22 +20,85 @@
   },
   "items": [
     {
-      "title": "THORChain Pushes Back on Bitget’s Demand to Block Hacker Addresses",
-      "link": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
-      "pubDate": "2026-09-27T14:45:19.000Z",
+      "title": "Citi Taps Coinbase for Corporate Stablecoin Payments: WSJ",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/citi-taps-coinbase-for-corporate-stablecoin-payments-wsj",
+      "pubDate": "2026-09-28T12:29:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "An address flagged by Bitget completed an XRP-to-bitcoin swap after the request, while OKX’s Star Xu challenged THORChain’s comparison with Bitcoin...."
+      "summary": "The firms’ October 2025 collaboration initially focused on fiat funding and withdrawals for Coinbase’s on- and off-ramps...."
     },
     {
-      "title": "Buterin Maps Ethereum's Post-Hegota 'Cryptographic World Computer'",
-      "link": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
-      "pubDate": "2026-09-27T14:44:40.000Z",
+      "title": "Bitget Reopens Bitcoin Withdrawals After $387.5 Million Breach",
+      "link": "https://thedefiant.io/news/hacks/bitget-reopens-bitcoin-withdrawals-after-387-5-million-breach",
+      "pubDate": "2026-09-28T12:16:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Hegota's scheduled changes target censorship resistance and wallet flexibility; the broader vision relies on proof aggregation and open research...."
+      "summary": "ETH and USDT withdrawals remain paused, while CEO Gracy Chen pledges to replenish the protection fund above $300 million this week...."
+    },
+    {
+      "title": "Bitcoin ETFs Draw Nearly $3 Billion in Seven Sessions as 2026 Flows Turn Positive",
+      "link": "https://thedefiant.io/news/markets/bitcoin-etfs-draw-nearly-3-billion-in-seven-sessions-as-2026-flows-turn-positive",
+      "pubDate": "2026-09-28T12:15:14.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "US spot funds finished Sept. 25 with about $1.02 billion in net inflows for the year, reversing a $1.96 billion deficit before the streak...."
+    },
+    {
+      "title": "Fake GIWA Layer 2 Bridge Drained of 766 ETH",
+      "link": "https://thedefiant.io/news/security/fake-giwa-layer-2-bridge-drained-of-766-eth",
+      "pubDate": "2026-09-28T12:14:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "DYORSWAP, which mistook the network for the Upbit-backed project, promises 40% reimbursement for eligible wallets that bridged less than 5 ETH...."
+    },
+    {
+      "title": "Franklin Templeton Fund Shares Become Bybit Trading Collateral",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-bybit-benji-tokenized-collateral-bycustody",
+      "pubDate": "2026-09-28T12:11:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Eligible clients can pledge Benji-issued money market fund shares for USDT or USDC credit lines while the shares stay in custody and keep paying yield. Franklin..."
+    },
+    {
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "pubDate": "2026-09-28T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across bus..."
+    },
+    {
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "pubDate": "2026-09-28T11:46:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artif..."
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "pubDate": "2026-09-28T09:08:21.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principa..."
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "pubDate": "2026-09-28T07:21:49.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vuln..."
     },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
@@ -45,69 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on..."
-    },
-    {
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "pubDate": "2026-09-26T18:22:52.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as..."
-    },
-    {
-      "title": "CleanSpark Closes $2.276 Billion Debt Deal for Sandersville Data Center",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/cleanspark-closes-2-276-billion-debt-deal-for-sandersville-data-center",
-      "pubDate": "2026-09-26T17:01:29.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The 7.875% notes fund construction and reimburse earlier equity contributions to a Georgia project with a 20-year lease...."
-    },
-    {
-      "title": "StarkWare Challenge Cuts Quantum-Safe Bitcoin Compute Estimate by 79%",
-      "link": "https://thedefiant.io/news/blockchains/starkware-challenge-cuts-quantum-safe-bitcoin-compute-estimate-by-79",
-      "pubDate": "2026-09-26T16:54:17.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The AI-assisted contest targets offchain GPU work, not Bitcoin fees. The experimental method still requires a direct path to a miner...."
-    },
-    {
-      "title": "Morpho Blames AI Marketing Tool for Deleted Post Saying Its Own Curator Business Model is Broken",
-      "link": "https://thedefiant.io/news/defi/morpho-blames-ai-marketing-tool-for-deleted-post-saying-its-own-curator-business-model-is-broken",
-      "pubDate": "2026-09-26T15:50:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The post from Morpho's official X account said most curator businesses are not self-sustaining from vault fees and that the business lives in private distributi..."
-    },
-    {
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "pubDate": "2026-09-26T11:46:40.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally...."
-    },
-    {
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "pubDate": "2026-09-26T10:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quick..."
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "pubDate": "2026-09-26T09:55:22.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacke..."
     },
     {
       "title": "Don't let TEEs break your MPC",
