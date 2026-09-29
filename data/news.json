@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T22:54:36.667Z",
+  "lastUpdated": "2026-09-29T04:03:55.849Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "Coinbase Wins CFTC Approval for In-House Derivatives Clearing",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing",
+      "pubDate": "2026-09-29T01:23:54.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The new clearinghouse can handle fully collateralized contracts; Coinbase will keep outside partners for margined futures and planned single-stock perpetuals...."
+    },
     {
       "title": "SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ",
       "link": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
@@ -81,15 +90,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The fee-funded increase compares with a roughly 3% baseline and rewards stake held during the window, rather than when the fees accrued...."
-    },
-    {
-      "title": "Compound Foundation Denies V2 Reserve Misuse Allegation",
-      "link": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
-      "pubDate": "2026-09-28T18:00:52.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Records show 344,780 COMP increased the Foundation’s voting power before a $52 million V4 budget vote. The proposal had enough support to pass without those tok..."
     },
     {
       "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
@@ -200,6 +200,15 @@
       "summary": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs (we’re one of them). Ho..."
     },
     {
+      "title": "Glamsterdam Testnet Announcement",
+      "link": "https://blog.ethereum.org/en/2026/09/17/glamsterdam-testnet-announcement",
+      "pubDate": "2026-09-17T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and change..."
+    },
+    {
       "title": "1Password's AI patching benchmark is misleading",
       "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
       "pubDate": "2026-09-15T11:00:00.000Z",
@@ -234,15 +243,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates ch..."
-    },
-    {
-      "title": "EF Protocol: The Hegotá EIP Opinion Post and Tier List",
-      "link": "https://blog.ethereum.org/en/2026/09/07/protocol-hegota-eips",
-      "pubDate": "2026-09-07T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "This is the EF Protocol cluster’s tier list for Hegotá. We evaluated the 62 EIPs proposed for inclusion, each with a tier and a short note on the grade. It is..."
     }
   ]
 }
