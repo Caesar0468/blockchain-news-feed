@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T03:50:38.079Z",
+  "lastUpdated": "2026-09-30T11:52:28.369Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Abracadabra Proposes Winding Down MIM at Four Cents on the Dollar",
-      "link": "https://thedefiant.io/news/defi/abracadabra-proposes-winding-down-mim-at-four-cents-on-the-dollar",
-      "pubDate": "2026-09-30T02:13:52.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A Snapshot vote would liquidate the protocol, swap what collateral is left into ether and pay MIM holders pro rata. The team puts recoverable backing at about $..."
-    },
-    {
-      "title": "Robinhood Begins US Crypto Perps Rollout With Up to 10x Leverage",
-      "link": "https://thedefiant.io/news/cefi/robinhood-begins-us-crypto-perps-rollout-with-up-to-10x-leverage",
-      "pubDate": "2026-09-29T23:30:02.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The eight-contract lineup offers no-expiry trading through Robinhood Derivatives and Bitstamp, with broader access planned in the coming months...."
-    },
-    {
-      "title": "BlackRock Sees Stablecoins Powering AI Agent Payments",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-sees-stablecoins-powering-ai-agent-payments",
-      "pubDate": "2026-09-29T20:15:04.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The asset manager points to tiny, round-the-clock payments for data and computing power, while traditional checkout systems retain a role...."
-    },
-    {
-      "title": "SEC Sues Cryptoaiml and TSAI Over Alleged $15 Million AI Trading Scams",
-      "link": "https://thedefiant.io/news/regulation/sec-sues-cryptoaiml-and-tsai-over-alleged-15-million-ai-trading-scams",
-      "pubDate": "2026-09-29T20:05:34.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Two New York lawsuits allege investors were shown fictitious profits and pressed for more money when they tried to withdraw...."
-    },
-    {
-      "title": "Balancer Sets Shutdown Dates After BAL Holders Approve Wind-Down",
-      "link": "https://thedefiant.io/news/defi/balancer-sets-shutdown-dates-after-bal-holders-approve-wind-down",
-      "pubDate": "2026-09-29T19:13:04.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "About $52.4 million remains in V2 and V3 pools. Withdrawals will stay open, while treasury redemptions are scheduled to begin in May 2027...."
-    },
-    {
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "pubDate": "2026-09-29T17:47:01.000Z",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "pubDate": "2026-09-30T11:30:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July..."
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow sai..."
     },
     {
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "pubDate": "2026-09-29T17:20:17.000Z",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "pubDate": "2026-09-30T10:45:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT)..."
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology,..."
     },
     {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "pubDate": "2026-09-29T17:20:08.000Z",
+      "title": "Gate: Same-Name Error Triggers Liquidations in Perp Market",
+      "link": "https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment",
+      "pubDate": "2026-09-30T10:27:01.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Two self-identified Gate managers said a same-name asset error affected 200 accounts and that balance displays were being restored...."
+    },
+    {
+      "title": "Stable Announces Visa Direct Integration for Bank and Mobile Wallet Payouts",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/stable-announces-visa-direct-integration-for-bank-and-mobile-wallet-payouts",
+      "pubDate": "2026-09-30T10:10:10.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Visa previously announced stablecoin funding and payout pilots; Stable has not specified when its connection will be available or which markets it will cover...."
+    },
+    {
+      "title": "HSBC Names Hong Kong Stablecoin 'RedCoin' Ahead of Retail Rollout",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-names-hong-kong-stablecoin-redcoin-ahead-of-retail-rollout",
+      "pubDate": "2026-09-30T10:04:27.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Hong Kong dollar token is planned for the second half of 2026, with initial distribution limited to PayMe and the HSBC HK Mobile App...."
+    },
+    {
+      "title": "Standard Chartered Initiates ENA Coverage With $2 Target",
+      "link": "https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target",
+      "pubDate": "2026-09-30T09:50:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Standard Chartered forecasts a 7x gain by end-2028 on the strength of Ethena's buyback program. The buyback switches on when USDe supply reaches $7.5 billion; U..."
+    },
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "pubDate": "2026-09-30T08:24:35.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, accor..."
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizatio..."
     },
     {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "pubDate": "2026-09-29T14:13:20.000Z",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "pubDate": "2026-09-30T08:09:28.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability durin..."
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes..."
     },
     {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "pubDate": "2026-09-29T13:45:10.000Z",
+      "title": "Kalshi Files to End Volume Incentive Program",
+      "link": "https://thedefiant.io/news/cefi/kalshi-files-to-end-volume-incentive-program",
+      "pubDate": "2026-09-30T07:34:13.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The reward pools exclude members with market-maker agreements; Kalshi cited separate liquidity payments to explain clustered ether perpetual trades...."
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "pubDate": "2026-09-30T05:30:30.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed Phanto..."
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under..."
     },
     {
       "title": "Glamsterdam Testnet Announcement",
