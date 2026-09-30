@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T21:48:48.599Z",
+  "lastUpdated": "2026-09-30T03:50:38.079Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Abracadabra Proposes Winding Down MIM at Four Cents on the Dollar",
+      "link": "https://thedefiant.io/news/defi/abracadabra-proposes-winding-down-mim-at-four-cents-on-the-dollar",
+      "pubDate": "2026-09-30T02:13:52.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "A Snapshot vote would liquidate the protocol, swap what collateral is left into ether and pay MIM holders pro rata. The team puts recoverable backing at about $..."
+    },
+    {
+      "title": "Robinhood Begins US Crypto Perps Rollout With Up to 10x Leverage",
+      "link": "https://thedefiant.io/news/cefi/robinhood-begins-us-crypto-perps-rollout-with-up-to-10x-leverage",
+      "pubDate": "2026-09-29T23:30:02.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The eight-contract lineup offers no-expiry trading through Robinhood Derivatives and Bitstamp, with broader access planned in the coming months...."
+    },
     {
       "title": "BlackRock Sees Stablecoins Powering AI Agent Payments",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-sees-stablecoins-powering-ai-agent-payments",
@@ -47,15 +65,6 @@
       "summary": "About $52.4 million remains in V2 and V3 pools. Withdrawals will stay open, while treasury redemptions are scheduled to begin in May 2027...."
     },
     {
-      "title": "Balancer Holders Approve Wind-Down, Reject Official Fork",
-      "link": "https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork",
-      "pubDate": "2026-09-29T19:08:31.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Pausable pools begin moving to withdrawals-only on Oct. 30, while BAL holders can redeem for treasury assets starting at the end of May 2027...."
-    },
-    {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
       "pubDate": "2026-09-29T17:47:01.000Z",
@@ -63,15 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July..."
-    },
-    {
-      "title": "New Survey Shows American Banks Rapidly Embracing Blockchain to Offer Faster, Cheaper and Better Financial Services",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption",
-      "pubDate": "2026-09-29T17:20:23.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Uphold today releases research which reveals that 75% of American banks have blockchain finance programmes underway: 22% have projects that are live or scaling,..."
     },
     {
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
