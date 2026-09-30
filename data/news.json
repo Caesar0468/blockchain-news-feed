@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T11:52:28.369Z",
+  "lastUpdated": "2026-09-30T17:33:38.408Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,60 @@
     ]
   },
   "items": [
+    {
+      "title": "ESMA Proposes MiCA Rules for DeFi Gateways, Staking and Lending",
+      "link": "https://thedefiant.io/converge/regulation/esma-proposes-mica-rules-for-defi-gateways-staking-and-lending",
+      "pubDate": "2026-09-30T17:27:11.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The regulator also wants to bar crypto firms from all MiCA-licensable services involving noncompliant stablecoins, extending restrictions to custody and transfe..."
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "pubDate": "2026-09-30T15:24:54.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco sa..."
+    },
+    {
+      "title": "Most Tokenized Cash Never Trades, Dune Finds",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dune-report-most-tokenized-cash-never-trades",
+      "pubDate": "2026-09-30T15:04:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Tokenized real-world assets reached $34.5 billion at the end of August, according to a Dune report published Wednesday. Tokenized Treasury funds make up half of..."
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "pubDate": "2026-09-30T15:00:15.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ Cl..."
+    },
+    {
+      "title": "Ostium Recovery Plan Repays 3,321 Wallets In Full, Leaves 345 To Choose",
+      "link": "https://thedefiant.io/news/hacks/ostium-recovery-plan-repays-3321-wallets-in-full-leaves-345-to-choose",
+      "pubDate": "2026-09-30T15:00:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Wallets that lost $1,000 or less get everything back when the portal opens Wednesday. The 345 wallets carrying at least 86% of the $23.8 million loss choose bet..."
+    },
+    {
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "pubDate": "2026-09-30T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser..."
+    },
     {
       "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
       "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
@@ -54,60 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Visa previously announced stablecoin funding and payout pilots; Stable has not specified when its connection will be available or which markets it will cover...."
-    },
-    {
-      "title": "HSBC Names Hong Kong Stablecoin 'RedCoin' Ahead of Retail Rollout",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-names-hong-kong-stablecoin-redcoin-ahead-of-retail-rollout",
-      "pubDate": "2026-09-30T10:04:27.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Hong Kong dollar token is planned for the second half of 2026, with initial distribution limited to PayMe and the HSBC HK Mobile App...."
-    },
-    {
-      "title": "Standard Chartered Initiates ENA Coverage With $2 Target",
-      "link": "https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target",
-      "pubDate": "2026-09-30T09:50:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Standard Chartered forecasts a 7x gain by end-2028 on the strength of Ethena's buyback program. The buyback switches on when USDe supply reaches $7.5 billion; U..."
-    },
-    {
-      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-      "pubDate": "2026-09-30T08:24:35.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizatio..."
-    },
-    {
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "pubDate": "2026-09-30T08:09:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes..."
-    },
-    {
-      "title": "Kalshi Files to End Volume Incentive Program",
-      "link": "https://thedefiant.io/news/cefi/kalshi-files-to-end-volume-incentive-program",
-      "pubDate": "2026-09-30T07:34:13.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The reward pools exclude members with market-maker agreements; Kalshi cited separate liquidity payments to explain clustered ether perpetual trades...."
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "pubDate": "2026-09-30T05:30:30.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under..."
     },
     {
       "title": "Glamsterdam Testnet Announcement",
