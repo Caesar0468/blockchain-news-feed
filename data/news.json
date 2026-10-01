@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T03:58:46.588Z",
+  "lastUpdated": "2026-10-01T12:22:41.278Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,87 @@
   },
   "items": [
     {
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "pubDate": "2026-10-01T11:45:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engin..."
+    },
+    {
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "pubDate": "2026-10-01T10:42:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its art..."
+    },
+    {
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "pubDate": "2026-10-01T10:33:16.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manage..."
+    },
+    {
+      "title": "Authors Pull Ethereum Staking Reward Burn From Hegotá",
+      "link": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
+      "pubDate": "2026-10-01T09:41:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The authors plan a separate issuance-policy process, naming Lido among those offering to help after objections over validator economics and how the change was b..."
+    },
+    {
+      "title": "Judge Dismisses LIBRA and M3M3 Class Action With Prejudice",
+      "link": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
+      "pubDate": "2026-10-01T08:36:54.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Judge Jennifer Rochon ruled that six months of memecoin launches cannot sustain a RICO claim, and that plaintiffs never pleaded Meteora as an entity capable of..."
+    },
+    {
+      "title": "CertiK Tallies $766.4 Million in September Exploit and Phishing Losses",
+      "link": "https://thedefiant.io/news/security/certik-tallies-766-4-million-in-september-exploit-and-phishing-losses",
+      "pubDate": "2026-10-01T08:13:39.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitget and Liquid Network dominate the month's losses, while recovered and frozen funds substantially reduce the remaining damage...."
+    },
+    {
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "pubDate": "2026-10-01T07:49:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber..."
+    },
+    {
+      "title": "Marinade Says Council Blocked DAO Takeover Attempt",
+      "link": "https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt",
+      "pubDate": "2026-10-01T07:46:38.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The council vetoed two proposals within six hours, Marinade says. No funds moved, and its staking services were unaffected...."
+    },
+    {
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "pubDate": "2026-10-01T05:54:41.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks ag..."
+    },
+    {
       "title": "Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident",
       "link": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
       "pubDate": "2026-10-01T03:19:58.000Z",
@@ -27,87 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The RLUSD and PYUSD vaults had about $8.46 million and $2.38 million of available liquidity, respectively, in Morpho’s latest snapshots...."
-    },
-    {
-      "title": "MetaMask Staking Exits Lido Validators After Infrastructure Compromise",
-      "link": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
-      "pubDate": "2026-10-01T00:00:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally...."
-    },
-    {
-      "title": "OFAC Sanctions Tren de Aragua ATM Network, Lists Seven Tron Addresses",
-      "link": "https://thedefiant.io/news/regulation/ofac-sanctions-tren-de-aragua-atm-network-lists-seven-tron-addresses",
-      "pubDate": "2026-09-30T21:29:30.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Chainalysis says the wallets’ counterparties had exposure to laundering networks used by Mexican and Colombian cartels and Venezuelan launderers...."
-    },
-    {
-      "title": "Uniswap Labs Plans OUSD Rewards Hook for Liquidity Providers",
-      "link": "https://thedefiant.io/news/defi/uniswap-labs-plans-ousd-rewards-hook-for-liquidity-providers",
-      "pubDate": "2026-09-30T19:53:45.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "OUSD is already available across Uniswap's protocol, apps and API, while the planned rewards mechanism awaits its full design...."
-    },
-    {
-      "title": "Daines Unveils Crypto Tax Bill Pairing Payment Relief With Wash-Sale Rules",
-      "link": "https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules",
-      "pubDate": "2026-09-30T19:29:57.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The ADAPT Act would exempt qualifying stablecoin purchases and crypto-paid transaction costs of $10 or less from gain-or-loss recognition, while restricting los..."
-    },
-    {
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "pubDate": "2026-09-30T16:46:29.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to finding..."
-    },
-    {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "pubDate": "2026-09-30T16:32:59.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting i..."
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "pubDate": "2026-09-30T15:24:54.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco sa..."
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "pubDate": "2026-09-30T15:00:15.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ Cl..."
-    },
-    {
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "pubDate": "2026-09-30T11:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser..."
     },
     {
       "title": "ZDI-26-750: WatchGuard FireWare OS spamd statushdlr Stack-based Buffer Overflow Remote Code Execution Vulnerability",
