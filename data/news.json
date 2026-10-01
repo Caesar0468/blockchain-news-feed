@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T21:50:16.735Z",
+  "lastUpdated": "2026-10-01T03:58:46.588Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident",
+      "link": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
+      "pubDate": "2026-10-01T03:19:58.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The RLUSD and PYUSD vaults had about $8.46 million and $2.38 million of available liquidity, respectively, in Morpho’s latest snapshots...."
+    },
+    {
+      "title": "MetaMask Staking Exits Lido Validators After Infrastructure Compromise",
+      "link": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
+      "pubDate": "2026-10-01T00:00:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally...."
+    },
     {
       "title": "OFAC Sanctions Tren de Aragua ATM Network, Lists Seven Tron Addresses",
       "link": "https://thedefiant.io/news/regulation/ofac-sanctions-tren-de-aragua-atm-network-lists-seven-tron-addresses",
@@ -45,24 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The ADAPT Act would exempt qualifying stablecoin purchases and crypto-paid transaction costs of $10 or less from gain-or-loss recognition, while restricting los..."
-    },
-    {
-      "title": "UK FCA Opens Crypto Authorization Window Ahead of 2027 Regime",
-      "link": "https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime",
-      "pubDate": "2026-09-30T19:27:02.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Existing firms that apply by Feb. 28, 2027 can keep taking new business if their applications are still pending when the regime starts on Oct. 25...."
-    },
-    {
-      "title": "Base Ships Cobalt With Conditional Transactions And A Seize Function",
-      "link": "https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function",
-      "pubDate": "2026-09-30T19:00:14.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The year's third Base upgrade lets traders submit transactions that stay dormant until price or block conditions are met, and adds three changes to the B20 toke..."
     },
     {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
