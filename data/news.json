@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T11:49:53.078Z",
+  "lastUpdated": "2026-10-02T17:24:06.480Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,60 @@
   },
   "items": [
     {
+      "title": "IMF Approves $138 Million for El Salvador After Bitcoin Waiver",
+      "link": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
+      "pubDate": "2026-10-02T17:17:20.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound...."
+    },
+    {
+      "title": "Illinois Agrees to Six-Month Crypto Tax Delay, Subject to Court Approval",
+      "link": "https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval",
+      "pubDate": "2026-10-02T16:57:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The levy would charge customers on asset value rather than gains, with draft rules covering paid custody, transfers and stablecoin settlement...."
+    },
+    {
+      "title": "Ripple and CSD BR Partner to Mirror Brazil's BTG Fund Records on XRP Ledger",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-and-csd-br-partner-to-mirror-btg-fund-records-on-xrp-ledger",
+      "pubDate": "2026-10-02T16:42:06.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The companies describe a live-transaction phase, with CSD BR retaining the official records for registration, deposit and settlement...."
+    },
+    {
+      "title": "Centrifuge Confirms Three Tokenized Funds Are Live on Arc",
+      "link": "https://thedefiant.io/news/defi/centrifuge-confirms-three-tokenized-funds-are-live-on-arc",
+      "pubDate": "2026-10-02T16:41:15.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "JAAA, JTRSY and HYB span US Treasuries and credit, with direct fund access limited to non-US professional investors...."
+    },
+    {
+      "title": "Aave Labs Proposes Foundation to Bring Brand and IP Under DAO Oversight",
+      "link": "https://thedefiant.io/news/defi/aave-labs-proposes-foundation-to-bring-brand-and-ip-under-dao-oversight",
+      "pubDate": "2026-10-02T16:32:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Phase 1 would create a Cayman Islands entity and appoint independent officers; trademark, domain and codebase transfers would require later governance votes...."
+    },
+    {
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "pubDate": "2026-10-02T12:23:15.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal rep..."
+    },
+    {
       "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
       "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
       "pubDate": "2026-10-02T11:30:00.000Z",
@@ -36,15 +90,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Multihashing is one of those cryptographic tasks that’s easy not to think about too much. This is unfortunate, because multihashing is a common stumbling point..."
-    },
-    {
-      "title": "SMBC Nikko and Nethermind Plan Compliance Hooks for Uniswap Pools",
-      "link": "https://thedefiant.io/news/defi/smbc-nikko-and-nethermind-plan-compliance-hooks-for-uniswap-pools",
-      "pubDate": "2026-10-02T08:20:45.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "An MOU with Uniswap Labs, Base and Nyx Foundation targets a Japan-focused DeFi gateway for completion by mid-2027...."
     },
     {
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
@@ -65,42 +110,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploite..."
     },
     {
-      "title": "Kinetiq Ends kPoints With Paid Claim as KNTQ Drops 23%",
-      "link": "https://thedefiant.io/news/defi/kinetiq-ends-kpoints-with-paid-claim-as-kntq-drops-23",
-      "pubDate": "2026-10-02T04:19:41.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Points holders have 10 days to buy from a 50 million-token allocation at $0.26 per KNTQ, potentially generating $13 million in gross proceeds...."
-    },
-    {
-      "title": "Fiserv Launches Roughrider Coin Settlement on Solana",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/fiserv-launches-roughrider-coin-settlement-on-solana",
-      "pubDate": "2026-10-02T02:19:06.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "VersaBank issues the bank-only token, which Fiserv says serves a North Dakota network of more than 90 banks and credit unions...."
-    },
-    {
-      "title": "Shevchenko Gives NEAR Intents Attacker 48 Hours",
-      "link": "https://thedefiant.io/news/hacks/shevchenko-gives-near-intents-attacker-48-hours",
-      "pubDate": "2026-10-02T02:02:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The general manager of NEAR Intents said the attacker who drained a preliminary $3.8 million has been identified, and posted three addresses for the money's ret..."
-    },
-    {
-      "title": "SEC Proposes Crypto Self-Custody Route for Investment Advisers",
-      "link": "https://thedefiant.io/converge/regulation/sec-proposes-crypto-self-custody-route-for-investment-advisers",
-      "pubDate": "2026-10-01T20:16:47.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The proposal also sets conditions for state trust company custody, with public comments due 60 days after Federal Register publication...."
-    },
-    {
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
       "pubDate": "2026-10-01T16:55:57.000Z",
@@ -108,15 +117,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organiz..."
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "pubDate": "2026-10-01T16:45:38.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a li..."
     },
     {
       "title": "ZDI-26-751: Microsoft Windows dxgkrnl Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
