@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T03:40:11.569Z",
+  "lastUpdated": "2026-10-03T11:03:05.204Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "Hyperliquid’s USDC Yield Program Gets $14.6 Million for HYPE Buybacks",
+      "link": "https://thedefiant.io/news/tokens/hyperliquid-s-usdc-yield-program-gets-14-6-million-for-hype-buybacks",
+      "pubDate": "2026-10-03T09:14:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The first reserve-yield payment awaits transfer to the Assistance Fund, adding buyback funding tied to USDC balances rather than trading volume...."
+    },
     {
       "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
       "link": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
@@ -72,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has ta..."
-    },
-    {
-      "title": "IMF Approves $138 Million for El Salvador After Bitcoin Waiver",
-      "link": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
-      "pubDate": "2026-10-02T17:17:20.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound...."
     },
     {
       "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
