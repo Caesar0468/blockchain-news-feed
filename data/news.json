@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T21:47:02.568Z",
+  "lastUpdated": "2026-10-03T03:40:11.569Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
+      "link": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
+      "pubDate": "2026-10-02T23:10:02.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose inju..."
+    },
     {
       "title": "Arbitrum Pauses New Stylus Activations in Emergency Security Action",
       "link": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
@@ -81,15 +90,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to..."
-    },
-    {
-      "title": "Illinois Agrees to Six-Month Crypto Tax Delay, Subject to Court Approval",
-      "link": "https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval",
-      "pubDate": "2026-10-02T16:57:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The levy would charge customers on asset value rather than gains, with draft rules covering paid custody, transfers and stablecoin settlement...."
     },
     {
       "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
