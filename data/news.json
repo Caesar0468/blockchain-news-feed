@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T13:31:11.638Z",
+  "lastUpdated": "2026-10-05T23:41:19.021Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,78 @@
     ]
   },
   "items": [
+    {
+      "title": "CFTC Staff Clears Fast Track for Stock-Index Perpetual Conversions",
+      "link": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
+      "pubDate": "2026-10-05T20:32:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Exchanges must give position holders five calendar days' notice and a chance to exit, while leaving other material contract terms unchanged...."
+    },
+    {
+      "title": "Aave Raises Core GHO Borrow Rate to 4.5% Amid Thin Redemption Reserves",
+      "link": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
+      "pubDate": "2026-10-05T20:26:10.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The GHO Risk Council also lifted Prime’s base rate, while Ethereum’s USDC conversion module remained nearly empty...."
+    },
+    {
+      "title": "ZachXBT Says He Fronted $349,700 to Infiltrate Alleged Laundering Ring",
+      "link": "https://thedefiant.io/news/security/zachxbt-says-he-fronted-349-700-to-infiltrate-alleged-laundering-ring",
+      "pubDate": "2026-10-05T20:23:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The investigator links his undercover work to a 442,000 USDT freeze after identifying a cluster he tied to Bybit and valued at more than $12 million...."
+    },
+    {
+      "title": "Aave Activates LlamaRisk Agents for Pendle Collateral on Plasma",
+      "link": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
+      "pubDate": "2026-10-05T19:46:22.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The agents can adjust pricing and borrowing parameters for a principal token with $36.72 million supplied, subject to fixed step limits and cooldowns...."
+    },
+    {
+      "title": "Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits",
+      "pubDate": "2026-10-05T19:17:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Nearly 1.44 million ETH is waiting to begin staking, down 31% from Sept. 1 but still facing a roughly 25-day delay...."
+    },
+    {
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "pubDate": "2026-10-05T16:21:52.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privil..."
+    },
+    {
+      "title": "Smashing the token limit with overlapping fragments",
+      "link": "https://portswigger.net/research/smashing-the-token-limit",
+      "pubDate": "2026-10-05T15:04:55.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "I'm delighted to introduce Alex, my fellow swigger who I've collaborated with in the past with tools like DOM Invader. He showed me that it's possible to exfilt..."
+    },
+    {
+      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "pubDate": "2026-10-05T14:20:43.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep fin..."
+    },
     {
       "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
       "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
@@ -47,67 +119,13 @@
       "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial in..."
     },
     {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "pubDate": "2026-10-05T08:09:23.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in ques..."
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "pubDate": "2026-10-05T06:40:19.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted..."
-    },
-    {
-      "title": "Hyperliquid’s USDC Yield Program Gets $14.6 Million for HYPE Buybacks",
-      "link": "https://thedefiant.io/news/tokens/hyperliquid-s-usdc-yield-program-gets-14-6-million-for-hype-buybacks",
-      "pubDate": "2026-10-03T09:14:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
+      "title": "How native transaction assertions could enforce a transaction's final outcome",
+      "link": "https://blog.ethereum.org/en/2026/10/05/transaction-assertions",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
       "type": "blockchain",
-      "summary": "The first reserve-yield payment awaits transfer to the Assistance Fund, adding buyback funding tied to USDC balances rather than trading volume...."
-    },
-    {
-      "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
-      "link": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
-      "pubDate": "2026-10-02T23:10:02.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose inju..."
-    },
-    {
-      "title": "Arbitrum Pauses New Stylus Activations in Emergency Security Action",
-      "link": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
-      "pubDate": "2026-10-02T21:46:54.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Active contracts can still run and renew, while a new BoLD guard could delay unconfirmed withdrawals if contradictory proofs are accepted...."
-    },
-    {
-      "title": "ICBA Sues OCC Over Crypto Trust Charters",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters",
-      "pubDate": "2026-10-02T21:45:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The complaint targets Protego’s conditional approval and seeks to stop the agency from granting charters under its disputed rule and guidance...."
-    },
-    {
-      "title": "Ethereum Foundation Introduces zkAPI for Private API Payments",
-      "link": "https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments",
-      "pubDate": "2026-10-02T18:44:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "OA Chat supports the prepaid tool, which separates billing from requests but does not conceal prompts from AI providers...."
+      "summary": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is explori..."
     },
     {
       "title": "SequenceHash: multihashing for the rest of us",
@@ -225,24 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs (we’re one of them). Ho..."
-    },
-    {
-      "title": "1Password's AI patching benchmark is misleading",
-      "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-      "pubDate": "2026-09-15T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "1Password’s FLAWED report, published on August 6, 2026, gives defenders a misleading picture of AI patching. Its headline says models produced clean fixes only..."
-    },
-    {
-      "title": "Join Us: EF Protocol Reddit AMA - September 16th, 2026",
-      "link": "https://blog.ethereum.org/en/2026/09/09/reddit-ama",
-      "pubDate": "2026-09-09T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The forma..."
     }
   ]
 }
