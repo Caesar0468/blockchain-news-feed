@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T12:42:11.292Z",
+  "lastUpdated": "2026-10-06T22:16:43.350Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,78 @@
     ]
   },
   "items": [
+    {
+      "title": "Kalshi Launches US 500 Perpetual Future With No Expiration",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+      "pubDate": "2026-10-06T21:59:32.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The stock-index contract uses daily funding payments and futures-account collateral; Kalshi displayed maximum leverage of 15.3 times on launch day...."
+    },
+    {
+      "title": "Coinbase Launches 15-Minute And Hourly Crypto Price Markets",
+      "link": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+      "pubDate": "2026-10-06T21:07:36.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Coinbase added short-dated up-or-down contracts on bitcoin, ether and eight other tokens to its prediction markets on Tuesday. Kalshi lists the contracts and al..."
+    },
+    {
+      "title": "Abstract to Shut Down Ethereum Layer 2 on Dec. 15",
+      "link": "https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15",
+      "pubDate": "2026-10-06T20:35:24.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Users can withdraw through the Migration Hub or native bridge, while the team plans to help apps move to other chains...."
+    },
+    {
+      "title": "Conduit Sues Tether Over $2.76 Million in Frozen USDT",
+      "link": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
+      "pubDate": "2026-10-06T19:19:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The payments firm seeks a court order restoring access to its treasury wallet, saying the loss of working capital has slowed client settlements...."
+    },
+    {
+      "title": "Winklevoss Files for Zcash ETF With 0.25% Fee",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee",
+      "pubDate": "2026-10-06T19:17:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Winklevoss Capital Fund has indicated interest in buying up to $100 million of shares, but the potential purchase is nonbinding...."
+    },
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "pubDate": "2026-10-06T18:38:55.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI)..."
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "pubDate": "2026-10-06T18:24:25.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate..."
+    },
+    {
+      "title": "The model isn't cooperating",
+      "link": "https://portswigger.net/research/the-model-isnt-cooperating",
+      "pubDate": "2026-10-06T17:14:53.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "Have you ever felt like a model isn't actually trying to do what you asked? Did you just ask it wrong, or is there something else at play here? In this post, I'..."
+    },
     {
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
       "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
@@ -47,67 +119,13 @@
       "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol de..."
     },
     {
-      "title": "Circle Adds Aave to Bitcoin-Backed Borrowing in Mint",
-      "link": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
-      "pubDate": "2026-10-06T10:13:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The new lending option extends the Morpho-based service, while borrowers remain exposed to liquidation under third-party protocol rules...."
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "pubDate": "2026-10-06T09:21:47.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "How to fix a bug in a fix",
+      "link": "https://projectzero.google/2026/10/emergency-patching.html",
+      "pubDate": "2026-10-06T07:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1,..."
-    },
-    {
-      "title": "DOJ Presses Roman Storm Case as FinCEN Drops Mixer Proposal",
-      "link": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal",
-      "pubDate": "2026-10-06T09:21:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A new filing targets Storm’s venue challenge, while his acquittal motion remains pending and a retrial is scheduled for April 26, 2027...."
-    },
-    {
-      "title": "Ondo Unveils Private-Market Notes Ahead of First AI Offering",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-unveils-private-market-notes-ahead-of-first-ai-offering",
-      "pubDate": "2026-10-06T08:24:37.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The notes offer exposure without shareholder rights. Secondary-market prices can diverge sharply from the eventual payout tied to a liquidity event...."
-    },
-    {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "pubDate": "2026-10-06T06:58:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each pro..."
-    },
-    {
-      "title": "CFTC Staff Clears Fast Track for Stock-Index Perpetual Conversions",
-      "link": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
-      "pubDate": "2026-10-05T20:32:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Exchanges must give position holders five calendar days' notice and a chance to exit, while leaving other material contract terms unchanged...."
-    },
-    {
-      "title": "Aave Raises Core GHO Borrow Rate to 4.5% Amid Thin Redemption Reserves",
-      "link": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
-      "pubDate": "2026-10-05T20:26:10.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The GHO Risk Council also lifted Prime’s base rate, while Ethereum’s USDC conversion module remained nearly empty...."
+      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vend..."
     },
     {
       "title": "Smashing the token limit with overlapping fragments",
@@ -225,24 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Born out of academia and raised in corporate IT departments, the Security Assertion Markup Language (SAML) authentication protocol continues to be a staple in t..."
-    },
-    {
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "pubDate": "2026-09-20T22:00:00.000Z",
-      "source": "Project Zero",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This i..."
-    },
-    {
-      "title": "Auditing in the age of (good enough) AI",
-      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "pubDate": "2026-09-18T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs (we’re one of them). Ho..."
     }
   ]
 }
