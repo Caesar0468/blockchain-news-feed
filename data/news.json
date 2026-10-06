@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T04:42:51.072Z",
+  "lastUpdated": "2026-10-06T12:42:11.292Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,78 @@
   },
   "items": [
     {
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "pubDate": "2026-10-06T11:57:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There..."
+    },
+    {
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "pubDate": "2026-10-06T11:26:25.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful e..."
+    },
+    {
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "pubDate": "2026-10-06T11:02:30.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol de..."
+    },
+    {
+      "title": "Circle Adds Aave to Bitcoin-Backed Borrowing in Mint",
+      "link": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
+      "pubDate": "2026-10-06T10:13:22.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The new lending option extends the Morpho-based service, while borrowers remain exposed to liquidation under third-party protocol rules...."
+    },
+    {
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "pubDate": "2026-10-06T09:21:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1,..."
+    },
+    {
+      "title": "DOJ Presses Roman Storm Case as FinCEN Drops Mixer Proposal",
+      "link": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal",
+      "pubDate": "2026-10-06T09:21:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "A new filing targets Storm’s venue challenge, while his acquittal motion remains pending and a retrial is scheduled for April 26, 2027...."
+    },
+    {
+      "title": "Ondo Unveils Private-Market Notes Ahead of First AI Offering",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-unveils-private-market-notes-ahead-of-first-ai-offering",
+      "pubDate": "2026-10-06T08:24:37.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The notes offer exposure without shareholder rights. Secondary-market prices can diverge sharply from the eventual payout tied to a liquidity event...."
+    },
+    {
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "pubDate": "2026-10-06T06:58:56.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each pro..."
+    },
+    {
       "title": "CFTC Staff Clears Fast Track for Stock-Index Perpetual Conversions",
       "link": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
       "pubDate": "2026-10-05T20:32:07.000Z",
@@ -38,42 +110,6 @@
       "summary": "The GHO Risk Council also lifted Prime’s base rate, while Ethereum’s USDC conversion module remained nearly empty...."
     },
     {
-      "title": "ZachXBT Says He Fronted $349,700 to Infiltrate Alleged Laundering Ring",
-      "link": "https://thedefiant.io/news/security/zachxbt-says-he-fronted-349-700-to-infiltrate-alleged-laundering-ring",
-      "pubDate": "2026-10-05T20:23:19.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The investigator links his undercover work to a 442,000 USDT freeze after identifying a cluster he tied to Bybit and valued at more than $12 million...."
-    },
-    {
-      "title": "Aave Activates LlamaRisk Agents for Pendle Collateral on Plasma",
-      "link": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
-      "pubDate": "2026-10-05T19:46:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The agents can adjust pricing and borrowing parameters for a principal token with $36.72 million supplied, subject to fixed step limits and cooldowns...."
-    },
-    {
-      "title": "Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits",
-      "link": "https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits",
-      "pubDate": "2026-10-05T19:17:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Nearly 1.44 million ETH is waiting to begin staking, down 31% from Sept. 1 but still facing a roughly 25-day delay...."
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "pubDate": "2026-10-05T16:21:52.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privil..."
-    },
-    {
       "title": "Smashing the token limit with overlapping fragments",
       "link": "https://portswigger.net/research/smashing-the-token-limit",
       "pubDate": "2026-10-05T15:04:55.000Z",
@@ -81,42 +117,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "I'm delighted to introduce Alex, my fellow swigger who I've collaborated with in the past with tools like DOM Invader. He showed me that it's possible to exfilt..."
-    },
-    {
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "pubDate": "2026-10-05T14:20:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep fin..."
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "pubDate": "2026-10-05T11:55:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian hel..."
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "pubDate": "2026-10-05T11:46:25.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deplo..."
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "pubDate": "2026-10-05T10:38:50.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial in..."
     },
     {
       "title": "How native transaction assertions could enforce a transaction's final outcome",
