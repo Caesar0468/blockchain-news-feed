@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T22:16:43.350Z",
+  "lastUpdated": "2026-10-07T04:08:38.408Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Muneeb Ali Pledges IP Transfer to Stacks Endowment in CEO Plan",
+      "link": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+      "pubDate": "2026-10-07T03:40:39.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Stacks Labs chief also promised a two-year roadmap covering Bitcoin privacy and post-quantum technology, plus a public holder call within 30 days...."
+    },
+    {
+      "title": "Bitcoin Sinks Below $84,000 in Sudden Sell-Off",
+      "link": "https://thedefiant.io/news/markets/bitcoin-sinks-below-84-000-in-sudden-sell-off",
+      "pubDate": "2026-10-07T03:34:42.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Coinbase recorded an $83,551 low, while Coinalyze showed $83 million in bitcoin long liquidations over 24 hours...."
+    },
     {
       "title": "Kalshi Launches US 500 Perpetual Future With No Expiration",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
@@ -45,24 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Users can withdraw through the Migration Hub or native bridge, while the team plans to help apps move to other chains...."
-    },
-    {
-      "title": "Conduit Sues Tether Over $2.76 Million in Frozen USDT",
-      "link": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
-      "pubDate": "2026-10-06T19:19:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The payments firm seeks a court order restoring access to its treasury wallet, saying the loss of working capital has slowed client settlements...."
-    },
-    {
-      "title": "Winklevoss Files for Zcash ETF With 0.25% Fee",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee",
-      "pubDate": "2026-10-06T19:17:19.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Winklevoss Capital Fund has indicated interest in buying up to $100 million of shares, but the potential purchase is nonbinding...."
     },
     {
       "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
