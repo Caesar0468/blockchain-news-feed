@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T22:38:26.364Z",
+  "lastUpdated": "2026-10-08T04:21:12.558Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,33 @@
     ]
   },
   "items": [
+    {
+      "title": "Hyperliquid Labs-Labeled Wallet Distributes $330 Million in HYPE",
+      "link": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+      "pubDate": "2026-10-08T03:38:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Five intermediary addresses forwarded the tokens to one wallet, which returned 1.25 million HYPE to staking...."
+    },
+    {
+      "title": "Samsung Wallet to Add USDC on Sui in Late October",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
+      "pubDate": "2026-10-08T02:30:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bastion and Coinbase will custody the balances, while transfers to bank accounts in more than 60 countries will carry separate fees...."
+    },
+    {
+      "title": "Justin Drake Urges 'Bunker Mode' Migration to Fresh Crypto Addresses",
+      "link": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+      "pubDate": "2026-10-08T02:22:39.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "His personal warning about an AI-assisted cryptographic break drew pushback from Ledger’s CTO, who said a mass migration could cause costly mistakes...."
+    },
     {
       "title": "Binance Adds JPMorgan and Eli Lilly bStocks as Margin Collateral",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
@@ -54,33 +81,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Bitcoin fell through $84,000 in two legs, the first in the Asia session and the second at the U.S. open, and has not reclaimed it. A Bitfinex research note circ..."
-    },
-    {
-      "title": "Trader Frogman Drained of $4 Million on the First Morning of TOKEN2049",
-      "link": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049",
-      "pubDate": "2026-10-07T16:57:34.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Onchain records show the tokens left his Solana wallet at 4:14 a.m. Singapore time and were sold in four equal lots over the nine minutes that followed. The tra..."
-    },
-    {
-      "title": "ZKsync Opens Prividium Core Code Under Apache 2.0",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
-      "pubDate": "2026-10-07T16:56:12.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Sept. 8 release keeps enterprise tools commercial. Matter Labs says the Bundesbank is testing a self-hosted deployment...."
-    },
-    {
-      "title": "GSR Commits $100 Million to Hare Vault Business",
-      "link": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
-      "pubDate": "2026-10-07T16:55:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The first Aave-powered products will target stablecoins and tokenized gold, with outside investors expected to join GSR in the vaults. Opening dates are still t..."
     },
     {
       "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
