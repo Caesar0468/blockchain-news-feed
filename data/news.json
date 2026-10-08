@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T04:21:12.558Z",
+  "lastUpdated": "2026-10-08T12:45:37.922Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,51 @@
     ]
   },
   "items": [
+    {
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "pubDate": "2026-10-08T10:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filterin..."
+    },
+    {
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "pubDate": "2026-10-08T09:46:32.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phras..."
+    },
+    {
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "pubDate": "2026-10-08T07:42:04.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the..."
+    },
+    {
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "pubDate": "2026-10-08T07:41:44.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims..."
+    },
+    {
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "pubDate": "2026-10-08T05:46:20.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised a..."
+    },
     {
       "title": "Hyperliquid Labs-Labeled Wallet Distributes $330 Million in HYPE",
       "link": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
@@ -56,24 +101,6 @@
       "summary": "Four equity-linked tokens join the collateral lineup, with 50% collateral ratios in Cross Margin and Portfolio Margin and a separate tiered schedule for Portfol..."
     },
     {
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "pubDate": "2026-10-07T18:48:17.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on Octo..."
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "pubDate": "2026-10-07T17:43:20.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans..."
-    },
-    {
       "title": "Bitcoin Holds Below $84,000 Cost-Basis Level as Only Nine of 125 Top Tokens Rise",
       "link": "https://thedefiant.io/news/markets/bitcoin-holds-below-84000-cost-basis-level-nine-of-125-tokens-rise-oct-07-2026",
       "pubDate": "2026-10-07T17:24:18.000Z",
@@ -81,33 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Bitcoin fell through $84,000 in two legs, the first in the Asia session and the second at the U.S. open, and has not reclaimed it. A Bitfinex research note circ..."
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "pubDate": "2026-10-07T16:17:44.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications...."
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "pubDate": "2026-10-07T15:34:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache..."
-    },
-    {
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "pubDate": "2026-10-07T15:33:51.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language..."
     },
     {
       "title": "The model isn't cooperating",
