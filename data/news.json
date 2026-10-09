@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T22:50:07.314Z",
+  "lastUpdated": "2026-10-09T04:25:48.497Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "DTC Seeks to Cut Share-Registration Transfers From Days to Minutes",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
+      "pubDate": "2026-10-09T02:17:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The proposed DRS overhaul would replace batch processing with APIs and automate a transfer step, while still requiring transfer-agent approval...."
+    },
+    {
+      "title": "Coinbase Cryptographer Calls Drake's 'Bunker Mode' Warning 'The Very Definition of FUD'",
+      "link": "https://thedefiant.io/news/security/coinbase-cryptographer-calls-drake-bunker-mode-warning-definition-of-fud",
+      "pubDate": "2026-10-08T23:34:05.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Vitalik Buterin said the risk from AI-accelerated math is real but pointed it at lattices rather than elliptic curves. A former Ethereum Foundation researcher s..."
+    },
     {
       "title": "Netflix’s FTX Love Story Trailer Draws Mockery on Crypto X",
       "link": "https://thedefiant.io/news/people/netflix-ftx-love-story-trailer-draws-mockery-on-crypto-x",
@@ -45,24 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The stablecoin has about 2.77 million tokens in total supply, while DOT-backed borrowing is planned for a later phase...."
-    },
-    {
-      "title": "Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms",
-      "link": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms",
-      "pubDate": "2026-10-08T21:05:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Crude retreated around the president's statement, but bitcoin remained down 1.9% over 24 hours in late trading...."
-    },
-    {
-      "title": "Abstract's ETH Withdrawals Depend on Operators Ahead of Dec. 15 Shutdown",
-      "link": "https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown",
-      "pubDate": "2026-10-08T21:02:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "L2BEAT data showed about $17.1 million in canonically bridged ETH; the wind-down plan sets out no independent exit after Dec. 15...."
     },
     {
       "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
