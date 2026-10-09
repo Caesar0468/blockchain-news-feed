@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T04:25:48.497Z",
+  "lastUpdated": "2026-10-09T12:31:34.223Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,60 @@
     ]
   },
   "items": [
+    {
+      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "pubDate": "2026-10-09T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a differen..."
+    },
+    {
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "pubDate": "2026-10-09T09:03:24.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address u..."
+    },
+    {
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "pubDate": "2026-10-09T08:26:17.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patche..."
+    },
+    {
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "pubDate": "2026-10-09T08:11:33.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or d..."
+    },
+    {
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "pubDate": "2026-10-09T06:39:29.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced..."
+    },
+    {
+      "title": "Solana Schedules Final Cut to 200-Millisecond Slots",
+      "link": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+      "pubDate": "2026-10-09T04:52:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Per-block computing limits shrink to preserve overall capacity, while validators face more frequent voting and shorter production windows...."
+    },
     {
       "title": "DTC Seeks to Cut Share-Registration Transfers From Days to Minutes",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
@@ -54,60 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "OPAIPon displayed a $1,132 price and a 0.49% spread on launch day. Access is restricted to qualifying non-US investors...."
-    },
-    {
-      "title": "Polkadot Launches USDT-Backed dotUSD Under OpenGov",
-      "link": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
-      "pubDate": "2026-10-08T21:05:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The stablecoin has about 2.77 million tokens in total supply, while DOT-backed borrowing is planned for a later phase...."
-    },
-    {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "pubDate": "2026-10-08T18:32:21.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious instituti..."
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "pubDate": "2026-10-08T17:58:02.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, com..."
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "pubDate": "2026-10-08T15:45:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordi..."
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "pubDate": "2026-10-08T15:26:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASH..."
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "pubDate": "2026-10-08T14:12:34.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI)..."
     },
     {
       "title": "The model isn't cooperating",
