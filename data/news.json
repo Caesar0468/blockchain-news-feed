@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:31:34.223Z",
+  "lastUpdated": "2026-10-09T22:12:04.775Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "pubDate": "2026-10-09T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a differen..."
-    },
-    {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "pubDate": "2026-10-09T09:03:24.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address u..."
-    },
-    {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "pubDate": "2026-10-09T08:26:17.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patche..."
-    },
-    {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "pubDate": "2026-10-09T08:11:33.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or d..."
-    },
-    {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "pubDate": "2026-10-09T06:39:29.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced..."
-    },
-    {
-      "title": "Solana Schedules Final Cut to 200-Millisecond Slots",
-      "link": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
-      "pubDate": "2026-10-09T04:52:51.000Z",
+      "title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+      "pubDate": "2026-10-09T22:03:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Per-block computing limits shrink to preserve overall capacity, while validators face more frequent voting and shorter production windows...."
+      "summary": "The Argentina-first initiative would let customers convert eligible deposits into ONED USD, transfer it around the clock and spend through Visa...."
     },
     {
-      "title": "DTC Seeks to Cut Share-Registration Transfers From Days to Minutes",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
-      "pubDate": "2026-10-09T02:17:51.000Z",
+      "title": "Kalshi Probes Bets on Trump’s Press Secretary Pick, WSJ Reports",
+      "link": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+      "pubDate": "2026-10-09T21:57:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The proposed DRS overhaul would replace batch processing with APIs and automate a transfer step, while still requiring transfer-agent approval...."
+      "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia’s selection. The contract has settled Yes, but individual withdrawal restrictions..."
     },
     {
-      "title": "Coinbase Cryptographer Calls Drake's 'Bunker Mode' Warning 'The Very Definition of FUD'",
-      "link": "https://thedefiant.io/news/security/coinbase-cryptographer-calls-drake-bunker-mode-warning-definition-of-fud",
-      "pubDate": "2026-10-08T23:34:05.000Z",
+      "title": "Aero Sets Oct. 21 Merger Launch and Token Conversion Terms",
+      "link": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+      "pubDate": "2026-10-09T21:37:43.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Vitalik Buterin said the risk from AI-accelerated math is real but pointed it at lattices rather than elliptic curves. A former Ethereum Foundation researcher s..."
+      "summary": "AERO converts one-for-one and VELO at roughly 0.044 new AERO per token; existing locks keep their remaining duration...."
     },
     {
-      "title": "Netflix’s FTX Love Story Trailer Draws Mockery on Crypto X",
-      "link": "https://thedefiant.io/news/people/netflix-ftx-love-story-trailer-draws-mockery-on-crypto-x",
-      "pubDate": "2026-10-08T21:25:20.000Z",
+      "title": "CFTC Proposes Explicit Swap Status for Event Contracts",
+      "link": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+      "pubDate": "2026-10-09T20:25:14.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Netflix’s synopsis for “The Altruists” calls it “a toxic love story inspired by a real fraud.” The trailer drew 4.2 million views in seven hours, and the most-s..."
+      "summary": "The agency says existing exchange and trader duties would stay intact, while a separate rule excludes qualifying casino-style wagers...."
     },
     {
-      "title": "Ondo Opens Trading in OpenAI-Linked Private-Market Note",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
-      "pubDate": "2026-10-08T21:05:54.000Z",
+      "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
+      "link": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
+      "pubDate": "2026-10-09T19:58:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "OPAIPon displayed a $1,132 price and a 0.49% spread on launch day. Access is restricted to qualifying non-US investors...."
+      "summary": "The agency bypassed a proposal, citing threats to prediction markets, but says the measure changes no existing compliance obligations...."
+    },
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "pubDate": "2026-10-09T19:14:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts t..."
+    },
+    {
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "pubDate": "2026-10-09T17:45:26.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion..."
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "pubDate": "2026-10-09T16:29:55.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the varian..."
+    },
+    {
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "pubDate": "2026-10-09T13:22:53.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana..."
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "pubDate": "2026-10-09T12:59:22.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access..."
     },
     {
       "title": "The model isn't cooperating",
