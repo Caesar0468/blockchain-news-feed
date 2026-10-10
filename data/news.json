@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T04:11:10.690Z",
+  "lastUpdated": "2026-10-10T11:51:25.330Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,51 @@
   },
   "items": [
     {
+      "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",
+      "link": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
+      "pubDate": "2026-10-10T11:09:33.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH...."
+    },
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "pubDate": "2026-10-10T11:00:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-o..."
+    },
+    {
+      "title": "Papertrade Sets 1000x Perps Launch With $85 Million Deposited",
+      "link": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
+      "pubDate": "2026-10-10T09:44:06.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Trading is scheduled for 10 a.m. ET on Oct. 10. User deposits are separate from the house-side pool, which starts at zero and grows from traders’ losses...."
+    },
+    {
+      "title": "AERO Rallies 48% in Four Weeks, Outpacing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
+      "pubDate": "2026-10-10T09:33:08.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Aerodrome holds about $393 million on Base as its planned merger with Velodrome approaches...."
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "pubDate": "2026-10-10T09:18:45.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial..."
+    },
+    {
       "title": "$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702",
       "link": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
       "pubDate": "2026-10-10T03:50:48.000Z",
@@ -36,33 +81,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Tron records show a 2 million USDT conversion through USDD’s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster...."
-    },
-    {
-      "title": "STRK Jumps 30% as Starknet Weighs Layer 1 Shift",
-      "link": "https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift",
-      "pubDate": "2026-10-10T00:43:30.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The token’s rally outpaced bitcoin and ether, while daily trading on Starknet’s decentralized exchanges rose to about $33.7 million...."
-    },
-    {
-      "title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
-      "pubDate": "2026-10-09T22:03:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Argentina-first initiative would let customers convert eligible deposits into ONED USD, transfer it around the clock and spend through Visa...."
-    },
-    {
-      "title": "Kalshi Probes Bets on Trump’s Press Secretary Pick, WSJ Reports",
-      "link": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
-      "pubDate": "2026-10-09T21:57:10.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia’s selection. The contract has settled Yes, but individual withdrawal restrictions..."
     },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
@@ -90,24 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the varian..."
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "pubDate": "2026-10-09T13:22:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana..."
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "pubDate": "2026-10-09T12:59:22.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access..."
     },
     {
       "title": "The model isn't cooperating",
