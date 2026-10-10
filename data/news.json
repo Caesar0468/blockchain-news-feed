@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T22:12:04.775Z",
+  "lastUpdated": "2026-10-10T04:11:10.690Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,33 @@
   },
   "items": [
     {
+      "title": "$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702",
+      "link": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
+      "pubDate": "2026-10-10T03:50:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers...."
+    },
+    {
+      "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether’s Freeze Controls",
+      "link": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
+      "pubDate": "2026-10-10T02:06:06.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Tron records show a 2 million USDT conversion through USDD’s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster...."
+    },
+    {
+      "title": "STRK Jumps 30% as Starknet Weighs Layer 1 Shift",
+      "link": "https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift",
+      "pubDate": "2026-10-10T00:43:30.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The token’s rally outpaced bitcoin and ether, while daily trading on Starknet’s decentralized exchanges rose to about $33.7 million...."
+    },
+    {
       "title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
       "pubDate": "2026-10-09T22:03:36.000Z",
@@ -36,33 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia’s selection. The contract has settled Yes, but individual withdrawal restrictions..."
-    },
-    {
-      "title": "Aero Sets Oct. 21 Merger Launch and Token Conversion Terms",
-      "link": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
-      "pubDate": "2026-10-09T21:37:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "AERO converts one-for-one and VELO at roughly 0.044 new AERO per token; existing locks keep their remaining duration...."
-    },
-    {
-      "title": "CFTC Proposes Explicit Swap Status for Event Contracts",
-      "link": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
-      "pubDate": "2026-10-09T20:25:14.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The agency says existing exchange and trader duties would stay intact, while a separate rule excludes qualifying casino-style wagers...."
-    },
-    {
-      "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
-      "link": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
-      "pubDate": "2026-10-09T19:58:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The agency bypassed a proposal, citing threats to prediction markets, but says the measure changes no existing compliance obligations...."
     },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
