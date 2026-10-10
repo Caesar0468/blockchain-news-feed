@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T11:51:25.330Z",
+  "lastUpdated": "2026-10-10T16:54:30.398Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,33 @@
     ]
   },
   "items": [
+    {
+      "title": "Papertrade Shows $10.3 Million in Staker Rewards Hours After Launch",
+      "link": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
+      "pubDate": "2026-10-10T16:43:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The 1000x-leverage venue’s dashboard showed roughly $5 million in its house pool and no queued payout debt as trading losses funded PAPER rewards...."
+    },
+    {
+      "title": "Papertrade Draws Reported $3 Billion in Positions in First Hour",
+      "link": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
+      "pubDate": "2026-10-10T14:57:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "DefiLlama tracked $137.1 million in trader balances and house liquidity combined. Those funds are not all available to pay winning trades...."
+    },
+    {
+      "title": "StarkWare Calls Starknet L1 Shift Its 'Clearest Path Forward'",
+      "link": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+      "pubDate": "2026-10-10T12:21:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Starknet still settles on Ethereum, and its official account described an L1 move as 'a question, not a decision' a day earlier...."
+    },
     {
       "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",
       "link": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
@@ -47,15 +74,6 @@
       "summary": "Trading is scheduled for 10 a.m. ET on Oct. 10. User deposits are separate from the house-side pool, which starts at zero and grows from traders’ losses...."
     },
     {
-      "title": "AERO Rallies 48% in Four Weeks, Outpacing Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
-      "pubDate": "2026-10-10T09:33:08.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Aerodrome holds about $393 million on Base as its planned merger with Velodrome approaches...."
-    },
-    {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
       "pubDate": "2026-10-10T09:18:45.000Z",
@@ -63,24 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial..."
-    },
-    {
-      "title": "$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702",
-      "link": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
-      "pubDate": "2026-10-10T03:50:48.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers...."
-    },
-    {
-      "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether’s Freeze Controls",
-      "link": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
-      "pubDate": "2026-10-10T02:06:06.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Tron records show a 2 million USDT conversion through USDD’s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster...."
     },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
