@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T16:54:30.398Z",
+  "lastUpdated": "2026-10-10T21:06:40.101Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,33 @@
   },
   "items": [
     {
+      "title": "Pump.fun to Tie Callout Rewards to Followers’ Profits",
+      "link": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
+      "pubDate": "2026-10-10T20:06:47.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Low-cap token recommendations will earn less under changes starting with the Oct. 10 payout, co-founder Alon said...."
+    },
+    {
+      "title": "Papertrade Traders Lose $18.2 Million as Staking Rewards Reach $12.6 Million",
+      "link": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
+      "pubDate": "2026-10-10T17:38:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Reported staking rewards equaled about 69% of net trading losses, but the payouts redistribute money to PAPER stakers rather than reimburse each losing trader...."
+    },
+    {
+      "title": "Ledger Says Affected User’s Device Contained Hardware Implant",
+      "link": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
+      "pubDate": "2026-10-10T17:15:58.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "CryptoBilis has stopped selling all hardware wallet inventory pending the investigation, according to Ledger, widening an earlier pause request limited to Ledge..."
+    },
+    {
       "title": "Papertrade Shows $10.3 Million in Staker Rewards Hours After Launch",
       "link": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
       "pubDate": "2026-10-10T16:43:44.000Z",
@@ -38,24 +65,6 @@
       "summary": "DefiLlama tracked $137.1 million in trader balances and house liquidity combined. Those funds are not all available to pay winning trades...."
     },
     {
-      "title": "StarkWare Calls Starknet L1 Shift Its 'Clearest Path Forward'",
-      "link": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
-      "pubDate": "2026-10-10T12:21:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Starknet still settles on Ethereum, and its official account described an L1 move as 'a question, not a decision' a day earlier...."
-    },
-    {
-      "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",
-      "link": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
-      "pubDate": "2026-10-10T11:09:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH...."
-    },
-    {
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
       "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
       "pubDate": "2026-10-10T11:00:00.000Z",
@@ -63,15 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-o..."
-    },
-    {
-      "title": "Papertrade Sets 1000x Perps Launch With $85 Million Deposited",
-      "link": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
-      "pubDate": "2026-10-10T09:44:06.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Trading is scheduled for 10 a.m. ET on Oct. 10. User deposits are separate from the house-side pool, which starts at zero and grows from traders’ losses...."
     },
     {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
