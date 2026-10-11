@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T12:03:13.597Z",
+  "lastUpdated": "2026-10-11T21:26:13.011Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,49 @@
   },
   "items": [
     {
-      "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
-      "link": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
-      "pubDate": "2026-10-11T09:38:29.000Z",
+      "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
+      "link": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
+      "pubDate": "2026-10-11T18:38:29.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The company says it found no matching login record. A researcher found the fake migration site was built to collect wallet recovery phrases...."
+      "summary": "Ledger says all confirmed cases tied to its October 9 fund-draining investigation involve Southeast Asian reseller CryptoBilis, which has halted hardware-wallet..."
+    },
+    {
+      "title": "Coinbase Completes Deribit Integration for Institutional Traders",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+      "pubDate": "2026-10-11T17:48:05.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Former International Exchange clients gain Deribit's options suite and margin system, while US Prime options trading follows a separate rollout...."
+    },
+    {
+      "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
+      "link": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
+      "pubDate": "2026-10-11T17:18:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The company says its direct sales channels are unaffected and reminds resellers never to restock returned products...."
+    },
+    {
+      "title": "Liquid Bitcoin Redemptions Remain Frozen With 85.8% Reserve Coverage",
+      "link": "https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage",
+      "pubDate": "2026-10-11T15:59:08.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The reserve gap is about 603 BTC. Liquid says peg-outs require full backing and completed security reviews before they can restart...."
+    },
+    {
+      "title": "Papertrade Says It Is Tightening Trading Limits After Manipulation Allegations",
+      "link": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
+      "pubDate": "2026-10-11T15:53:36.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The team says it is restricting exposure onchain and through relayers. Its statement does not confirm claims that a trader was blacklisted or prevented from clo..."
     },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -36,42 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the varian..."
-    },
-    {
-      "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
-      "link": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
-      "pubDate": "2026-10-11T01:39:48.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "At the latest mining pace, annualized additions from vesting and block rewards would fall from about 89 million FIL to 21 million. Storage-provider rewards cont..."
-    },
-    {
-      "title": "Papertrade Faces Oracle-Manipulation Allegation as House Pool Shows $3.14 Million",
-      "link": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
-      "pubDate": "2026-10-11T00:26:55.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The cited wallet showed about $1.73 million in realized trading gains on PaperDash. Papertrade’s loss-funded pool pays winners, with unpaid profits queued if ca..."
-    },
-    {
-      "title": "SUI Gains 54% in Four Weeks, Outpacing Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
-      "pubDate": "2026-10-10T22:58:19.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Sui’s DeFi liquidity also expanded, but more slowly than its token price, while a recent pullback interrupted the rally...."
-    },
-    {
-      "title": "Pump.fun to Tie Callout Rewards to Followers’ Profits",
-      "link": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
-      "pubDate": "2026-10-10T20:06:47.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Low-cap token recommendations will earn less under changes starting with the Oct. 10 payout, co-founder Alon said...."
     },
     {
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
