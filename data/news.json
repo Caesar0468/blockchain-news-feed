@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T03:48:41.667Z",
+  "lastUpdated": "2026-10-11T12:03:13.597Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
+      "link": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+      "pubDate": "2026-10-11T09:38:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The company says it found no matching login record. A researcher found the fake migration site was built to collect wallet recovery phrases...."
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "pubDate": "2026-10-11T04:24:34.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the varian..."
+    },
     {
       "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
       "link": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
@@ -56,15 +74,6 @@
       "summary": "Low-cap token recommendations will earn less under changes starting with the Oct. 10 payout, co-founder Alon said...."
     },
     {
-      "title": "Papertrade Traders Lose $18.2 Million as Staking Rewards Reach $12.6 Million",
-      "link": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
-      "pubDate": "2026-10-10T17:38:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Reported staking rewards equaled about 69% of net trading losses, but the payouts redistribute money to PAPER stakers rather than reimburse each losing trader...."
-    },
-    {
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
       "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
       "pubDate": "2026-10-10T11:00:00.000Z",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion..."
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "pubDate": "2026-10-09T16:29:55.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the varian..."
     },
     {
       "title": "The model isn't cooperating",
