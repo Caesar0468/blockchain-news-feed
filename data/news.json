@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T21:06:40.101Z",
+  "lastUpdated": "2026-10-11T03:48:41.667Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,33 @@
   },
   "items": [
     {
+      "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
+      "link": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
+      "pubDate": "2026-10-11T01:39:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "At the latest mining pace, annualized additions from vesting and block rewards would fall from about 89 million FIL to 21 million. Storage-provider rewards cont..."
+    },
+    {
+      "title": "Papertrade Faces Oracle-Manipulation Allegation as House Pool Shows $3.14 Million",
+      "link": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+      "pubDate": "2026-10-11T00:26:55.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The cited wallet showed about $1.73 million in realized trading gains on PaperDash. Papertrade’s loss-funded pool pays winners, with unpaid profits queued if ca..."
+    },
+    {
+      "title": "SUI Gains 54% in Four Weeks, Outpacing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
+      "pubDate": "2026-10-10T22:58:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Sui’s DeFi liquidity also expanded, but more slowly than its token price, while a recent pullback interrupted the rally...."
+    },
+    {
       "title": "Pump.fun to Tie Callout Rewards to Followers’ Profits",
       "link": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
       "pubDate": "2026-10-10T20:06:47.000Z",
@@ -36,33 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Reported staking rewards equaled about 69% of net trading losses, but the payouts redistribute money to PAPER stakers rather than reimburse each losing trader...."
-    },
-    {
-      "title": "Ledger Says Affected User’s Device Contained Hardware Implant",
-      "link": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
-      "pubDate": "2026-10-10T17:15:58.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "CryptoBilis has stopped selling all hardware wallet inventory pending the investigation, according to Ledger, widening an earlier pause request limited to Ledge..."
-    },
-    {
-      "title": "Papertrade Shows $10.3 Million in Staker Rewards Hours After Launch",
-      "link": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
-      "pubDate": "2026-10-10T16:43:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The 1000x-leverage venue’s dashboard showed roughly $5 million in its house pool and no queued payout debt as trading losses funded PAPER rewards...."
-    },
-    {
-      "title": "Papertrade Draws Reported $3 Billion in Positions in First Hour",
-      "link": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
-      "pubDate": "2026-10-10T14:57:16.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "DefiLlama tracked $137.1 million in trader balances and house liquidity combined. Those funds are not all available to pay winning trades...."
     },
     {
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
