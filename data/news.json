@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T21:26:13.011Z",
+  "lastUpdated": "2026-10-12T04:10:38.470Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "STRK Gains 322% in Four Weeks, Outpacing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/strk-gains-322-in-four-weeks-outpacing-bitcoin-and-ether",
+      "pubDate": "2026-10-12T00:59:46.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Starknet’s DeFi TVL rose about 5% over a slightly shorter period, while its proposed Layer 1 shift remains under discussion...."
+    },
+    {
+      "title": "AVAX Gains Nearly 50% in Four Weeks, Outpacing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/avax-gains-nearly-50-in-four-weeks-outpacing-bitcoin-and-ether",
+      "pubDate": "2026-10-11T23:28:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period...."
+    },
     {
       "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
       "link": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
@@ -45,24 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The company says its direct sales channels are unaffected and reminds resellers never to restock returned products...."
-    },
-    {
-      "title": "Liquid Bitcoin Redemptions Remain Frozen With 85.8% Reserve Coverage",
-      "link": "https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage",
-      "pubDate": "2026-10-11T15:59:08.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The reserve gap is about 603 BTC. Liquid says peg-outs require full backing and completed security reviews before they can restart...."
-    },
-    {
-      "title": "Papertrade Says It Is Tightening Trading Limits After Manipulation Allegations",
-      "link": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
-      "pubDate": "2026-10-11T15:53:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The team says it is restricting exposure onchain and through relayers. Its statement does not confirm claims that a trader was blacklisted or prevented from clo..."
     },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
