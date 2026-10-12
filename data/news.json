@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T04:10:38.470Z",
+  "lastUpdated": "2026-10-12T14:20:38.417Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "STRK Gains 322% in Four Weeks, Outpacing Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/strk-gains-322-in-four-weeks-outpacing-bitcoin-and-ether",
-      "pubDate": "2026-10-12T00:59:46.000Z",
+      "title": "USDGO Adds Solana Trading Liquidity Through Jupiter Lend and Fluid",
+      "link": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
+      "pubDate": "2026-10-12T14:13:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Starknet’s DeFi TVL rose about 5% over a slightly shorter period, while its proposed Layer 1 shift remains under discussion...."
+      "summary": "Anchorage Digital Bank issues the OSL-branded stablecoin, which has about $1.29 billion in circulation. USDGO lending markets are planned next...."
     },
     {
-      "title": "AVAX Gains Nearly 50% in Four Weeks, Outpacing Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/avax-gains-nearly-50-in-four-weeks-outpacing-bitcoin-and-ether",
-      "pubDate": "2026-10-11T23:28:09.000Z",
+      "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",
+      "link": "https://thedefiant.io/news/security/onekey-cuts-off-cryptobilis-offers-free-wallet-replacements",
+      "pubDate": "2026-10-12T13:45:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period...."
+      "summary": "All OneKey models bought from the reseller between March 1 and Oct. 12 qualify, including used devices. Buyers must apply by Dec. 31...."
     },
     {
-      "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
-      "link": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
-      "pubDate": "2026-10-11T18:38:29.000Z",
+      "title": "Karpelès Flags Another Ledger Implant as Company Keeps CryptoBilis Warning",
+      "link": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
+      "pubDate": "2026-10-12T13:12:44.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ledger says all confirmed cases tied to its October 9 fund-draining investigation involve Southeast Asian reseller CryptoBilis, which has halted hardware-wallet..."
+      "summary": "Ledger's security documentation says Genuine Check cannot detect spying implants that leave the secure chip intact, a limit affecting buyers beyond any one rese..."
     },
     {
-      "title": "Coinbase Completes Deribit Integration for Institutional Traders",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
-      "pubDate": "2026-10-11T17:48:05.000Z",
+      "title": "Bitquery Says $10 Million Frozen in CryptoBilis-Linked Wallet Drains",
+      "link": "https://thedefiant.io/news/hacks/bitquery-says-10-million-frozen-in-cryptobilis-linked-wallet-drains",
+      "pubDate": "2026-10-12T12:25:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Former International Exchange clients gain Deribit's options suite and margin system, while US Prime options trading follows a separate rollout...."
+      "summary": "The firm's $93.2 million loss estimate spans six chains, while Ledger's latest update offers no repayment plan for affected buyers...."
     },
     {
-      "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
-      "link": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
-      "pubDate": "2026-10-11T17:18:19.000Z",
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "pubDate": "2026-10-12T11:55:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing;..."
+    },
+    {
+      "title": "Bybit Launches USDC-Funded Trading in More Than 1,000 US Stocks and ETFs",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
+      "pubDate": "2026-10-12T11:50:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The company says its direct sales channels are unaffected and reminds resellers never to restock returned products...."
+      "summary": "Alpaca executes trades and holds the underlying shares, giving eligible users a brokerage alternative to Bybit’s tokenized xStocks products...."
     },
     {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "pubDate": "2026-10-11T04:24:34.000Z",
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "pubDate": "2026-10-12T11:21:48.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the varian..."
+      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by th..."
     },
     {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "pubDate": "2026-10-10T11:00:00.000Z",
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "pubDate": "2026-10-12T10:36:56.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-o..."
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of p..."
     },
     {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "pubDate": "2026-10-10T09:18:45.000Z",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "pubDate": "2026-10-12T09:02:14.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial..."
+      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The cr..."
     },
     {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "pubDate": "2026-10-09T19:14:28.000Z",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "pubDate": "2026-10-12T07:26:12.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts t..."
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "pubDate": "2026-10-09T17:45:26.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion..."
+      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-co..."
     },
     {
       "title": "The model isn't cooperating",
