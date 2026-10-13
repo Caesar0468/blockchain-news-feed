@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T14:20:38.417Z",
+  "lastUpdated": "2026-10-13T00:06:07.839Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,40 +20,58 @@
   },
   "items": [
     {
-      "title": "USDGO Adds Solana Trading Liquidity Through Jupiter Lend and Fluid",
-      "link": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
-      "pubDate": "2026-10-12T14:13:33.000Z",
+      "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
+      "link": "https://thedefiant.io/news/blockchains/robinhood-reports-15b-in-stock-token-trading-as-chain-passes-100-days",
+      "pubDate": "2026-10-12T20:36:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Anchorage Digital Bank issues the OSL-branded stablecoin, which has about $1.29 billion in circulation. USDGO lending markets are planned next...."
+      "summary": "The company says its stock tokens have reached 200,000 holders, while Morpho’s dashboard shows about $1.1 billion deposited on the network...."
     },
     {
-      "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",
-      "link": "https://thedefiant.io/news/security/onekey-cuts-off-cryptobilis-offers-free-wallet-replacements",
-      "pubDate": "2026-10-12T13:45:06.000Z",
+      "title": "IMF Finds Most Tokenized Equity Trading Happens Outside Regular Hours",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
+      "pubDate": "2026-10-12T20:36:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "All OneKey models bought from the reseller between March 1 and Oct. 12 qualify, including used devices. Buyers must apply by Dec. 31...."
+      "summary": "The fund says demand for round-the-clock access is real, but building deep, liquid and resilient markets remains a challenge...."
     },
     {
-      "title": "Karpelès Flags Another Ledger Implant as Company Keeps CryptoBilis Warning",
-      "link": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
-      "pubDate": "2026-10-12T13:12:44.000Z",
+      "title": "Canton Records Over $155 Million in Q3 Fees, CertiK Says",
+      "link": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
+      "pubDate": "2026-10-12T20:36:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ledger's security documentation says Genuine Check cannot detect spying implants that leave the secure chip intact, a limit affecting buyers beyond any one rese..."
+      "summary": "The network burns Canton Coin to pay for services, while its recorded daily fee pace was below the 30-day snapshot Converge reported in June...."
     },
     {
-      "title": "Bitquery Says $10 Million Frozen in CryptoBilis-Linked Wallet Drains",
-      "link": "https://thedefiant.io/news/hacks/bitquery-says-10-million-frozen-in-cryptobilis-linked-wallet-drains",
-      "pubDate": "2026-10-12T12:25:19.000Z",
+      "title": "Citi Details Stablecoin Checkout With Coinbase and Fiat Payouts",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/citi-details-stablecoin-checkout-with-coinbase-and-fiat-payouts",
+      "pubDate": "2026-10-12T20:35:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The firm's $93.2 million loss estimate spans six chains, while Ledger's latest update offers no repayment plan for affected buyers...."
+      "summary": "The US-first expansion would let institutional merchants receive fiat without holding digital assets. General availability and supported tokens remain unspecifi..."
+    },
+    {
+      "title": "Ontology Restarts Mainnet After Nearly 43-Hour Security Halt",
+      "link": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
+      "pubDate": "2026-10-12T16:50:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ontology says no funds were lost from the network itself, but its restart statement leaves losses at the unnamed ecosystem project unresolved...."
+    },
+    {
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "pubDate": "2026-10-12T15:16:26.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not mu..."
     },
     {
       "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
@@ -63,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing;..."
-    },
-    {
-      "title": "Bybit Launches USDC-Funded Trading in More Than 1,000 US Stocks and ETFs",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
-      "pubDate": "2026-10-12T11:50:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Alpaca executes trades and holds the underlying shares, giving eligible users a brokerage alternative to Bybit’s tokenized xStocks products...."
     },
     {
       "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The cr..."
-    },
-    {
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "pubDate": "2026-10-12T07:26:12.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-co..."
     },
     {
       "title": "The model isn't cooperating",
