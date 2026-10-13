@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T00:06:07.839Z",
+  "lastUpdated": "2026-10-13T13:29:50.138Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
-      "link": "https://thedefiant.io/news/blockchains/robinhood-reports-15b-in-stock-token-trading-as-chain-passes-100-days",
-      "pubDate": "2026-10-12T20:36:46.000Z",
+      "title": "DRW and Marex Execute Bond-Index Swap on Canton",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
+      "pubDate": "2026-10-13T12:20:50.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The company says its stock tokens have reached 200,000 holders, while Morpho’s dashboard shows about $1.1 billion deposited on the network...."
+      "summary": "The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next...."
     },
     {
-      "title": "IMF Finds Most Tokenized Equity Trading Happens Outside Regular Hours",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
-      "pubDate": "2026-10-12T20:36:36.000Z",
+      "title": "Mysten Reports Sui's First Native Quantum-Safe Devnet Transaction",
+      "link": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+      "pubDate": "2026-10-13T12:10:08.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The fund says demand for round-the-clock access is real, but building deep, liquid and resilient markets remains a challenge...."
+      "summary": "The devnet implementation adds ML-DSA-65 account signatures. Native mainnet support is targeted for Q1 2027, subject to audits and testnet feedback...."
     },
     {
-      "title": "Canton Records Over $155 Million in Q3 Fees, CertiK Says",
-      "link": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
-      "pubDate": "2026-10-12T20:36:19.000Z",
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "pubDate": "2026-10-13T11:57:06.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance..."
+    },
+    {
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "pubDate": "2026-10-13T11:09:10.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interacti..."
+    },
+    {
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "pubDate": "2026-10-13T10:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothin..."
+    },
+    {
+      "title": "Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+      "pubDate": "2026-10-13T10:06:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The network burns Canton Coin to pay for services, while its recorded daily fee pace was below the 30-day snapshot Converge reported in June...."
+      "summary": "The company would replace some Bitcoin-collateralized borrowing with unsecured debt and devote up to ¥28.3 billion to share repurchases...."
     },
     {
-      "title": "Citi Details Stablecoin Checkout With Coinbase and Fiat Payouts",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/citi-details-stablecoin-checkout-with-coinbase-and-fiat-payouts",
-      "pubDate": "2026-10-12T20:35:49.000Z",
+      "title": "Autheo’s THEO Plunges 92% After Suspected Bridge Exploit on Base",
+      "link": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
+      "pubDate": "2026-10-13T09:17:57.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The US-first expansion would let institutional merchants receive fiat without holding digital assets. General availability and supported tokens remain unspecifi..."
+      "summary": "Autheo urged users not to buy, sell or bridge THEO after a 19 million-token mint and subsequent sales on Base...."
     },
     {
-      "title": "Ontology Restarts Mainnet After Nearly 43-Hour Security Halt",
-      "link": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
-      "pubDate": "2026-10-12T16:50:16.000Z",
+      "title": "Karpelès Says Airport-Bought Ledger Flex Contained Spy Implant",
+      "link": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
+      "pubDate": "2026-10-13T09:15:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ontology says no funds were lost from the network itself, but its restart statement leaves losses at the unnamed ecosystem project unresolved...."
+      "summary": "Buyer Ben Yorke identified Metapod as the retailer. Ledger says verified fund losses in its investigation remain tied to CryptoBilis-sold wallets...."
     },
     {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "pubDate": "2026-10-12T15:16:26.000Z",
+      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "pubDate": "2026-10-13T08:48:41.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not mu..."
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw foo..."
     },
     {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "pubDate": "2026-10-12T11:55:00.000Z",
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "pubDate": "2026-10-13T08:44:01.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing;..."
-    },
-    {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "pubDate": "2026-10-12T11:21:48.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by th..."
-    },
-    {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "pubDate": "2026-10-12T10:36:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of p..."
-    },
-    {
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "pubDate": "2026-10-12T09:02:14.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The cr..."
+      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator c..."
     },
     {
       "title": "The model isn't cooperating",
