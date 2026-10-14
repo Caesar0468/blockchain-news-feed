@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T11:07:01.660Z",
+  "lastUpdated": "2026-10-14T16:28:06.974Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,103 @@
   },
   "items": [
     {
-      "title": "PancakeSwap Proposes 88% LP Fee Share and 69% CAKE Emissions Cut",
-      "link": "https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut",
-      "pubDate": "2026-10-14T08:01:08.000Z",
+      "title": "EBA Names USDC the EU’s First ‘Significant’ E-Money Token",
+      "link": "https://thedefiant.io/converge/regulation/eba-names-usdc-the-eu-s-first-significant-e-money-token",
+      "pubDate": "2026-10-14T15:12:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The discussion-stage plan would send the remaining v3 and Infinity fees to the treasury, while leaving v2’s CAKE burn mechanism intact...."
+      "summary": "Financial supervision shifts to the EBA on Nov. 12, while France’s ACPR keeps responsibility for governance and other corporate matters...."
     },
     {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "pubDate": "2026-10-14T07:46:57.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtu..."
-    },
-    {
-      "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients",
-      "pubDate": "2026-10-14T06:12:46.000Z",
+      "title": "Babylon Advances Native Bitcoin Collateral Plan for Aave V4",
+      "link": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
+      "pubDate": "2026-10-14T14:39:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The bank’s closed-loop service bars external crypto transfers and charges a spread of up to 2%...."
+      "summary": "The proposal would keep collateral on Bitcoin but use WBTC to settle permissionless liquidations. Risk settings and further governance votes are still pending...."
     },
     {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "pubDate": "2026-10-14T05:52:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. T..."
-    },
-    {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "pubDate": "2026-10-14T04:34:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under..."
-    },
-    {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "pubDate": "2026-10-14T01:59:25.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San..."
-    },
-    {
-      "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
-      "link": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
-      "pubDate": "2026-10-13T22:12:02.000Z",
+      "title": "Ekubo Adds Shadow Accounts for Liquidity Providers",
+      "link": "https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers",
+      "pubDate": "2026-10-14T14:09:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised...."
+      "summary": "The feature uses existing pools rather than a separate private market; LP positions and transaction details remain visible onchain...."
     },
     {
-      "title": "Optimism’s OP Jumps 18%, Extending Four-Week Gain to 66%",
-      "link": "https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66",
-      "pubDate": "2026-10-13T21:58:39.000Z",
+      "title": "Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report",
+      "link": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
+      "pubDate": "2026-10-14T14:05:53.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "OP outpaced bitcoin and ether over matched daily and multiweek windows, though Starknet’s STRK posted a much larger four-week rally...."
+      "summary": "Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025...."
     },
     {
-      "title": "Collector Crypt Logs $151 Million in Monthly Pack Sales",
-      "link": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-logs-151-million-in-monthly-pack-sales",
-      "pubDate": "2026-10-13T21:25:41.000Z",
+      "title": "Bastion Demands $3.50 SkyAI Tender Price and Board Overhaul",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
+      "pubDate": "2026-10-14T13:59:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Solana pack buyers doubled in the third quarter, but 548 wallets accounted for 83% of spending, according to Pine Analytics...."
+      "summary": "The shareholder says it will not participate on current terms. SkyAI’s latest filing reports 600,000 SOL remaining and cash covering about 80% of the proposed o..."
     },
     {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "pubDate": "2026-10-13T18:20:57.000Z",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "pubDate": "2026-10-14T12:30:42.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Androi..."
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure..."
+    },
+    {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "pubDate": "2026-10-14T12:13:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned tha..."
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "pubDate": "2026-10-14T11:50:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly whe..."
+    },
+    {
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "pubDate": "2026-10-14T11:19:02.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a..."
+    },
+    {
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "pubDate": "2026-10-14T11:08:22.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-buil..."
+    },
+    {
+      "title": "Package managers have an integrity problem",
+      "link": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/",
+      "pubDate": "2026-10-14T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "I tested 25 of the most popular package managers to check whether they detect a compromised package repository injecting malicious code into legitimate packages..."
     },
     {
       "title": "ZDI-26-756: (0Day) Genesis World load_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests pe..."
-    },
-    {
-      "title": "SAML: A fractal of bad design",
-      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "pubDate": "2026-09-21T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Born out of academia and raised in corporate IT departments, the Security Assertion Markup Language (SAML) authentication protocol continues to be a staple in t..."
     }
   ]
 }
