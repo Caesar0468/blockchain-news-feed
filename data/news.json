@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T03:24:29.924Z",
+  "lastUpdated": "2026-10-14T11:07:01.660Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,60 @@
     ]
   },
   "items": [
+    {
+      "title": "PancakeSwap Proposes 88% LP Fee Share and 69% CAKE Emissions Cut",
+      "link": "https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut",
+      "pubDate": "2026-10-14T08:01:08.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The discussion-stage plan would send the remaining v3 and Infinity fees to the treasury, while leaving v2’s CAKE burn mechanism intact...."
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "pubDate": "2026-10-14T07:46:57.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtu..."
+    },
+    {
+      "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients",
+      "pubDate": "2026-10-14T06:12:46.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The bank’s closed-loop service bars external crypto transfers and charges a spread of up to 2%...."
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "pubDate": "2026-10-14T05:52:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. T..."
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "pubDate": "2026-10-14T04:34:43.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under..."
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "pubDate": "2026-10-14T01:59:25.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San..."
+    },
     {
       "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
       "link": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
@@ -47,24 +101,6 @@
       "summary": "Solana pack buyers doubled in the third quarter, but 548 wallets accounted for 83% of spending, according to Pine Analytics...."
     },
     {
-      "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
-      "pubDate": "2026-10-13T20:47:14.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A two-year note settled within minutes on BNY’s private digital ledger before Citadel Securities used it to raise cash...."
-    },
-    {
-      "title": "FBI Reports $17 Billion Scam-Center Tally as West Africa Raids Net 28 Arrests",
-      "link": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
-      "pubDate": "2026-10-13T20:39:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "DOJ says a coordinated enforcement week removed more than 3.7 million online accounts, pages and groups and identified over $11 million in potentially freezable..."
-    },
-    {
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
       "pubDate": "2026-10-13T18:20:57.000Z",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Androi..."
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "pubDate": "2026-10-13T18:03:18.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed..."
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "pubDate": "2026-10-13T17:33:11.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on O..."
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "pubDate": "2026-10-13T17:28:50.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on Oc..."
-    },
-    {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "pubDate": "2026-10-13T16:18:18.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for..."
     },
     {
       "title": "ZDI-26-756: (0Day) Genesis World load_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
