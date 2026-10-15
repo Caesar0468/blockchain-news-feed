@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T03:03:17.249Z",
+  "lastUpdated": "2026-10-15T10:48:37.091Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,78 @@
   },
   "items": [
     {
+      "title": "HashKey Chain Admin Moves 142,818 USDT With Temporary Contract Swap",
+      "link": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
+      "pubDate": "2026-10-15T10:45:57.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The original deposit code was restored about six minutes later, but a three-of-five multisig retains immediate upgrade powers...."
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "pubDate": "2026-10-15T10:42:16.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for..."
+    },
+    {
+      "title": "BVNK Launches Global Money Platform Linking Stablecoins to Mastercard Rails",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
+      "pubDate": "2026-10-15T10:34:38.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027...."
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "pubDate": "2026-10-15T08:45:10.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, acco..."
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "pubDate": "2026-10-15T07:07:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows develo..."
+    },
+    {
+      "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
+      "link": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
+      "pubDate": "2026-10-15T06:53:08.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers...."
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "pubDate": "2026-10-15T06:43:08.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells a..."
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "pubDate": "2026-10-15T06:17:58.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability,..."
+    },
+    {
       "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
       "link": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
       "pubDate": "2026-10-15T02:53:59.000Z",
@@ -36,78 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws—and why each has a different legal effe..."
-    },
-    {
-      "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
-      "link": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
-      "pubDate": "2026-10-14T21:33:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido’s liquid-staking token. Its registration never became effective...."
-    },
-    {
-      "title": "Tempo Takes Zones Privacy System Into Production With Deel",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
-      "pubDate": "2026-10-14T21:21:53.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Contractor balances and payout history stay out of public view, while Deel retains records for reconciliation and audit...."
-    },
-    {
-      "title": "Algorand Marketing Chief Resigns After CEO and CTO Departures",
-      "link": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
-      "pubDate": "2026-10-14T21:20:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Marc Vanlerberghe’s exit comes as new CEO William Herkelrath reviews initiatives and partnerships with the aim of making Algorand self-sustaining...."
-    },
-    {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "pubDate": "2026-10-14T18:38:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco s..."
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "pubDate": "2026-10-14T17:38:31.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators..."
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "pubDate": "2026-10-14T17:09:15.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Ora..."
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "pubDate": "2026-10-14T16:34:31.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudul..."
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "pubDate": "2026-10-14T12:30:42.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure..."
     },
     {
       "title": "Package managers have an integrity problem",
