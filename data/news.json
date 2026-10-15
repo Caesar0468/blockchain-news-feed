@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T10:48:37.091Z",
+  "lastUpdated": "2026-10-15T16:15:10.060Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "HashKey Chain Admin Moves 142,818 USDT With Temporary Contract Swap",
-      "link": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
-      "pubDate": "2026-10-15T10:45:57.000Z",
+      "title": "Bitcoin Holds Above $81,000 as Producer Prices Post Largest Jump Since 2022",
+      "link": "https://thedefiant.io/news/markets/bitcoin-holds-above-81000-producer-prices-largest-jump-since-2022-oct-15-2026",
+      "pubDate": "2026-10-15T15:48:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The original deposit code was restored about six minutes later, but a three-of-five multisig retains immediate upgrade powers...."
+      "summary": "Wholesale prices rose 1.3% in September, with energy accounting for more than 80% of the increase. Bitcoin rose less than half a percent over 24 hours through t..."
     },
     {
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "pubDate": "2026-10-15T10:42:16.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for..."
-    },
-    {
-      "title": "BVNK Launches Global Money Platform Linking Stablecoins to Mastercard Rails",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
-      "pubDate": "2026-10-15T10:34:38.000Z",
+      "title": "Visa Direct Moves USDC Prefunding Into Production With Inyo Global",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
+      "pubDate": "2026-10-15T15:36:52.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027...."
+      "summary": "Eligible payment providers can fund cross-border payouts around the clock through the same Inyo APIs they already use...."
     },
     {
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "pubDate": "2026-10-15T08:45:10.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, acco..."
-    },
-    {
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "pubDate": "2026-10-15T07:07:05.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows develo..."
-    },
-    {
-      "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
-      "link": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
-      "pubDate": "2026-10-15T06:53:08.000Z",
+      "title": "Crypto.com Launches Predict Pro With Order Books and Sports Combos",
+      "link": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
+      "pubDate": "2026-10-15T15:12:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers...."
+      "summary": "The platform connects US traders to OG.com Markets and supports sports combinations of two to 20 predictions, with any losing leg making the entire combo a loss..."
     },
     {
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "pubDate": "2026-10-15T06:43:08.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells a..."
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "pubDate": "2026-10-15T06:17:58.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability,..."
-    },
-    {
-      "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
-      "link": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
-      "pubDate": "2026-10-15T02:53:59.000Z",
+      "title": "Aztec Targets Full Post-Quantum Migration by End of 2030",
+      "link": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
+      "pubDate": "2026-10-15T14:37:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ledger tells CryptoBilis buyers to leave unused wallets uninitialized and move assets from already-set-up devices to a new device with a new recovery phrase...."
+      "summary": "The privacy Layer 2 plans hardened developer libraries in early 2027, while its full migration also depends on changes to Ethereum...."
     },
     {
-      "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
-      "link": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
-      "pubDate": "2026-10-15T02:53:06.000Z",
+      "title": "OKX Opens Onchain Spot and Perps Beta With Simulated TradFi Trading",
+      "link": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
+      "pubDate": "2026-10-15T14:34:52.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws—and why each has a different legal effe..."
+      "summary": "The points competition shares a 250,000 USDT reward pool with Outcomes. Funded trading is scheduled to follow after the contest ends...."
+    },
+    {
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "pubDate": "2026-10-15T14:11:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a tr..."
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "pubDate": "2026-10-15T12:58:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memor..."
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "pubDate": "2026-10-15T12:28:13.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-se..."
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "pubDate": "2026-10-15T12:07:20.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal..."
+    },
+    {
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "pubDate": "2026-10-15T11:46:59.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public san..."
     },
     {
       "title": "Package managers have an integrity problem",
