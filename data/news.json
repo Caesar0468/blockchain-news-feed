@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T21:15:37.854Z",
+  "lastUpdated": "2026-10-15T03:03:17.249Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,31 +20,49 @@
   },
   "items": [
     {
-      "title": "Kraken Parent Payward Agrees to Buy Lithuania’s Saldo Bank",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/kraken-parent-payward-agrees-to-buy-lithuania-s-saldo-bank",
-      "pubDate": "2026-10-14T20:16:08.000Z",
+      "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
+      "link": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
+      "pubDate": "2026-10-15T02:53:59.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Saldo reported €196.9 million in assets at the end of June. The acquisition is expected to close in 2027, subject to regulatory approval...."
+      "summary": "Ledger tells CryptoBilis buyers to leave unused wallets uninitialized and move assets from already-set-up devices to a new device with a new recovery phrase...."
     },
     {
-      "title": "XLM Drops 4%, Lagging Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/xlm-drops-4-lagging-bitcoin-and-ether",
-      "pubDate": "2026-10-14T20:08:16.000Z",
+      "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
+      "link": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
+      "pubDate": "2026-10-15T02:53:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Stellar announced native Chainlink data services for DeFi applications, while XLM’s seven-day loss reached 7.85%...."
+      "summary": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws—and why each has a different legal effe..."
     },
     {
-      "title": "Specter Links ProveX’s January ETH Inflows to Earlier Heart-Linked Funds",
-      "link": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
-      "pubDate": "2026-10-14T19:11:18.000Z",
+      "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
+      "link": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
+      "pubDate": "2026-10-14T21:33:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The receiving address was published by Heart for a campaign that warned participants their coins could be sold and they would receive no benefit...."
+      "summary": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido’s liquid-staking token. Its registration never became effective...."
+    },
+    {
+      "title": "Tempo Takes Zones Privacy System Into Production With Deel",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
+      "pubDate": "2026-10-14T21:21:53.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Contractor balances and payout history stay out of public view, while Deel retains records for reconciliation and audit...."
+    },
+    {
+      "title": "Algorand Marketing Chief Resigns After CEO and CTO Departures",
+      "link": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
+      "pubDate": "2026-10-14T21:20:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Marc Vanlerberghe’s exit comes as new CEO William Herkelrath reviews initiatives and partnerships with the aim of making Algorand self-sustaining...."
     },
     {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
@@ -63,24 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators..."
-    },
-    {
-      "title": "Rocket Pool Voters Back rETH Withdrawals, Keep 4 ETH Bonds",
-      "link": "https://thedefiant.io/news/defi/rocket-pool-voters-back-reth-withdrawals-keep-4-eth-bonds",
-      "pubDate": "2026-10-14T17:33:56.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Voters chose random megapool exits and deferred an onchain governance expansion. The full Saturn 2 upgrade package still needs ratification...."
-    },
-    {
-      "title": "Bubblemaps Alleges Anglio-Linked Wallets Traded Ahead of Pump.fun Calls",
-      "link": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
-      "pubDate": "2026-10-14T17:14:39.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The analytics firm estimates $50,000 in trading profits and $80,000 in callout rewards, as Pump.fun shifts payouts toward followers’ returns...."
     },
     {
       "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
