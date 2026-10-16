@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T03:00:12.532Z",
+  "lastUpdated": "2026-10-16T10:37:55.870Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,69 @@
   },
   "items": [
     {
+      "title": "Jupiter Says YOLO Hit $1 Billion in Volume in Under 24 Hours",
+      "link": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
+      "pubDate": "2026-10-16T10:32:47.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The unaudited beta counts leveraged trading exposure, while winners depend on a separate house pool funded by trader losses...."
+    },
+    {
+      "title": "Solana Postpones Shanghai Event, Citing Registration Surge",
+      "link": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
+      "pubDate": "2026-10-16T08:58:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed...."
+    },
+    {
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "pubDate": "2026-10-16T06:55:55.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remot..."
+    },
+    {
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "pubDate": "2026-10-16T06:53:09.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CER..."
+    },
+    {
+      "title": "Celestia’s TIA Climbs 59% in Four Weeks as Blob Demand Slips",
+      "link": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
+      "pubDate": "2026-10-16T05:58:10.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Daily blob data fell during the rally, while Celestia’s new Fibre throughput benchmark remains separate from mainnet usage...."
+    },
+    {
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "pubDate": "2026-10-16T04:59:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malw..."
+    },
+    {
+      "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
+      "link": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
+      "pubDate": "2026-10-16T04:29:25.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The interruption follows a new Shanghai office and skyline promotion at the start of the foundation’s four-city China tour...."
+    },
+    {
       "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
       "link": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
       "pubDate": "2026-10-16T00:39:04.000Z",
@@ -27,42 +90,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place...."
-    },
-    {
-      "title": "CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization",
-      "pubDate": "2026-10-15T23:58:41.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The venture now discloses nine issuer objections, each of which bars the affected stock token from trading under the SEC’s conditional exemption...."
-    },
-    {
-      "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
-      "pubDate": "2026-10-15T23:34:48.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11...."
-    },
-    {
-      "title": "Google Cuts Quantum Magic-State Errors 40-Fold on Willow",
-      "link": "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow",
-      "pubDate": "2026-10-15T23:27:03.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Science result reaches about 99.99% state fidelity, validating a technique already assumed in quantum resource estimates...."
-    },
-    {
-      "title": "Pirate Chain Says Exploit Created 39.8 Million ARRR",
-      "link": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
-      "pubDate": "2026-10-15T23:21:21.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The network remains operational, but users have been asked not to move funds while developers work on recovery...."
     },
     {
       "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
@@ -81,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week..."
-    },
-    {
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "pubDate": "2026-10-15T16:01:57.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no..."
-    },
-    {
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "pubDate": "2026-10-15T16:00:26.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent St..."
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "pubDate": "2026-10-15T14:11:36.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a tr..."
     },
     {
       "title": "ZDI-26-778: Adobe Photoshop DCM Pixel Data Parsing Integer Overflow Remote Code Execution Vulnerability",
