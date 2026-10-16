@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T16:01:04.052Z",
+  "lastUpdated": "2026-10-16T20:28:05.066Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,69 @@
   },
   "items": [
     {
+      "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
+      "link": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
+      "pubDate": "2026-10-16T18:32:37.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours...."
+    },
+    {
+      "title": "Karpelès Reports Ledger Implants in Devices From Two More Resellers",
+      "link": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
+      "pubDate": "2026-10-16T18:13:04.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check c..."
+    },
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "pubDate": "2026-10-16T17:48:45.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, b..."
+    },
+    {
+      "title": "STRK’s L1 Bet: Eli Ben-Sasson on Starknet’s Exit Plan",
+      "link": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
+      "pubDate": "2026-10-16T17:33:25.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Starknet says it is “actively considering becoming an L1” — leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the..."
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "pubDate": "2026-10-16T16:43:39.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between Ma..."
+    },
+    {
+      "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+      "link": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+      "pubDate": "2026-10-16T16:28:04.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole...."
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "pubDate": "2026-10-16T16:16:44.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Ta..."
+    },
+    {
       "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
       "pubDate": "2026-10-16T15:05:02.000Z",
@@ -27,42 +90,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027...."
-    },
-    {
-      "title": "Mizuho, MUFG and SMBC Complete Joint Yen Stablecoin Pilot",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mizuho-mufg-and-smbc-complete-joint-yen-stablecoin-pilot",
-      "pubDate": "2026-10-16T15:04:54.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The July trial covered issuance, transfer and redemption for Mitsubishi Corporation, while the banks have targeted commercial transactions in fiscal 2026...."
-    },
-    {
-      "title": "Binance.US Seeks Up to $100 Million at $1 Billion Valuation, Bloomberg Reports",
-      "link": "https://thedefiant.io/news/cefi/binance-us-seeks-up-to-100-million-at-1-billion-valuation-bloomberg-reports",
-      "pubDate": "2026-10-16T15:04:47.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Trump-affiliated World Liberty Financial was made aware of the fundraising but is not participating, according to Bloomberg...."
-    },
-    {
-      "title": "Network School Takes Over Farcaster With New Posting Rules",
-      "link": "https://thedefiant.io/news/nfts-and-web3/network-school-takes-over-farcaster-with-new-posting-rules",
-      "pubDate": "2026-10-16T15:02:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The new social smart contract gives the core team authority to update conduct rules, with humans and AI already reviewing posts...."
-    },
-    {
-      "title": "AMC CEO Says Company Won’t Consent to Robinhood Stock Tokens in US",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/amc-ceo-says-company-won-t-consent-to-robinhood-stock-tokens-in-us",
-      "pubDate": "2026-10-16T15:01:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Robinhood’s offshore tokens do not convey shareholder rights, while the SEC’s new US trading framework gives issuers a limited right to object...."
     },
     {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
@@ -83,22 +110,31 @@
       "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One mod..."
     },
     {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "pubDate": "2026-10-16T06:55:55.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-783: LibreOffice PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-783/",
+      "pubDate": "2026-10-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remot..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vuln..."
     },
     {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "pubDate": "2026-10-16T06:53:09.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-782: LibreOffice PDF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-782/",
+      "pubDate": "2026-10-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CER..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vuln..."
+    },
+    {
+      "title": "ZDI-26-781: LibreOffice EMF+ Brush Integer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-781/",
+      "pubDate": "2026-10-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vuln..."
     },
     {
       "title": "ZDI-26-780: X.Org Server GestureBuildSprite Use-After-Free Information Disclosure Vulnerability",
@@ -119,40 +155,13 @@
       "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Sparx Systems Enterprise Architect. User interaction i..."
     },
     {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "pubDate": "2026-10-16T04:59:36.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malw..."
-    },
-    {
-      "title": "ZDI-26-778: Adobe Photoshop DCM Pixel Data Parsing Integer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-778/",
-      "pubDate": "2026-10-15T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Photoshop. User interaction is required to exploit this..."
-    },
-    {
-      "title": "ZDI-26-777: Adobe Photoshop AdobePDFL PDF JPEG Parsing Integer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-777/",
-      "pubDate": "2026-10-15T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Photoshop. User interaction is required to exploit this..."
-    },
-    {
-      "title": "ZDI-26-776: QNAP TS-453E syslog log_message Format String Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-776/",
-      "pubDate": "2026-10-15T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP TS-453E devices. Authentication is not required..."
+      "title": "Glamsterdam Hoodi Testnet Announcement",
+      "link": "https://blog.ethereum.org/en/2026/10/16/glamsterdam-hoodi-announcement",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1 sca..."
     },
     {
       "title": "Package managers have an integrity problem",
@@ -234,15 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Threshold signature schemes, a form of multi-party computation (MPC) that lets a set of parties sign together without any one of them holding the key, are incre..."
-    },
-    {
-      "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
-      "link": "https://portswigger.net/research/http3-in-burp-suite",
-      "pubDate": "2026-09-23T14:00:00.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests pe..."
     }
   ]
 }
