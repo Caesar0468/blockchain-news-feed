@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T10:06:21.373Z",
+  "lastUpdated": "2026-10-17T14:54:02.495Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "pubDate": "2026-10-17T11:11:56.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The..."
+    },
     {
       "title": "Strive Prices $630 Million SATS Preferred Offering at $90",
       "link": "https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Ta..."
-    },
-    {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "pubDate": "2026-10-16T14:03:04.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research m..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
