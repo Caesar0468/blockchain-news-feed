@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T02:52:28.080Z",
+  "lastUpdated": "2026-10-17T10:06:21.373Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,40 +20,58 @@
   },
   "items": [
     {
-      "title": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
-      "link": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
-      "pubDate": "2026-10-16T23:52:16.000Z",
+      "title": "Strive Prices $630 Million SATS Preferred Offering at $90",
+      "link": "https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90",
+      "pubDate": "2026-10-17T08:14:03.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Cheng will remain CTO and personally lead a new AI business unit building agent infrastructure tied to Sui and Walrus...."
+      "summary": "The $100 dividend base implies a 16.7% simple annual yield at the offer price, above SATA's initial 15%...."
     },
     {
-      "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
-      "link": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
-      "pubDate": "2026-10-16T21:32:28.000Z",
+      "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
+      "link": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
+      "pubDate": "2026-10-17T07:55:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds...."
+      "summary": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12–16, while bitcoin withdrawals slowed 66% from the preceding week...."
     },
     {
-      "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
-      "link": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
-      "pubDate": "2026-10-16T18:32:37.000Z",
+      "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin’s Drop",
+      "link": "https://thedefiant.io/converge/markets/strategy-slides-9-6-after-msci-decision-outpacing-bitcoin-s-drop",
+      "pubDate": "2026-10-17T07:44:41.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours...."
+      "summary": "The company’s disclosed bitcoin holdings remained about $5.1 billion above cost. MSCI’s final affected-company list is due Nov. 11...."
     },
     {
-      "title": "Karpelès Reports Ledger Implants in Devices From Two More Resellers",
-      "link": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
-      "pubDate": "2026-10-16T18:13:04.000Z",
+      "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
+      "pubDate": "2026-10-17T07:32:11.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check c..."
+      "summary": "Tokens will be backed 1:1 by securities held at DTC, with Stellar and Circle’s Arc anticipated in 2027...."
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "pubDate": "2026-10-17T06:16:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) cre..."
+    },
+    {
+      "title": "Celestia’s TIA Jumps 23% in a Day, Extending Four-Week Rally",
+      "link": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
+      "pubDate": "2026-10-17T05:58:10.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Daily transaction fees rose to $158, but data posted to Celestia slipped on the latest complete day...."
     },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
@@ -63,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, b..."
-    },
-    {
-      "title": "STRK’s L1 Bet: Eli Ben-Sasson on Starknet’s Exit Plan",
-      "link": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
-      "pubDate": "2026-10-16T17:33:25.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Starknet says it is “actively considering becoming an L1” — leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the..."
     },
     {
       "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research m..."
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "pubDate": "2026-10-16T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One mod..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
