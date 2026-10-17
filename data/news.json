@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T20:28:05.066Z",
+  "lastUpdated": "2026-10-17T02:52:28.080Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
+      "link": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
+      "pubDate": "2026-10-16T23:52:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Cheng will remain CTO and personally lead a new AI business unit building agent infrastructure tied to Sui and Walrus...."
+    },
+    {
+      "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+      "link": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+      "pubDate": "2026-10-16T21:32:28.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds...."
+    },
     {
       "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
       "link": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
@@ -65,15 +83,6 @@
       "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between Ma..."
     },
     {
-      "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
-      "link": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
-      "pubDate": "2026-10-16T16:28:04.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole...."
-    },
-    {
       "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
       "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
       "pubDate": "2026-10-16T16:16:44.000Z",
@@ -81,15 +90,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Ta..."
-    },
-    {
-      "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
-      "pubDate": "2026-10-16T15:05:02.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027...."
     },
     {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
@@ -108,6 +108,24 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One mod..."
+    },
+    {
+      "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-785/",
+      "pubDate": "2026-10-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of FreeBSD Kernel. An attacker must first obtain the ability to execu..."
+    },
+    {
+      "title": "ZDI-26-784: FreeBSD Kernel kqueue Use-After-Free Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-784/",
+      "pubDate": "2026-10-16T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of FreeBSD Kernel. An attacker must first obtain the ability to execu..."
     },
     {
       "title": "ZDI-26-783: LibreOffice PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
@@ -135,24 +153,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vuln..."
-    },
-    {
-      "title": "ZDI-26-780: X.Org Server GestureBuildSprite Use-After-Free Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-780/",
-      "pubDate": "2026-10-16T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of X.Org Server. An attacker must first obtain the ability..."
-    },
-    {
-      "title": "ZDI-26-779: (0Day) Sparx Systems Enterprise Architect XSLT Debugger XML External Entity Processing Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-779/",
-      "pubDate": "2026-10-16T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Sparx Systems Enterprise Architect. User interaction i..."
     },
     {
       "title": "Glamsterdam Hoodi Testnet Announcement",
