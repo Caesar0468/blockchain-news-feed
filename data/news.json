@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T14:54:02.495Z",
+  "lastUpdated": "2026-10-17T20:03:14.267Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
+      "link": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
+      "pubDate": "2026-10-17T19:42:21.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The 2027 budget amendment would end tax deferral for swaps into single-currency stablecoins from January 1, but it is not yet law...."
+    },
+    {
+      "title": "Injective Activates Fixed Gas Costs for Exchange Transactions",
+      "link": "https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions",
+      "pubDate": "2026-10-17T17:12:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Traders and app developers can use published gas budgets for orders, cancellations, deposits and withdrawals instead of simulating each transaction...."
+    },
     {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
@@ -56,15 +74,6 @@
       "summary": "The company’s disclosed bitcoin holdings remained about $5.1 billion above cost. MSCI’s final affected-company list is due Nov. 11...."
     },
     {
-      "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
-      "pubDate": "2026-10-17T07:32:11.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Tokens will be backed 1:1 by securities held at DTC, with Stellar and Circle’s Arc anticipated in 2027...."
-    },
-    {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
       "pubDate": "2026-10-17T06:16:46.000Z",
@@ -72,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) cre..."
-    },
-    {
-      "title": "Celestia’s TIA Jumps 23% in a Day, Extending Four-Week Rally",
-      "link": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
-      "pubDate": "2026-10-17T05:58:10.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Daily transaction fees rose to $158, but data posted to Celestia slipped on the latest complete day...."
     },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
