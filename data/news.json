@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:20:04.950Z",
+  "lastUpdated": "2026-10-18T15:20:06.557Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
+      "link": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
+      "pubDate": "2026-10-18T15:09:55.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Qubic says 87.1% of the drained QU remains immobilized on its network, while MEXC froze the account receiving the rest...."
+    },
+    {
+      "title": "Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS",
+      "link": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
+      "pubDate": "2026-10-18T11:10:38.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "About 2.8 million CYS remain frozen at the recipient address, while onchain records show some tokens were sold before the blacklist took effect...."
+    },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
@@ -63,24 +81,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The $100 dividend base implies a 16.7% simple annual yield at the offer price, above SATA's initial 15%...."
-    },
-    {
-      "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
-      "link": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
-      "pubDate": "2026-10-17T07:55:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12–16, while bitcoin withdrawals slowed 66% from the preceding week...."
-    },
-    {
-      "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin’s Drop",
-      "link": "https://thedefiant.io/converge/markets/strategy-slides-9-6-after-msci-decision-outpacing-bitcoin-s-drop",
-      "pubDate": "2026-10-17T07:44:41.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The company’s disclosed bitcoin holdings remained about $5.1 billion above cost. MSCI’s final affected-company list is due Nov. 11...."
     },
     {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
