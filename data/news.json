@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T03:07:22.721Z",
+  "lastUpdated": "2026-10-19T12:01:49.285Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,42 @@
     ]
   },
   "items": [
+    {
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "pubDate": "2026-10-19T10:06:40.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext..."
+    },
+    {
+      "title": "JPMorgan Extends JPM Coin to Ethereum for Institutional Clients",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients",
+      "pubDate": "2026-10-19T07:53:33.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain...."
+    },
+    {
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "pubDate": "2026-10-19T06:29:44.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pa..."
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "pubDate": "2026-10-19T06:07:08.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCod..."
+    },
     {
       "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
       "link": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The..."
-    },
-    {
-      "title": "Strive Prices $630 Million SATS Preferred Offering at $90",
-      "link": "https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90",
-      "pubDate": "2026-10-17T08:14:03.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The $100 dividend base implies a 16.7% simple annual yield at the offer price, above SATA's initial 15%...."
-    },
-    {
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "pubDate": "2026-10-17T06:16:46.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) cre..."
-    },
-    {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "pubDate": "2026-10-16T17:48:45.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, b..."
-    },
-    {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "pubDate": "2026-10-16T16:43:39.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between Ma..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
