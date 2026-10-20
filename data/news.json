@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T21:58:03.598Z",
+  "lastUpdated": "2026-10-20T03:16:12.807Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,40 +20,49 @@
   },
   "items": [
     {
-      "title": "Sentora’s OUSD Lending Vault Holds $42.5 Million on Tempo",
-      "link": "https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo",
-      "pubDate": "2026-10-19T20:02:10.000Z",
+      "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
+      "pubDate": "2026-10-20T02:39:23.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Morpho vault lends against cbBTC collateral, but nearly all its assets remain idle rather than deployed into loans...."
+      "summary": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners...."
     },
     {
-      "title": "France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
-      "link": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
-      "pubDate": "2026-10-19T19:12:04.000Z",
+      "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
+      "link": "https://thedefiant.io/news/tokens/aster-sets-paper-perp-delisting-after-transferability-decision",
+      "pubDate": "2026-10-20T01:47:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027...."
+      "summary": "Paragon had already halted its PAPER market and settled open positions at $0.026296 after Papertrade ruled out token transfers for now...."
     },
     {
-      "title": "Rain Says Western Union's Stablecard Is Live in 37 Markets",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/rain-says-western-union-s-stablecard-is-live-in-37-markets",
-      "pubDate": "2026-10-19T18:09:42.000Z",
+      "title": "Super League Shareholders Back Metaplanet’s 2,100 BTC Investment",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
+      "pubDate": "2026-10-19T23:18:24.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The USDPT-backed Visa card is getting a Money20/20 promotion offering up to $40 in purchase-only credits, subject to in-person signup and approval...."
+      "summary": "The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026...."
     },
     {
-      "title": "Pump.fun Adds Pre-IPO Tokens to Its Launch Pairings",
-      "link": "https://thedefiant.io/news/defi/pump-fun-adds-pre-ipo-tokens-to-its-launch-pairings",
-      "pubDate": "2026-10-19T17:58:50.000Z",
+      "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
+      "link": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
+      "pubDate": "2026-10-19T22:43:41.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The eight PreStocks assets offer economic exposure rather than shareholder rights and are unavailable to US persons...."
+      "summary": "Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens...."
+    },
+    {
+      "title": "Arcus Adds Stock Tokens and WETH as Perpetual Collateral",
+      "link": "https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral",
+      "pubDate": "2026-10-19T22:20:45.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The early-access feature uses automatic USDG loans at 50% initial loan-to-value, with non-USDG deposits capped at $20,000 per account...."
     },
     {
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
@@ -63,15 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a pr..."
-    },
-    {
-      "title": "Lighter Launches BTC and ETH Binary Options on Core",
-      "link": "https://thedefiant.io/news/defi/lighter-launches-btc-and-eth-binary-options-on-core",
-      "pubDate": "2026-10-19T17:23:21.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Up/Down contracts pay winning shares 1 USDC and require full funding, with no leverage or liquidations...."
     },
     {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
