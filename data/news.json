@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T03:16:12.807Z",
+  "lastUpdated": "2026-10-20T10:53:33.964Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,78 @@
   },
   "items": [
     {
+      "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
+      "pubDate": "2026-10-20T10:09:57.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses...."
+    },
+    {
+      "title": "Drift-Linked Wallet Sends $54.8 Million in ETH to Tornado Cash",
+      "link": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash",
+      "pubDate": "2026-10-20T09:12:49.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Five Etherscan-labeled Drift exploiter wallets still hold about 84,164 ETH as recovery efforts continue after April’s attack...."
+    },
+    {
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "pubDate": "2026-10-20T08:21:29.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19..."
+    },
+    {
+      "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
+      "link": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
+      "pubDate": "2026-10-20T08:02:39.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The 4.26.4 patch separates new account seeds from the exposed random stream but leaves header generation unchanged...."
+    },
+    {
+      "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
+      "link": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
+      "pubDate": "2026-10-20T07:49:17.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The related consensus-specs issue was closed as ‘not planned’; its author points to pre-deposit checks as a defense...."
+    },
+    {
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "pubDate": "2026-10-20T07:11:45.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity..."
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "pubDate": "2026-10-20T05:53:16.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conferenc..."
+    },
+    {
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "pubDate": "2026-10-20T04:05:58.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader...."
+    },
+    {
       "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
       "pubDate": "2026-10-20T02:39:23.000Z",
@@ -29,42 +101,6 @@
       "summary": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners...."
     },
     {
-      "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
-      "link": "https://thedefiant.io/news/tokens/aster-sets-paper-perp-delisting-after-transferability-decision",
-      "pubDate": "2026-10-20T01:47:17.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Paragon had already halted its PAPER market and settled open positions at $0.026296 after Papertrade ruled out token transfers for now...."
-    },
-    {
-      "title": "Super League Shareholders Back Metaplanet’s 2,100 BTC Investment",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
-      "pubDate": "2026-10-19T23:18:24.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026...."
-    },
-    {
-      "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
-      "link": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
-      "pubDate": "2026-10-19T22:43:41.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens...."
-    },
-    {
-      "title": "Arcus Adds Stock Tokens and WETH as Perpetual Collateral",
-      "link": "https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral",
-      "pubDate": "2026-10-19T22:20:45.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The early-access feature uses automatic USDG loans at 50% initial loan-to-value, with non-USDG deposits capped at $20,000 per account...."
-    },
-    {
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
       "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
       "pubDate": "2026-10-19T17:32:13.000Z",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a pr..."
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "pubDate": "2026-10-19T16:28:47.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:0..."
-    },
-    {
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "pubDate": "2026-10-19T14:14:07.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody though..."
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "pubDate": "2026-10-19T13:05:45.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish..."
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "pubDate": "2026-10-19T11:50:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data i..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
