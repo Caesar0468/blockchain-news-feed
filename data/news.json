@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T16:18:21.181Z",
+  "lastUpdated": "2026-10-20T21:12:40.693Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,58 @@
   },
   "items": [
     {
-      "title": "Starknet Foundation Launches Bramble Wallet With STRK20 Shielding",
-      "link": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
-      "pubDate": "2026-10-20T15:55:09.000Z",
+      "title": "Extended Plans Oct. 22 Settlement Move From Starknet to Arc",
+      "link": "https://thedefiant.io/news/defi/extended-plans-oct-22-settlement-move-from-starknet-to-arc",
+      "pubDate": "2026-10-20T19:10:40.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Chrome-only wallet combines private balances, Ledger signing and multisig accounts, with a recovery phrase for backup...."
+      "summary": "Extended says holders of more than $1 of USDT or wBTC in a sub-account must convert or withdraw to avoid forced closures, but its notices give conflicting deadl..."
+    },
+    {
+      "title": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+      "pubDate": "2026-10-20T17:45:11.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ethereum's gross annualized staking yield fell to 2.63% from 2.81%, while Solana also saw more stake and lower returns...."
+    },
+    {
+      "title": "COMP Jumps 27%, Outpacing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
+      "pubDate": "2026-10-20T17:28:52.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "COMP also led both benchmarks over seven and 28 days, while Compound’s total value locked remained below its late-September level...."
+    },
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "pubDate": "2026-10-20T17:09:53.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on Oct..."
+    },
+    {
+      "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
+      "link": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
+      "pubDate": "2026-10-20T17:07:44.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi’s federal court defeat...."
+    },
+    {
+      "title": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
+      "link": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+      "pubDate": "2026-10-20T16:24:01.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The MIT-incubated network says 16 node operators and about 1.4 million ETH in stake are running mump2p, with ether.fi making it standard across its validator se..."
     },
     {
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -47,42 +92,6 @@
       "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware a..."
     },
     {
-      "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
-      "link": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
-      "pubDate": "2026-10-20T15:18:18.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Protected deposits are unaffected, Lulo says, while Neutrl's redemption contract offers 0.51 USDC per NUSD...."
-    },
-    {
-      "title": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
-      "link": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
-      "pubDate": "2026-10-20T15:11:45.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The initial release allows 128 MiB blobs and 200 Fibre submissions per block, using smaller uploads and a slower block cadence than its terabit benchmark...."
-    },
-    {
-      "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
-      "link": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
-      "pubDate": "2026-10-20T14:47:50.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Existing cards and accounts remain accessible for now, but the issuer and provider—not 1inch—control when card functionality ends...."
-    },
-    {
-      "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
-      "pubDate": "2026-10-20T14:19:56.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors...."
-    },
-    {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "pubDate": "2026-10-20T14:07:17.000Z",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's P..."
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "pubDate": "2026-10-20T11:41:06.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who co..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
