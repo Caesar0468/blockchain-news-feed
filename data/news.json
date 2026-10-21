@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T11:06:26.699Z",
+  "lastUpdated": "2026-10-21T16:33:20.988Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,103 @@
   },
   "items": [
     {
-      "title": "SpaceX Share Unlock Looms Over Aave Collateral Proposal",
-      "link": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
-      "pubDate": "2026-10-21T10:12:12.000Z",
+      "title": "Sunrise Brings Backpack’s Tokenized Meta Shares to Solana",
+      "link": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
+      "pubDate": "2026-10-21T16:23:30.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "LlamaRisk recommends a 55% collateral factor and a 37,000-token cap, with larger liquidations dependent on redemptions or derivatives hedges...."
+      "summary": "Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported...."
     },
     {
-      "title": "OpenStocks' BNB Chain Tokens Offer Price Exposure, Not Private Shares",
-      "link": "https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares",
-      "pubDate": "2026-10-21T09:33:59.000Z",
+      "title": "Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns",
+      "link": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
+      "pubDate": "2026-10-21T15:01:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The platform's terms give holders no claim on underlying shares and allow exposure through SPVs or derivatives...."
+      "summary": "Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in...."
     },
     {
-      "title": "Evernorth’s $132.2 Million Warrant Registration Goes Effective",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective",
-      "pubDate": "2026-10-21T09:28:54.000Z",
+      "title": "Your AI agent fixed the bug, but what else did it change?",
+      "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "Today we’re publishing patching-bugs and regression-hunt, two plugins that let engineers delegate patch development and regression checks to agents. Our patchin..."
+    },
+    {
+      "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
+      "link": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+      "pubDate": "2026-10-21T14:21:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Cash exercises would add up to 11.5 million XRPN shares, while Evernorth says net proceeds would fund general corporate purposes...."
+      "summary": "Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys...."
     },
     {
-      "title": "SideSwap Reports About 600 Redemptions After Reopening L-BTC Swaps",
-      "link": "https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps",
-      "pubDate": "2026-10-21T09:09:53.000Z",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "pubDate": "2026-10-21T14:00:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixe..."
+    },
+    {
+      "title": "Ondo Perps Adds 3x OpenAI Pre-IPO Contract",
+      "link": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
+      "pubDate": "2026-10-21T13:46:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The provider is paying users from its own bitcoin wallet while Liquid federation reserves still cover about 85.8% of outstanding L-BTC...."
+      "summary": "The perpetual has its own pricing and hourly funding payments, unlike the fully funded OPAIPon spot note. US persons are excluded...."
     },
     {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "pubDate": "2026-10-21T09:05:17.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below..."
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "pubDate": "2026-10-21T09:01:12.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault,..."
-    },
-    {
-      "title": "PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition",
-      "link": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
-      "pubDate": "2026-10-21T08:16:47.000Z",
+      "title": "Doodles' DOOD Token Surges 212% to a $38 Million Market Cap",
+      "link": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
+      "pubDate": "2026-10-21T13:35:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The final plan retains CAKE buybacks from non-stablecoin protocol fees and phases a roughly 69% cut in effective daily emissions...."
+      "summary": "The collection's NFT floor rose 7.4% in ETH, while reported token trading volume reached $213 million over 24 hours...."
     },
     {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "pubDate": "2026-10-21T08:04:17.000Z",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "pubDate": "2026-10-21T13:15:09.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"develop..."
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled...."
     },
     {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "pubDate": "2026-10-21T07:44:22.000Z",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "pubDate": "2026-10-21T12:05:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it do..."
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed tar..."
     },
     {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "pubDate": "2026-10-21T07:26:49.000Z",
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "pubDate": "2026-10-21T11:53:34.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, inc..."
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templa..."
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "pubDate": "2026-10-21T10:36:53.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "Glamsterdam follows the Fusaka upgrade, advancing Ethereum's L1 scaling roadmap with enshrined proposer-builder separation, block-level access lists, and change..."
-    },
-    {
-      "title": "Don't let TEEs break your MPC",
-      "link": "https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/",
-      "pubDate": "2026-09-25T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Threshold signature schemes, a form of multi-party computation (MPC) that lets a set of parties sign together without any one of them holding the key, are incre..."
     }
   ]
 }
