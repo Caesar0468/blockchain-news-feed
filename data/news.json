@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T21:12:40.693Z",
+  "lastUpdated": "2026-10-21T03:11:12.418Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
+      "link": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
+      "pubDate": "2026-10-21T00:16:04.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ethereum accounted for $121.5 million of trading, while the protocol's locked value rose only modestly during the day...."
+    },
+    {
+      "title": "NEAR Opens Vote to Cut Token Issuance to 1.6%",
+      "link": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+      "pubDate": "2026-10-20T21:38:18.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "HSP-029 would lower issuance over 24 months after a 90-day grace period, but validators must separately adopt a network upgrade...."
+    },
     {
       "title": "Extended Plans Oct. 22 Settlement Move From Starknet to Arc",
       "link": "https://thedefiant.io/news/defi/extended-plans-oct-22-settlement-move-from-starknet-to-arc",
@@ -54,24 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on Oct..."
-    },
-    {
-      "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
-      "link": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
-      "pubDate": "2026-10-20T17:07:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi’s federal court defeat...."
-    },
-    {
-      "title": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
-      "link": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
-      "pubDate": "2026-10-20T16:24:01.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The MIT-incubated network says 16 node operators and about 1.4 million ETH in stake are running mump2p, with ether.fi making it standard across its validator se..."
     },
     {
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
