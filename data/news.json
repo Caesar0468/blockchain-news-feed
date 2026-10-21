@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T16:33:20.988Z",
+  "lastUpdated": "2026-10-21T21:12:58.989Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,22 +20,76 @@
   },
   "items": [
     {
-      "title": "Sunrise Brings Backpack’s Tokenized Meta Shares to Solana",
-      "link": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
-      "pubDate": "2026-10-21T16:23:30.000Z",
+      "title": "Mastercard Opens AI Machine-Payment Pilot to Developers",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
+      "pubDate": "2026-10-21T20:29:59.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported...."
+      "summary": "Buyer- and seller-side APIs, a toolkit and a sandbox extend developer testing, while Agent Pay for Machines remains a noncommercial pilot...."
     },
     {
-      "title": "Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns",
-      "link": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
-      "pubDate": "2026-10-21T15:01:45.000Z",
+      "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
+      "pubDate": "2026-10-21T20:29:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in...."
+      "summary": "Participate says principal and interest reached the receiving bank’s wallet in under three minutes, with loan balances and notices updated alongside the payment..."
+    },
+    {
+      "title": "Yuga Labs Launches Mudwater Trading-Card NFTs on Solana",
+      "link": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
+      "pubDate": "2026-10-21T20:29:33.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Each Bored Ape qualifies for 10 packs and each Mutant Ape for two, while OpenSea reports 78.3 ETH in pack trading volume...."
+    },
+    {
+      "title": "Trump Touts Crypto Scam Crackdown as DOJ Reports $938 Million Restrained",
+      "link": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
+      "pubDate": "2026-10-21T20:29:24.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Attorney General Todd Blanche described a nationwide scam prosecution initiative deploying dozens of prosecutors across all 94 US Attorneys’ Offices...."
+    },
+    {
+      "title": "Dolomite Adds $100 Million in Concrete’s Bitcoin-Backed Collateral",
+      "link": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
+      "pubDate": "2026-10-21T19:52:18.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Concrete can borrow against Bitcoin held at BitGo, but liquidations require offchain custody settlement rather than an instant onchain sale...."
+    },
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "pubDate": "2026-10-21T18:57:34.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the s..."
+    },
+    {
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "pubDate": "2026-10-21T18:01:57.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according..."
+    },
+    {
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "pubDate": "2026-10-21T16:33:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making reques..."
     },
     {
       "title": "Your AI agent fixed the bug, but what else did it change?",
@@ -47,15 +101,6 @@
       "summary": "Today we’re publishing patching-bugs and regression-hunt, two plugins that let engineers delegate patch development and regression checks to agents. Our patchin..."
     },
     {
-      "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
-      "link": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
-      "pubDate": "2026-10-21T14:21:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys...."
-    },
-    {
       "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
       "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
       "pubDate": "2026-10-21T14:00:00.000Z",
@@ -65,24 +110,6 @@
       "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixe..."
     },
     {
-      "title": "Ondo Perps Adds 3x OpenAI Pre-IPO Contract",
-      "link": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
-      "pubDate": "2026-10-21T13:46:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The perpetual has its own pricing and hourly funding payments, unlike the fully funded OPAIPon spot note. US persons are excluded...."
-    },
-    {
-      "title": "Doodles' DOOD Token Surges 212% to a $38 Million Market Cap",
-      "link": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
-      "pubDate": "2026-10-21T13:35:28.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The collection's NFT floor rose 7.4% in ETH, while reported token trading volume reached $213 million over 24 hours...."
-    },
-    {
       "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
       "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
       "pubDate": "2026-10-21T13:15:09.000Z",
@@ -90,33 +117,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled...."
-    },
-    {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "pubDate": "2026-10-21T12:05:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed tar..."
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "pubDate": "2026-10-21T11:53:34.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templa..."
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "pubDate": "2026-10-21T10:36:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on..."
     },
     {
       "title": "ZDI-26-785: FreeBSD Kernel Shared Memory Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
