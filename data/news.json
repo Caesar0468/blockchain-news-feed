@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T11:06:27.352Z",
+  "lastUpdated": "2026-10-22T16:34:52.118Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Base Active Addresses Jump 82.5% to a 30-Day High",
-      "link": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-82-5-to-a-30-day-high",
-      "pubDate": "2026-10-22T09:53:18.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Transactions and user-paid fees also rose as the Ethereum Layer 2 recorded 629,142 active addresses on Oct. 21...."
-    },
-    {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "pubDate": "2026-10-22T08:28:48.000Z",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "pubDate": "2026-10-22T16:12:31.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package contain..."
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the com..."
     },
     {
-      "title": "CoinDCX Co-Founder Denies New Hack After $16 Million Wallet Alert",
-      "link": "https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert",
-      "pubDate": "2026-10-22T08:18:24.000Z",
+      "title": "Ethereum Developers Cancel Oct. 26 Glamsterdam Upgrade on Hoodi",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
+      "pubDate": "2026-10-22T15:15:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Sumit Gupta says the flagged addresses were compromised in July 2025 and that no funds from CoinDCX’s current wallets were affected...."
+      "summary": "Node operators are being told to use software without the scheduled fork, while mainnet activation remains undecided...."
     },
     {
-      "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
-      "link": "https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap",
-      "pubDate": "2026-10-22T08:02:40.000Z",
+      "title": "Kraken Says Its xStocks Lineup Now Exceeds 1,000",
+      "link": "https://thedefiant.io/news/cefi/kraken-says-its-xstocks-lineup-now-exceeds-1-000",
+      "pubDate": "2026-10-22T15:00:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Nasdaq-listed company exchanged 51.6 million shares and matching warrants for 3,170 BTC, expanding its asset base while diluting existing shareholders...."
+      "summary": "Kraken's September FAQ listed 131 instruments. The tokens offer equity price exposure without shareholder rights, and US persons remain excluded...."
     },
     {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "pubDate": "2026-10-22T07:47:22.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Br..."
-    },
-    {
-      "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
-      "link": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
-      "pubDate": "2026-10-22T06:42:39.000Z",
+      "title": "Visa in Talks to Buy Fireblocks for About $2.5 Billion: Axios",
+      "link": "https://thedefiant.io/converge/infrastructure/visa-in-talks-to-buy-fireblocks-for-about-2-5-billion-axios",
+      "pubDate": "2026-10-22T14:20:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law...."
+      "summary": "The reported negotiations follow Mastercard’s completed acquisition of BVNK, a stablecoin infrastructure deal priced at up to $1.8 billion...."
     },
     {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "pubDate": "2026-10-22T06:38:31.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-co..."
-    },
-    {
-      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "pubDate": "2026-10-22T06:34:10.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against..."
-    },
-    {
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "pubDate": "2026-10-22T04:21:26.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backu..."
-    },
-    {
-      "title": "Matter Labs Introduces Prividium Commander for Existing Blockchains",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains",
-      "pubDate": "2026-10-22T03:52:39.000Z",
+      "title": "A16z Crypto Plans ‘Frontier’ Rebrand and Broader Strategy: Report",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-plans-frontier-rebrand-and-broader-strategy-report",
+      "pubDate": "2026-10-22T14:20:11.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Institutions can add application permissions without moving to Prividium Ledger, while retaining their existing custody and signing providers...."
+      "summary": "General partner Ali Yahya is also reportedly leaving to build a startup, months after the team announced a $2.2 billion fifth fund...."
+    },
+    {
+      "title": "Starknet Poll Backs Post-Quantum Layer 1 Research With 93.52% Support",
+      "link": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support",
+      "pubDate": "2026-10-22T14:20:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The non-binding vote does not approve a network transition. StarkWare hopes to release a draft whitepaper in November...."
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "pubDate": "2026-10-22T13:38:22.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit..."
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "pubDate": "2026-10-22T11:45:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal syst..."
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "pubDate": "2026-10-22T11:15:42.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon fu..."
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "pubDate": "2026-10-22T10:44:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed..."
     },
     {
       "title": "Your AI agent fixed the bug, but what else did it change?",
