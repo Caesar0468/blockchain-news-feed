@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T16:24:23.023Z",
+  "lastUpdated": "2026-10-23T20:56:35.341Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,76 @@
   },
   "items": [
     {
-      "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
-      "link": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-      "pubDate": "2026-10-23T16:19:13.000Z",
+      "title": "IRYS Surges 1,200% Past May Listing Peak",
+      "link": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
+      "pubDate": "2026-10-23T19:27:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer...."
+      "summary": "The latest price implies a circulating valuation near $561 million, with just 20% of the token’s total supply in circulation...."
     },
     {
-      "title": "Extended Plans November XTEN Launch With 30% for Points Users",
-      "link": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
-      "pubDate": "2026-10-23T16:11:56.000Z",
+      "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",
+      "link": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
+      "pubDate": "2026-10-23T18:57:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Eligible participants will receive tokens in self-hosted Arc wallets. Full tokenomics will follow a MiCA white paper expected on Oct. 31...."
+      "summary": "Existing active contracts and renewals would remain permissionless, while the DAO could revoke the Foundation’s signing authority...."
     },
     {
-      "title": "China Sets 2030 Target for National Blockchain Network",
-      "link": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
-      "pubDate": "2026-10-23T15:02:50.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto..."
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "pubDate": "2026-10-23T18:50:13.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The acti..."
     },
     {
-      "title": "SEC Adds Tokenization to 2027 Examination Priorities",
-      "link": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
-      "pubDate": "2026-10-23T14:27:17.000Z",
+      "title": "Netanyahu Says He Requested Blockchain Plan for Potential Banking Sanctions",
+      "link": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
+      "pubDate": "2026-10-23T18:23:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Clearing agencies and entities covered by Regulation SCI face explicit tokenization scrutiny, while transfer-agent technology reviews continue from 2026...."
+      "summary": "The Israeli premier called blockchain one of several alternatives as Britain threatens action against businesses supporting settlement construction...."
     },
     {
-      "title": "Succinct Patches SP1 Bug That Could Let Invalid Proofs Pass",
-      "link": "https://thedefiant.io/news/security/succinct-patches-sp1-bug-that-could-let-invalid-proofs-pass",
-      "pubDate": "2026-10-23T14:15:24.000Z",
+      "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
+      "link": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
+      "pubDate": "2026-10-23T18:08:25.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The flaw affected native Rust verification in versions 6.0.0–6.8.0. Onchain Groth16 and Plonk verification through Solidity verifiers was unaffected...."
+      "summary": "AMLBot puts the frozen sum at about $2.2 million, after CoinDCX acknowledged losses from a failed process for securing deposits to retired addresses...."
+    },
+    {
+      "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
+      "pubDate": "2026-10-23T17:54:23.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "AP2 records spending authority, while x402 carries payment requests. Mastercard’s machine-payment pilot shows why a signed voucher and final settlement are diff..."
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "pubDate": "2026-10-23T17:54:08.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind fou..."
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "pubDate": "2026-10-23T17:50:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware g..."
     },
     {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
@@ -81,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new i..."
-    },
-    {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "pubDate": "2026-10-23T11:11:23.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics..."
-    },
-    {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "pubDate": "2026-10-23T09:36:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to o..."
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "pubDate": "2026-10-23T08:40:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Th..."
     },
     {
       "title": "ZDI-26-790: OpenSSL CMS AuthEnvelopedData Improper Validation of Integrity Check Value Vulnerability",
