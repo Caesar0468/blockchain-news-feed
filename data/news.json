@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T03:08:56.778Z",
+  "lastUpdated": "2026-10-24T10:14:07.382Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,33 @@
     ]
   },
   "items": [
+    {
+      "title": "UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady",
+      "link": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
+      "pubDate": "2026-10-24T09:26:24.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The token has underperformed bitcoin and ether, while Uniswap still holds about $4 billion in liquidity...."
+    },
+    {
+      "title": "Arthur Hayes Says He Sold Maelstrom’s Directional Book",
+      "link": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
+      "pubDate": "2026-10-24T06:28:11.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Hayes-linked wallets transferred 8,000 ETH and six other tokens, contrasting with his Oct. 15 declaration that he was long Bitcoin and Ether...."
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "pubDate": "2026-10-24T06:25:57.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista..."
+    },
     {
       "title": "Kraken Scraps Monero Withdrawal Questionnaires, Keeps XMR Listed",
       "link": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
@@ -47,15 +74,6 @@
       "summary": "The latest price implies a circulating valuation near $561 million, with just 20% of the token’s total supply in circulation...."
     },
     {
-      "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",
-      "link": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
-      "pubDate": "2026-10-23T18:57:39.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Existing active contracts and renewals would remain permissionless, while the DAO could revoke the Foundation’s signing authority...."
-    },
-    {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
       "pubDate": "2026-10-23T18:50:13.000Z",
@@ -63,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The acti..."
-    },
-    {
-      "title": "Netanyahu Says He Requested Blockchain Plan for Potential Banking Sanctions",
-      "link": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
-      "pubDate": "2026-10-23T18:23:34.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Israeli premier called blockchain one of several alternatives as Britain threatens action against businesses supporting settlement construction...."
     },
     {
       "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Al..."
-    },
-    {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "pubDate": "2026-10-23T11:25:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new i..."
     },
     {
       "title": "ZDI-26-790: OpenSSL CMS AuthEnvelopedData Improper Validation of Integrity Check Value Vulnerability",
