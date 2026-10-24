@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T15:20:22.105Z",
+  "lastUpdated": "2026-10-24T20:09:27.211Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
-      "link": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
-      "pubDate": "2026-10-24T15:17:43.000Z",
+      "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+      "link": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+      "pubDate": "2026-10-24T19:41:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT...."
+      "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH...."
     },
     {
-      "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
-      "link": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-      "pubDate": "2026-10-24T14:58:09.000Z",
+      "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
+      "link": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
+      "pubDate": "2026-10-24T19:06:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing...."
+      "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to..."
     },
     {
-      "title": "Shaw Publishes Daos.fun Reconstruction, Claims Critical Flaw",
-      "link": "https://thedefiant.io/news/security/shaw-publishes-daos-fun-reconstruction-claims-critical-flaw",
-      "pubDate": "2026-10-24T14:25:37.000Z",
+      "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
+      "link": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
+      "pubDate": "2026-10-24T17:57:11.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The repository reports matching captured and rebuilt binaries. Daos.fun says it no longer maintains the platform, though existing tokens remain tradable...."
+      "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing..."
     },
     {
-      "title": "Hyperliquid’s Yan and CME’s Duffy Split Over Who Must Bear US Compliance",
-      "link": "https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance",
-      "pubDate": "2026-10-24T14:12:54.000Z",
+      "title": "ARB Touches Four-Week Low as Losses Outpace Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
+      "pubDate": "2026-10-24T16:50:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Yan favors oversight of market deployers rather than the blockchain, while Hyperliquid’s interface still bars US-based users and VPN circumvention...."
+      "summary": "OP and POL also lost more than a quarter over matched four-week windows, while Arbitrum One's active-address count rose...."
     },
     {
-      "title": "API Key Rotation: What Revocation and Redeployment Actually Change",
-      "link": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
-      "pubDate": "2026-10-24T13:16:55.000Z",
+      "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
+      "link": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
+      "pubDate": "2026-10-24T15:43:40.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime...."
+      "summary": "ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22...."
     },
     {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
