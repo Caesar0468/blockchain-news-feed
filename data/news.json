@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T20:56:35.341Z",
+  "lastUpdated": "2026-10-24T03:08:56.778Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Kraken Scraps Monero Withdrawal Questionnaires, Keeps XMR Listed",
+      "link": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
+      "pubDate": "2026-10-24T02:22:37.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Source-of-funds checks remain, but co-CEO Arjun Sethi says asking what clients will do with withdrawn coins is unacceptable...."
+    },
+    {
+      "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
+      "link": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
+      "pubDate": "2026-10-23T21:06:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The ruling also covers Karina Milei and Hayden Davis. A New York investor class action was separately dismissed in September...."
+    },
     {
       "title": "IRYS Surges 1,200% Past May Listing Peak",
       "link": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
@@ -54,24 +72,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The Israeli premier called blockchain one of several alternatives as Britain threatens action against businesses supporting settlement construction...."
-    },
-    {
-      "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
-      "link": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
-      "pubDate": "2026-10-23T18:08:25.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "AMLBot puts the frozen sum at about $2.2 million, after CoinDCX acknowledged losses from a failed process for securing deposits to retired addresses...."
-    },
-    {
-      "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
-      "pubDate": "2026-10-23T17:54:23.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "AP2 records spending authority, while x402 carries payment requests. Mastercard’s machine-payment pilot shows why a signed voucher and final settlement are diff..."
     },
     {
       "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
