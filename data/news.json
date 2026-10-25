@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T03:03:48.816Z",
+  "lastUpdated": "2026-10-25T10:39:14.951Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "pubDate": "2026-10-25T06:54:29.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal infe..."
+    },
     {
       "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
       "link": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a backgr..."
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "pubDate": "2026-10-24T06:25:57.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista..."
     },
     {
       "title": "ZDI-26-790: OpenSSL CMS AuthEnvelopedData Improper Validation of Integrity Check Value Vulnerability",
