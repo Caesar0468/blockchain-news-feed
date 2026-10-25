@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T15:29:57.333Z",
+  "lastUpdated": "2026-10-25T20:20:42.878Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,42 @@
     ]
   },
   "items": [
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "pubDate": "2026-10-25T17:44:09.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published th..."
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "pubDate": "2026-10-25T17:19:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulner..."
+    },
+    {
+      "title": "How a DAO Vote Becomes a Treasury Transfer",
+      "link": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+      "pubDate": "2026-10-25T17:15:46.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Uniswap’s executed funding proposal shows the difference between a sentiment poll, a binding vote and the contract authorized to release tokens...."
+    },
+    {
+      "title": "How to Check a Software Wallet—and What the Checks Cannot Prove",
+      "link": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
+      "pubDate": "2026-10-25T17:14:42.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment...."
+    },
     {
       "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
       "link": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
@@ -56,24 +92,6 @@
       "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal infe..."
     },
     {
-      "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
-      "link": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
-      "pubDate": "2026-10-24T19:41:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH...."
-    },
-    {
-      "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
-      "link": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
-      "pubDate": "2026-10-24T19:06:10.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to..."
-    },
-    {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
       "pubDate": "2026-10-24T11:09:29.000Z",
@@ -90,24 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat..."
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "pubDate": "2026-10-24T10:36:33.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to..."
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "pubDate": "2026-10-24T09:04:24.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a backgr..."
     },
     {
       "title": "ZDI-26-790: OpenSSL CMS AuthEnvelopedData Improper Validation of Integrity Check Value Vulnerability",
