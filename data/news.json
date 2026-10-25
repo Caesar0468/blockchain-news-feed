@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T10:39:14.951Z",
+  "lastUpdated": "2026-10-25T15:29:57.333Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,33 @@
     ]
   },
   "items": [
+    {
+      "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
+      "link": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
+      "pubDate": "2026-10-25T13:15:20.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock...."
+    },
+    {
+      "title": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own",
+      "pubDate": "2026-10-25T13:15:06.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "USDC holders can transfer tokens without a Circle Mint account, but direct dollar redemption requires one. JPM Coin limits participation to approved institution..."
+    },
+    {
+      "title": "Dogecoin Foundation and House of Doge End Exclusive Brand Deal",
+      "link": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+      "pubDate": "2026-10-25T11:27:13.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "House of Doge keeps limited investment-product rights, while a separate deal would exchange Such App assets for $4 million in Dogecoin Labs stock...."
+    },
     {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
@@ -45,33 +72,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to..."
-    },
-    {
-      "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
-      "link": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
-      "pubDate": "2026-10-24T17:57:11.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing..."
-    },
-    {
-      "title": "ARB Touches Four-Week Low as Losses Outpace Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
-      "pubDate": "2026-10-24T16:50:46.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "OP and POL also lost more than a quarter over matched four-week windows, while Arbitrum One's active-address count rose...."
-    },
-    {
-      "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
-      "link": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
-      "pubDate": "2026-10-24T15:43:40.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22...."
     },
     {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
