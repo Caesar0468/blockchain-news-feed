@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T03:03:43.105Z",
+  "lastUpdated": "2026-10-26T12:12:08.371Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,22 +20,76 @@
   },
   "items": [
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "pubDate": "2026-10-25T17:44:09.000Z",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "pubDate": "2026-10-26T11:23:56.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published th..."
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network d..."
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "pubDate": "2026-10-25T17:19:46.000Z",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "pubDate": "2026-10-26T09:54:02.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulner..."
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi..."
+    },
+    {
+      "title": "Blast Reaches Withdrawal Interface Deadline With $40 Million Still in Bridge",
+      "link": "https://thedefiant.io/news/blockchains/blast-reaches-withdrawal-interface-deadline-with-40-million-still-in-bridge",
+      "pubDate": "2026-10-26T09:47:41.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Blast has published contract-level exit guides, but withdrawals still require proofs, a one-day wait and, for USDB, a separate DAI claim...."
+    },
+    {
+      "title": "Consensys Warns Ethereum Operators of eMudhra Signing Risks",
+      "link": "https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks",
+      "pubDate": "2026-10-26T08:53:32.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The teams identify vulnerable Java trust stores and configuration-dependent exposure. Default setups are unaffected, while some Web3Signer deployments need imme..."
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "pubDate": "2026-10-26T08:35:51.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in s..."
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "pubDate": "2026-10-26T07:49:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then..."
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "pubDate": "2026-10-26T06:03:48.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm..."
+    },
+    {
+      "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
+      "link": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
+      "pubDate": "2026-10-26T04:06:03.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe...."
     },
     {
       "title": "How a DAO Vote Becomes a Treasury Transfer",
@@ -54,60 +108,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment...."
-    },
-    {
-      "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
-      "link": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
-      "pubDate": "2026-10-25T13:15:20.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock...."
-    },
-    {
-      "title": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own",
-      "pubDate": "2026-10-25T13:15:06.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "USDC holders can transfer tokens without a Circle Mint account, but direct dollar redemption requires one. JPM Coin limits participation to approved institution..."
-    },
-    {
-      "title": "Dogecoin Foundation and House of Doge End Exclusive Brand Deal",
-      "link": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
-      "pubDate": "2026-10-25T11:27:13.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "House of Doge keeps limited investment-product rights, while a separate deal would exchange Such App assets for $4 million in Dogecoin Labs stock...."
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "pubDate": "2026-10-25T06:54:29.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal infe..."
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "pubDate": "2026-10-24T11:09:29.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi p..."
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "pubDate": "2026-10-24T11:03:33.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat..."
     },
     {
       "title": "ZDI-26-790: OpenSSL CMS AuthEnvelopedData Improper Validation of Integrity Check Value Vulnerability",
