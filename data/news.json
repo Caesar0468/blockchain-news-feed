@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T12:12:08.371Z",
+  "lastUpdated": "2026-10-26T22:15:23.031Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,139 +20,139 @@
   },
   "items": [
     {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "pubDate": "2026-10-26T11:23:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network d..."
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "pubDate": "2026-10-26T09:54:02.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi..."
-    },
-    {
-      "title": "Blast Reaches Withdrawal Interface Deadline With $40 Million Still in Bridge",
-      "link": "https://thedefiant.io/news/blockchains/blast-reaches-withdrawal-interface-deadline-with-40-million-still-in-bridge",
-      "pubDate": "2026-10-26T09:47:41.000Z",
+      "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
+      "link": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+      "pubDate": "2026-10-26T21:53:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Blast has published contract-level exit guides, but withdrawals still require proofs, a one-day wait and, for USDB, a separate DAI claim...."
+      "summary": "The change removes an estimated two percentage points of issuance-funded staking APR and freezes about 51.9 million pre-minted developer tokens...."
     },
     {
-      "title": "Consensys Warns Ethereum Operators of eMudhra Signing Risks",
-      "link": "https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks",
-      "pubDate": "2026-10-26T08:53:32.000Z",
+      "title": "Akash Opens Vote to Move From Cosmos to Solana",
+      "link": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+      "pubDate": "2026-10-26T21:39:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The teams identify vulnerable Java trust stores and configuration-dependent exposure. Default setups are unaffected, while some Web3Signer deployments need imme..."
+      "summary": "Prop 346 would authorize a one-way AKT token conversion, while staking rewards would end at a later marketplace cutover requiring another vote...."
     },
     {
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "pubDate": "2026-10-26T08:35:51.000Z",
+      "title": "Bitso Brings Morpho Lending to Its App With Bóvedas",
+      "link": "https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas",
+      "pubDate": "2026-10-26T21:10:26.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The product moves USDC and peso-pegged MXNB into noncustodial lending vaults, with variable returns and no deposit insurance...."
+    },
+    {
+      "title": "Instinct Rolls Out Link Balance for AI Shopping With Spending Limits",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits",
+      "pubDate": "2026-10-26T20:11:58.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Link says funded balances are held in USDC, while Tempo founder Matt Huang says stablecoins on its blockchain power the feature...."
+    },
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "pubDate": "2026-10-26T18:12:22.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in s..."
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to D..."
     },
     {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "pubDate": "2026-10-26T07:49:46.000Z",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "pubDate": "2026-10-26T17:45:57.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then..."
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include..."
     },
     {
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "pubDate": "2026-10-26T06:03:48.000Z",
+      "title": "Hyperliquid Tests Permissioned Markets for Payward's US Perps Plan",
+      "link": "https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan",
+      "pubDate": "2026-10-26T17:41:36.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Optional onchain allowlists would leave existing markets unchanged; the proposed US contracts still need regulatory approval...."
+    },
+    {
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "pubDate": "2026-10-26T15:52:40.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm..."
+      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use..."
     },
     {
-      "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
-      "link": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
-      "pubDate": "2026-10-26T04:06:03.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe...."
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "pubDate": "2026-10-26T14:06:13.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywher..."
     },
     {
-      "title": "How a DAO Vote Becomes a Treasury Transfer",
-      "link": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
-      "pubDate": "2026-10-25T17:15:46.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Uniswap’s executed funding proposal shows the difference between a sentiment poll, a binding vote and the contract authorized to release tokens...."
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "pubDate": "2026-10-26T11:52:41.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox in..."
     },
     {
-      "title": "How to Check a Software Wallet—and What the Checks Cannot Prove",
-      "link": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
-      "pubDate": "2026-10-25T17:14:42.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment...."
-    },
-    {
-      "title": "ZDI-26-790: OpenSSL CMS AuthEnvelopedData Improper Validation of Integrity Check Value Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-790/",
-      "pubDate": "2026-10-22T05:00:00.000Z",
+      "title": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-809/",
+      "pubDate": "2026-10-26T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to tamper with CMS AuthEnvelopedData messages on affected installations of OpenSSL. An attacker must first..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-789: OpenSSL CMP Use of Externally-Controlled Format String Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-789/",
-      "pubDate": "2026-10-22T05:00:00.000Z",
+      "title": "ZDI-26-808: Meta FAIRChem run_validation Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-808/",
+      "pubDate": "2026-10-26T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of OpenSSL. Authentication is not required to exploit thi..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-788: Cisco Snort OLE VBA Decompression Stack-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-788/",
-      "pubDate": "2026-10-22T05:00:00.000Z",
+      "title": "ZDI-26-807: Meta FAIRChem get_computational_df_to_predict Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-807/",
+      "pubDate": "2026-10-26T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Snort. Authentication is not required to exploit this vu..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-787: NVIDIA Megatron Bridge YAML File Parsing Code Injection Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-787/",
-      "pubDate": "2026-10-22T05:00:00.000Z",
+      "title": "ZDI-26-806: Meta FAIRChem write_top_k_vasp Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-806/",
+      "pubDate": "2026-10-26T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Megatron Bridge. User interaction is required to exploi..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-786: NoMachine nxwebrunner Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-786/",
-      "pubDate": "2026-10-22T05:00:00.000Z",
+      "title": "ZDI-26-805: Meta FAIRChem Adsorbate Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-805/",
+      "pubDate": "2026-10-26T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of NoMachine. Authentication is not required to exploit this vuln..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
       "title": "Glamsterdam on Hoodi Postponed",
