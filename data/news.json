@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T17:24:42.009Z",
+  "lastUpdated": "2026-10-27T21:47:20.114Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,58 @@
   },
   "items": [
     {
-      "title": "Aave vs. Bitso USDC Prime: What Lenders Hold and What Limits Exits",
-      "link": "https://thedefiant.io/news/defi/aave-vs-bitso-usdc-prime-what-lenders-hold-and-what-limits-exits",
-      "pubDate": "2026-10-27T17:14:45.000Z",
+      "title": "Liquid Reserve Gap Narrows to 600 BTC After Test Transfer",
+      "link": "https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer",
+      "pubDate": "2026-10-27T20:45:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A direct Aave deposit earns through one reserve; Bitso’s Morpho vault delegates allocations to a curator. Neither balance guarantees immediate USDC withdrawals...."
+      "summary": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume...."
     },
     {
-      "title": "CFTC Sues Utah to Block Prediction-Market Enforcement",
-      "link": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
-      "pubDate": "2026-10-27T17:06:19.000Z",
+      "title": "Polymarket Adds Five-Minute Crypto Contracts to US App",
+      "link": "https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app",
+      "pubDate": "2026-10-27T20:38:21.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated marke..."
+      "summary": "The BTC, ETH, SOL and XRP markets use CF Benchmarks prices, with ties settling Up and taker fees charged separately from the spread...."
     },
     {
-      "title": "Predict.fun Pledges Full Refunds for Roughly 400,000 USDT Theft",
-      "link": "https://thedefiant.io/news/hacks/predict-fun-pledges-full-refunds-for-roughly-400-000-usdt-theft",
-      "pubDate": "2026-10-27T16:50:46.000Z",
+      "title": "Robinhood Chain Lifts Q3 Crypto Revenue to $120 Million",
+      "link": "https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million",
+      "pubDate": "2026-10-27T20:15:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The platform says a preliminary investigation points to a possible compromise of its third-party API documentation site, which it has taken offline...."
+      "summary": "The network contributed $26 million, offsetting a decline in crypto revenue elsewhere, while company-wide revenue and earnings fell short of MarketBeat's consen..."
     },
     {
-      "title": "Myriad Voids 10 Prediction Markets After Admin-Wallet Compromise",
-      "link": "https://thedefiant.io/news/hacks/myriad-voids-10-prediction-markets-after-admin-wallet-compromise",
-      "pubDate": "2026-10-27T16:41:18.000Z",
+      "title": "Ripio Seeks Brazil Crypto Broker License Ahead of Filing Deadline",
+      "link": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
+      "pubDate": "2026-10-27T20:13:59.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Holders on both sides are promised automatic refunds at pre-attack prices, less any winnings already claimed...."
+      "summary": "The company also requested foreign-exchange authorization, while its existing Ripio Trade platform is scheduled to close on Nov. 30...."
     },
     {
-      "title": "NEAR Adds Confidential Jio Pre-IPO Trading Ahead of Listing",
-      "link": "https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing",
-      "pubDate": "2026-10-27T15:45:04.000Z",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "pubDate": "2026-10-27T18:26:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element..."
+    },
+    {
+      "title": "Circle’s Arc Tops $1 Billion in USDC",
+      "link": "https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc",
+      "pubDate": "2026-10-27T18:16:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The contract offers up to 5x leverage and is expected to become an equity perpetual after listing, without delivering shares or IPO allocations...."
+      "summary": "Stablecoin market cap rose 32% in a week in DefiLlama’s daily data, while four addresses hold about 73% of the network’s USDC...."
     },
     {
       "title": "Scalable Vector Grief",
@@ -110,15 +119,6 @@
       "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on..."
     },
     {
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "pubDate": "2026-10-27T11:32:46.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersona..."
-    },
-    {
       "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
       "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
       "pubDate": "2026-10-27T07:00:00.000Z",
@@ -126,6 +126,24 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a ge..."
+    },
+    {
+      "title": "ZDI-26-811: MailEnable parseObjectResponse XML External Entity Processing Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-811/",
+      "pubDate": "2026-10-27T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable. Authentication is required to exploit this..."
+    },
+    {
+      "title": "ZDI-26-810: MailEnable Auth Cleartext Storage Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-810/",
+      "pubDate": "2026-10-27T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable. Authentication is not required to exploit..."
     },
     {
       "title": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets Deserialization of Untrusted Data Remote Code Execution Vulnerability",
@@ -148,24 +166,6 @@
     {
       "title": "ZDI-26-807: Meta FAIRChem get_computational_df_to_predict Deserialization of Untrusted Data Remote Code Execution Vulnerability",
       "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-807/",
-      "pubDate": "2026-10-26T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
-    },
-    {
-      "title": "ZDI-26-806: Meta FAIRChem write_top_k_vasp Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-806/",
-      "pubDate": "2026-10-26T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
-    },
-    {
-      "title": "ZDI-26-805: Meta FAIRChem Adsorbate Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-805/",
       "pubDate": "2026-10-26T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
