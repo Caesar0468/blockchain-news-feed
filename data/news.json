@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T11:33:25.616Z",
+  "lastUpdated": "2026-10-27T17:24:42.009Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,103 +20,112 @@
   },
   "items": [
     {
-      "title": "Backporting security fixes to stable releases",
-      "link": "https://blog.trailofbits.com/2026/10/27/backporting-security-fixes-to-stable-releases/",
-      "pubDate": "2026-10-27T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "The software you are running is almost certainly riddled with known, unfixed security bugs. These bugs can be trivially and quickly exploited by modern AI agent..."
-    },
-    {
-      "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
-      "link": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
-      "pubDate": "2026-10-27T10:27:35.000Z",
+      "title": "Aave vs. Bitso USDC Prime: What Lenders Hold and What Limits Exits",
+      "link": "https://thedefiant.io/news/defi/aave-vs-bitso-usdc-prime-what-lenders-hold-and-what-limits-exits",
+      "pubDate": "2026-10-27T17:14:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules...."
+      "summary": "A direct Aave deposit earns through one reserve; Bitso’s Morpho vault delegates allocations to a curator. Neither balance guarantees immediate USDC withdrawals...."
     },
     {
-      "title": "Marinade Waives Bond Charges for Agave Slot-Skipping Bug",
-      "link": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
-      "pubDate": "2026-10-27T10:08:39.000Z",
+      "title": "CFTC Sues Utah to Block Prediction-Market Enforcement",
+      "link": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
+      "pubDate": "2026-10-27T17:06:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The exemption covers first-window slots in PSR and SAM calculations, while a repair is included in an Agave 4.4 release candidate...."
+      "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated marke..."
     },
     {
-      "title": "Strategy Shareholders to Vote on Daily STRC Dividends",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
-      "pubDate": "2026-10-27T09:38:37.000Z",
+      "title": "Predict.fun Pledges Full Refunds for Roughly 400,000 USDT Theft",
+      "link": "https://thedefiant.io/news/hacks/predict-fun-pledges-full-refunds-for-roughly-400-000-usdt-theft",
+      "pubDate": "2026-10-27T16:50:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Oct. 28 proposal covers four preferred stocks and needs a majority of all outstanding common voting power; abstentions and broker non-votes count against it..."
+      "summary": "The platform says a preliminary investigation points to a possible compromise of its third-party API documentation site, which it has taken offline...."
     },
     {
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "pubDate": "2026-10-27T09:33:06.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Austra..."
-    },
-    {
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "pubDate": "2026-10-27T08:22:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, s..."
-    },
-    {
-      "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
-      "link": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
-      "pubDate": "2026-10-27T08:20:29.000Z",
+      "title": "Myriad Voids 10 Prediction Markets After Admin-Wallet Compromise",
+      "link": "https://thedefiant.io/news/hacks/myriad-voids-10-prediction-markets-after-admin-wallet-compromise",
+      "pubDate": "2026-10-27T16:41:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review...."
+      "summary": "Holders on both sides are promised automatic refunds at pre-attack prices, less any winnings already claimed...."
     },
     {
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "pubDate": "2026-10-27T06:34:47.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured b..."
-    },
-    {
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "pubDate": "2026-10-27T04:37:59.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them..."
-    },
-    {
-      "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
-      "pubDate": "2026-10-26T23:37:47.000Z",
+      "title": "NEAR Adds Confidential Jio Pre-IPO Trading Ahead of Listing",
+      "link": "https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing",
+      "pubDate": "2026-10-27T15:45:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody...."
+      "summary": "The contract offers up to 5x leverage and is expected to become an equity perpetual after listing, without delivering shares or IPO allocations...."
     },
     {
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "pubDate": "2026-10-26T18:12:22.000Z",
+      "title": "Scalable Vector Grief",
+      "link": "https://portswigger.net/research/scalable-vector-grief",
+      "pubDate": "2026-10-27T14:29:26.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the re..."
+    },
+    {
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "pubDate": "2026-10-27T13:59:48.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to D..."
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client c..."
+    },
+    {
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "pubDate": "2026-10-27T13:59:09.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked..."
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "pubDate": "2026-10-27T12:09:50.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and..."
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "pubDate": "2026-10-27T11:46:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on..."
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "pubDate": "2026-10-27T11:32:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersona..."
+    },
+    {
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "pubDate": "2026-10-27T07:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a ge..."
     },
     {
       "title": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets Deserialization of Untrusted Data Remote Code Execution Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is explori..."
-    },
-    {
-      "title": "SequenceHash: multihashing for the rest of us",
-      "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
-      "pubDate": "2026-10-02T11:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Multihashing is one of those cryptographic tasks that’s easy not to think about too much. This is unfortunate, because multihashing is a common stumbling point..."
     }
   ]
 }
