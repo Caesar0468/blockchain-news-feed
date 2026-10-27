@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T03:34:51.675Z",
+  "lastUpdated": "2026-10-27T11:33:25.616Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,87 @@
   },
   "items": [
     {
+      "title": "Backporting security fixes to stable releases",
+      "link": "https://blog.trailofbits.com/2026/10/27/backporting-security-fixes-to-stable-releases/",
+      "pubDate": "2026-10-27T11:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "The software you are running is almost certainly riddled with known, unfixed security bugs. These bugs can be trivially and quickly exploited by modern AI agent..."
+    },
+    {
+      "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
+      "link": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
+      "pubDate": "2026-10-27T10:27:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules...."
+    },
+    {
+      "title": "Marinade Waives Bond Charges for Agave Slot-Skipping Bug",
+      "link": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
+      "pubDate": "2026-10-27T10:08:39.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The exemption covers first-window slots in PSR and SAM calculations, while a repair is included in an Agave 4.4 release candidate...."
+    },
+    {
+      "title": "Strategy Shareholders to Vote on Daily STRC Dividends",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
+      "pubDate": "2026-10-27T09:38:37.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Oct. 28 proposal covers four preferred stocks and needs a majority of all outstanding common voting power; abstentions and broker non-votes count against it..."
+    },
+    {
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "pubDate": "2026-10-27T09:33:06.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Austra..."
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "pubDate": "2026-10-27T08:22:43.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, s..."
+    },
+    {
+      "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
+      "link": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
+      "pubDate": "2026-10-27T08:20:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review...."
+    },
+    {
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "pubDate": "2026-10-27T06:34:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured b..."
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "pubDate": "2026-10-27T04:37:59.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them..."
+    },
+    {
       "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
       "pubDate": "2026-10-26T23:37:47.000Z",
@@ -29,42 +110,6 @@
       "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody...."
     },
     {
-      "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
-      "link": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
-      "pubDate": "2026-10-26T21:53:17.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The change removes an estimated two percentage points of issuance-funded staking APR and freezes about 51.9 million pre-minted developer tokens...."
-    },
-    {
-      "title": "Akash Opens Vote to Move From Cosmos to Solana",
-      "link": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
-      "pubDate": "2026-10-26T21:39:27.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Prop 346 would authorize a one-way AKT token conversion, while staking rewards would end at a later marketplace cutover requiring another vote...."
-    },
-    {
-      "title": "Bitso Brings Morpho Lending to Its App With Bóvedas",
-      "link": "https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas",
-      "pubDate": "2026-10-26T21:10:26.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The product moves USDC and peso-pegged MXNB into noncustodial lending vaults, with variable returns and no deposit insurance...."
-    },
-    {
-      "title": "Instinct Rolls Out Link Balance for AI Shopping With Spending Limits",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits",
-      "pubDate": "2026-10-26T20:11:58.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Link says funded balances are held in USDC, while Tempo founder Matt Huang says stablecoins on its blockchain power the feature...."
-    },
-    {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
       "pubDate": "2026-10-26T18:12:22.000Z",
@@ -72,42 +117,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to D..."
-    },
-    {
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "pubDate": "2026-10-26T17:45:57.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include..."
-    },
-    {
-      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-      "pubDate": "2026-10-26T15:52:40.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use..."
-    },
-    {
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "pubDate": "2026-10-26T14:06:13.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywher..."
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "pubDate": "2026-10-26T11:52:41.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox in..."
     },
     {
       "title": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets Deserialization of Untrusted Data Remote Code Execution Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Multihashing is one of those cryptographic tasks that’s easy not to think about too much. This is unfortunate, because multihashing is a common stumbling point..."
-    },
-    {
-      "title": "Introducing zkAPI: private usage credits for any API",
-      "link": "https://blog.ethereum.org/en/2026/10/01/introducing-zkapi",
-      "pubDate": "2026-10-01T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge p..."
     }
   ]
 }
