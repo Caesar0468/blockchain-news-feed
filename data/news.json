@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T22:15:23.031Z",
+  "lastUpdated": "2026-10-27T03:34:51.675Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
+      "pubDate": "2026-10-26T23:37:47.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody...."
+    },
     {
       "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
       "link": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
@@ -72,15 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include..."
-    },
-    {
-      "title": "Hyperliquid Tests Permissioned Markets for Payward's US Perps Plan",
-      "link": "https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan",
-      "pubDate": "2026-10-26T17:41:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Optional onchain allowlists would leave existing markets unchanged; the proposed US contracts still need regulatory approval...."
     },
     {
       "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
