@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T21:47:20.114Z",
+  "lastUpdated": "2026-10-28T03:51:26.078Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,40 +20,49 @@
   },
   "items": [
     {
-      "title": "Liquid Reserve Gap Narrows to 600 BTC After Test Transfer",
-      "link": "https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer",
-      "pubDate": "2026-10-27T20:45:58.000Z",
+      "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
+      "link": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
+      "pubDate": "2026-10-28T03:16:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume...."
+      "summary": "The exchange says customer funds were unaffected and it is notifying impacted users and regulators...."
     },
     {
-      "title": "Polymarket Adds Five-Minute Crypto Contracts to US App",
-      "link": "https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app",
-      "pubDate": "2026-10-27T20:38:21.000Z",
+      "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
+      "link": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
+      "pubDate": "2026-10-28T01:11:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The BTC, ETH, SOL and XRP markets use CF Benchmarks prices, with ties settling Up and taker fees charged separately from the spread...."
+      "summary": "Blockaid says a flash loan let the attacker mint inflated tranche shares and redeem the vault's USDC. A balance check showed none left in the identified contrac..."
     },
     {
-      "title": "Robinhood Chain Lifts Q3 Crypto Revenue to $120 Million",
-      "link": "https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million",
-      "pubDate": "2026-10-27T20:15:37.000Z",
+      "title": "Datavault Shares Plunge Nearly 50% After Biconomy Bitcoin Disclosure",
+      "link": "https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure",
+      "pubDate": "2026-10-28T00:56:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The network contributed $26 million, offsetting a decline in crypto revenue elsewhere, while company-wide revenue and earnings fell short of MarketBeat's consen..."
+      "summary": "The company plans to restate four financial periods and expects to remove $49 million from its June 2026 assets after reassessing a bitcoin-funded equity deal...."
     },
     {
-      "title": "Ripio Seeks Brazil Crypto Broker License Ahead of Filing Deadline",
-      "link": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
-      "pubDate": "2026-10-27T20:13:59.000Z",
+      "title": "Solflare Validator Stops Earning Rewards After Provider Security Incident",
+      "link": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+      "pubDate": "2026-10-28T00:29:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The company also requested foreign-exchange authorization, while its existing Ripio Trade platform is scheduled to close on Nov. 30...."
+      "summary": "Validator trackers show about 1.56 million SOL staked with the node. Solflare says user funds are safe and is preparing an in-app migration...."
+    },
+    {
+      "title": "IPX Names Ja Rule President of Its Celebrity Board of Advisors and Founding Member",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-names-ja-rule-president-celebrity-board-of-advisors",
+      "pubDate": "2026-10-28T00:12:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "IPX has named Ja Rule President of its Celebrity Board of Advisors and a founding shareholder. The GRAMMY-nominated artist is also a celebrity co-founder of IPX..."
     },
     {
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
@@ -63,15 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element..."
-    },
-    {
-      "title": "Circle’s Arc Tops $1 Billion in USDC",
-      "link": "https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc",
-      "pubDate": "2026-10-27T18:16:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Stablecoin market cap rose 32% in a week in DefiLlama’s daily data, while four addresses hold about 73% of the network’s USDC...."
     },
     {
       "title": "Scalable Vector Grief",
