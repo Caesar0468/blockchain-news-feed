@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T03:51:26.078Z",
+  "lastUpdated": "2026-10-28T12:03:19.792Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,58 +20,94 @@
   },
   "items": [
     {
-      "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
-      "link": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
-      "pubDate": "2026-10-28T03:16:33.000Z",
+      "title": "Soneium Opens Royalty Vault With $600,000 Launch Cap",
+      "link": "https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap",
+      "pubDate": "2026-10-28T11:17:54.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The exchange says customer funds were unaffected and it is notifying impacted users and regulators...."
+      "summary": "Holding ipUSD alone provides no royalty exposure. Investors receive separate vault shares after settlement, and standard exits can take months...."
     },
     {
-      "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
-      "link": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
-      "pubDate": "2026-10-28T01:11:39.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Blockaid says a flash loan let the attacker mint inflated tranche shares and redeem the vault's USDC. A balance check showed none left in the identified contrac..."
-    },
-    {
-      "title": "Datavault Shares Plunge Nearly 50% After Biconomy Bitcoin Disclosure",
-      "link": "https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure",
-      "pubDate": "2026-10-28T00:56:05.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The company plans to restate four financial periods and expects to remove $49 million from its June 2026 assets after reassessing a bitcoin-funded equity deal...."
-    },
-    {
-      "title": "Solflare Validator Stops Earning Rewards After Provider Security Incident",
-      "link": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
-      "pubDate": "2026-10-28T00:29:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Validator trackers show about 1.56 million SOL staked with the node. Solflare says user funds are safe and is preparing an in-app migration...."
-    },
-    {
-      "title": "IPX Names Ja Rule President of Its Celebrity Board of Advisors and Founding Member",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-names-ja-rule-president-celebrity-board-of-advisors",
-      "pubDate": "2026-10-28T00:12:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "IPX has named Ja Rule President of its Celebrity Board of Advisors and a founding shareholder. The GRAMMY-nominated artist is also a celebrity co-founder of IPX..."
-    },
-    {
-      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-      "pubDate": "2026-10-27T18:26:46.000Z",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "pubDate": "2026-10-28T11:15:51.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element..."
+      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execu..."
+    },
+    {
+      "title": "OKXICE Objections Rise to 33 as Stock-Token Lineup Shrinks",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks",
+      "pubDate": "2026-10-28T11:12:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Issuer objections cover 31 of the 63 originally proposed symbols, leaving 32 without a disclosed objection ahead of the venue’s launch...."
+    },
+    {
+      "title": "Stellar Unveils Fee-Free Network Processing 7 Million Payments per Second",
+      "link": "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second",
+      "pubDate": "2026-10-28T10:58:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Early benchmarks reached 7.02 million payments per second across eight machines inside a single validator, and the foundation says it has not decided how the ne..."
+    },
+    {
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "pubDate": "2026-10-28T10:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, aut..."
+    },
+    {
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "pubDate": "2026-10-28T08:15:07.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, th..."
+    },
+    {
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "pubDate": "2026-10-28T07:37:50.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The mo..."
+    },
+    {
+      "title": "Zilliqa CEO Steps Down as Board Takes Oversight Amid Security Probe",
+      "link": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
+      "pubDate": "2026-10-28T07:37:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "X-Bridge is closed in both directions, and PlunderSwap has reported losses in four token pools...."
+    },
+    {
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "pubDate": "2026-10-28T07:13:21.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after..."
+    },
+    {
+      "title": "Moody’s Assigns Ripple’s RLUSD A2 and P-1 Deposit Ratings",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
+      "pubDate": "2026-10-28T05:14:25.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders’ exposure to an issuer bankruptcy...."
     },
     {
       "title": "Scalable Vector Grief",
@@ -81,42 +117,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the re..."
-    },
-    {
-      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-      "pubDate": "2026-10-27T13:59:48.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client c..."
-    },
-    {
-      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "pubDate": "2026-10-27T13:59:09.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked..."
-    },
-    {
-      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-      "pubDate": "2026-10-27T12:09:50.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and..."
-    },
-    {
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "pubDate": "2026-10-27T11:46:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on..."
     },
     {
       "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
