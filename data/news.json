@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T22:08:30.776Z",
+  "lastUpdated": "2026-10-29T04:14:25.463Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Privacy Pools v2 Brings Shielded Payments and Yield to BNB Chain",
-      "link": "https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain",
-      "pubDate": "2026-10-28T20:09:45.000Z",
+      "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
+      "link": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
+      "pubDate": "2026-10-29T03:42:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The deployment supports BNB and stablecoins including USDT, FDUSD and U, while private spending still requires 0xbow's deposit-screening approval...."
+      "summary": "A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular clos..."
     },
     {
-      "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
-      "link": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
-      "pubDate": "2026-10-28T19:14:19.000Z",
+      "title": "Singapore Police Report $2.7 Million in Tampered Ledger Wallet Losses",
+      "link": "https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses",
+      "pubDate": "2026-10-29T03:39:53.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop...."
+      "summary": "Police count at least two cases in a reporting window starting Sept. 10. Ledger's public alert came Oct. 9...."
     },
     {
-      "title": "Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix",
-      "link": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
-      "pubDate": "2026-10-28T18:38:18.000Z",
+      "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
+      "link": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
+      "pubDate": "2026-10-29T02:33:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The proposed policy adds a debt-ratio check for deposits alongside Pyth-linked swap fees. Yield Basis voting is scheduled to end Oct. 29...."
+      "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals...."
     },
     {
-      "title": "Liquid Reserve Gap Falls to 550 BTC After 50 BTC Transfer",
-      "link": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
-      "pubDate": "2026-10-28T18:13:39.000Z",
+      "title": "Allium Discloses Security Breach, Revokes API Keys",
+      "link": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
+      "pubDate": "2026-10-29T01:52:57.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "L-BTC reserve coverage reaches about 87.07%, while user swaps remain available and normal federation peg-outs remain restricted...."
+      "summary": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled...."
     },
     {
-      "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
-      "link": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
-      "pubDate": "2026-10-28T18:12:28.000Z",
+      "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+      "link": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
+      "pubDate": "2026-10-29T01:16:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike...."
+      "summary": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership...."
     },
     {
       "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
@@ -110,44 +110,44 @@
       "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused..."
     },
     {
+      "title": "ZDI-26-833: Valkey clusterCreatePublishMsgBlock Numeric Truncation Error Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-833/",
+      "pubDate": "2026-10-28T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Valkey. Authentication is required to exploit this vulnerabili..."
+    },
+    {
+      "title": "ZDI-26-832: AVG Internet Security avgToolsSvc Link Following Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-832/",
+      "pubDate": "2026-10-28T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of AVG Internet Security. An attacker must first obtain the ability t..."
+    },
+    {
+      "title": "ZDI-26-831: Apple macOS CoreText GDEF LigCaretList Out-Of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-831/",
+      "pubDate": "2026-10-28T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. User interaction is required to exploit t..."
+    },
+    {
+      "title": "ZDI-26-830: Apple Safari jsToWasm IC Entrypoint Type Confusion Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-830/",
+      "pubDate": "2026-10-28T05:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required to exploit this vul..."
+    },
+    {
       "title": "ZDI-26-829: (0Day) (Pwn2Own) Alpine iLX-F511 Bluetooth OBEX Packet Handling Heap-based Buffer Overflow Remote Code Execution Vulnerability",
       "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-829/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Alpine iLX-F511 devices. Authentication is not req..."
-    },
-    {
-      "title": "ZDI-26-828: (0Day) (Pwn2Own) Alpine iLX-F511 Android Auto Service Stack-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-828/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Alpine iLX-F511 devices. Authentication is not requi..."
-    },
-    {
-      "title": "ZDI-26-827: (0Day) (Pwn2Own) Alpine iLX-F511 Android Auto Connection Handler Stack-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-827/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Alpine iLX-F511 devices. Authentication is not req..."
-    },
-    {
-      "title": "ZDI-26-826: (0Day) (Pwn2Own) Alpine iLX-F511 libanwbtstack.so prh_rfcomm_cc_process_test Out-Of-Bounds Read Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-826/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of Alpine iLX-F511 devices. An attacker must fi..."
-    },
-    {
-      "title": "ZDI-26-825: (0Day) (Pwn2Own) Alpine iLX-F511 diagapp Command Injection Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-825/",
       "pubDate": "2026-10-28T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
