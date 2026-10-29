@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T12:14:42.539Z",
+  "lastUpdated": "2026-10-29T22:23:55.503Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,139 +20,139 @@
   },
   "items": [
     {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "pubDate": "2026-10-29T10:44:46.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Def..."
-    },
-    {
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "pubDate": "2026-10-29T10:26:33.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The..."
-    },
-    {
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "pubDate": "2026-10-29T09:05:39.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux sa..."
-    },
-    {
-      "title": "SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%",
-      "link": "https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96",
-      "pubDate": "2026-10-29T09:03:01.000Z",
+      "title": "Binance Wallet Outflows Widen to Three Accounts in Suspected Hack",
+      "link": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
+      "pubDate": "2026-10-29T22:10:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Suppliers were earning about 6.9% APY, while borrowers faced roughly 7.70% APR after liquidity tightened earlier this week...."
+      "summary": "Records show 823 million USDC left Hot Wallet 34, while Binance 14 was swept again 40 minutes after its initial outflow...."
     },
     {
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "pubDate": "2026-10-29T08:24:22.000Z",
+      "title": "Polymarket Adds 15-Minute Gold and Silver Bets With Chainlink",
+      "link": "https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink",
+      "pubDate": "2026-10-29T21:25:05.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The contracts use start-and-end spot prices, while US takers pay about $1.74 per 100 contracts traded at 50 cents, before rebates...."
+    },
+    {
+      "title": "Tether Freezes 971 Million USDT in Wallet Linked to Suspected Binance Drain",
+      "link": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
+      "pubDate": "2026-10-29T21:22:00.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Binance says it is investigating a potential security issue but has not confirmed any impact to user funds...."
+    },
+    {
+      "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
+      "link": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
+      "pubDate": "2026-10-29T21:16:40.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink’s ETH/USD reference feed showed about $2,250...."
+    },
+    {
+      "title": "Binance-Labeled Wallet Swept Minutes After EIP-7702 Delegation",
+      "link": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
+      "pubDate": "2026-10-29T21:04:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The delegated account later triggered a separate 780 million USDC transfer from a smart wallet it owns. Whether the movements were authorized remains unconfirme..."
+    },
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "pubDate": "2026-10-29T19:11:58.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN net..."
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and truste..."
     },
     {
-      "title": "Westpac Sets A$10,000 Monthly Crypto Payment Cap From December",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december",
-      "pubDate": "2026-10-29T08:19:21.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Exemptions and higher limits will not be available, while withdrawals from crypto exchanges into Westpac accounts are unchanged...."
-    },
-    {
-      "title": "Wagyu Confirms Data Leak Exposing Monero Swap Records",
-      "link": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
-      "pubDate": "2026-10-29T06:47:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Hudson Rock found 4,580 orders connecting public-chain deposit transactions, Monero destinations and client IP addresses...."
-    },
-    {
-      "title": "Arbitrum Active Addresses Reach 1.09 Million, a 30-Day High",
-      "link": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high",
-      "pubDate": "2026-10-29T06:42:56.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Transactions climbed far less than addresses on Oct. 28, while user-paid fees stayed close to the preceding week's median...."
-    },
-    {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "pubDate": "2026-10-29T06:22:33.000Z",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "pubDate": "2026-10-29T15:57:05.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnera..."
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's o..."
     },
     {
-      "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts",
-      "pubDate": "2026-10-29T06:04:48.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration...."
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "pubDate": "2026-10-29T15:20:29.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Clau..."
     },
     {
-      "title": "ZDI-26-833: Valkey clusterCreatePublishMsgBlock Numeric Truncation Error Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-833/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "pubDate": "2026-10-29T13:42:40.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows..."
+    },
+    {
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "pubDate": "2026-10-29T11:39:41.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models c..."
+    },
+    {
+      "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-847/",
+      "pubDate": "2026-10-29T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Valkey. Authentication is required to exploit this vulnerabili..."
+      "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit..."
     },
     {
-      "title": "ZDI-26-832: AVG Internet Security avgToolsSvc Link Following Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-832/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
+      "title": "ZDI-26-846: MLflow Webhook Server-Side Request Forgery Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-846/",
+      "pubDate": "2026-10-29T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of AVG Internet Security. An attacker must first obtain the ability t..."
+      "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit..."
     },
     {
-      "title": "ZDI-26-831: Apple macOS CoreText GDEF LigCaretList Out-Of-Bounds Read Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-831/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
+      "title": "ZDI-26-845: MLflow Statsmodels _load_model Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-845/",
+      "pubDate": "2026-10-29T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. User interaction is required to exploit t..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi..."
     },
     {
-      "title": "ZDI-26-830: Apple Safari jsToWasm IC Entrypoint Type Confusion Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-830/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
+      "title": "ZDI-26-844: MLflow get-artifacts Server-Side Request Forgery Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-844/",
+      "pubDate": "2026-10-29T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required to exploit this vul..."
+      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MLflow. Authentication is not required to exploit this..."
     },
     {
-      "title": "ZDI-26-829: (0Day) (Pwn2Own) Alpine iLX-F511 Bluetooth OBEX Packet Handling Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-829/",
-      "pubDate": "2026-10-28T05:00:00.000Z",
+      "title": "ZDI-26-843: MLflow SHAP load_explainer Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-843/",
+      "pubDate": "2026-10-29T05:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Alpine iLX-F511 devices. Authentication is not req..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi..."
     },
     {
       "title": "Scalable Vector Grief",
