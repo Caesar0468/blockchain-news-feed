@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T04:14:25.463Z",
+  "lastUpdated": "2026-10-29T12:14:42.539Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
-      "link": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
-      "pubDate": "2026-10-29T03:42:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular clos..."
-    },
-    {
-      "title": "Singapore Police Report $2.7 Million in Tampered Ledger Wallet Losses",
-      "link": "https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses",
-      "pubDate": "2026-10-29T03:39:53.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Police count at least two cases in a reporting window starting Sept. 10. Ledger's public alert came Oct. 9...."
-    },
-    {
-      "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
-      "link": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
-      "pubDate": "2026-10-29T02:33:13.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals...."
-    },
-    {
-      "title": "Allium Discloses Security Breach, Revokes API Keys",
-      "link": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
-      "pubDate": "2026-10-29T01:52:57.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled...."
-    },
-    {
-      "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
-      "link": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
-      "pubDate": "2026-10-29T01:16:05.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership...."
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "pubDate": "2026-10-28T18:08:33.000Z",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "pubDate": "2026-10-29T10:44:46.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put t..."
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Def..."
     },
     {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "pubDate": "2026-10-28T17:08:09.000Z",
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "pubDate": "2026-10-29T10:26:33.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update..."
+      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The..."
     },
     {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "pubDate": "2026-10-28T16:23:34.000Z",
+      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "pubDate": "2026-10-29T09:05:39.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a sec..."
+      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux sa..."
     },
     {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "pubDate": "2026-10-28T16:02:45.000Z",
+      "title": "SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%",
+      "link": "https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96",
+      "pubDate": "2026-10-29T09:03:01.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Suppliers were earning about 6.9% APY, while borrowers faced roughly 7.70% APR after liquidity tightened earlier this week...."
+    },
+    {
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "pubDate": "2026-10-29T08:24:22.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus t..."
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN net..."
     },
     {
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "pubDate": "2026-10-28T12:48:03.000Z",
+      "title": "Westpac Sets A$10,000 Monthly Crypto Payment Cap From December",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december",
+      "pubDate": "2026-10-29T08:19:21.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Exemptions and higher limits will not be available, while withdrawals from crypto exchanges into Westpac accounts are unchanged...."
+    },
+    {
+      "title": "Wagyu Confirms Data Leak Exposing Monero Swap Records",
+      "link": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
+      "pubDate": "2026-10-29T06:47:49.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Hudson Rock found 4,580 orders connecting public-chain deposit transactions, Monero destinations and client IP addresses...."
+    },
+    {
+      "title": "Arbitrum Active Addresses Reach 1.09 Million, a 30-Day High",
+      "link": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high",
+      "pubDate": "2026-10-29T06:42:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Transactions climbed far less than addresses on Oct. 28, while user-paid fees stayed close to the preceding week's median...."
+    },
+    {
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "pubDate": "2026-10-29T06:22:33.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused..."
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnera..."
+    },
+    {
+      "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts",
+      "pubDate": "2026-10-29T06:04:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration...."
     },
     {
       "title": "ZDI-26-833: Valkey clusterCreatePublishMsgBlock Numeric Truncation Error Remote Code Execution Vulnerability",
