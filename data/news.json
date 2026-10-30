@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T04:14:19.688Z",
+  "lastUpdated": "2026-10-30T12:04:57.950Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,85 @@
   },
   "items": [
     {
-      "title": "Binance Security Incident: Withdrawal Status, Timeline and FAQs",
-      "link": "https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs",
-      "pubDate": "2026-10-29T23:32:17.000Z",
+      "title": "Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals",
+      "link": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
+      "pubDate": "2026-10-30T11:22:01.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Binance says customer funds are safe. Issuer freezes restrict token movements but do not establish how much has been recovered or ultimately lost...."
+      "summary": "Jupiter's API showed just 3.35 USDC immediately withdrawable against 418.5 million USDC in Earn deposit claims...."
     },
     {
-      "title": "Binance Pauses Withdrawals Amid Suspected Hack, Says User Funds Are Safe",
-      "link": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
-      "pubDate": "2026-10-29T22:10:31.000Z",
+      "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
+      "link": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
+      "pubDate": "2026-10-30T11:20:52.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks...."
+      "summary": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound...."
     },
     {
-      "title": "Polymarket Adds 15-Minute Gold and Silver Bets With Chainlink",
-      "link": "https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink",
-      "pubDate": "2026-10-29T21:25:05.000Z",
+      "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
+      "link": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+      "pubDate": "2026-10-30T11:02:14.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The contracts use start-and-end spot prices, while US takers pay about $1.74 per 100 contracts traded at 50 cents, before rebates...."
+      "summary": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul...."
     },
     {
-      "title": "Tether Says It Froze Over 1.567B USDT Linked to Suspected Binance Hack",
-      "link": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
-      "pubDate": "2026-10-29T21:22:00.000Z",
+      "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
+      "link": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
+      "pubDate": "2026-10-30T10:53:40.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The later issuer total is broader than the roughly 971 million USDT recorded in one wallet at its initial freeze; frozen funds are not automatically recovered...."
+      "summary": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them...."
     },
     {
-      "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
-      "link": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
-      "pubDate": "2026-10-29T21:16:40.000Z",
+      "title": "Standard Chartered Says It Provides Digital-Asset Custody in Luxembourg and DIFC",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-says-it-provides-digital-asset-custody-in-luxembourg-and-difc",
+      "pubDate": "2026-10-30T10:23:32.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink’s ETH/USD reference feed showed about $2,250...."
+      "summary": "The LMAX mandate spans the bank’s Luxembourg entity and Dubai branch. A separate collateral link would let clients trade against tokens kept in bank custody...."
+    },
+    {
+      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "pubDate": "2026-10-30T08:55:47.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH..."
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "pubDate": "2026-10-30T07:45:30.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-11..."
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "pubDate": "2026-10-30T07:27:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited..."
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "pubDate": "2026-10-30T04:14:59.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest c..."
     },
     {
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and truste..."
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "pubDate": "2026-10-29T15:57:05.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's o..."
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "pubDate": "2026-10-29T15:20:29.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Clau..."
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "pubDate": "2026-10-29T13:42:40.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows..."
-    },
-    {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "pubDate": "2026-10-29T11:39:41.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models c..."
     },
     {
       "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
