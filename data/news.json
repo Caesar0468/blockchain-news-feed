@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T12:04:57.950Z",
+  "lastUpdated": "2026-10-30T21:54:46.875Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals",
-      "link": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
-      "pubDate": "2026-10-30T11:22:01.000Z",
+      "title": "IPX Unveils Patent-Pending Atomic Router: Protected Capital in the Bonding Curve, Coinbase-Funded Rewards and Automatic Graduation Into Liquid Markets",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation",
+      "pubDate": "2026-10-30T21:46:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Jupiter's API showed just 3.35 USDC immediately withdrawable against 418.5 million USDC in Earn deposit claims...."
+      "summary": "IPX today detailed its patent-pending atomic router, the technology at the heart of its protocol, ahead of the launch of the IPX OS, IPX Exchange and the $IPX t..."
     },
     {
-      "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
-      "link": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
-      "pubDate": "2026-10-30T11:20:52.000Z",
+      "title": "Tokenized Assets, Payments and Prediction Markets Out-Earned Blockchains for the First Time",
+      "link": "https://thedefiant.io/news/defi/real-economy-fees-overtook-blockchain-infrastructure-1kx-revenue-report",
+      "pubDate": "2026-10-30T18:08:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound...."
+      "summary": "1kx's annual revenue report puts industry revenue on track for about $100 billion in 2026, down about 30% from last year. Transaction fees paid to chains are no..."
     },
     {
-      "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
-      "link": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
-      "pubDate": "2026-10-30T11:02:14.000Z",
+      "title": "Tether Reports $1.5 Billion Q3 Operating Profit, $7.95 Billion Reserve Buffer",
+      "link": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
+      "pubDate": "2026-10-30T17:11:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul...."
+      "summary": "Treasury bills and reverse repos drove earnings, while BDO's attestation covered the September-end report rather than activity throughout the quarter...."
     },
     {
-      "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
-      "link": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
-      "pubDate": "2026-10-30T10:53:40.000Z",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "pubDate": "2026-10-30T16:58:44.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in att..."
+    },
+    {
+      "title": "Ethereum Draft Would Let Wallets Permanently Disable EIP-7702 Delegation",
+      "link": "https://thedefiant.io/news/infrastructure/ethereum-draft-would-let-wallets-permanently-disable-eip-7702-delegation",
+      "pubDate": "2026-10-30T16:54:23.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them...."
+      "summary": "Accounts would keep their addresses and ordinary transaction capabilities, but the opt-out would not protect funds from a stolen private key...."
     },
     {
-      "title": "Standard Chartered Says It Provides Digital-Asset Custody in Luxembourg and DIFC",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-says-it-provides-digital-asset-custody-in-luxembourg-and-difc",
-      "pubDate": "2026-10-30T10:23:32.000Z",
+      "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
+      "pubDate": "2026-10-30T16:04:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The LMAX mandate spans the bank’s Luxembourg entity and Dubai branch. A separate collateral link would let clients trade against tokens kept in bank custody...."
+      "summary": "1inch said its token was among assets stolen from Binance and that blocking attacker access to its apps cannot freeze the tokens themselves...."
     },
     {
-      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "pubDate": "2026-10-30T08:55:47.000Z",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "pubDate": "2026-10-30T15:17:28.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH..."
+      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session..."
     },
     {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "pubDate": "2026-10-30T07:45:30.000Z",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "pubDate": "2026-10-30T14:08:14.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-11..."
+      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability,..."
     },
     {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "pubDate": "2026-10-30T07:27:05.000Z",
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "pubDate": "2026-10-30T12:21:56.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited..."
+      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a cust..."
     },
     {
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "pubDate": "2026-10-30T04:14:59.000Z",
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "pubDate": "2026-10-30T11:58:53.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest c..."
-    },
-    {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "pubDate": "2026-10-29T19:11:58.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and truste..."
+      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications avail..."
     },
     {
       "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
