@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:38:46.906Z",
+  "lastUpdated": "2026-10-31T16:45:51.003Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,58 @@
   },
   "items": [
     {
-      "title": "Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions",
-      "link": "https://thedefiant.io/news/defi/aave-freezes-tbtc-reserve-after-threshold-pauses-minting-and-redemptions",
-      "pubDate": "2026-10-31T10:36:51.000Z",
+      "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
+      "link": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
+      "pubDate": "2026-10-31T16:22:42.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Repayments, withdrawals and liquidations continue, while Aave’s Ethereum Core market holds about $136.5 million in tBTC deposits...."
+      "summary": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion...."
+    },
+    {
+      "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
+      "link": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
+      "pubDate": "2026-10-31T15:37:59.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault...."
+    },
+    {
+      "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
+      "link": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
+      "pubDate": "2026-10-31T14:40:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3...."
+    },
+    {
+      "title": "Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave",
+      "link": "https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave",
+      "pubDate": "2026-10-31T13:17:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Exchange review, oracle challenges and deposit holds create different paths from a winning position to money outside the platform...."
+    },
+    {
+      "title": "Origin Restores OGN Liquidity After Pulling Funds During Binance Incident",
+      "link": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
+      "pubDate": "2026-10-31T13:11:22.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Origin says the attacker sold OGN at an average 79% discount. Ethereum records show liquidity returning to its Curve pool after a withdrawal of 46.74 million OG..."
+    },
+    {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "pubDate": "2026-10-31T12:01:56.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data..."
     },
     {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -47,15 +92,6 @@
       "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations,..."
     },
     {
-      "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",
-      "link": "https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases",
-      "pubDate": "2026-10-31T05:27:13.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Trading remained 335% above the preceding seven-day median, while 3pool's DAI and USDC balances recovered...."
-    },
-    {
       "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
       "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
       "pubDate": "2026-10-31T04:56:12.000Z",
@@ -65,33 +101,6 @@
       "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructu..."
     },
     {
-      "title": "IPX Unveils Patent-Pending Atomic Router: Protected Capital in the Bonding Curve, Coinbase-Funded Rewards and Automatic Graduation Into Liquid Markets",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation",
-      "pubDate": "2026-10-30T21:46:28.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "IPX today detailed its patent-pending atomic router, the technology at the heart of its protocol, ahead of the launch of the IPX OS, IPX Exchange and the $IPX t..."
-    },
-    {
-      "title": "Tokenized Assets, Payments and Prediction Markets Out-Earned Blockchains for the First Time",
-      "link": "https://thedefiant.io/news/defi/real-economy-fees-overtook-blockchain-infrastructure-1kx-revenue-report",
-      "pubDate": "2026-10-30T18:08:12.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "1kx's annual revenue report puts industry revenue on track for about $100 billion in 2026, down about 30% from last year. Transaction fees paid to chains are no..."
-    },
-    {
-      "title": "Tether Reports $1.5 Billion Q3 Operating Profit, $7.95 Billion Reserve Buffer",
-      "link": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
-      "pubDate": "2026-10-30T17:11:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Treasury bills and reverse repos drove earnings, while BDO's attestation covered the September-end report rather than activity throughout the quarter...."
-    },
-    {
       "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
       "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
       "pubDate": "2026-10-30T16:58:44.000Z",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in att..."
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "pubDate": "2026-10-30T15:17:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session..."
     },
     {
       "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
