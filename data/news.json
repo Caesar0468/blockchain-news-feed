@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T16:45:51.003Z",
+  "lastUpdated": "2026-10-31T20:56:55.909Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
-      "link": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
-      "pubDate": "2026-10-31T16:22:42.000Z",
+      "title": "Jupiter Lend USDC Withdrawal Liquidity Rebounds to 27.9 Million",
+      "link": "https://thedefiant.io/news/defi/jupiter-lend-usdc-withdrawal-liquidity-rebounds-to-27-9-million",
+      "pubDate": "2026-10-31T19:26:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion...."
+      "summary": "An Oct. 31 API snapshot showed 6.3% of the vault's 441 million USDC in deposit claims immediately withdrawable...."
     },
     {
-      "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
-      "link": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
-      "pubDate": "2026-10-31T15:37:59.000Z",
+      "title": "Morpho Borrow Rates Hit Roughly 40% as PT Market Liquidity Dries Up",
+      "link": "https://thedefiant.io/news/defi/morpho-borrow-rates-hit-roughly-40-as-pt-market-liquidity-dries-up",
+      "pubDate": "2026-10-31T18:26:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault...."
+      "summary": "Available liquidity in one reUSD-backed market vanished in two hours; rates across four tracked markets eased to roughly 9%–13% by Oct. 31...."
     },
     {
-      "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
-      "link": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
-      "pubDate": "2026-10-31T14:40:51.000Z",
+      "title": "Threshold Says tBTC Is Fully Backed as Bridge Pause Continues",
+      "link": "https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues",
+      "pubDate": "2026-10-31T18:00:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3...."
+      "summary": "Aave’s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market...."
     },
     {
-      "title": "Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave",
-      "link": "https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave",
-      "pubDate": "2026-10-31T13:17:29.000Z",
+      "title": "THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error",
+      "link": "https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error",
+      "pubDate": "2026-10-31T17:43:30.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Exchange review, oracle challenges and deposit holds create different paths from a winning position to money outside the platform...."
+      "summary": "Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked...."
     },
     {
-      "title": "Origin Restores OGN Liquidity After Pulling Funds During Binance Incident",
-      "link": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
-      "pubDate": "2026-10-31T13:11:22.000Z",
+      "title": "Intersect Urges Cardano Operators to Patch Critical Linux Flaw",
+      "link": "https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw",
+      "pubDate": "2026-10-31T17:32:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Origin says the attacker sold OGN at an average 79% discount. Ethereum records show liquidity returning to its Curve pool after a withdrawal of 46.74 million OG..."
+      "summary": "Ubuntu fixes were still in progress in its Oct. 30 tracker update, while AlmaLinux had patched kernels available for testing...."
     },
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
