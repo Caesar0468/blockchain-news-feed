@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T04:10:44.413Z",
+  "lastUpdated": "2026-11-01T12:37:53.276Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,85 @@
   },
   "items": [
     {
-      "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
-      "link": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
-      "pubDate": "2026-10-31T21:46:33.000Z",
+      "title": "Swell Lifts swETH and rswETH Withdrawal Pauses After Rate Reset",
+      "link": "https://thedefiant.io/news/hacks/swell-lifts-sweth-and-rsweth-withdrawal-pauses-after-rate-reset",
+      "pubDate": "2026-11-01T11:23:20.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target...."
+      "summary": "Swell promises compensation within a week for deposits made at inflated rates, but both tokens’ direct-deposit controls still show a pause...."
     },
     {
-      "title": "Jupiter Lend USDC Withdrawal Liquidity Rebounds to 27.9 Million",
-      "link": "https://thedefiant.io/news/defi/jupiter-lend-usdc-withdrawal-liquidity-rebounds-to-27-9-million",
-      "pubDate": "2026-10-31T19:26:05.000Z",
+      "title": "DeFi Fees, Revenue and Holder Payouts: How the Money Flows",
+      "link": "https://thedefiant.io/news/defi/defi-fees-revenue-and-holder-payouts-how-the-money-flows",
+      "pubDate": "2026-11-01T10:09:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "An Oct. 31 API snapshot showed 6.3% of the vault's 441 million USDC in deposit claims immediately withdrawable...."
+      "summary": "Buybacks and burns can count as holder revenue without putting cash in a wallet. A worked example separates those flows from treasury income and staking payouts..."
     },
     {
-      "title": "Morpho Borrow Rates Hit Roughly 40% as PT Market Liquidity Dries Up",
-      "link": "https://thedefiant.io/news/defi/morpho-borrow-rates-hit-roughly-40-as-pt-market-liquidity-dries-up",
-      "pubDate": "2026-10-31T18:26:10.000Z",
+      "title": "How Pendle Principal Tokens Turn a Discount Into a Maturity Return",
+      "link": "https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return",
+      "pubDate": "2026-11-01T10:06:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Available liquidity in one reUSD-backed market vanished in two hours; rates across four tracked markets eased to roughly 9%–13% by Oct. 31...."
+      "summary": "An early sale replaces the maturity payoff with a market price. A worked example separates annualized yield, redemption units and costs...."
     },
     {
-      "title": "Threshold Says tBTC Is Fully Backed as Bridge Pause Continues",
-      "link": "https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues",
-      "pubDate": "2026-10-31T18:00:16.000Z",
+      "title": "How Staking Rewards Change Token Holdings and Supply Share",
+      "link": "https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share",
+      "pubDate": "2026-11-01T09:58:32.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Aave’s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market...."
+      "summary": "In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price...."
     },
     {
-      "title": "THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error",
-      "link": "https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error",
-      "pubDate": "2026-10-31T17:43:30.000Z",
+      "title": "What Happens When a Uniswap v3 Position Goes Out of Range?",
+      "link": "https://thedefiant.io/news/defi/what-happens-when-a-uniswap-v3-position-goes-out-of-range",
+      "pubDate": "2026-11-01T09:56:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked...."
+      "summary": "An ETH/USDC worked example tracks token balances, fees and the holding benchmark—and shows why opening a new range does not reset cumulative returns...."
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "pubDate": "2026-11-01T08:51:31.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker h..."
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "pubDate": "2026-11-01T07:25:40.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The cod..."
+    },
+    {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "pubDate": "2026-11-01T07:03:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-ali..."
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "pubDate": "2026-11-01T07:02:58.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in As..."
     },
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
@@ -72,42 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data..."
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "pubDate": "2026-10-31T08:27:43.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited..."
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "pubDate": "2026-10-31T05:33:41.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations,..."
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "pubDate": "2026-10-31T04:56:12.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructu..."
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "pubDate": "2026-10-30T16:58:44.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in att..."
     },
     {
       "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
