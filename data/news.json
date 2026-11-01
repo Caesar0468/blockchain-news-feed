@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T20:56:55.909Z",
+  "lastUpdated": "2026-11-01T04:10:44.413Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
+      "link": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
+      "pubDate": "2026-10-31T21:46:33.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target...."
+    },
     {
       "title": "Jupiter Lend USDC Withdrawal Liquidity Rebounds to 27.9 Million",
       "link": "https://thedefiant.io/news/defi/jupiter-lend-usdc-withdrawal-liquidity-rebounds-to-27-9-million",
@@ -54,15 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked...."
-    },
-    {
-      "title": "Intersect Urges Cardano Operators to Patch Critical Linux Flaw",
-      "link": "https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw",
-      "pubDate": "2026-10-31T17:32:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Ubuntu fixes were still in progress in its Oct. 30 tracker update, while AlmaLinux had patched kernels available for testing...."
     },
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
