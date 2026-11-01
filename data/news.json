@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T12:37:53.276Z",
+  "lastUpdated": "2026-11-01T21:39:23.706Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Swell Lifts swETH and rswETH Withdrawal Pauses After Rate Reset",
-      "link": "https://thedefiant.io/news/hacks/swell-lifts-sweth-and-rsweth-withdrawal-pauses-after-rate-reset",
-      "pubDate": "2026-11-01T11:23:20.000Z",
+      "title": "Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million",
+      "link": "https://thedefiant.io/news/hacks/binance-posts-4-54-billion-net-outflow-as-tracked-rivals-gain-564-million",
+      "pubDate": "2026-11-01T21:28:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Swell promises compensation within a week for deposits made at inflated rates, but both tokens’ direct-deposit controls still show a pause...."
+      "summary": "OKX led gains among 10 large tracked rivals, but exchange-wide net flows do not reveal how much Binance customers moved into self-custody...."
     },
     {
-      "title": "DeFi Fees, Revenue and Holder Payouts: How the Money Flows",
-      "link": "https://thedefiant.io/news/defi/defi-fees-revenue-and-holder-payouts-how-the-money-flows",
-      "pubDate": "2026-11-01T10:09:19.000Z",
+      "title": "THORChain Co-Founder Cites Public Data After FBI Binance Blocking Appeal",
+      "link": "https://thedefiant.io/news/defi/thorchain-co-founder-cites-public-data-after-fbi-binance-blocking-appeal",
+      "pubDate": "2026-11-01T20:38:01.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Buybacks and burns can count as holder revenue without putting cash in a wallet. A worked example separates those flows from treasury income and staking payouts..."
+      "summary": "The FBI explicitly named THORNode operators in its appeal. The protocol’s controls allow broad trading halts, which also interrupt other users...."
     },
     {
-      "title": "How Pendle Principal Tokens Turn a Discount Into a Maturity Return",
-      "link": "https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return",
-      "pubDate": "2026-11-01T10:06:34.000Z",
+      "title": "Pump.fun Cuts Referral Share to 37.5% as 4x Boost Ends",
+      "link": "https://thedefiant.io/news/defi/pump-fun-cuts-referral-share-to-37-5-as-4x-boost-ends",
+      "pubDate": "2026-11-01T19:19:44.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "An early sale replaces the maturity payoff with a market price. A worked example separates annualized yield, redemption units and costs...."
+      "summary": "Creators will earn 62.5% less from the same referral fees, while the platform says it will keep distributing all app revenue through rewards...."
     },
     {
-      "title": "How Staking Rewards Change Token Holdings and Supply Share",
-      "link": "https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share",
-      "pubDate": "2026-11-01T09:58:32.000Z",
+      "title": "Threshold Says tBTC Operators Patched or Went Offline Over Linux Flaw",
+      "link": "https://thedefiant.io/news/security/threshold-says-tbtc-operators-patched-or-went-offline-over-linux-flaw",
+      "pubDate": "2026-11-01T18:55:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price...."
+      "summary": "Threshold also disclosed a separate incident that drained about 0.5 ETH from an operator’s fee-paying account. Aave’s frozen Ethereum Core reserve holds about $..."
     },
     {
-      "title": "What Happens When a Uniswap v3 Position Goes Out of Range?",
-      "link": "https://thedefiant.io/news/defi/what-happens-when-a-uniswap-v3-position-goes-out-of-range",
-      "pubDate": "2026-11-01T09:56:12.000Z",
+      "title": "Solana Mobile Says Fake 'SKR Claim' App Reached Store Spotlight",
+      "link": "https://thedefiant.io/news/hacks/solana-mobile-says-fake-skr-claim-app-reached-store-spotlight",
+      "pubDate": "2026-11-01T18:47:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "An ETH/USDC worked example tracks token balances, fees and the holding benchmark—and shows why opening a new range does not reset cumulative returns...."
+      "summary": "The company says it patched a bug allowing links to apps that were not fully published and is removing the malicious app from affected devices...."
     },
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
