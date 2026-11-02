@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T21:39:23.706Z",
+  "lastUpdated": "2026-11-02T04:14:20.150Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million",
-      "link": "https://thedefiant.io/news/hacks/binance-posts-4-54-billion-net-outflow-as-tracked-rivals-gain-564-million",
-      "pubDate": "2026-11-01T21:28:26.000Z",
+      "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",
+      "link": "https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes",
+      "pubDate": "2026-11-02T00:33:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "OKX led gains among 10 large tracked rivals, but exchange-wide net flows do not reveal how much Binance customers moved into self-custody...."
+      "summary": "Direct issuer redemption is restricted, while sUSDe unstaking returns USDe—not dollars in a bank account...."
     },
     {
-      "title": "THORChain Co-Founder Cites Public Data After FBI Binance Blocking Appeal",
-      "link": "https://thedefiant.io/news/defi/thorchain-co-founder-cites-public-data-after-fbi-binance-blocking-appeal",
-      "pubDate": "2026-11-01T20:38:01.000Z",
+      "title": "Anza Urges Solana Validators to Act on Critical Linux Flaw",
+      "link": "https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw",
+      "pubDate": "2026-11-02T00:23:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The FBI explicitly named THORNode operators in its appeal. The protocol’s controls allow broad trading halts, which also interrupt other users...."
+      "summary": "Ubuntu operators were told to filter incoming traffic and disable two networking features while awaiting a fixed kernel...."
     },
     {
-      "title": "Pump.fun Cuts Referral Share to 37.5% as 4x Boost Ends",
-      "link": "https://thedefiant.io/news/defi/pump-fun-cuts-referral-share-to-37-5-as-4x-boost-ends",
-      "pubDate": "2026-11-01T19:19:44.000Z",
+      "title": "Maple’s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits",
+      "link": "https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits",
+      "pubDate": "2026-11-02T00:23:02.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Creators will earn 62.5% less from the same referral fees, while the platform says it will keep distributing all app revenue through rewards...."
+      "summary": "Pool withdrawals depend on available liquidity and have no guaranteed deadline. Selling a token on an exchange is a different exit, at a market-determined price..."
     },
     {
-      "title": "Threshold Says tBTC Operators Patched or Went Offline Over Linux Flaw",
-      "link": "https://thedefiant.io/news/security/threshold-says-tbtc-operators-patched-or-went-offline-over-linux-flaw",
-      "pubDate": "2026-11-01T18:55:06.000Z",
+      "title": "Institutional Crypto Custody: A Guide to Roles and Control",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control",
+      "pubDate": "2026-11-02T00:21:50.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Threshold also disclosed a separate incident that drained about 0.5 ETH from an operator’s fee-paying account. Aave’s frozen Ethereum Core reserve holds about $..."
+      "summary": "Keeping tokens with a bank does not rule out pledging them for a loan. Separate safekeeping, signing permissions and authority to sell collateral before compari..."
     },
     {
-      "title": "Solana Mobile Says Fake 'SKR Claim' App Reached Store Spotlight",
-      "link": "https://thedefiant.io/news/hacks/solana-mobile-says-fake-skr-claim-app-reached-store-spotlight",
-      "pubDate": "2026-11-01T18:47:05.000Z",
+      "title": "BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps",
+      "link": "https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps",
+      "pubDate": "2026-11-01T22:54:59.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The company says it patched a bug allowing links to apps that were not fully published and is removing the malicious app from affected devices...."
+      "summary": "Operators were told to run ./btcpay-down.sh while the project investigates. The alert did not identify affected versions or announce a patch...."
     },
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
