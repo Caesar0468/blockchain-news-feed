@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T04:14:20.150Z",
+  "lastUpdated": "2026-11-02T14:41:25.079Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,112 @@
   },
   "items": [
     {
-      "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",
-      "link": "https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes",
-      "pubDate": "2026-11-02T00:33:31.000Z",
+      "title": "Binance Sees $5.14 Billion in Daily Net Outflows After Withdrawal Restart",
+      "link": "https://thedefiant.io/news/hacks/binance-sees-5-14-billion-in-daily-net-outflows-after-withdrawal-restart",
+      "pubDate": "2026-11-02T14:39:20.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Direct issuer redemption is restricted, while sUSDe unstaking returns USDe—not dollars in a bank account...."
+      "summary": "Weekly net outflows reached nearly $14 billion, while the next nine venues by tracked assets recorded $507 million in combined daily net inflows...."
     },
     {
-      "title": "Anza Urges Solana Validators to Act on Critical Linux Flaw",
-      "link": "https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw",
-      "pubDate": "2026-11-02T00:23:12.000Z",
+      "title": "Crypto Treasury Stocks: How mNAV and Dilution Affect Value",
+      "link": "https://thedefiant.io/news/markets/crypto-treasury-stocks-how-mnav-and-dilution-affect-value",
+      "pubDate": "2026-11-02T14:15:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ubuntu operators were told to filter incoming traffic and disable two networking features while awaiting a fixed kernel...."
+      "summary": "A bigger bitcoin or ether treasury need not mean more crypto per share—or a positive stock return. Strategy’s disclosures show why the valuation formula matters..."
     },
     {
-      "title": "Maple’s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits",
-      "link": "https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits",
-      "pubDate": "2026-11-02T00:23:02.000Z",
+      "title": "XRP Ledger Token-Permission Fix Heads for Wednesday Activation",
+      "link": "https://thedefiant.io/news/security/xrp-ledger-token-permission-fix-heads-for-wednesday-activation",
+      "pubDate": "2026-11-02T12:50:23.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Pool withdrawals depend on available liquidity and have no guaranteed deadline. Selling a token on an exchange is a different exit, at a market-determined price..."
+      "summary": "The amendment has 33 of 35 trusted validators behind it. Separate proposals to block unapproved token holders remain under review...."
     },
     {
-      "title": "Institutional Crypto Custody: A Guide to Roles and Control",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control",
-      "pubDate": "2026-11-02T00:21:50.000Z",
+      "title": "ZachXBT Flags Suspected $106 Million-Plus Theft From EU Entity",
+      "link": "https://thedefiant.io/news/hacks/zachxbt-flags-suspected-106-million-plus-theft-from-eu-entity",
+      "pubDate": "2026-11-02T12:38:09.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Keeping tokens with a bank does not rule out pledging them for a loan. Separate safekeeping, signing permissions and authority to sell collateral before compari..."
+      "summary": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain b..."
     },
     {
-      "title": "BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps",
-      "link": "https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps",
-      "pubDate": "2026-11-01T22:54:59.000Z",
+      "title": "Core Fork Recovers 68.15 Million CORE After b14g Hack",
+      "link": "https://thedefiant.io/news/hacks/core-fork-recovers-68-15-million-core-after-b14g-hack",
+      "pubDate": "2026-11-02T12:30:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Operators were told to run ./btcpay-down.sh while the project investigates. The alert did not identify affected versions or announce a patch...."
+      "summary": "The recovery covers about 70% of affected tokens, but users have not been repaid and no claims process is open...."
     },
     {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "pubDate": "2026-11-01T08:51:31.000Z",
+      "title": "Immunefi Credits: Backing Hunters Who Find Valid Bugs",
+      "link": "https://immunefi.com/blog/company-announcement/immunefi-credits/",
+      "pubDate": "2026-11-02T12:23:32.000Z",
+      "source": "Immunefi",
+      "category": "Web3 Bug Bounty",
+      "type": "blockchain",
+      "summary": "If you paid to submit a valid report since fees began, including a duplicate or a private known issue, you receive credits equal to the fee...."
+    },
+    {
+      "title": "Backporting security fixes at scale with Codex",
+      "link": "https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/",
+      "pubDate": "2026-11-02T12:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "Stable Linux releases lack existing security fixes because backporting them is time-consuming and often thankless work. We’re using Codex to reduce the backport..."
+    },
+    {
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "pubDate": "2026-11-02T11:50:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker h..."
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open..."
     },
     {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "pubDate": "2026-11-01T07:25:40.000Z",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "pubDate": "2026-11-02T11:30:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The cod..."
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State o..."
     },
     {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "pubDate": "2026-11-01T07:03:00.000Z",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "pubDate": "2026-11-02T11:08:45.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-ali..."
+      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certif..."
     },
     {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "pubDate": "2026-11-01T07:02:58.000Z",
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "pubDate": "2026-11-02T10:49:59.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in As..."
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities a..."
     },
     {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "pubDate": "2026-10-31T12:01:56.000Z",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "pubDate": "2026-11-02T05:51:07.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data..."
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to..."
     },
     {
       "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
@@ -225,24 +243,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vend..."
-    },
-    {
-      "title": "Smashing the token limit with overlapping fragments",
-      "link": "https://portswigger.net/research/smashing-the-token-limit",
-      "pubDate": "2026-10-05T15:04:55.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "I'm delighted to introduce Alex, my fellow swigger who I've collaborated with in the past with tools like DOM Invader. He showed me that it's possible to exfilt..."
-    },
-    {
-      "title": "How native transaction assertions could enforce a transaction's final outcome",
-      "link": "https://blog.ethereum.org/en/2026/10/05/transaction-assertions",
-      "pubDate": "2026-10-05T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is explori..."
     }
   ]
 }
