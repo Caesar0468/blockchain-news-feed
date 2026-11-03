@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T14:41:25.079Z",
+  "lastUpdated": "2026-11-03T00:28:05.342Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,76 @@
   },
   "items": [
     {
-      "title": "Binance Sees $5.14 Billion in Daily Net Outflows After Withdrawal Restart",
-      "link": "https://thedefiant.io/news/hacks/binance-sees-5-14-billion-in-daily-net-outflows-after-withdrawal-restart",
-      "pubDate": "2026-11-02T14:39:20.000Z",
+      "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
+      "link": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
+      "pubDate": "2026-11-03T00:12:59.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Weekly net outflows reached nearly $14 billion, while the next nine venues by tracked assets recorded $507 million in combined daily net inflows...."
+      "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls...."
     },
     {
-      "title": "Crypto Treasury Stocks: How mNAV and Dilution Affect Value",
-      "link": "https://thedefiant.io/news/markets/crypto-treasury-stocks-how-mnav-and-dilution-affect-value",
-      "pubDate": "2026-11-02T14:15:06.000Z",
+      "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
+      "link": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
+      "pubDate": "2026-11-02T21:25:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A bigger bitcoin or ether treasury need not mean more crypto per share—or a positive stock return. Strategy’s disclosures show why the valuation formula matters..."
+      "summary": "Kim Yo Jong called the US accusation “absurd rhetoric,” while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit...."
     },
     {
-      "title": "XRP Ledger Token-Permission Fix Heads for Wednesday Activation",
-      "link": "https://thedefiant.io/news/security/xrp-ledger-token-permission-fix-heads-for-wednesday-activation",
-      "pubDate": "2026-11-02T12:50:23.000Z",
+      "title": "Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up",
+      "link": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up",
+      "pubDate": "2026-11-02T21:00:09.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The amendment has 33 of 35 trusted validators behind it. Separate proposals to block unapproved token holders remain under review...."
+      "summary": "Estimated L-BTC backing rises to 94.14%, but the federation’s recovery plan requires full reserves before direct peg-outs resume...."
     },
     {
-      "title": "ZachXBT Flags Suspected $106 Million-Plus Theft From EU Entity",
-      "link": "https://thedefiant.io/news/hacks/zachxbt-flags-suspected-106-million-plus-theft-from-eu-entity",
-      "pubDate": "2026-11-02T12:38:09.000Z",
+      "title": "BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade",
+      "link": "https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade",
+      "pubDate": "2026-11-02T20:07:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain b..."
+      "summary": "The upgrade introduces a default 5% gas reservation for eligible payments, while token listings and CAS20 activation require separate governance steps...."
     },
     {
-      "title": "Core Fork Recovers 68.15 Million CORE After b14g Hack",
-      "link": "https://thedefiant.io/news/hacks/core-fork-recovers-68-15-million-core-after-b14g-hack",
-      "pubDate": "2026-11-02T12:30:35.000Z",
+      "title": "Akash Stakers Approve Move From Cosmos to Solana",
+      "link": "https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana",
+      "pubDate": "2026-11-02T20:04:42.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The recovery covers about 70% of affected tokens, but users have not been repaid and no claims process is open...."
+      "summary": "AKT can launch on Solana after two audits, but moving the compute marketplace and ending staking rewards still require a separate cutover vote...."
+    },
+    {
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "pubDate": "2026-11-02T16:57:56.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that peo..."
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "pubDate": "2026-11-02T15:50:26.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google say..."
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "pubDate": "2026-11-02T14:46:05.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat..."
     },
     {
       "title": "Immunefi Credits: Backing Hunters Who Find Valid Bugs",
@@ -101,31 +128,31 @@
       "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State o..."
     },
     {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "pubDate": "2026-11-02T11:08:45.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-850: Microsoft Qlib MLflowRecorder Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-850/",
+      "pubDate": "2026-11-02T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certif..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Qlib. User interaction is required to exploit this v..."
     },
     {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "pubDate": "2026-11-02T10:49:59.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-849: Microsoft Qlib RestrictedUnpickler Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-849/",
+      "pubDate": "2026-11-02T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities a..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Qlib. User interaction is required to exploit this v..."
     },
     {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "pubDate": "2026-11-02T05:51:07.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-848: Microsoft Qlib StaticDataLoader Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-848/",
+      "pubDate": "2026-11-02T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Qlib. User interaction is required to exploit this v..."
     },
     {
       "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
@@ -144,33 +171,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit..."
-    },
-    {
-      "title": "ZDI-26-845: MLflow Statsmodels _load_model Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-845/",
-      "pubDate": "2026-10-29T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi..."
-    },
-    {
-      "title": "ZDI-26-844: MLflow get-artifacts Server-Side Request Forgery Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-844/",
-      "pubDate": "2026-10-29T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MLflow. Authentication is not required to exploit this..."
-    },
-    {
-      "title": "ZDI-26-843: MLflow SHAP load_explainer Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-843/",
-      "pubDate": "2026-10-29T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of MLflow. User interaction is required to exploit this vulnerabi..."
     },
     {
       "title": "Scalable Vector Grief",
