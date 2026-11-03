@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T13:34:24.237Z",
+  "lastUpdated": "2026-11-03T22:51:40.569Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,94 @@
   },
   "items": [
     {
-      "title": "Kraken Restricts Accounts Amid Suspected $133 Million-Plus EU Theft",
-      "link": "https://thedefiant.io/news/hacks/kraken-restricts-accounts-amid-suspected-133-million-plus-eu-theft",
-      "pubDate": "2026-11-03T12:24:03.000Z",
+      "title": "SEC Staff Grants Canton Coin No-Action Relief for Token Minting",
+      "link": "https://thedefiant.io/news/regulation/sec-staff-grants-canton-coin-no-action-relief-for-token-minting",
+      "pubDate": "2026-11-03T20:42:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The exchange says its own systems and customer accounts were not compromised and that it is working with law enforcement on recovery...."
+      "summary": "The division views Canton Coin as a digital commodity, relying on its network utility and the absence of a controlling central party...."
+    },
+    {
+      "title": "Justin Drake Targets December 2028 for Ethereum’s Post-Quantum Transition",
+      "link": "https://thedefiant.io/news/blockchains/justin-drake-targets-december-2028-for-ethereum-s-post-quantum-transition",
+      "pubDate": "2026-11-03T20:38:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The proposed fork sequence would accelerate work across three protocol layers, while migrating existing wallets remains a separate task...."
+    },
+    {
+      "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
+      "link": "https://thedefiant.io/converge/regulation/cftc-chair-says-equity-perps-can-begin-us-trading",
+      "pubDate": "2026-11-03T20:16:28.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Kraken responded with ‘coming soon 👀’ as Selig outlined access through futures exchanges also registered with the SEC...."
+    },
+    {
+      "title": "Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote",
+      "link": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-on-testnet-ahead-of-mainnet-vote",
+      "pubDate": "2026-11-03T19:28:47.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Wallets and indexers must update their software, while smart contracts gain optional post-quantum signature verification...."
+    },
+    {
+      "title": "Sei's Autobahn Consensus Vote Clears Quorum",
+      "link": "https://thedefiant.io/news/blockchains/sei-s-autobahn-consensus-vote-clears-quorum",
+      "pubDate": "2026-11-03T19:27:38.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "SIP-6 would let validators propose transactions simultaneously, but a public testnet and security audits must precede activation...."
+    },
+    {
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "pubDate": "2026-11-03T18:46:38.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, r..."
+    },
+    {
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "pubDate": "2026-11-03T18:16:19.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to s..."
+    },
+    {
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "pubDate": "2026-11-03T16:55:58.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophistic..."
+    },
+    {
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "pubDate": "2026-11-03T15:59:19.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization control..."
+    },
+    {
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "pubDate": "2026-11-03T15:41:53.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resource..."
     },
     {
       "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
@@ -38,85 +119,49 @@
       "summary": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases..."
     },
     {
-      "title": "Binance Lacks Cyber Insurance for $6.3 Billion Hack, Bloomberg Law Reports",
-      "link": "https://thedefiant.io/news/hacks/binance-lacks-cyber-insurance-for-6-3-billion-hack-bloomberg-law-reports",
-      "pubDate": "2026-11-03T11:59:23.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The exchange says it reserved more than $6.34 billion in company funds and is drawing on emergency and futures reserves to replace stolen assets...."
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "pubDate": "2026-11-03T11:23:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-868: Microsoft Windows Aero Theme Improper Handling Of Error Condition Denial-of-Service Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-868/",
+      "pubDate": "2026-11-03T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's..."
+      "summary": "This vulnerability allows local attackers to create a denial-of-service condition on affected installations of Microsoft Windows. An attacker must first obtain..."
     },
     {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "pubDate": "2026-11-03T11:18:20.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-867: Cisco Snort sf_unfold_header Out-Of-Bounds Write Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-867/",
+      "pubDate": "2026-11-03T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attacker..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Snort. Authentication is not required to exploit this vu..."
     },
     {
-      "title": "France Delays Budget Vote Again, Leaving Stablecoin Tax Pending",
-      "link": "https://thedefiant.io/news/regulation/france-delays-budget-vote-again-leaving-stablecoin-tax-pending",
-      "pubDate": "2026-11-03T11:13:54.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Lawmakers defeated a proposal to tax unrealized crypto gains when residents move abroad, but a stablecoin-swap tax remains in the provisional budget text...."
-    },
-    {
-      "title": "Backpack Warns of Fake Tokenized Stock Airdrops",
-      "link": "https://thedefiant.io/news/security/backpack-warns-of-fake-tokenized-stock-airdrops",
-      "pubDate": "2026-11-03T11:07:50.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Scammers may cite genuine token addresses to appear legitimate, the company said, directing users to its official Solana mint directory...."
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "pubDate": "2026-11-03T11:00:45.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-866: Quest Foglight for Databases renderTemplateString Server-Side Template Injection Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-866/",
+      "pubDate": "2026-11-03T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Quest Foglight for Databases. Authentication is required to ex..."
     },
     {
-      "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
-      "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack",
-      "pubDate": "2026-11-03T09:08:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The exchange says $11 million has been blocked, but its assurance does not specify a funding source or reimbursement deadline...."
-    },
-    {
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "pubDate": "2026-11-03T08:31:48.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-865: Quest Foglight for Databases Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-865/",
+      "pubDate": "2026-11-03T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports..."
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Quest Foglight for Databases. An attacker must first obtain the ab..."
     },
     {
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "pubDate": "2026-11-03T07:43:07.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-864: Quest Foglight for Databases getSource XML External Entity Processing Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-864/",
+      "pubDate": "2026-11-03T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks...."
+      "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of Quest Foglight for Databases. Authentication..."
     },
     {
       "title": "Designing for sovereignty: Ethereum for digital public infrastructure",
@@ -144,51 +189,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Stable Linux releases lack existing security fixes because backporting them is time-consuming and often thankless work. We’re using Codex to reduce the backport..."
-    },
-    {
-      "title": "ZDI-26-850: Microsoft Qlib MLflowRecorder Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-850/",
-      "pubDate": "2026-11-02T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Qlib. User interaction is required to exploit this v..."
-    },
-    {
-      "title": "ZDI-26-849: Microsoft Qlib RestrictedUnpickler Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-849/",
-      "pubDate": "2026-11-02T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Qlib. User interaction is required to exploit this v..."
-    },
-    {
-      "title": "ZDI-26-848: Microsoft Qlib StaticDataLoader Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-848/",
-      "pubDate": "2026-11-02T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Qlib. User interaction is required to exploit this v..."
-    },
-    {
-      "title": "ZDI-26-847: MLflow AI Gateway Server-Side Request Forgery Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-847/",
-      "pubDate": "2026-10-29T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit..."
-    },
-    {
-      "title": "ZDI-26-846: MLflow Webhook Server-Side Request Forgery Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-846/",
-      "pubDate": "2026-10-29T05:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to initiate arbitrary server-side requests on affected installations of MLflow. Authentication is required to exploit..."
     },
     {
       "title": "Scalable Vector Grief",
