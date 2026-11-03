@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T00:28:05.342Z",
+  "lastUpdated": "2026-11-03T13:34:24.237Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,76 +20,112 @@
   },
   "items": [
     {
-      "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
-      "link": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
-      "pubDate": "2026-11-03T00:12:59.000Z",
+      "title": "Kraken Restricts Accounts Amid Suspected $133 Million-Plus EU Theft",
+      "link": "https://thedefiant.io/news/hacks/kraken-restricts-accounts-amid-suspected-133-million-plus-eu-theft",
+      "pubDate": "2026-11-03T12:24:03.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls...."
+      "summary": "The exchange says its own systems and customer accounts were not compromised and that it is working with law enforcement on recovery...."
     },
     {
-      "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
-      "link": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
-      "pubDate": "2026-11-02T21:25:45.000Z",
+      "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
+      "link": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
+      "pubDate": "2026-11-03T12:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases..."
+    },
+    {
+      "title": "Binance Lacks Cyber Insurance for $6.3 Billion Hack, Bloomberg Law Reports",
+      "link": "https://thedefiant.io/news/hacks/binance-lacks-cyber-insurance-for-6-3-billion-hack-bloomberg-law-reports",
+      "pubDate": "2026-11-03T11:59:23.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Kim Yo Jong called the US accusation “absurd rhetoric,” while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit...."
+      "summary": "The exchange says it reserved more than $6.34 billion in company funds and is drawing on emergency and futures reserves to replace stolen assets...."
     },
     {
-      "title": "Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up",
-      "link": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up",
-      "pubDate": "2026-11-02T21:00:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Estimated L-BTC backing rises to 94.14%, but the federation’s recovery plan requires full reserves before direct peg-outs resume...."
-    },
-    {
-      "title": "BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade",
-      "link": "https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade",
-      "pubDate": "2026-11-02T20:07:33.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The upgrade introduces a default 5% gas reservation for eligible payments, while token listings and CAS20 activation require separate governance steps...."
-    },
-    {
-      "title": "Akash Stakers Approve Move From Cosmos to Solana",
-      "link": "https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana",
-      "pubDate": "2026-11-02T20:04:42.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "AKT can launch on Solana after two audits, but moving the compute marketplace and ending staking rewards still require a separate cutover vote...."
-    },
-    {
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "pubDate": "2026-11-02T16:57:56.000Z",
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "pubDate": "2026-11-03T11:23:53.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that peo..."
+      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's..."
     },
     {
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "pubDate": "2026-11-02T15:50:26.000Z",
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "pubDate": "2026-11-03T11:18:20.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google say..."
+      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attacker..."
     },
     {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "pubDate": "2026-11-02T14:46:05.000Z",
+      "title": "France Delays Budget Vote Again, Leaving Stablecoin Tax Pending",
+      "link": "https://thedefiant.io/news/regulation/france-delays-budget-vote-again-leaving-stablecoin-tax-pending",
+      "pubDate": "2026-11-03T11:13:54.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Lawmakers defeated a proposal to tax unrealized crypto gains when residents move abroad, but a stablecoin-swap tax remains in the provisional budget text...."
+    },
+    {
+      "title": "Backpack Warns of Fake Tokenized Stock Airdrops",
+      "link": "https://thedefiant.io/news/security/backpack-warns-of-fake-tokenized-stock-airdrops",
+      "pubDate": "2026-11-03T11:07:50.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Scammers may cite genuine token addresses to appear legitimate, the company said, directing users to its official Solana mint directory...."
+    },
+    {
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "pubDate": "2026-11-03T11:00:45.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat..."
+      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active..."
+    },
+    {
+      "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
+      "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack",
+      "pubDate": "2026-11-03T09:08:33.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The exchange says $11 million has been blocked, but its assurance does not specify a funding source or reimbursement deadline...."
+    },
+    {
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "pubDate": "2026-11-03T08:31:48.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports..."
+    },
+    {
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "pubDate": "2026-11-03T07:43:07.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks...."
+    },
+    {
+      "title": "Designing for sovereignty: Ethereum for digital public infrastructure",
+      "link": "https://blog.ethereum.org/en/2026/11/03/digital-pub-infra",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation may..."
     },
     {
       "title": "Immunefi Credits: Backing Hunters Who Find Valid Bugs",
@@ -108,24 +144,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Stable Linux releases lack existing security fixes because backporting them is time-consuming and often thankless work. We’re using Codex to reduce the backport..."
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "pubDate": "2026-11-02T11:50:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open..."
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "pubDate": "2026-11-02T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State o..."
     },
     {
       "title": "ZDI-26-850: Microsoft Qlib MLflowRecorder Deserialization of Untrusted Data Remote Code Execution Vulnerability",
@@ -225,24 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "I tested 25 of the most popular package managers to check whether they detect a compromised package repository injecting malicious code into legitimate packages..."
-    },
-    {
-      "title": "The model isn't cooperating",
-      "link": "https://portswigger.net/research/the-model-isnt-cooperating",
-      "pubDate": "2026-10-06T17:14:53.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "Have you ever felt like a model isn't actually trying to do what you asked? Did you just ask it wrong, or is there something else at play here? In this post, I'..."
-    },
-    {
-      "title": "How to fix a bug in a fix",
-      "link": "https://projectzero.google/2026/10/emergency-patching.html",
-      "pubDate": "2026-10-06T07:00:00.000Z",
-      "source": "Project Zero",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vend..."
     }
   ]
 }
