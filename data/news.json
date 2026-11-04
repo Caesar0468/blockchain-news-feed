@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T22:51:40.569Z",
+  "lastUpdated": "2026-11-04T04:42:56.393Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,33 @@
   },
   "items": [
     {
+      "title": "Solana Breaks Below $90 as Bitcoin Slides Under $76,000",
+      "link": "https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000",
+      "pubDate": "2026-11-04T03:20:50.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window...."
+    },
+    {
+      "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
+      "link": "https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade",
+      "pubDate": "2026-11-04T02:18:50.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions...."
+    },
+    {
+      "title": "South Korea’s Ruling Party Formally Seeks Crypto Tax Delay",
+      "link": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay",
+      "pubDate": "2026-11-04T01:53:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027..."
+    },
+    {
       "title": "SEC Staff Grants Canton Coin No-Action Relief for Token Minting",
       "link": "https://thedefiant.io/news/regulation/sec-staff-grants-canton-coin-no-action-relief-for-token-minting",
       "pubDate": "2026-11-03T20:42:19.000Z",
@@ -36,33 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The proposed fork sequence would accelerate work across three protocol layers, while migrating existing wallets remains a separate task...."
-    },
-    {
-      "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
-      "link": "https://thedefiant.io/converge/regulation/cftc-chair-says-equity-perps-can-begin-us-trading",
-      "pubDate": "2026-11-03T20:16:28.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Kraken responded with ‘coming soon 👀’ as Selig outlined access through futures exchanges also registered with the SEC...."
-    },
-    {
-      "title": "Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote",
-      "link": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-on-testnet-ahead-of-mainnet-vote",
-      "pubDate": "2026-11-03T19:28:47.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Wallets and indexers must update their software, while smart contracts gain optional post-quantum signature verification...."
-    },
-    {
-      "title": "Sei's Autobahn Consensus Vote Clears Quorum",
-      "link": "https://thedefiant.io/news/blockchains/sei-s-autobahn-consensus-vote-clears-quorum",
-      "pubDate": "2026-11-03T19:27:38.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "SIP-6 would let validators propose transactions simultaneously, but a public testnet and security audits must precede activation...."
     },
     {
       "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
