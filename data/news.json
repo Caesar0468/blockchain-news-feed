@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T04:58:04.681Z",
+  "lastUpdated": "2026-11-05T13:56:33.066Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,76 +20,94 @@
   },
   "items": [
     {
-      "title": "OKX–ICE Stock Venue’s Issuer Objections Reach 62",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okx-ice-stock-venue-s-issuer-objections-reach-62",
-      "pubDate": "2026-11-05T03:31:02.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Boeing and ServiceNow’s objections leave eight of the venture’s 63 originally proposed symbols without a disclosed opt-out...."
-    },
-    {
-      "title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com",
-      "pubDate": "2026-11-05T03:11:19.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The movement equals about 30% of the bitcoin treasury disclosed for July 31. Arkham labels both sending wallets as convertible-note collateral...."
-    },
-    {
-      "title": "Pendle Volume Hits $221.5 Million, a 30-Day High",
-      "link": "https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high",
-      "pubDate": "2026-11-05T00:27:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot...."
-    },
-    {
-      "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
-      "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
-      "pubDate": "2026-11-04T23:36:50.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance...."
-    },
-    {
-      "title": "TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption",
-      "pubDate": "2026-11-04T21:47:30.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains the shares' official onchain ownership register...."
-    },
-    {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "pubDate": "2026-11-04T17:00:46.000Z",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "pubDate": "2026-11-05T12:25:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The atta..."
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has..."
     },
     {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "pubDate": "2026-11-04T17:00:38.000Z",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "pubDate": "2026-11-05T12:08:54.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the secur..."
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege esc..."
     },
     {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "pubDate": "2026-11-04T16:06:43.000Z",
+      "title": "Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval",
+      "link": "https://thedefiant.io/news/regulation/thailand-sets-dec-5-bitget-block-as-local-exchange-deal-awaits-approval",
+      "pubDate": "2026-11-05T11:49:37.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Seller GMO Internet has pushed the planned share transfer to Nov. 30 while it works through Thai regulatory procedures...."
+    },
+    {
+      "title": "Paraguay USDT Offers Show 13% Premium After Ueno Closure",
+      "link": "https://thedefiant.io/news/markets/paraguay-usdt-offers-show-13-premium-after-ueno-closure",
+      "pubDate": "2026-11-05T10:59:52.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bybit listings show a sharp gap between buying and selling USDT, while Paraguay’s central bank prepares deposit-guarantee payments for Ueno savers...."
+    },
+    {
+      "title": "Binance Revokes SignalPlus API Keys After Security Warning",
+      "link": "https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning",
+      "pubDate": "2026-11-05T10:58:21.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The exchange told SignalPlus users to review positions and open orders directly on Binance and wait for confirmation of a full resolution before reconnecting...."
+    },
+    {
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "pubDate": "2026-11-05T10:06:19.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted i..."
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, an..."
+    },
+    {
+      "title": "France’s Budget Rejection Shelves Stablecoin Tax and Wallet Reporting",
+      "link": "https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting",
+      "pubDate": "2026-11-05T09:21:37.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Assembly voted 458–0 against the revenue section. The crypto measures could return through amendments in the Senate, whose budget debate is scheduled to beg..."
+    },
+    {
+      "title": "ZetaChain Opens Vote to Shut Down Layer 1 Around Dec. 9",
+      "link": "https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9",
+      "pubDate": "2026-11-05T09:14:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Staked and unbonding ZETA would count toward claims, while exchanges would set their own conversion windows...."
+    },
+    {
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "pubDate": "2026-11-05T09:13:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3...."
+    },
+    {
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "pubDate": "2026-11-05T08:42:03.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is tar..."
     },
     {
       "title": "Making HTTP header injection critical with one prompt",
@@ -99,24 +117,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We..."
-    },
-    {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "pubDate": "2026-11-04T14:27:52.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised webs..."
-    },
-    {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "pubDate": "2026-11-04T12:07:04.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app proc..."
     },
     {
       "title": "ZDI-26-874: (0Day) Ashlar-Vellum Cobalt XE File Parsing Use-After-Free Remote Code Execution Vulnerability",
