@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T23:10:03.367Z",
+  "lastUpdated": "2026-11-05T04:58:04.681Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,42 @@
   },
   "items": [
     {
+      "title": "OKX–ICE Stock Venue’s Issuer Objections Reach 62",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okx-ice-stock-venue-s-issuer-objections-reach-62",
+      "pubDate": "2026-11-05T03:31:02.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Boeing and ServiceNow’s objections leave eight of the venture’s 63 originally proposed symbols without a disclosed opt-out...."
+    },
+    {
+      "title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com",
+      "pubDate": "2026-11-05T03:11:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The movement equals about 30% of the bitcoin treasury disclosed for July 31. Arkham labels both sending wallets as convertible-note collateral...."
+    },
+    {
+      "title": "Pendle Volume Hits $221.5 Million, a 30-Day High",
+      "link": "https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high",
+      "pubDate": "2026-11-05T00:27:36.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot...."
+    },
+    {
+      "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+      "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
+      "pubDate": "2026-11-04T23:36:50.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance...."
+    },
+    {
       "title": "TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption",
       "pubDate": "2026-11-04T21:47:30.000Z",
@@ -27,42 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains the shares' official onchain ownership register...."
-    },
-    {
-      "title": "Crypto Groups Seek to Strike Down Illinois’ 0.2% Tax",
-      "link": "https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax",
-      "pubDate": "2026-11-04T21:39:13.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The levy would tax asset value rather than gains, with covered brokers required to collect it from Illinois customers...."
-    },
-    {
-      "title": "Nasdaq Approves Listing of Canary’s Staked Injective ETF",
-      "link": "https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf",
-      "pubDate": "2026-11-04T20:38:59.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The proposed INJC fund would stake at least 90% of its INJ holdings and charge a 1.10% annual sponsor fee...."
-    },
-    {
-      "title": "Lightning Labs Releases LND Mitigation for Critical Linux Flaw",
-      "link": "https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw",
-      "pubDate": "2026-11-04T18:47:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "LND v0.20.7-beta and v0.21.6-beta disable Multipath TCP by default, but operators still need a patched kernel to fix the underlying vulnerability...."
-    },
-    {
-      "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared",
-      "link": "https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared",
-      "pubDate": "2026-11-04T18:15:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Monero requires privacy mechanisms for ordinary transfers, while Zcash supports transparent and shielded modes. Neither erases an exchange’s identity records...."
     },
     {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
