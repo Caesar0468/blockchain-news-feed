@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T04:57:30.680Z",
+  "lastUpdated": "2026-11-06T13:42:22.401Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,103 @@
   },
   "items": [
     {
-      "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
-      "link": "https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen",
-      "pubDate": "2026-11-06T00:42:07.000Z",
+      "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
+      "link": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
+      "pubDate": "2026-11-06T12:51:42.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths...."
+      "summary": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout...."
     },
     {
-      "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
-      "link": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
-      "pubDate": "2026-11-05T21:56:51.000Z",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "pubDate": "2026-11-06T12:06:43.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not thr..."
+    },
+    {
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "pubDate": "2026-11-06T12:06:35.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint se..."
+    },
+    {
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "pubDate": "2026-11-06T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go..."
+    },
+    {
+      "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
+      "link": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
+      "pubDate": "2026-11-06T11:06:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "HYPE was trading about 14% below the price used to value the company's quarter-end token holdings...."
+      "summary": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched...."
     },
     {
-      "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
-      "link": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
-      "pubDate": "2026-11-05T21:53:55.000Z",
+      "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
+      "link": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
+      "pubDate": "2026-11-06T10:27:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods...."
+      "summary": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date...."
     },
     {
-      "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
-      "link": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
-      "pubDate": "2026-11-05T20:23:31.000Z",
+      "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
+      "link": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
+      "pubDate": "2026-11-06T08:13:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use...."
+      "summary": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps...."
     },
     {
-      "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
-      "link": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
-      "pubDate": "2026-11-05T20:14:26.000Z",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "pubDate": "2026-11-06T08:04:49.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernam..."
+    },
+    {
+      "title": "Ether Falls 8.5% to $2,220, Lagging Bitcoin",
+      "link": "https://thedefiant.io/news/markets/ether-falls-8-5-to-2-220-lagging-bitcoin",
+      "pubDate": "2026-11-06T07:17:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The framework exempts annual net gains of up to €500 and is scheduled to apply from January 2027...."
+      "summary": "US ether ETFs recorded $99.9 million in net withdrawals on Nov. 5, reversing the previous day's $53 million inflow...."
     },
     {
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "pubDate": "2026-11-05T16:42:46.000Z",
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "pubDate": "2026-11-06T05:58:54.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package...."
+      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's..."
     },
     {
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "pubDate": "2026-11-05T16:42:32.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT...."
-    },
-    {
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "pubDate": "2026-11-05T14:41:10.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used..."
-    },
-    {
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "pubDate": "2026-11-05T12:25:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has..."
-    },
-    {
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "pubDate": "2026-11-05T12:08:54.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege esc..."
+      "title": "EIP-8037/EIP-8038 Glamsterdam",
+      "link": "https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be vulner..."
     },
     {
       "title": "Making HTTP header injection critical with one prompt",
@@ -234,15 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Today we’re publishing patching-bugs and regression-hunt, two plugins that let engineers delegate patch development and regression checks to agents. Our patchin..."
-    },
-    {
-      "title": "Glamsterdam Hoodi Testnet Announcement",
-      "link": "https://blog.ethereum.org/en/2026/10/16/glamsterdam-hoodi-announcement",
-      "pubDate": "2026-10-16T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "Update — October 22, 2026: The October 26 Hoodi activation has been postponed, including the scheduled gas-limit increase to 200M. The schedule and activation i..."
     }
   ]
 }
