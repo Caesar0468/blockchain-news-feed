@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T13:56:33.066Z",
+  "lastUpdated": "2026-11-06T04:57:30.680Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,78 @@
   },
   "items": [
     {
+      "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
+      "link": "https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen",
+      "pubDate": "2026-11-06T00:42:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths...."
+    },
+    {
+      "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
+      "link": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
+      "pubDate": "2026-11-05T21:56:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "HYPE was trading about 14% below the price used to value the company's quarter-end token holdings...."
+    },
+    {
+      "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
+      "link": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
+      "pubDate": "2026-11-05T21:53:55.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods...."
+    },
+    {
+      "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
+      "link": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
+      "pubDate": "2026-11-05T20:23:31.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use...."
+    },
+    {
+      "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
+      "link": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
+      "pubDate": "2026-11-05T20:14:26.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The framework exempts annual net gains of up to €500 and is scheduled to apply from January 2027...."
+    },
+    {
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "pubDate": "2026-11-05T16:42:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package...."
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "pubDate": "2026-11-05T16:42:32.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT...."
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "pubDate": "2026-11-05T14:41:10.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used..."
+    },
+    {
       "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
       "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
       "pubDate": "2026-11-05T12:25:00.000Z",
@@ -36,78 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege esc..."
-    },
-    {
-      "title": "Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval",
-      "link": "https://thedefiant.io/news/regulation/thailand-sets-dec-5-bitget-block-as-local-exchange-deal-awaits-approval",
-      "pubDate": "2026-11-05T11:49:37.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Seller GMO Internet has pushed the planned share transfer to Nov. 30 while it works through Thai regulatory procedures...."
-    },
-    {
-      "title": "Paraguay USDT Offers Show 13% Premium After Ueno Closure",
-      "link": "https://thedefiant.io/news/markets/paraguay-usdt-offers-show-13-premium-after-ueno-closure",
-      "pubDate": "2026-11-05T10:59:52.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bybit listings show a sharp gap between buying and selling USDT, while Paraguay’s central bank prepares deposit-guarantee payments for Ueno savers...."
-    },
-    {
-      "title": "Binance Revokes SignalPlus API Keys After Security Warning",
-      "link": "https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning",
-      "pubDate": "2026-11-05T10:58:21.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The exchange told SignalPlus users to review positions and open orders directly on Binance and wait for confirmation of a full resolution before reconnecting...."
-    },
-    {
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "pubDate": "2026-11-05T10:06:19.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, an..."
-    },
-    {
-      "title": "France’s Budget Rejection Shelves Stablecoin Tax and Wallet Reporting",
-      "link": "https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting",
-      "pubDate": "2026-11-05T09:21:37.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Assembly voted 458–0 against the revenue section. The crypto measures could return through amendments in the Senate, whose budget debate is scheduled to beg..."
-    },
-    {
-      "title": "ZetaChain Opens Vote to Shut Down Layer 1 Around Dec. 9",
-      "link": "https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9",
-      "pubDate": "2026-11-05T09:14:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Staked and unbonding ZETA would count toward claims, while exchanges would set their own conversion windows...."
-    },
-    {
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "pubDate": "2026-11-05T09:13:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3...."
-    },
-    {
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "pubDate": "2026-11-05T08:42:03.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is tar..."
     },
     {
       "title": "Making HTTP header injection critical with one prompt",
