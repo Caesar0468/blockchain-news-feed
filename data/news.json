@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T13:42:22.401Z",
+  "lastUpdated": "2026-11-06T22:40:53.372Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,85 @@
   },
   "items": [
     {
-      "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
-      "link": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
-      "pubDate": "2026-11-06T12:51:42.000Z",
+      "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
+      "link": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
+      "pubDate": "2026-11-06T22:09:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout...."
+      "summary": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date...."
+    },
+    {
+      "title": "Merkley-Raskin Bill Would Ban Election and Sports Contracts on US Exchanges",
+      "link": "https://thedefiant.io/news/regulation/merkley-raskin-bill-would-ban-election-and-sports-contracts-on-us-exchanges",
+      "pubDate": "2026-11-06T18:39:46.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The March 26 proposal also targets US government-action contracts, with a commercial-hedging exception defined by the CFTC. It remains in committee...."
+    },
+    {
+      "title": "What Is Stablecoin Market Cap? Supply, Share and Dominance Explained",
+      "link": "https://thedefiant.io/news/tokens/what-is-stablecoin-market-cap-supply-share-and-dominance-explained",
+      "pubDate": "2026-11-06T18:12:32.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Issuance and redemptions change circulating supply. Transfers do not, and a price move can change market cap without any tokens being issued or redeemed...."
+    },
+    {
+      "title": "Algorand Foundation Shuts Forum and Advisory Council",
+      "link": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
+      "pubDate": "2026-11-06T18:07:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Foundation will pause xGov grants on Dec. 6 and shelve Project King Safety, while maintaining bonus staking support through January 2028...."
+    },
+    {
+      "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
+      "link": "https://thedefiant.io/news/defi/veranta-adds-1-000x-btc-and-eth-leverage-on-base",
+      "pubDate": "2026-11-06T18:03:30.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The venue says traders can redeem profits immediately, with payouts drawn from a protocol buffer before liquidity-provider capital...."
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "pubDate": "2026-11-06T16:08:38.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher wh..."
+    },
+    {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "pubDate": "2026-11-06T15:21:49.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, acc..."
+    },
+    {
+      "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
+      "link": "https://immunefi.com/blog/research/2026-lending-hacks/",
+      "pubDate": "2026-11-06T15:00:00.000Z",
+      "source": "Immunefi",
+      "category": "Web3 Bug Bounty",
+      "type": "blockchain",
+      "summary": "At least 33 lending and Collateralized Debt Position (CDP) protocols were hacked this year. Data shows attackers target protocols of all sizes, and vulnerabilit..."
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "pubDate": "2026-11-06T14:58:32.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilitie..."
     },
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
@@ -47,67 +119,58 @@
       "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint se..."
     },
     {
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "pubDate": "2026-11-06T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "After Binance, check what your signing systems can approve",
+      "link": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
+      "pubDate": "2026-11-06T12:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
       "type": "cybersecurity",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go..."
+      "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
     },
     {
-      "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
-      "link": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
-      "pubDate": "2026-11-06T11:06:26.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched...."
-    },
-    {
-      "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
-      "link": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
-      "pubDate": "2026-11-06T10:27:22.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date...."
-    },
-    {
-      "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
-      "link": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
-      "pubDate": "2026-11-06T08:13:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps...."
-    },
-    {
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "pubDate": "2026-11-06T08:04:49.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-897: Home Assistant Green aiohttp_client Server-Side Request Forgery Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-897/",
+      "pubDate": "2026-11-06T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernam..."
+      "summary": "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green. Authenticatio..."
     },
     {
-      "title": "Ether Falls 8.5% to $2,220, Lagging Bitcoin",
-      "link": "https://thedefiant.io/news/markets/ether-falls-8-5-to-2-220-lagging-bitcoin",
-      "pubDate": "2026-11-06T07:17:37.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "US ether ETFs recorded $99.9 million in net withdrawals on Nov. 5, reversing the previous day's $53 million inflow...."
-    },
-    {
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "pubDate": "2026-11-06T05:58:54.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-896: (Pwn2Own) Home Assistant Green Cleartext Storage of Credentials Local Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-896/",
+      "pubDate": "2026-11-06T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's..."
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Home Assistant Green. An attacker must first obtain the ability to..."
+    },
+    {
+      "title": "ZDI-26-895: LibreOffice dBase File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-895/",
+      "pubDate": "2026-11-06T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vuln..."
+    },
+    {
+      "title": "ZDI-26-894: Docker Sandboxes Inclusion of Functionality from Untrusted Control Sphere Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-894/",
+      "pubDate": "2026-11-06T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to execute arbitrary code on affected installations of Docker Sandboxes. User interaction is required to exploit this..."
+    },
+    {
+      "title": "ZDI-26-893: Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-893/",
+      "pubDate": "2026-11-06T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trimble SketchUp. User interaction is required to exploit this..."
     },
     {
       "title": "EIP-8037/EIP-8038 Glamsterdam",
@@ -126,51 +189,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We..."
-    },
-    {
-      "title": "ZDI-26-874: (0Day) Ashlar-Vellum Cobalt XE File Parsing Use-After-Free Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-874/",
-      "pubDate": "2026-11-04T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit..."
-    },
-    {
-      "title": "ZDI-26-873: (0Day) Ashlar-Vellum Cobalt AR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-873/",
-      "pubDate": "2026-11-04T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit..."
-    },
-    {
-      "title": "ZDI-26-872: (0Day) Ashlar-Vellum Cobalt XE File Parsing Use-After-Free Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-872/",
-      "pubDate": "2026-11-04T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit..."
-    },
-    {
-      "title": "ZDI-26-871: (0Day) Ashlar-Vellum Cobalt LI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-871/",
-      "pubDate": "2026-11-04T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit..."
-    },
-    {
-      "title": "ZDI-26-870: (0Day) Ashlar-Vellum Cobalt XE File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-870/",
-      "pubDate": "2026-11-04T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit..."
     },
     {
       "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
@@ -225,24 +243,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a ge..."
-    },
-    {
-      "title": "Glamsterdam on Hoodi Postponed",
-      "link": "https://blog.ethereum.org/en/2026/10/22/glamsterdam-hoodi-delay",
-      "pubDate": "2026-10-22T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch 132,352), has been postponed. A new activation date has not b..."
-    },
-    {
-      "title": "Your AI agent fixed the bug, but what else did it change?",
-      "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-      "pubDate": "2026-10-21T15:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Today we’re publishing patching-bugs and regression-hunt, two plugins that let engineers delegate patch development and regression checks to agents. Our patchin..."
     }
   ]
 }
