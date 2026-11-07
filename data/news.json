@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T12:23:53.809Z",
+  "lastUpdated": "2026-11-07T21:24:32.170Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,49 @@
   },
   "items": [
     {
-      "title": "US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links",
-      "link": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
-      "pubDate": "2026-11-07T11:27:05.000Z",
+      "title": "Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
+      "link": "https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave",
+      "pubDate": "2026-11-07T21:22:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses...."
+      "summary": "Co-CEO Yi He says a transition plan has been underway for six months, placing the handover's planning before the exchange's $6.34 billion theft...."
+    },
+    {
+      "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
+      "link": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
+      "pubDate": "2026-11-07T18:14:51.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The activity matters: securities offerings and trading, commodity derivatives and spot-market fraud fall under different powers. A proposal is not the same as a..."
+    },
+    {
+      "title": "Keplr Says Recovery Effort May Explain Empty Wallet Balances",
+      "link": "https://thedefiant.io/news/security/keplr-says-recovery-effort-may-explain-empty-wallet-balances",
+      "pubDate": "2026-11-07T17:43:30.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Users who created accounts through Google or Apple should stop deposits and move remaining liquid assets, Keplr said...."
+    },
+    {
+      "title": "STRK Slumps 57% in Four Weeks as Starknet Rally Unwinds",
+      "link": "https://thedefiant.io/news/markets/strk-slumps-57-in-four-weeks-as-starknet-rally-unwinds",
+      "pubDate": "2026-11-07T16:07:10.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Starknet’s DeFi TVL fell to $35.8 million after Extended moved settlement to Arc, while its proposed Layer 1 transition remains at the research stage...."
+    },
+    {
+      "title": "How to Check Crypto Companies and Wallet Addresses in OFAC Records",
+      "link": "https://thedefiant.io/news/regulation/how-to-check-crypto-companies-and-wallet-addresses-in-ofac-records",
+      "pubDate": "2026-11-07T14:17:01.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "OFAC’s official tool searches names and exact crypto addresses. A result still requires identity checks, while an unlisted wallet or company can remain subject..."
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
@@ -36,42 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them...."
-    },
-    {
-      "title": "Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports",
-      "link": "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
-      "pubDate": "2026-11-07T06:12:27.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to the..."
-    },
-    {
-      "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
-      "pubDate": "2026-11-07T00:00:13.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain non-transferable and barred from DeFi...."
-    },
-    {
-      "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
-      "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
-      "pubDate": "2026-11-07T00:00:11.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publicat..."
-    },
-    {
-      "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
-      "link": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
-      "pubDate": "2026-11-06T22:09:37.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date...."
     },
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
