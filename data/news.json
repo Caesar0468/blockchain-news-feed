@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T22:40:53.372Z",
+  "lastUpdated": "2026-11-07T04:30:09.055Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
+      "pubDate": "2026-11-07T00:00:13.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain non-transferable and barred from DeFi...."
+    },
+    {
+      "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
+      "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
+      "pubDate": "2026-11-07T00:00:11.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publicat..."
+    },
     {
       "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
       "link": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
@@ -45,24 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "Issuance and redemptions change circulating supply. Transfers do not, and a price move can change market cap without any tokens being issued or redeemed...."
-    },
-    {
-      "title": "Algorand Foundation Shuts Forum and Advisory Council",
-      "link": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
-      "pubDate": "2026-11-06T18:07:16.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Foundation will pause xGov grants on Dec. 6 and shelve Project King Safety, while maintaining bonus staking support through January 2028...."
-    },
-    {
-      "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
-      "link": "https://thedefiant.io/news/defi/veranta-adds-1-000x-btc-and-eth-leverage-on-base",
-      "pubDate": "2026-11-06T18:03:30.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The venue says traders can redeem profits immediately, with payouts drawn from a protocol buffer before liquidity-provider capital...."
     },
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -128,7 +128,7 @@
       "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
     },
     {
-      "title": "ZDI-26-897: Home Assistant Green aiohttp_client Server-Side Request Forgery Vulnerability",
+      "title": "ZDI-26-897: (Pwn2Own) Home Assistant Green aiohttp_client Server-Side Request Forgery Vulnerability",
       "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-897/",
       "pubDate": "2026-11-06T06:00:00.000Z",
       "source": "Zero Day Initiative",
