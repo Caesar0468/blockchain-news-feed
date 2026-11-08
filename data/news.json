@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T12:42:42.009Z",
+  "lastUpdated": "2026-11-08T21:38:47.410Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
-      "link": "https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade",
-      "pubDate": "2026-11-08T01:53:00.000Z",
+      "title": "LNbits Urges All Server Operators to Shut Down After Attacks",
+      "link": "https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks",
+      "pubDate": "2026-11-08T19:47:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The wallet converted 3,100 ETH into roughly 6.92 million USDC before pairing a Bitcoin long with an Ether short on Hyperliquid...."
+      "summary": "The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours...."
     },
     {
-      "title": "Cosmos Batch Moves 2,266 Staked ATOM From Six Accounts",
-      "link": "https://thedefiant.io/news/hacks/cosmos-batch-moves-2-266-staked-atom-from-six-accounts",
-      "pubDate": "2026-11-08T00:39:24.000Z",
+      "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
+      "link": "https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan",
+      "pubDate": "2026-11-08T18:11:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "One delegator reported theft, while Web3Auth says some apparent wallet drains are protective recovery transfers...."
+      "summary": "Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission—not every permission attached to the account...."
     },
     {
-      "title": "Sky TVL Falls 15% in a Week as USDS Supply Contracts",
-      "link": "https://thedefiant.io/news/defi/sky-tvl-falls-15-in-a-week-as-usds-supply-contracts",
-      "pubDate": "2026-11-08T00:34:34.000Z",
+      "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+      "link": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
+      "pubDate": "2026-11-08T16:33:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "USDS circulating supply fell to $5.59 billion over the same week, while Sky.money lists a 3.80% savings rate set by governance...."
+      "summary": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval...."
     },
     {
-      "title": "OKX Warns MEXC Users of Deposit Freezes Ahead of FinCEN Cutoff",
-      "link": "https://thedefiant.io/news/cefi/okx-warns-mexc-users-of-deposit-freezes-ahead-of-fincen-cutoff",
-      "pubDate": "2026-11-07T23:06:07.000Z",
+      "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
+      "link": "https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit",
+      "pubDate": "2026-11-08T14:11:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "CEO Star Xu said OKX treats FinCEN special measures with caution 'similar to sanctions' after customers reported USDT deposits held for review...."
+      "summary": "Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it—and withdrawals still depend..."
     },
     {
-      "title": "Loopscale Reopens All Vaults After Attack-Related Freeze",
-      "link": "https://thedefiant.io/news/hacks/loopscale-reopens-all-vaults-after-attack-related-freeze",
-      "pubDate": "2026-11-07T21:46:26.000Z",
+      "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
+      "link": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
+      "pubDate": "2026-11-08T13:07:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The restart includes the USDC Genesis Vault and lifts its remaining loan-management restrictions. Loopscale says a technical post-mortem will follow...."
+      "summary": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM...."
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
