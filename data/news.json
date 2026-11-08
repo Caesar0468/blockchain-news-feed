@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T21:24:32.170Z",
+  "lastUpdated": "2026-11-08T04:15:46.163Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
-      "link": "https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave",
-      "pubDate": "2026-11-07T21:22:36.000Z",
+      "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
+      "link": "https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade",
+      "pubDate": "2026-11-08T01:53:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Co-CEO Yi He says a transition plan has been underway for six months, placing the handover's planning before the exchange's $6.34 billion theft...."
+      "summary": "The wallet converted 3,100 ETH into roughly 6.92 million USDC before pairing a Bitcoin long with an Ether short on Hyperliquid...."
     },
     {
-      "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
-      "link": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
-      "pubDate": "2026-11-07T18:14:51.000Z",
+      "title": "Cosmos Batch Moves 2,266 Staked ATOM From Six Accounts",
+      "link": "https://thedefiant.io/news/hacks/cosmos-batch-moves-2-266-staked-atom-from-six-accounts",
+      "pubDate": "2026-11-08T00:39:24.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The activity matters: securities offerings and trading, commodity derivatives and spot-market fraud fall under different powers. A proposal is not the same as a..."
+      "summary": "One delegator reported theft, while Web3Auth says some apparent wallet drains are protective recovery transfers...."
     },
     {
-      "title": "Keplr Says Recovery Effort May Explain Empty Wallet Balances",
-      "link": "https://thedefiant.io/news/security/keplr-says-recovery-effort-may-explain-empty-wallet-balances",
-      "pubDate": "2026-11-07T17:43:30.000Z",
+      "title": "Sky TVL Falls 15% in a Week as USDS Supply Contracts",
+      "link": "https://thedefiant.io/news/defi/sky-tvl-falls-15-in-a-week-as-usds-supply-contracts",
+      "pubDate": "2026-11-08T00:34:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Users who created accounts through Google or Apple should stop deposits and move remaining liquid assets, Keplr said...."
+      "summary": "USDS circulating supply fell to $5.59 billion over the same week, while Sky.money lists a 3.80% savings rate set by governance...."
     },
     {
-      "title": "STRK Slumps 57% in Four Weeks as Starknet Rally Unwinds",
-      "link": "https://thedefiant.io/news/markets/strk-slumps-57-in-four-weeks-as-starknet-rally-unwinds",
-      "pubDate": "2026-11-07T16:07:10.000Z",
+      "title": "OKX Warns MEXC Users of Deposit Freezes Ahead of FinCEN Cutoff",
+      "link": "https://thedefiant.io/news/cefi/okx-warns-mexc-users-of-deposit-freezes-ahead-of-fincen-cutoff",
+      "pubDate": "2026-11-07T23:06:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Starknet’s DeFi TVL fell to $35.8 million after Extended moved settlement to Arc, while its proposed Layer 1 transition remains at the research stage...."
+      "summary": "CEO Star Xu said OKX treats FinCEN special measures with caution 'similar to sanctions' after customers reported USDT deposits held for review...."
     },
     {
-      "title": "How to Check Crypto Companies and Wallet Addresses in OFAC Records",
-      "link": "https://thedefiant.io/news/regulation/how-to-check-crypto-companies-and-wallet-addresses-in-ofac-records",
-      "pubDate": "2026-11-07T14:17:01.000Z",
+      "title": "Loopscale Reopens All Vaults After Attack-Related Freeze",
+      "link": "https://thedefiant.io/news/hacks/loopscale-reopens-all-vaults-after-attack-related-freeze",
+      "pubDate": "2026-11-07T21:46:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "OFAC’s official tool searches names and exact crypto addresses. A result still requires identity checks, while an unlisted wallet or company can remain subject..."
+      "summary": "The restart includes the USDC Genesis Vault and lifts its remaining loan-management restrictions. Loopscale says a technical post-mortem will follow...."
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
