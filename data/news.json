@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T21:38:47.410Z",
+  "lastUpdated": "2026-11-09T04:30:09.612Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "LNbits Urges All Server Operators to Shut Down After Attacks",
-      "link": "https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks",
-      "pubDate": "2026-11-08T19:47:05.000Z",
+      "title": "SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware",
+      "link": "https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware",
+      "pubDate": "2026-11-09T04:13:40.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours...."
+      "summary": "The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's alert gives no confirmed thefts or victim count...."
     },
     {
-      "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
-      "link": "https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan",
-      "pubDate": "2026-11-08T18:11:27.000Z",
+      "title": "Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated",
+      "link": "https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated",
+      "pubDate": "2026-11-09T02:05:14.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission—not every permission attached to the account...."
+      "summary": "The two tracked accounts show lifetime losses of about $44.8 million after the trader previously reduced exposure from 93,184 ETH...."
     },
     {
-      "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
-      "link": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
-      "pubDate": "2026-11-08T16:33:28.000Z",
+      "title": "Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms",
+      "link": "https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms",
+      "pubDate": "2026-11-09T01:13:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval...."
+      "summary": "The senator warned of alternative measures to secure records, but his current ranking-member position does not give him unilateral subpoena authority...."
     },
     {
-      "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
-      "link": "https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit",
-      "pubDate": "2026-11-08T14:11:17.000Z",
+      "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
+      "link": "https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused",
+      "pubDate": "2026-11-08T23:17:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it—and withdrawals still depend..."
+      "summary": "Aave’s $119.9 million Ethereum Core tBTC reserve remains frozen while Threshold waits for more operators to reconnect...."
     },
     {
-      "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
-      "link": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
-      "pubDate": "2026-11-08T13:07:22.000Z",
+      "title": "AVAX Falls 28% in Four Weeks, Lagging Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/avax-falls-28-in-four-weeks-lagging-bitcoin-and-ether",
+      "pubDate": "2026-11-08T22:41:53.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM...."
+      "summary": "Bitcoin lost 11.3% and ether 16% over the matched window, as AVAX reversed its earlier relative outperformance...."
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
