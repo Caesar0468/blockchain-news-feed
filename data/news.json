@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T01:08:34.214Z",
+  "lastUpdated": "2026-11-10T14:16:18.186Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
-      "pubDate": "2026-11-09T21:30:34.000Z",
+      "title": "Fomo Adds Solana Token Trading Route to X Cashtags",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/fomo-adds-solana-token-trading-route-to-x-cashtags",
+      "pubDate": "2026-11-10T13:41:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026...."
+      "summary": "X's existing 'Trade' workflow sends users to participating partners. Fomo says its crypto wallets are non-custodial...."
     },
     {
-      "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
-      "link": "https://thedefiant.io/news/cefi/mara-sells-13-597-bitcoin-repays-750-million-in-debt",
-      "pubDate": "2026-11-09T21:21:20.000Z",
+      "title": "US CPI Tops Forecasts in October as Bitcoin, Ether Fall",
+      "link": "https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall",
+      "pubDate": "2026-11-10T13:41:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The miner announced a new $500 million stock buyback authorization as two planned data center leases face a possible delay into 2027...."
+      "summary": "A gap in October 2025 data left headline and core CPI without annual readings; ether slipped 1.9% around the release...."
     },
     {
-      "title": "Sigma Prime Releases High-Priority Lighthouse Security Update",
-      "link": "https://thedefiant.io/news/security/sigma-prime-releases-high-priority-lighthouse-security-update",
-      "pubDate": "2026-11-09T20:49:55.000Z",
+      "title": "Telegram Adds In-Message Widgets With TON Payments",
+      "link": "https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments",
+      "pubDate": "2026-11-10T13:20:54.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Vulnerability details will follow once operators have had time to upgrade. The release introduces no breaking changes...."
+      "summary": "Production access is limited to private bot chats, while group use and forwarding remain on Telegram's test server...."
     },
     {
-      "title": "Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing",
-      "link": "https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing",
-      "pubDate": "2026-11-09T20:39:54.000Z",
+      "title": "Compound V2 Users Face Nov. 10 COMP Rewards Deadline",
+      "link": "https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline",
+      "pubDate": "2026-11-10T12:43:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buterin and Bastian Aue are also named as defendants...."
+      "summary": "The legacy Ethereum rewards campaign opened with 40,419 COMP. Unclaimed tokens will return to Compound’s treasury after the cutoff...."
     },
     {
-      "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
-      "pubDate": "2026-11-09T20:24:47.000Z",
+      "title": "Matter Labs Launches Prividium Connect With ZK Fee Plan",
+      "link": "https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan",
+      "pubDate": "2026-11-10T12:41:52.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations...."
+      "summary": "Proposed public deployments would channel interoperability fees into ZK, but activation, integration and fee parameters still need governance approval...."
     },
     {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "pubDate": "2026-11-09T17:51:21.000Z",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "pubDate": "2026-11-10T12:15:31.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security c..."
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login c..."
     },
     {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "pubDate": "2026-11-09T17:36:28.000Z",
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "pubDate": "2026-11-10T11:38:13.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: b..."
+      "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detection..."
     },
     {
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "pubDate": "2026-11-09T14:31:29.000Z",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "pubDate": "2026-11-10T10:16:51.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South A..."
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates al..."
     },
     {
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "pubDate": "2026-11-09T13:28:25.000Z",
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "pubDate": "2026-11-10T10:07:29.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets..."
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's us..."
     },
     {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "pubDate": "2026-11-09T11:27:53.000Z",
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "pubDate": "2026-11-10T10:02:40.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's acco..."
+      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maxi..."
     },
     {
       "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
