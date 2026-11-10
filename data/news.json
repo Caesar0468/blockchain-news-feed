@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T14:16:18.186Z",
+  "lastUpdated": "2026-11-10T22:47:28.948Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,139 @@
   },
   "items": [
     {
-      "title": "Fomo Adds Solana Token Trading Route to X Cashtags",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/fomo-adds-solana-token-trading-route-to-x-cashtags",
-      "pubDate": "2026-11-10T13:41:33.000Z",
+      "title": "LlamaRisk Proposes $1.33B Collateral Exit From Aave Core",
+      "link": "https://thedefiant.io/news/defi/llamarisk-proposes-1-33b-collateral-exit-from-aave-core",
+      "pubDate": "2026-11-10T19:49:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "X's existing 'Trade' workflow sends users to participating partners. Fomo says its crypto wallets are non-custodial...."
+      "summary": "Affected reserves would be frozen first, leaving existing loans open while borrowers switch collateral or migrate to V4...."
     },
     {
-      "title": "US CPI Tops Forecasts in October as Bitcoin, Ether Fall",
-      "link": "https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall",
-      "pubDate": "2026-11-10T13:41:26.000Z",
+      "title": "Across Urges Users to Avoid App Over Domain Issue",
+      "link": "https://thedefiant.io/news/security/across-urges-users-to-avoid-app-over-domain-issue",
+      "pubDate": "2026-11-10T19:27:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A gap in October 2025 data left headline and core CPI without annual readings; ether slipped 1.9% around the release...."
+      "summary": "The bridge's alert does not establish whether its smart contracts or bridging operations are affected...."
     },
     {
-      "title": "Telegram Adds In-Message Widgets With TON Payments",
-      "link": "https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments",
-      "pubDate": "2026-11-10T13:20:54.000Z",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "pubDate": "2026-11-10T19:23:10.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixe..."
+    },
+    {
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "pubDate": "2026-11-10T19:19:39.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday...."
+    },
+    {
+      "title": "Uphold Marks Crypto Withdrawal Disruption Resolved",
+      "link": "https://thedefiant.io/news/cefi/uphold-marks-crypto-withdrawal-disruption-resolved",
+      "pubDate": "2026-11-10T18:38:29.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Production access is limited to private bot chats, while group use and forwarding remain on Telegram's test server...."
+      "summary": "Fiat deposits, withdrawals and trading continued normally while the platform worked around an outage at its transaction-monitoring provider...."
     },
     {
-      "title": "Compound V2 Users Face Nov. 10 COMP Rewards Deadline",
-      "link": "https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline",
-      "pubDate": "2026-11-10T12:43:36.000Z",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "pubDate": "2026-11-10T18:12:21.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The au..."
+    },
+    {
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "pubDate": "2026-11-10T17:43:23.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, gove..."
+    },
+    {
+      "title": "MetaMask Adds Mobile Limit Orders Across Four Chains",
+      "link": "https://thedefiant.io/news/defi/metamask-adds-mobile-limit-orders-across-four-chains",
+      "pubDate": "2026-11-10T17:38:51.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The legacy Ethereum rewards campaign opened with 40,419 COMP. Unclaimed tokens will return to Compound’s treasury after the cutoff...."
+      "summary": "Orders use revocable wallet permissions and a default 3% price tolerance. Reaching the target price does not guarantee a fill...."
     },
     {
-      "title": "Matter Labs Launches Prividium Connect With ZK Fee Plan",
-      "link": "https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan",
-      "pubDate": "2026-11-10T12:41:52.000Z",
+      "title": "Leverage Shares Plans Cash-First Anthropic 3x ETP",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/leverage-shares-plans-cash-first-anthropic-3x-etp",
+      "pubDate": "2026-11-10T17:34:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Proposed public deployments would channel interoperability fees into ZK, but activation, integration and fee parameters still need governance approval...."
+      "summary": "The planned European product would hold interest-bearing assets before Anthropic’s debut, then seek three times the stock’s daily performance...."
     },
     {
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "pubDate": "2026-11-10T12:15:31.000Z",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "pubDate": "2026-11-10T16:00:55.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login c..."
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The..."
     },
     {
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "pubDate": "2026-11-10T11:38:13.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-906: X.Org Server libX11 XkbGetMap Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-906/",
+      "pubDate": "2026-11-10T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detection..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vul..."
     },
     {
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "pubDate": "2026-11-10T10:16:51.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-905: X.Org Server libXrender RenderQueryPictFormats Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-905/",
+      "pubDate": "2026-11-10T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates al..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vul..."
     },
     {
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "pubDate": "2026-11-10T10:07:29.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-904: NVIDIA Megatron-LM Checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-904/",
+      "pubDate": "2026-11-10T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's us..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Megatron-LM. User interaction is required to exploit th..."
     },
     {
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "pubDate": "2026-11-10T10:02:40.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-903: X.Org Server Font Alias Resolution Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-903/",
+      "pubDate": "2026-11-10T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maxi..."
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
+    },
+    {
+      "title": "ZDI-26-902: X.Org Server XkbResizeKeySyms Integer Overflow Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-902/",
+      "pubDate": "2026-11-10T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
     },
     {
       "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
@@ -126,51 +171,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
-    },
-    {
-      "title": "ZDI-26-897: (Pwn2Own) Home Assistant Green aiohttp_client Server-Side Request Forgery Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-897/",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green. Authenticatio..."
-    },
-    {
-      "title": "ZDI-26-896: (Pwn2Own) Home Assistant Green Cleartext Storage of Credentials Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-896/",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Home Assistant Green. An attacker must first obtain the ability to..."
-    },
-    {
-      "title": "ZDI-26-895: LibreOffice dBase File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-895/",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vuln..."
-    },
-    {
-      "title": "ZDI-26-894: Docker Sandboxes Inclusion of Functionality from Untrusted Control Sphere Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-894/",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to execute arbitrary code on affected installations of Docker Sandboxes. User interaction is required to exploit this..."
-    },
-    {
-      "title": "ZDI-26-893: Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-893/",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trimble SketchUp. User interaction is required to exploit this..."
     },
     {
       "title": "EIP-8037/EIP-8038 Glamsterdam",
