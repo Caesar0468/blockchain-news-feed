@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T15:04:07.601Z",
+  "lastUpdated": "2026-11-10T01:08:34.214Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,76 @@
   },
   "items": [
     {
-      "title": "Cosmos Contributes IBC to Linux Foundation Decentralized Trust",
-      "link": "https://thedefiant.io/news/infrastructure/cosmos-contributes-ibc-to-linux-foundation-decentralized-trust",
-      "pubDate": "2026-11-09T14:49:59.000Z",
+      "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
+      "pubDate": "2026-11-09T21:30:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Cosmos Labs holds five places on the initial seven-person technical committee, alongside maintainers from Datachain and OpenZeppelin...."
+      "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026...."
     },
     {
-      "title": "Kinetiq Launches Elysium Mainnet for Hyperliquid",
-      "link": "https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid",
-      "pubDate": "2026-11-09T14:48:55.000Z",
+      "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+      "link": "https://thedefiant.io/news/cefi/mara-sells-13-597-bitcoin-repays-750-million-in-debt",
+      "pubDate": "2026-11-09T21:21:20.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Pump.fun and Fomo say Elysium trading is live, while native HyperCore data reads and fast order submissions await a later upgrade...."
+      "summary": "The miner announced a new $500 million stock buyback authorization as two planned data center leases face a possible delay into 2027...."
     },
     {
-      "title": "Base’s Retired Flashblocks Feeds Accept Connections but Send No Data",
-      "link": "https://thedefiant.io/news/blockchains/base-s-retired-flashblocks-feeds-accept-connections-but-send-no-data",
-      "pubDate": "2026-11-09T14:46:27.000Z",
+      "title": "Sigma Prime Releases High-Priority Lighthouse Security Update",
+      "link": "https://thedefiant.io/news/security/sigma-prime-releases-high-priority-lighthouse-security-update",
+      "pubDate": "2026-11-09T20:49:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Denim replaced block previews with complete blocks every 200 milliseconds, requiring developers to change subscriptions and review pending-state reads...."
+      "summary": "Vulnerability details will follow once operators have had time to upgrade. The release introduces no breaking changes...."
     },
     {
-      "title": "Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours",
-      "link": "https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours",
-      "pubDate": "2026-11-09T14:26:31.000Z",
+      "title": "Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing",
+      "link": "https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing",
+      "pubDate": "2026-11-09T20:39:54.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Gram explorer’s creation count includes wallets without onchain transactions, a different measure from active wallets...."
+      "summary": "Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buterin and Bastian Aue are also named as defendants...."
     },
     {
-      "title": "NYSE Picks Avalanche for Tokenized Stock Settlement",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement",
-      "pubDate": "2026-11-09T14:25:28.000Z",
+      "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
+      "pubDate": "2026-11-09T20:24:47.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The planned venue would retain NYSE’s Pillar matching engine while offering instant settlement and stablecoin funding, subject to regulatory approval...."
+      "summary": "Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations...."
+    },
+    {
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "pubDate": "2026-11-09T17:51:21.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security c..."
+    },
+    {
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "pubDate": "2026-11-09T17:36:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: b..."
+    },
+    {
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "pubDate": "2026-11-09T14:31:29.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South A..."
     },
     {
       "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
@@ -81,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's acco..."
-    },
-    {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "pubDate": "2026-11-09T10:56:25.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to r..."
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "pubDate": "2026-11-09T10:01:21.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said..."
-    },
-    {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "pubDate": "2026-11-09T09:01:50.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last wee..."
     },
     {
       "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
