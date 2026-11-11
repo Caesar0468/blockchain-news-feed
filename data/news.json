@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T04:34:16.812Z",
+  "lastUpdated": "2026-11-11T13:29:47.932Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "LlamaRisk Proposes $1.33B Collateral Exit From Aave Core",
-      "link": "https://thedefiant.io/news/defi/llamarisk-proposes-1-33b-collateral-exit-from-aave-core",
-      "pubDate": "2026-11-10T19:49:16.000Z",
+      "title": "OKXICE Sets Nov. 23 Stock-Token Launch After Objections",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-sets-nov-23-stock-token-launch-after-objections",
+      "pubDate": "2026-11-11T13:11:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Affected reserves would be frozen first, leaving existing loans open while borrowers switch collateral or migrate to V4...."
+      "summary": "The venture expects more than 70 assets, including 59 Direxion ETFs, but issuer objections still constrain shares tokenized by unaffiliated third parties...."
     },
     {
-      "title": "Across Urges Users to Avoid App Over Domain Issue",
-      "link": "https://thedefiant.io/news/security/across-urges-users-to-avoid-app-over-domain-issue",
-      "pubDate": "2026-11-10T19:27:46.000Z",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "pubDate": "2026-11-11T12:19:40.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They inc..."
+    },
+    {
+      "title": "IBM Targets 520 Qubits With Next Nighthawk Processor",
+      "link": "https://thedefiant.io/frontier/technology/ibm-targets-520-qubits-with-next-nighthawk-processor",
+      "pubDate": "2026-11-11T12:11:37.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The bridge's alert does not establish whether its smart contracts or bridging operations are affected...."
+      "summary": "IBM plans to link two r3 chips in 2027. Developers can use new managed quantum-classical workflows now, but the processor remains a design target...."
     },
     {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "pubDate": "2026-11-10T19:23:10.000Z",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "pubDate": "2026-11-11T12:01:59.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixe..."
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separat..."
     },
     {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "pubDate": "2026-11-10T19:19:39.000Z",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "pubDate": "2026-11-11T12:00:53.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday...."
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even thoug..."
     },
     {
-      "title": "Uphold Marks Crypto Withdrawal Disruption Resolved",
-      "link": "https://thedefiant.io/news/cefi/uphold-marks-crypto-withdrawal-disruption-resolved",
-      "pubDate": "2026-11-10T18:38:29.000Z",
+      "title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
+      "link": "https://thedefiant.io/news/security/ios-27-2-1-leaves-sandbox-flaw-open-researcher-says",
+      "pubDate": "2026-11-11T11:27:15.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Fiat deposits, withdrawals and trading continued normally while the platform worked around an outage at its transaction-monitoring provider...."
+      "summary": "The worse_query escape could expose wallet data stored in plaintext, SlowMist warned. Trust Wallet and Zerion said their iOS users are not affected...."
     },
     {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "pubDate": "2026-11-10T18:12:21.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The au..."
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "pubDate": "2026-11-10T17:43:23.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, gove..."
-    },
-    {
-      "title": "MetaMask Adds Mobile Limit Orders Across Four Chains",
-      "link": "https://thedefiant.io/news/defi/metamask-adds-mobile-limit-orders-across-four-chains",
-      "pubDate": "2026-11-10T17:38:51.000Z",
+      "title": "Anthropic’s $1.4 Trillion IPO Target May Rise: Report",
+      "link": "https://thedefiant.io/frontier/ai/anthropic-s-1-4-trillion-ipo-target-may-rise-report",
+      "pubDate": "2026-11-11T10:38:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Orders use revocable wallet permissions and a default 3% price tolerance. Reaching the target price does not guarantee a fill...."
+      "summary": "The Nov. 10 share-price range implied a valuation of about $1.4 trillion. Bloomberg subsequently reported, citing the Financial Times, that bankers were weighin..."
     },
     {
-      "title": "Leverage Shares Plans Cash-First Anthropic 3x ETP",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/leverage-shares-plans-cash-first-anthropic-3x-etp",
-      "pubDate": "2026-11-10T17:34:45.000Z",
+      "title": "xStocks Adds 200-Plus UK and EU Stock Tokens With GTN",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/xstocks-adds-200-plus-uk-and-eu-stock-tokens-with-gtn",
+      "pubDate": "2026-11-11T08:53:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The planned European product would hold interest-bearing assets before Anthropic’s debut, then seek three times the stock’s daily performance...."
+      "summary": "The rollout includes LVMH, Rolls-Royce and SAP, but does not open xStocks to UK investors. GTN handles execution and custody of the underlying assets...."
     },
     {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "pubDate": "2026-11-10T16:00:55.000Z",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "pubDate": "2026-11-11T08:17:53.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The..."
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume..."
+    },
+    {
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "pubDate": "2026-11-11T07:49:04.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platfo..."
     },
     {
       "title": "ZDI-26-906: X.Org Server libX11 XkbGetMap Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability",
