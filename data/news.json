@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:29:47.932Z",
+  "lastUpdated": "2026-11-11T23:59:42.599Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,94 @@
   },
   "items": [
     {
-      "title": "OKXICE Sets Nov. 23 Stock-Token Launch After Objections",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-sets-nov-23-stock-token-launch-after-objections",
-      "pubDate": "2026-11-11T13:11:34.000Z",
+      "title": "Zcash Falls Below $965 as Weekly Loss Reaches 26%",
+      "link": "https://thedefiant.io/news/markets/zcash-falls-below-965-as-weekly-loss-reaches-26",
+      "pubDate": "2026-11-11T23:39:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The venture expects more than 70 assets, including 59 Direxion ETFs, but issuer objections still constrain shares tokenized by unaffiliated third parties...."
+      "summary": "ZEC's seven-day decline was roughly three times bitcoin's. The token traded about 43% below a late-September price above $1,680...."
+    },
+    {
+      "title": "Nvidia Board to Discuss Huang's Future, FT Reports",
+      "link": "https://thedefiant.io/frontier/ai/nvidia-board-to-discuss-huang-s-future-ft-reports",
+      "pubDate": "2026-11-11T23:31:31.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The reported leadership talks follow the board's public backing of Huang on Nov. 8. Trump said Nov. 9 that the FBI was looking into the situation, separately fr..."
+    },
+    {
+      "title": "Katana Plans Revenue-Funded Buybacks for KAT Stakers",
+      "link": "https://thedefiant.io/news/tokens/katana-plans-revenue-funded-buybacks-for-kat-stakers",
+      "pubDate": "2026-11-11T22:56:07.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The Layer 2 will retire emissions voting and shorten its unstaking cooldown on Nov. 17. Buybacks will begin separately, with full onchain automation to follow...."
+    },
+    {
+      "title": "Nvidia Falls After Report of Huang Affair With Executive",
+      "link": "https://thedefiant.io/frontier/ai/nvidia-falls-after-report-of-huang-affair-with-executive",
+      "pubDate": "2026-11-11T22:45:14.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The New York Times reported a relationship with health-care VP Kimberly Powell, who reports to Huang, raising a separate workplace-governance question while a b..."
+    },
+    {
+      "title": "Trump Backed Nvidia Diversion Crackdown, Axios Reports",
+      "link": "https://thedefiant.io/frontier/ai/trump-backed-nvidia-diversion-crackdown-axios-reports",
+      "pubDate": "2026-11-11T21:16:28.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Commerce denied a reported confrontation between Bessent and Lutnick. An independent records check found no published export-control notice naming Megaspeed...."
+    },
+    {
+      "title": "What Counts as a Whitehat",
+      "link": "https://immunefi.com/blog/expert-insights/what-counts-as-a-whitehat/",
+      "pubDate": "2026-11-11T16:25:16.000Z",
+      "source": "Immunefi",
+      "category": "Web3 Bug Bounty",
+      "type": "blockchain",
+      "summary": "The $320M Liquid Network exploit is a reminder of what makes a whitehat: rescue terms set ahead of an exploit, by the project...."
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "pubDate": "2026-11-11T16:12:46.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege e..."
+    },
+    {
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "pubDate": "2026-11-11T15:34:27.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal A..."
+    },
+    {
+      "title": "Blind trust: stealing credentials through CSP",
+      "link": "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp",
+      "pubDate": "2026-11-11T14:26:01.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "Content Security Policy is supposed to be the safety net that stops an HTML injection from turning into XSS. Usually it works. But sometimes it doesn't, because..."
+    },
+    {
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "pubDate": "2026-11-11T14:01:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in Octob..."
     },
     {
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
@@ -38,15 +119,6 @@
       "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They inc..."
     },
     {
-      "title": "IBM Targets 520 Qubits With Next Nighthawk Processor",
-      "link": "https://thedefiant.io/frontier/technology/ibm-targets-520-qubits-with-next-nighthawk-processor",
-      "pubDate": "2026-11-11T12:11:37.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "IBM plans to link two r3 chips in 2027. Developers can use new managed quantum-classical workflows now, but the processor remains a design target...."
-    },
-    {
       "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
       "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
       "pubDate": "2026-11-11T12:01:59.000Z",
@@ -56,103 +128,49 @@
       "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separat..."
     },
     {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "pubDate": "2026-11-11T12:00:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even thoug..."
-    },
-    {
-      "title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
-      "link": "https://thedefiant.io/news/security/ios-27-2-1-leaves-sandbox-flaw-open-researcher-says",
-      "pubDate": "2026-11-11T11:27:15.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The worse_query escape could expose wallet data stored in plaintext, SlowMist warned. Trust Wallet and Zerion said their iOS users are not affected...."
-    },
-    {
-      "title": "Anthropic’s $1.4 Trillion IPO Target May Rise: Report",
-      "link": "https://thedefiant.io/frontier/ai/anthropic-s-1-4-trillion-ipo-target-may-rise-report",
-      "pubDate": "2026-11-11T10:38:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Nov. 10 share-price range implied a valuation of about $1.4 trillion. Bloomberg subsequently reported, citing the Financial Times, that bankers were weighin..."
-    },
-    {
-      "title": "xStocks Adds 200-Plus UK and EU Stock Tokens With GTN",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/xstocks-adds-200-plus-uk-and-eu-stock-tokens-with-gtn",
-      "pubDate": "2026-11-11T08:53:06.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The rollout includes LVMH, Rolls-Royce and SAP, but does not open xStocks to UK investors. GTN handles execution and custody of the underlying assets...."
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "pubDate": "2026-11-11T08:17:53.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume..."
-    },
-    {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "pubDate": "2026-11-11T07:49:04.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platfo..."
-    },
-    {
-      "title": "ZDI-26-906: X.Org Server libX11 XkbGetMap Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-906/",
-      "pubDate": "2026-11-10T06:00:00.000Z",
+      "title": "ZDI-26-953: (0Day) Meta FAIRChem utils load_inference_model Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-953/",
+      "pubDate": "2026-11-11T06:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vul..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-905: X.Org Server libXrender RenderQueryPictFormats Reply Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-905/",
-      "pubDate": "2026-11-10T06:00:00.000Z",
+      "title": "ZDI-26-952: (0Day) Meta FAIRChem _cli  YAML File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-952/",
+      "pubDate": "2026-11-11T06:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of X.Org Server. User interaction is required to exploit this vul..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-904: NVIDIA Megatron-LM Checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-904/",
-      "pubDate": "2026-11-10T06:00:00.000Z",
+      "title": "ZDI-26-951: (0Day) Meta FAIRChem utils load_tasks Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-951/",
+      "pubDate": "2026-11-11T06:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Megatron-LM. User interaction is required to exploit th..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-903: X.Org Server Font Alias Resolution Heap-based Buffer Overflow Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-903/",
-      "pubDate": "2026-11-10T06:00:00.000Z",
+      "title": "ZDI-26-950: (0Day) Meta FAIRChem migrate_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-950/",
+      "pubDate": "2026-11-11T06:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
-      "title": "ZDI-26-902: X.Org Server XkbResizeKeySyms Integer Overflow Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-902/",
-      "pubDate": "2026-11-10T06:00:00.000Z",
+      "title": "ZDI-26-949: (0Day) Meta FAIRChem utils load_model_and_weights_from_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-949/",
+      "pubDate": "2026-11-11T06:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vu..."
     },
     {
       "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
@@ -225,24 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Stable Linux releases lack existing security fixes because backporting them is time-consuming and often thankless work. We’re using Codex to reduce the backport..."
-    },
-    {
-      "title": "Scalable Vector Grief",
-      "link": "https://portswigger.net/research/scalable-vector-grief",
-      "pubDate": "2026-10-27T14:29:26.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the re..."
-    },
-    {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "pubDate": "2026-10-27T07:00:00.000Z",
-      "source": "Project Zero",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a ge..."
     }
   ]
 }
