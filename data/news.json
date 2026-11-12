@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T23:59:42.599Z",
+  "lastUpdated": "2026-11-12T06:58:12.269Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,33 @@
     ]
   },
   "items": [
+    {
+      "title": "Zcash Plan Would Pull 50,000 ZEC From Grants Treasury",
+      "link": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
+      "pubDate": "2026-11-12T06:03:55.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve...."
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "pubDate": "2026-11-12T05:12:26.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versi..."
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "pubDate": "2026-11-12T04:39:48.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an a..."
+    },
     {
       "title": "Zcash Falls Below $965 as Weekly Loss Reaches 26%",
       "link": "https://thedefiant.io/news/markets/zcash-falls-below-965-as-weekly-loss-reaches-26",
@@ -54,15 +81,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The New York Times reported a relationship with health-care VP Kimberly Powell, who reports to Huang, raising a separate workplace-governance question while a b..."
-    },
-    {
-      "title": "Trump Backed Nvidia Diversion Crackdown, Axios Reports",
-      "link": "https://thedefiant.io/frontier/ai/trump-backed-nvidia-diversion-crackdown-axios-reports",
-      "pubDate": "2026-11-11T21:16:28.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Commerce denied a reported confrontation between Bessent and Lutnick. An independent records check found no published export-control notice naming Megaspeed...."
     },
     {
       "title": "What Counts as a Whitehat",
@@ -108,24 +126,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in Octob..."
-    },
-    {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "pubDate": "2026-11-11T12:19:40.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They inc..."
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "pubDate": "2026-11-11T12:01:59.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separat..."
     },
     {
       "title": "ZDI-26-953: (0Day) Meta FAIRChem utils load_inference_model Deserialization of Untrusted Data Remote Code Execution Vulnerability",
