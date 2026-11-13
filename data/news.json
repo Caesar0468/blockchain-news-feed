@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T19:30:01.711Z",
+  "lastUpdated": "2026-11-13T04:55:30.173Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,42 @@
   },
   "items": [
     {
+      "title": "Bitcoin Sinks to $70,600 as Four-Week Losses Deepen",
+      "link": "https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen",
+      "pubDate": "2026-11-13T00:57:09.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Coinbase recorded a fresh 28-day low Thursday evening, while ether continued to underperform bitcoin over matched one- and four-week windows...."
+    },
+    {
+      "title": "Democrats Probe Trump’s Nvidia China Chip Export Deal",
+      "link": "https://thedefiant.io/frontier/ai/democrats-probe-trump-s-nvidia-china-chip-export-deal",
+      "pubDate": "2026-11-12T22:59:53.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Wyden and Neal ask Commerce Secretary Howard Lutnick to preserve export and tariff records, opening a separate inquiry into the administration’s decisions...."
+    },
+    {
+      "title": "DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme",
+      "link": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+      "pubDate": "2026-11-12T22:18:50.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Officials attribute more than $400 million in losses over 18 months to FaceStealer, which uses recordings and deepfakes to impersonate trusted contacts...."
+    },
+    {
+      "title": "Foster Says Nvidia Privately Deemed Chip Tracking Feasible",
+      "link": "https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible",
+      "pubDate": "2026-11-12T20:38:31.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The lawmaker's account contrasts with a semiconductor trade group's warning about mandatory safeguards on advanced AI chips...."
+    },
+    {
       "title": "Binance Says Hack Assets Covered, Reserve Proof Pending",
       "link": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
       "pubDate": "2026-11-12T18:41:56.000Z",
@@ -27,24 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The exchange says it has closed the remaining gap in customer backing, but users must wait for the new snapshot's cryptographic proof to verify it...."
-    },
-    {
-      "title": "Sky Advisor Proposes Halting New Core Vault Borrowing",
-      "link": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
-      "pubDate": "2026-11-12T18:30:26.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "BA Labs reports 771 open vaults and 376.33 million USDS in debt. Borrowers could still repay and manage collateral, but not mint more...."
-    },
-    {
-      "title": "NYDFS Sets May 2027 Deadline for Crypto Ad Policies",
-      "link": "https://thedefiant.io/news/regulation/nydfs-sets-may-2027-deadline-for-crypto-ad-policies",
-      "pubDate": "2026-11-12T18:09:17.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "BitLicense holders and crypto trust companies must prepare annually approved marketing policies covering risk disclosures, paid promoters and misleading claims...."
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -99,24 +117,6 @@
       "category": "Web3 Bug Bounty",
       "type": "blockchain",
       "summary": "Solana protocols were hacked for at least $347M this year, the most of any single chain. Half of those affected had been live for over a year, and the pattern r..."
-    },
-    {
-      "title": "Bitcoin Breaks Below $72,000 as Multiweek Slide Deepens",
-      "link": "https://thedefiant.io/news/markets/bitcoin-breaks-below-72-000-as-multiweek-slide-deepens",
-      "pubDate": "2026-11-12T14:53:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Coinbase recorded a $71,500 low, while Coinalyze's tracked derivatives markets showed $368 million in 24-hour liquidations, mostly bullish bets...."
-    },
-    {
-      "title": "Securitize, Ethena Open BUIDL Facility With $100M Capacity",
-      "link": "https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity",
-      "pubDate": "2026-11-12T14:39:06.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The facility starts with $25 million each in USDC and BUIDL. Additional funding is conditional, rather than a continuously available $100 million cash pool...."
     },
     {
       "title": "What Counts as a Whitehat",
