@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T04:49:00.360Z",
+  "lastUpdated": "2026-11-14T12:55:39.627Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,58 @@
   },
   "items": [
     {
-      "title": "Ether Falls Below $1,900 as Losses Outpace Bitcoin",
-      "link": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
-      "pubDate": "2026-11-14T03:44:29.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete...."
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "pubDate": "2026-11-14T12:38:35.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Rel..."
     },
     {
-      "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
-      "link": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
-      "pubDate": "2026-11-14T02:51:35.000Z",
+      "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
+      "link": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
+      "pubDate": "2026-11-14T09:31:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours...."
+      "summary": "Onchain records show swaps were disabled before SlowMist's public warning. The cited drain affected four addresses...."
     },
     {
-      "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether",
-      "pubDate": "2026-11-14T02:39:42.000Z",
+      "title": "Singapore Files 41 Charges in Nvidia-Linked Server Case",
+      "link": "https://thedefiant.io/frontier/ai/singapore-files-41-charges-in-nvidia-linked-server-case",
+      "pubDate": "2026-11-14T08:40:19.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion...."
+      "summary": "Shi Bingzhe and two companies face money-laundering allegations over purchases of 917 servers, expanding a probe involving shipments to Malaysia...."
     },
     {
-      "title": "GHO's 61% Supply Drop Reflects an Accounting Change",
-      "link": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
-      "pubDate": "2026-11-14T00:26:16.000Z",
+      "title": "Cursor Links Extension Attack to Exposed Credentials",
+      "link": "https://thedefiant.io/frontier/security/cursor-links-extension-attack-to-exposed-credentials",
+      "pubDate": "2026-11-14T08:24:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued...."
+      "summary": "Up to 5,000 users potentially received a tampered Claude Code extension. Cursor is urging affected teams to check machines and rotate exposed credentials...."
     },
     {
-      "title": "Nvidia Approached Arm CEO Haas in Search, FT Reports",
-      "link": "https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports",
-      "pubDate": "2026-11-13T22:30:52.000Z",
+      "title": "1inch Warns Delegators to Claim Rewards by Nov. 27",
+      "link": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
+      "pubDate": "2026-11-14T08:23:49.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The board says it has not formally engaged any candidates, while some employees are calling for Jensen Huang’s return ahead of Nov. 17 earnings...."
+      "summary": "New resolver delegations are closed. Existing delegators should claim rewards and undelegate before the deadline; plain 1INCH staking is unaffected...."
+    },
+    {
+      "title": "Musk Backs Petition to Bring Jensen Huang Back to Nvidia",
+      "link": "https://thedefiant.io/frontier/ai/musk-backs-petition-to-bring-jensen-huang-back-to-nvidia",
+      "pubDate": "2026-11-14T08:20:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "An independent open letter seeks Huang's reinstatement, but its signature tally is not identity-verified and the board has announced no reversal...."
     },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware walle..."
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "pubDate": "2026-11-13T11:52:31.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unf..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
