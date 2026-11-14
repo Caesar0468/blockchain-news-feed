@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T23:12:02.114Z",
+  "lastUpdated": "2026-11-14T04:49:00.360Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,42 @@
   },
   "items": [
     {
+      "title": "Ether Falls Below $1,900 as Losses Outpace Bitcoin",
+      "link": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
+      "pubDate": "2026-11-14T03:44:29.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete...."
+    },
+    {
+      "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
+      "link": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
+      "pubDate": "2026-11-14T02:51:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours...."
+    },
+    {
+      "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether",
+      "pubDate": "2026-11-14T02:39:42.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion...."
+    },
+    {
+      "title": "GHO's 61% Supply Drop Reflects an Accounting Change",
+      "link": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
+      "pubDate": "2026-11-14T00:26:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued...."
+    },
+    {
       "title": "Nvidia Approached Arm CEO Haas in Search, FT Reports",
       "link": "https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports",
       "pubDate": "2026-11-13T22:30:52.000Z",
@@ -27,42 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The board says it has not formally engaged any candidates, while some employees are calling for Jensen Huang’s return ahead of Nov. 17 earnings...."
-    },
-    {
-      "title": "AMD Sinks 9% as Chip Rally Falters After Huang Exit",
-      "link": "https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit",
-      "pubDate": "2026-11-13T21:13:45.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Broadcom and Marvell also fell more than Nvidia on Friday, but all three held onto double-digit weekly gains...."
-    },
-    {
-      "title": "Coinbase Wins Final OCC Clearance for US Trust Company",
-      "link": "https://thedefiant.io/converge/cefi/coinbase-wins-final-occ-clearance-for-us-trust-company",
-      "pubDate": "2026-11-13T21:11:54.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The charter brings a federal framework to Coinbase’s custody business, following conditional approval in April. It does not make the exchange a commercial bank...."
-    },
-    {
-      "title": "Maple CEO Defends Institutional Push Amid Departures",
-      "link": "https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures",
-      "pubDate": "2026-11-13T19:45:48.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Sidney Powell said the leadership departures concern Maple’s direction, not its loan book, and outlined plans to expand institutional credit and fintech distrib..."
-    },
-    {
-      "title": "MEGA Discloses 20% Staff Cut Amid AI Product Push",
-      "link": "https://thedefiant.io/news/infrastructure/mega-discloses-20-staff-cut-amid-ai-product-push",
-      "pubDate": "2026-11-13T19:39:44.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Departing staff worked on the chain, wallet and ecosystem. The disclosure comes three days after a $30 million product pledge...."
     },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
