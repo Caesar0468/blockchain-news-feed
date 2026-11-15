@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T13:23:53.977Z",
+  "lastUpdated": "2026-11-15T22:26:49.521Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,31 +20,49 @@
   },
   "items": [
     {
-      "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
-      "link": "https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video",
-      "pubDate": "2026-11-15T13:18:26.000Z",
+      "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
+      "link": "https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says",
+      "pubDate": "2026-11-15T21:23:54.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The presidency described a stadium search role. A weapons researcher tentatively identified Unitree Go2 robots fitted with Israeli-made rifles; combat use remai..."
+      "summary": "Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia’s board was still organizing its search for Jensen Huang’s successor...."
     },
     {
-      "title": "US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions",
-      "link": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions",
-      "pubDate": "2026-11-15T12:28:10.000Z",
+      "title": "Megaspeed Opens Review, Says Alice Huang Left in 2025",
+      "link": "https://thedefiant.io/frontier/technology/megaspeed-opens-review-says-alice-huang-left-in-2025",
+      "pubDate": "2026-11-15T21:23:01.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "BlackRock’s IBIT accounted for about $1.42 billion of the withdrawals as Binance Research pointed to tighter financial conditions and AI-financing concerns...."
+      "summary": "Outside lawyers will examine reports about the Nvidia cloud partner's business and supply chain. Singapore's separate server-shipment inquiry remains open...."
     },
     {
-      "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
-      "link": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low",
-      "pubDate": "2026-11-15T12:16:44.000Z",
+      "title": "Solflare Launches Private Mode for Solana Payments",
+      "link": "https://thedefiant.io/news/defi/solflare-launches-private-mode-for-solana-payments",
+      "pubDate": "2026-11-15T21:19:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ETFs recorded seven straight sessions of net outflows...."
+      "summary": "The Helius-powered feature hides assets and amounts, not wallet addresses. Swaps and staking still require public balances...."
+    },
+    {
+      "title": "Vulcan Fails to Deliver 40 Amazon Satellites to Orbit",
+      "link": "https://thedefiant.io/frontier/technology/vulcan-fails-to-deliver-40-amazon-satellites-to-orbit",
+      "pubDate": "2026-11-15T21:18:56.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Amazon had planned a second Vulcan mission within weeks of a successful debut. ULA now faces an investigation and has given no return-to-flight date...."
+    },
+    {
+      "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
+      "link": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
+      "pubDate": "2026-11-15T20:17:54.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The reported comeback discussions have not changed Nvidia’s announced leadership plan: Colette Kress remains interim CEO ahead of Nov. 17 earnings...."
     },
     {
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
@@ -63,24 +81,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in..."
-    },
-    {
-      "title": "Lido Lend Plan Would Block Repayments, Not Interest",
-      "link": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
-      "pubDate": "2026-11-15T08:19:55.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry...."
-    },
-    {
-      "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
-      "link": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
-      "pubDate": "2026-11-15T07:21:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report...."
     },
     {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
