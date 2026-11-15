@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T21:56:33.319Z",
+  "lastUpdated": "2026-11-15T04:40:34.060Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,13 +20,49 @@
   },
   "items": [
     {
-      "title": "Who Sells Shares When a Stock Leaves a Market Index?",
-      "link": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
-      "pubDate": "2026-11-14T18:14:23.000Z",
+      "title": "Aave Executive Reports $39 Million in Liquidations",
+      "link": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
+      "pubDate": "2026-11-15T03:09:50.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "An index change can prompt tracking funds to sell shares. That is different from exchange delisting—or a bitcoin-holding company selling its coins...."
+      "summary": "Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so far the next...."
+    },
+    {
+      "title": "XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024",
+      "link": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
+      "pubDate": "2026-11-15T03:03:49.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Coinbase recorded the low Saturday evening. XRP's seven-day and four-week losses exceeded bitcoin's and ether's over matching windows...."
+    },
+    {
+      "title": "Forward Industries Denies $123 Million SOL Transfer",
+      "link": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
+      "pubDate": "2026-11-15T02:45:46.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Trackers linked 1.78 million SOL in stake withdrawals to the treasury company. The chain confirms the movements, but ownership remains disputed...."
+    },
+    {
+      "title": "Crypto Sheds $571 Billion in Ten Days as Losses Deepen",
+      "link": "https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen",
+      "pubDate": "2026-11-15T02:21:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitcoin and ether rebounded after another sharp drop, but matched 24-hour windows show the selloff accelerated from the Nov. 12 break below $72,000...."
+    },
+    {
+      "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
+      "link": "https://thedefiant.io/frontier/infrastructure/faa-links-ground-stop-to-router-during-fiber-upgrade",
+      "pubDate": "2026-11-15T01:26:31.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Officials said a router flooded the air-traffic network during maintenance, but had not determined whether faulty hardware or an installation error was responsi..."
     },
     {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -36,42 +72,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Rel..."
-    },
-    {
-      "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
-      "link": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
-      "pubDate": "2026-11-14T09:31:12.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Onchain records show swaps were disabled before SlowMist's public warning. The cited drain affected four addresses...."
-    },
-    {
-      "title": "Singapore Files 41 Charges in Nvidia-Linked Server Case",
-      "link": "https://thedefiant.io/frontier/ai/singapore-files-41-charges-in-nvidia-linked-server-case",
-      "pubDate": "2026-11-14T08:40:19.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Shi Bingzhe and two companies face money-laundering allegations over purchases of 917 servers, expanding a probe involving shipments to Malaysia...."
-    },
-    {
-      "title": "Cursor Links Extension Attack to Exposed Credentials",
-      "link": "https://thedefiant.io/frontier/security/cursor-links-extension-attack-to-exposed-credentials",
-      "pubDate": "2026-11-14T08:24:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Up to 5,000 users potentially received a tampered Claude Code extension. Cursor is urging affected teams to check machines and rotate exposed credentials...."
-    },
-    {
-      "title": "1inch Warns Delegators to Claim Rewards by Nov. 27",
-      "link": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
-      "pubDate": "2026-11-14T08:23:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "New resolver delegations are closed. Existing delegators should claim rewards and undelegate before the deadline; plain 1INCH staking is unaffected...."
     },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
