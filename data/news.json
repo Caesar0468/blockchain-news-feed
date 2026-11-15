@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T04:40:34.060Z",
+  "lastUpdated": "2026-11-15T13:23:53.977Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,67 @@
   },
   "items": [
     {
-      "title": "Aave Executive Reports $39 Million in Liquidations",
-      "link": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
-      "pubDate": "2026-11-15T03:09:50.000Z",
+      "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
+      "link": "https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video",
+      "pubDate": "2026-11-15T13:18:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so far the next...."
+      "summary": "The presidency described a stadium search role. A weapons researcher tentatively identified Unitree Go2 robots fitted with Israeli-made rifles; combat use remai..."
     },
     {
-      "title": "XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024",
-      "link": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
-      "pubDate": "2026-11-15T03:03:49.000Z",
+      "title": "US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions",
+      "link": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions",
+      "pubDate": "2026-11-15T12:28:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Coinbase recorded the low Saturday evening. XRP's seven-day and four-week losses exceeded bitcoin's and ether's over matching windows...."
+      "summary": "BlackRock’s IBIT accounted for about $1.42 billion of the withdrawals as Binance Research pointed to tighter financial conditions and AI-financing concerns...."
     },
     {
-      "title": "Forward Industries Denies $123 Million SOL Transfer",
-      "link": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
-      "pubDate": "2026-11-15T02:45:46.000Z",
+      "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
+      "link": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low",
+      "pubDate": "2026-11-15T12:16:44.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Trackers linked 1.78 million SOL in stake withdrawals to the treasury company. The chain confirms the movements, but ownership remains disputed...."
+      "summary": "The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ETFs recorded seven straight sessions of net outflows...."
     },
     {
-      "title": "Crypto Sheds $571 Billion in Ten Days as Losses Deepen",
-      "link": "https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen",
-      "pubDate": "2026-11-15T02:21:35.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Bitcoin and ether rebounded after another sharp drop, but matched 24-hour windows show the selloff accelerated from the Nov. 12 break below $72,000...."
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "pubDate": "2026-11-15T11:27:31.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post...."
     },
     {
-      "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
-      "link": "https://thedefiant.io/frontier/infrastructure/faa-links-ground-stop-to-router-during-fiber-upgrade",
-      "pubDate": "2026-11-15T01:26:31.000Z",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "pubDate": "2026-11-15T08:22:04.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in..."
+    },
+    {
+      "title": "Lido Lend Plan Would Block Repayments, Not Interest",
+      "link": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
+      "pubDate": "2026-11-15T08:19:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Officials said a router flooded the air-traffic network during maintenance, but had not determined whether faulty hardware or an installation error was responsi..."
+      "summary": "A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry...."
+    },
+    {
+      "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
+      "link": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
+      "pubDate": "2026-11-15T07:21:35.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report...."
     },
     {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -90,24 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's..."
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "pubDate": "2026-11-13T14:28:58.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have..."
-    },
-    {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "pubDate": "2026-11-13T13:54:20.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware walle..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
