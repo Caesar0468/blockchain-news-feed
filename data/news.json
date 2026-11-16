@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T04:37:11.372Z",
+  "lastUpdated": "2026-11-16T14:40:22.338Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
-      "link": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
-      "pubDate": "2026-11-16T02:20:35.000Z",
+      "title": "b14g Opens CORE Claims for Revenue-Funded Repayments",
+      "link": "https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments",
+      "pubDate": "2026-11-16T14:30:24.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Singapore input and output list rates fall 25% from Qwen3.8-Max as access expands beyond a subscription-only preview. Smaller open-weight models are still to co..."
+      "summary": "The portal follows a roughly 70% hard-fork recovery. Further repayments depend on staking revenue and additional recoveries; full repayment is not guaranteed...."
     },
     {
-      "title": "OCEAN Payouts Reach Address Flagged in Mining Hijack",
-      "link": "https://thedefiant.io/news/hacks/ocean-payouts-reach-address-flagged-in-mining-hijack",
-      "pubDate": "2026-11-16T02:19:35.000Z",
+      "title": "NYSE Parent ICE Weighs Becoming a Solana Validator",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator",
+      "pubDate": "2026-11-16T14:21:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Two confirmed Bitcoin payouts total about $10,500, while OCEAN's reward system continues to assign the flagged address a share of future blocks...."
+      "summary": "ICE Clear Europe President Hester Serafini said the NYSE ATS is set up for Solana-issued tokens, alongside Avalanche's planned settlement role...."
     },
     {
-      "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
-      "link": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
-      "pubDate": "2026-11-16T01:20:30.000Z",
+      "title": "Shareholder Voting Rights: What US Investors Can Decide",
+      "link": "https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide",
+      "pubDate": "2026-11-16T14:16:29.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The token fell about 32% from its intraday spike on both Aster and Binance. Leonard called the liquidations 'likely malicious' and said the team was investigati..."
+      "summary": "Shareholders elect directors, but do not run the company. Proxies, shareholder proposals and advisory votes give investors different kinds of influence...."
     },
     {
-      "title": "OpenAI Details Astra's Role in Standard Model Lattice Proof",
-      "link": "https://thedefiant.io/frontier/ai/openai-details-astra-s-role-in-standard-model-lattice-proof",
-      "pubDate": "2026-11-15T22:38:42.000Z",
+      "title": "Crypto Margin and Leverage: What Collateral Is at Risk?",
+      "link": "https://thedefiant.io/news/markets/crypto-margin-and-leverage-what-collateral-is-at-risk",
+      "pubDate": "2026-11-16T14:15:25.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Physicist Nathaniel Craig credits the model with key construction and proof steps, while practical simulations and important physical-consistency tests remain o..."
+      "summary": "A small price move can consume much of a leveraged trader's equity. Cross and isolated margin change which collateral backs the position...."
     },
     {
-      "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
-      "link": "https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says",
-      "pubDate": "2026-11-15T21:23:54.000Z",
+      "title": "AMD Closes World Labs Deal, Bringing Model Research In-House",
+      "link": "https://thedefiant.io/frontier/ai/amd-closes-world-labs-deal-bringing-model-research-in-house",
+      "pubDate": "2026-11-16T14:15:16.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia’s board was still organizing its search for Jensen Huang’s successor...."
+      "summary": "The deal was announced at about $8.2 billion in stock. Fei-Fei Li joins as chief scientist as AMD brings spatial-model research closer to its chip and systems t..."
     },
     {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "pubDate": "2026-11-15T11:27:31.000Z",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "pubDate": "2026-11-16T12:34:21.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post...."
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midni..."
     },
     {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "pubDate": "2026-11-15T08:22:04.000Z",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "pubDate": "2026-11-16T12:33:18.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in..."
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On..."
     },
     {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "pubDate": "2026-11-14T12:38:35.000Z",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "pubDate": "2026-11-16T09:32:57.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Rel..."
+      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the..."
     },
     {
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "pubDate": "2026-11-13T16:53:08.000Z",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "pubDate": "2026-11-16T07:34:21.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other s..."
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside..."
     },
     {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "pubDate": "2026-11-13T15:27:05.000Z",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "pubDate": "2026-11-16T06:53:34.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's..."
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
