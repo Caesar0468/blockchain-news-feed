@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T14:40:22.338Z",
+  "lastUpdated": "2026-11-17T01:30:51.579Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,67 @@
   },
   "items": [
     {
-      "title": "b14g Opens CORE Claims for Revenue-Funded Repayments",
-      "link": "https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments",
-      "pubDate": "2026-11-16T14:30:24.000Z",
+      "title": "Huang's Nvidia Return Odds Rebound to 11% on Kalshi",
+      "link": "https://thedefiant.io/frontier/ai/huang-s-nvidia-return-odds-rebound-to-11-on-kalshi",
+      "pubDate": "2026-11-17T01:22:03.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The portal follows a roughly 70% hard-fork recovery. Further repayments depend on staking revenue and additional recoveries; full repayment is not guaranteed...."
+      "summary": "The market recovered from 6% after an anonymously sourced report said Nvidia's board was not considering bringing Huang back...."
     },
     {
-      "title": "NYSE Parent ICE Weighs Becoming a Solana Validator",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator",
-      "pubDate": "2026-11-16T14:21:45.000Z",
+      "title": "Invesco's Stablecoin Reserve Fund Goes Live on Ethereum",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum",
+      "pubDate": "2026-11-17T01:17:01.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "ICE Clear Europe President Hester Serafini said the NYSE ATS is set up for Solana-issued tokens, alongside Avalanche's planned settlement role...."
+      "summary": "Superstate highlighted automated dividend reinvestment as the registered money market fund began issuing tokenized shares to an approved wallet...."
     },
     {
-      "title": "Shareholder Voting Rights: What US Investors Can Decide",
-      "link": "https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide",
-      "pubDate": "2026-11-16T14:16:29.000Z",
+      "title": "CFTC Approves Backpack’s Blockchain Derivatives Venue",
+      "link": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
+      "pubDate": "2026-11-17T00:51:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Shareholders elect directors, but do not run the company. Proxies, shareholder proposals and advisory votes give investors different kinds of influence...."
+      "summary": "Backpack plans leveraged crypto perpetual futures and a unified global order book for US traders. Its American service is still taking waitlist signups...."
     },
     {
-      "title": "Crypto Margin and Leverage: What Collateral Is at Risk?",
-      "link": "https://thedefiant.io/news/markets/crypto-margin-and-leverage-what-collateral-is-at-risk",
-      "pubDate": "2026-11-16T14:15:25.000Z",
+      "title": "Researchers Find Crypto Malware in Optimizely Scripts",
+      "link": "https://thedefiant.io/news/hacks/researchers-find-crypto-malware-in-optimizely-scripts",
+      "pubDate": "2026-11-17T00:25:38.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A small price move can consume much of a leveraged trader's equity. Cross and isolated margin change which collateral backs the position...."
+      "summary": "Report URI identified 188 poisoned scripts tied to 178 organizations, including Ledger and CNN. Scott Helme later said cleanup appeared complete...."
     },
     {
-      "title": "AMD Closes World Labs Deal, Bringing Model Research In-House",
-      "link": "https://thedefiant.io/frontier/ai/amd-closes-world-labs-deal-bringing-model-research-in-house",
-      "pubDate": "2026-11-16T14:15:16.000Z",
+      "title": "OpenAI Says Astra Rated Safe on 99% of Medical Inbox Tasks",
+      "link": "https://thedefiant.io/frontier/ai/openai-says-astra-rated-safe-on-99-of-medical-inbox-tasks",
+      "pubDate": "2026-11-17T00:20:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The deal was announced at about $8.2 billion in stock. Fei-Fei Li joins as chief scientist as AMD brings spatial-model research closer to its chip and systems t..."
+      "summary": "The company reviewed 325 tasks involving health-record software. Discussing tasks not rated safe, an OpenAI official told Fierce Healthcare the model might act..."
+    },
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-a..."
+    },
+    {
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "pubDate": "2026-11-16T13:27:20.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, s..."
     },
     {
       "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
@@ -90,24 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the..."
-    },
-    {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "pubDate": "2026-11-16T07:34:21.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside..."
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "pubDate": "2026-11-16T06:53:34.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
