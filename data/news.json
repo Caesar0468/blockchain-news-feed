@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T00:28:30.062Z",
+  "lastUpdated": "2026-11-18T15:01:56.993Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,112 @@
   },
   "items": [
     {
-      "title": "USD1 Supply Falls 11% in a Week to Below $3 Billion",
-      "link": "https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion",
-      "pubDate": "2026-11-18T00:26:17.000Z",
+      "title": "Achieving the impossible: XSS in innerHTML without equals",
+      "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
+      "pubDate": "2026-11-18T14:39:45.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "Introduction I'm delighted to introduce Masato Kinugawa as a guest web security researcher on the PortSwigger research channel. Masato is a well known web secur..."
+    },
+    {
+      "title": "How to Choose AI Coding Benchmarks That Fit Your Work",
+      "link": "https://thedefiant.io/news/ai/how-to-choose-ai-coding-benchmarks-that-fit-your-work",
+      "pubDate": "2026-11-18T14:18:43.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "World Liberty Financial's stablecoin reached its lowest daily supply reading in a 30-day window, with declines across Solana, Ethereum and BNB Smart Chain...."
+      "summary": "Repository answers, code edits and terminal jobs call for different tests. Here’s how to compare scores, spending and completion time...."
     },
     {
-      "title": "Java4Shell Fixes Arrive After AI-Assisted Discovery",
-      "link": "https://thedefiant.io/frontier/technology/java4shell-fixes-arrive-after-ai-assisted-discovery",
-      "pubDate": "2026-11-18T00:11:53.000Z",
+      "title": "USDC’s Direct Bank Cash Fell $1.88 Billion in Q3",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/usdc-s-direct-bank-cash-fell-1-88-billion-in-q3",
+      "pubDate": "2026-11-18T14:18:18.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The flaw exposes unpatched Java applications on certain x86-64 processors. Calif and Wiz describe AI-assisted exploit development measured in hours...."
+      "summary": "Directly held bank cash fell to $9.50 billion at September-end as total backing edged higher. The snapshots show a changed reserve mix but don’t establish wheth..."
     },
     {
-      "title": "Bank of England Finalizes Clearing-House Test Policy",
-      "link": "https://thedefiant.io/converge/regulation/bank-of-england-finalizes-clearing-house-test-policy",
-      "pubDate": "2026-11-17T21:34:33.000Z",
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "pubDate": "2026-11-18T14:11:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target govern..."
+    },
+    {
+      "title": "How Tokenized Nvidia Traded Through Two Weeks of Huang Headlines",
+      "link": "https://thedefiant.io/news/research-and-opinion/nvidia-tokens-weekend-price-gaps-credora-redstone",
+      "pubDate": "2026-11-18T14:08:01.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Blockchain-based entrants are included in a technology-neutral route for limited live testing. The new rule-waiver policy is expected to take effect in 2027...."
+      "summary": "Seven tokens give their holders a claim on the same Nvidia share. On Sunday 8 November, with every US exchange shut, that share was priced 6.3% apart depending..."
     },
     {
-      "title": "The Graph to Tie Indexer Reward Requirements to Stake",
-      "link": "https://thedefiant.io/news/blockchains/the-graph-to-tie-indexer-reward-requirements-to-stake",
-      "pubDate": "2026-11-17T21:01:35.000Z",
+      "title": "APT Drops 24% in a Week, Erasing Its Autumn Rally",
+      "link": "https://thedefiant.io/news/markets/apt-drops-24-in-a-week-erasing-its-autumn-rally",
+      "pubDate": "2026-11-18T13:24:21.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Step 4 raises the service bar for operators above 40 million GRT, with existing 14-day eligibility periods cushioning the transition...."
+      "summary": "The token is down roughly 47% over 28 days, a steeper loss than bitcoin, ether, SOL or SUI on comparable windows...."
     },
     {
-      "title": "FDIC Proposes Rules for Custodial-Deposit Exemption",
-      "link": "https://thedefiant.io/converge/regulation/fdic-proposes-rules-for-custodial-deposit-exemption",
-      "pubDate": "2026-11-17T20:45:01.000Z",
+      "title": "Bullish Beats Adjusted Revenue Forecast as Spot Volume Falls",
+      "link": "https://thedefiant.io/converge/cefi/bullish-beats-adjusted-revenue-forecast-as-spot-volume-falls",
+      "pubDate": "2026-11-18T12:57:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The proposal details which client funds smaller banks could exclude from brokered deposits, with potential savings on deposit-insurance assessments...."
+      "summary": "Subscription and services led Bullish’s year-over-year adjusted revenue growth, while digital-asset valuation gains drove a $576.3 million net profit...."
     },
     {
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "pubDate": "2026-11-17T19:34:20.000Z",
+      "title": "Immunefi Studio: The All-in-One Research Suite for the AI era",
+      "link": "https://immunefi.com/blog/company-announcement/immunefi-studio-the-all-in-one-research-suite-for-the-ai-era/",
+      "pubDate": "2026-11-18T12:55:16.000Z",
+      "source": "Immunefi",
+      "category": "Web3 Bug Bounty",
+      "type": "blockchain",
+      "summary": "Immunefi Studio shows how each program behaves, flags duplicates and known issues before you submit, and works with your agents. When Review gives a report the..."
+    },
+    {
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "pubDate": "2026-11-18T12:28:30.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security com..."
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Techni..."
     },
     {
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "pubDate": "2026-11-17T15:17:36.000Z",
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "pubDate": "2026-11-18T12:15:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without..."
+      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck..."
     },
     {
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "pubDate": "2026-11-17T15:17:28.000Z",
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "pubDate": "2026-11-18T11:55:49.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign..."
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says..."
     },
     {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "pubDate": "2026-11-17T12:25:06.000Z",
+      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+      "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "pubDate": "2026-11-18T11:03:57.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers ha..."
-    },
-    {
-      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-      "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "pubDate": "2026-11-17T12:14:36.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The f..."
+      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how att..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
@@ -225,24 +243,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We..."
-    },
-    {
-      "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
-      "link": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
-      "pubDate": "2026-11-03T12:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases..."
-    },
-    {
-      "title": "Designing for sovereignty: Ethereum for digital public infrastructure",
-      "link": "https://blog.ethereum.org/en/2026/11/03/digital-pub-infra",
-      "pubDate": "2026-11-03T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation may..."
     }
   ]
 }
