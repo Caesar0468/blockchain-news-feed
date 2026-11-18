@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T15:01:56.993Z",
+  "lastUpdated": "2026-11-18T23:51:22.225Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,6 +20,78 @@
   },
   "items": [
     {
+      "title": "Texas Resumes Environmental Permit Reviews for Data Centers",
+      "link": "https://thedefiant.io/frontier/technology/texas-resumes-environmental-permit-reviews-for-data-centers",
+      "pubDate": "2026-11-18T23:49:08.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "TCEQ says normal reviews have resumed after a September directive to pause permit issuance. ERCOT targets Dec. 10 for its final community-impact report...."
+    },
+    {
+      "title": "OpenAI Reports Agent Gains on Multihour Research Tasks",
+      "link": "https://thedefiant.io/frontier/ai/openai-reports-agent-gains-on-multihour-research-tasks",
+      "pubDate": "2026-11-18T23:48:06.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Documented workweeks in safety and alignment rose 77% from January to September, OpenAI says. It also renewed a call for mandatory AI-research disclosures...."
+    },
+    {
+      "title": "Microsoft Plans Intel EMIB Packaging for Azure Chips",
+      "link": "https://thedefiant.io/frontier/infrastructure/microsoft-plans-intel-emib-packaging-for-azure-chips",
+      "pubDate": "2026-11-18T23:35:31.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The agreement also confirms multi-year Xeon capacity, including Diamond Rapids, without naming the Azure chips slated for Intel packaging...."
+    },
+    {
+      "title": "Tencent's AI Buildout Deepens Free Cash Flow Deficit",
+      "link": "https://thedefiant.io/frontier/ai/tencent-s-ai-buildout-deepens-free-cash-flow-deficit",
+      "pubDate": "2026-11-18T23:32:55.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Capital expenditure payments rose 225% as cloud revenue growth accelerated to 35% and WorkBuddy topped 10 million daily users...."
+    },
+    {
+      "title": "Kraken Parent Payward Agrees to Acquire Tribe Capital",
+      "link": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital",
+      "pubDate": "2026-11-18T23:25:15.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The venture firm, chaired by Payward and Kraken co-CEO Arjun Sethi, manages $2.7 billion, Payward says. Closing is expected in early 2027...."
+    },
+    {
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "pubDate": "2026-11-18T18:31:17.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123..."
+    },
+    {
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "pubDate": "2026-11-18T18:15:39.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the T..."
+    },
+    {
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "pubDate": "2026-11-18T17:10:45.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache..."
+    },
+    {
       "title": "Achieving the impossible: XSS in innerHTML without equals",
       "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
       "pubDate": "2026-11-18T14:39:45.000Z",
@@ -29,24 +101,6 @@
       "summary": "Introduction I'm delighted to introduce Masato Kinugawa as a guest web security researcher on the PortSwigger research channel. Masato is a well known web secur..."
     },
     {
-      "title": "How to Choose AI Coding Benchmarks That Fit Your Work",
-      "link": "https://thedefiant.io/news/ai/how-to-choose-ai-coding-benchmarks-that-fit-your-work",
-      "pubDate": "2026-11-18T14:18:43.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Repository answers, code edits and terminal jobs call for different tests. Here’s how to compare scores, spending and completion time...."
-    },
-    {
-      "title": "USDC’s Direct Bank Cash Fell $1.88 Billion in Q3",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/usdc-s-direct-bank-cash-fell-1-88-billion-in-q3",
-      "pubDate": "2026-11-18T14:18:18.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Directly held bank cash fell to $9.50 billion at September-end as total backing edged higher. The snapshots show a changed reserve mix but don’t establish wheth..."
-    },
-    {
       "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
       "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
       "pubDate": "2026-11-18T14:11:28.000Z",
@@ -54,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target govern..."
-    },
-    {
-      "title": "How Tokenized Nvidia Traded Through Two Weeks of Huang Headlines",
-      "link": "https://thedefiant.io/news/research-and-opinion/nvidia-tokens-weekend-price-gaps-credora-redstone",
-      "pubDate": "2026-11-18T14:08:01.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Seven tokens give their holders a claim on the same Nvidia share. On Sunday 8 November, with every US exchange shut, that share was priced 6.3% apart depending..."
-    },
-    {
-      "title": "APT Drops 24% in a Week, Erasing Its Autumn Rally",
-      "link": "https://thedefiant.io/news/markets/apt-drops-24-in-a-week-erasing-its-autumn-rally",
-      "pubDate": "2026-11-18T13:24:21.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The token is down roughly 47% over 28 days, a steeper loss than bitcoin, ether, SOL or SUI on comparable windows...."
-    },
-    {
-      "title": "Bullish Beats Adjusted Revenue Forecast as Spot Volume Falls",
-      "link": "https://thedefiant.io/converge/cefi/bullish-beats-adjusted-revenue-forecast-as-spot-volume-falls",
-      "pubDate": "2026-11-18T12:57:45.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Subscription and services led Bullish’s year-over-year adjusted revenue growth, while digital-asset valuation gains drove a $576.3 million net profit...."
     },
     {
       "title": "Immunefi Studio: The All-in-One Research Suite for the AI era",
@@ -101,31 +128,49 @@
       "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Techni..."
     },
     {
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "pubDate": "2026-11-18T12:15:00.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-1037: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A OCPP Backend Configuration Authentication Bypass Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1037/",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck..."
+      "summary": "This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authe..."
     },
     {
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "pubDate": "2026-11-18T11:55:49.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-1036: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A Wi-Fi Configuration Server Missing Authentication Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1036/",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says..."
+      "summary": "This vulnerability allows network-adjacent attackers to modify Wi-Fi configuration on affected installations of United Chargers Grizzl-E Smart 40A EV chargers...."
     },
     {
-      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-      "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "pubDate": "2026-11-18T11:03:57.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-1035: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A Download of Code Without Integrity Check Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1035/",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how att..."
+      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
+    },
+    {
+      "title": "ZDI-26-1034: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A FTP URL Path Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1034/",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
+    },
+    {
+      "title": "ZDI-26-1033: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A OCPP GetConfiguration Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1033/",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
@@ -135,51 +180,6 @@
       "category": "Vulnerability Research",
       "type": "cybersecurity",
       "summary": "Since 2021, Project Zero has followed a “90 + 30” vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30..."
-    },
-    {
-      "title": "ZDI-26-1009: (Pwn2Own) Synology DiskStation DS925+ C2 Identity Plugin Exposed Dangerous Method Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1009/",
-      "pubDate": "2026-11-13T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of Synology DiskStation DS925+ devices. Authent..."
-    },
-    {
-      "title": "ZDI-26-1008: (Pwn2Own) Qualcomm Technologies QCA7005 GreenPhy Heap-based Buffer Overflow Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1008/",
-      "pubDate": "2026-11-13T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Qualcomm Technologies QCA7005 powerline chips. Aut..."
-    },
-    {
-      "title": "ZDI-26-1007: Linux Kernel BPF Local Storage Race Condition Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1007/",
-      "pubDate": "2026-11-13T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
-    },
-    {
-      "title": "ZDI-26-1006: Linux Kernel skbuff skb_zerocopy Improper Ownership Management Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1006/",
-      "pubDate": "2026-11-13T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
-    },
-    {
-      "title": "ZDI-26-1005: Linux Kernel eBPF Race Condition Local Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1005/",
-      "pubDate": "2026-11-13T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Linux Kernel. An attacker must first obtain the ability to execute..."
     },
     {
       "title": "Crosshairs on Solana: Its Protocols Account for 29% of 2026 DeFi Hack Losses",
