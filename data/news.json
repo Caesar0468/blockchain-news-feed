@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T15:27:55.010Z",
+  "lastUpdated": "2026-11-18T00:28:30.062Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,76 @@
   },
   "items": [
     {
-      "title": "AI Models Mark Civilians as Targets in Vals Safety Tests",
-      "link": "https://thedefiant.io/frontier/ai/ai-models-mark-civilians-as-targets-in-vals-safety-tests",
-      "pubDate": "2026-11-17T15:26:37.000Z",
+      "title": "USD1 Supply Falls 11% in a Week to Below $3 Billion",
+      "link": "https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion",
+      "pubDate": "2026-11-18T00:26:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Calling targeting tasks a game often bypassed models’ refusals, Vals found. The experiments tested safeguards, not battlefield accuracy...."
+      "summary": "World Liberty Financial's stablecoin reached its lowest daily supply reading in a 30-day window, with declines across Solana, Ethereum and BNB Smart Chain...."
     },
     {
-      "title": "Crossmint Adds Fiat Funding for Private Solana Balances",
-      "link": "https://thedefiant.io/news/defi/crossmint-adds-fiat-funding-for-private-solana-balances",
-      "pubDate": "2026-11-17T15:25:03.000Z",
+      "title": "Java4Shell Fixes Arrive After AI-Assisted Discovery",
+      "link": "https://thedefiant.io/frontier/technology/java4shell-fixes-arrive-after-ai-assisted-discovery",
+      "pubDate": "2026-11-18T00:11:53.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "USDC and EURC can go straight into Helius Privacy Rings for eligible buyers outside the US, but deposit details remain public...."
+      "summary": "The flaw exposes unpatched Java applications on certain x86-64 processors. Calif and Wiz describe AI-assisted exploit development measured in hours...."
     },
     {
-      "title": "SpaceX AI-Chip Debt Sale May Start This Week: Report",
-      "link": "https://thedefiant.io/frontier/technology/spacex-ai-chip-debt-sale-may-start-this-week-report",
-      "pubDate": "2026-11-17T15:21:10.000Z",
+      "title": "Bank of England Finalizes Clearing-House Test Policy",
+      "link": "https://thedefiant.io/converge/regulation/bank-of-england-finalizes-clearing-house-test-policy",
+      "pubDate": "2026-11-17T21:34:33.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Goldman Sachs and Apollo would underwrite part of a $40 billion package for Nvidia chips, Bloomberg reported...."
+      "summary": "Blockchain-based entrants are included in a technology-neutral route for limited live testing. The new rule-waiver policy is expected to take effect in 2027...."
     },
     {
-      "title": "Tokenized Stocks Gain Uniswap v4 Liquidity on Monad",
-      "link": "https://thedefiant.io/news/defi/tokenized-stocks-gain-uniswap-v4-liquidity-on-monad",
-      "pubDate": "2026-11-17T15:12:34.000Z",
+      "title": "The Graph to Tie Indexer Reward Requirements to Stake",
+      "link": "https://thedefiant.io/news/blockchains/the-graph-to-tie-indexer-reward-requirements-to-stake",
+      "pubDate": "2026-11-17T21:01:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Monad announced 10 xStocks markets on Nov. 12. Trading liquidity is live, but access restrictions and collateral-pricing requirements still matter for DeFi buil..."
+      "summary": "Step 4 raises the service bar for operators above 40 million GRT, with existing 14-day eligibility periods cushioning the transition...."
     },
     {
-      "title": "Ripio Brings Peso and Real Tokens to Hyperliquid",
-      "link": "https://thedefiant.io/news/defi/ripio-brings-peso-and-real-tokens-to-hyperliquid",
-      "pubDate": "2026-11-17T14:54:29.000Z",
+      "title": "FDIC Proposes Rules for Custodial-Deposit Exemption",
+      "link": "https://thedefiant.io/converge/regulation/fdic-proposes-rules-for-custodial-deposit-exemption",
+      "pubDate": "2026-11-17T20:45:01.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ripio says its Argentine peso and Brazilian real stablecoins now trade against USDC around the clock, alongside a new Ripio Trade beta...."
+      "summary": "The proposal details which client funds smaller banks could exclude from brokered deposits, with potential savings on deposit-insurance assessments...."
+    },
+    {
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "pubDate": "2026-11-17T19:34:20.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security com..."
+    },
+    {
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "pubDate": "2026-11-17T15:17:36.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without..."
+    },
+    {
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "pubDate": "2026-11-17T15:17:28.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign..."
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -81,33 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The f..."
-    },
-    {
-      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-      "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-      "pubDate": "2026-11-17T11:20:18.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage..."
-    },
-    {
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "pubDate": "2026-11-17T11:07:31.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelli..."
-    },
-    {
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "pubDate": "2026-11-17T07:12:13.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Op..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
