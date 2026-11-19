@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T05:47:42.531Z",
+  "lastUpdated": "2026-11-19T15:11:44.216Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,85 +20,94 @@
   },
   "items": [
     {
-      "title": "MAS Issues S$100 Million in Tokenized Bills With CBDC",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mas-issues-s-100-million-in-tokenized-bills-with-cbdc",
-      "pubDate": "2026-11-19T05:01:55.000Z",
+      "title": "Most Institutional Bidders Got No Anthropic IPO Shares: Bloomberg",
+      "link": "https://thedefiant.io/frontier/ai/most-institutional-bidders-got-no-anthropic-ipo-shares-bloomberg",
+      "pubDate": "2026-11-19T14:52:41.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The live auction drew applications for more than twice the issuance size. MAS plans to scale up issuance and broaden use of the bills as collateral...."
+      "summary": "Allocations favored US-based investors, Bloomberg reported, even as the Claude developer expanded its offering to 980 million shares at $83 each...."
     },
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "pubDate": "2026-11-19T04:33:46.000Z",
+      "title": "Bitcoin Holds Above Weekend Low on Coinbase Amid False Price Alerts",
+      "link": "https://thedefiant.io/news/markets/bitcoin-holds-above-weekend-low-on-coinbase-amid-false-price-alerts",
+      "pubDate": "2026-11-19T14:52:24.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "CoinMarketCap acknowledged incorrect bitcoin-price notifications, sometimes sent more than once, and said it was investigating the cause...."
+    },
+    {
+      "title": "AI Agent Security: Why Refusals Are Not Access Controls",
+      "link": "https://thedefiant.io/news/ai/ai-agent-security-why-refusals-are-not-access-controls",
+      "pubDate": "2026-11-19T14:16:43.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Hostile documents can steer a tool-using AI toward actions its user never requested. Permissions and meaningful approval checks limit the consequences...."
+    },
+    {
+      "title": "Securitize Plans IPO-Day Anthropic Tokens on Solana",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana",
+      "pubDate": "2026-11-19T14:16:05.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The platform's share-backed stock model includes eligible US investors. Live trading in its planned ANT token was not independently confirmed...."
+    },
+    {
+      "title": "How to Read Prediction-Market Odds in a News Headline",
+      "link": "https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline",
+      "pubDate": "2026-11-19T14:16:03.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "An odds percentage is a price-based forecast, not a poll or confirmation. The contract’s rules, quote method and timestamp explain what it measures...."
+    },
+    {
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "pubDate": "2026-11-19T11:52:23.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The rele..."
+      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vuln..."
     },
     {
-      "title": "TradeXYZ to Halt Oura Pre-IPO Perpetual on Dec. 1",
-      "link": "https://thedefiant.io/news/defi/tradexyz-to-halt-oura-pre-ipo-perpetual-on-dec-1",
-      "pubDate": "2026-11-19T03:27:07.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Positions left open will settle at a time-weighted average price from market launch through the halt, rather than at the final traded price...."
-    },
-    {
-      "title": "BNB Chain Sets Jenner Date; Post Flags Timestamp Risk",
-      "link": "https://thedefiant.io/news/blockchains/bnb-chain-sets-jenner-date-post-flags-timestamp-risk",
-      "pubDate": "2026-11-19T02:33:14.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "A forum analysis warns that BEP-706's sample code could let expired quotes pass a timing check if its timestamp call succeeds but returns no data...."
-    },
-    {
-      "title": "Intel Says It Signed First Outside 18A-P Chip Customer",
-      "link": "https://thedefiant.io/frontier/technology/intel-says-it-signed-first-outside-18a-p-chip-customer",
-      "pubDate": "2026-11-19T01:35:14.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Intel's technology chief identified the unnamed customer's process as 18A-P. The company had already announced 18A projects with Microsoft and AWS...."
-    },
-    {
-      "title": "Lightning Labs' pi402 Lets Coding Agents Pay in Bitcoin",
-      "link": "https://thedefiant.io/news/infrastructure/lightning-labs-pi402-lets-coding-agents-pay-in-bitcoin",
-      "pubDate": "2026-11-19T01:30:59.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Announced Nov. 12, the Pi extension can buy prepaid token bundles over Lightning from metered sellers. Osuntokun's separate mainnet endpoint advertises DeepSeek..."
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "pubDate": "2026-11-18T18:31:17.000Z",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "pubDate": "2026-11-19T09:31:26.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123..."
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, caus..."
     },
     {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "pubDate": "2026-11-18T18:15:39.000Z",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "pubDate": "2026-11-19T08:42:11.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the T..."
+      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-co..."
     },
     {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "pubDate": "2026-11-18T17:10:45.000Z",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "pubDate": "2026-11-19T08:14:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache..."
+      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown,..."
+    },
+    {
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "pubDate": "2026-11-19T08:00:00.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI L..."
     },
     {
       "title": "Achieving the impossible: XSS in innerHTML without equals",
@@ -108,15 +117,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "Introduction I'm delighted to introduce Masato Kinugawa as a guest web security researcher on the PortSwigger research channel. Masato is a well known web secur..."
-    },
-    {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "pubDate": "2026-11-18T14:11:28.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target govern..."
     },
     {
       "title": "Immunefi Studio: The All-in-One Research Suite for the AI era",
