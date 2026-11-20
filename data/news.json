@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T15:11:44.216Z",
+  "lastUpdated": "2026-11-20T00:15:22.758Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,112 @@
   },
   "items": [
     {
-      "title": "Most Institutional Bidders Got No Anthropic IPO Shares: Bloomberg",
-      "link": "https://thedefiant.io/frontier/ai/most-institutional-bidders-got-no-anthropic-ipo-shares-bloomberg",
-      "pubDate": "2026-11-19T14:52:41.000Z",
+      "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
+      "link": "https://thedefiant.io/news/blockchains/solana-resumes-upgrades-with-direct-mapping-warning",
+      "pubDate": "2026-11-19T23:48:10.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Allocations favored US-based investors, Bloomberg reported, even as the Claude developer expanded its offering to 980 million shares at $83 each...."
+      "summary": "Direct mapping remains pending on mainnet without a firm activation date. Associated memory rules can break unsafe account access and some older Anchor patterns..."
     },
     {
-      "title": "Bitcoin Holds Above Weekend Low on Coinbase Amid False Price Alerts",
-      "link": "https://thedefiant.io/news/markets/bitcoin-holds-above-weekend-low-on-coinbase-amid-false-price-alerts",
-      "pubDate": "2026-11-19T14:52:24.000Z",
+      "title": "Backpack Targets 10,000 Stocks With Solana Routing Plan",
+      "link": "https://thedefiant.io/news/tokens/backpack-targets-10-000-stocks-with-solana-routing-plan",
+      "pubDate": "2026-11-19T22:44:05.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "CoinMarketCap acknowledged incorrect bitcoin-price notifications, sometimes sent more than once, and said it was investigating the cause...."
+      "summary": "Ferrante outlined a system to route wallet orders to stock-market liquidity. Board member Kyle Samani said the expansion would arrive in the next few weeks...."
     },
     {
-      "title": "AI Agent Security: Why Refusals Are Not Access Controls",
-      "link": "https://thedefiant.io/news/ai/ai-agent-security-why-refusals-are-not-access-controls",
-      "pubDate": "2026-11-19T14:16:43.000Z",
+      "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
+      "link": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
+      "pubDate": "2026-11-19T21:09:53.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Hostile documents can steer a tool-using AI toward actions its user never requested. Permissions and meaningful approval checks limit the consequences...."
+      "summary": "Liquidations for the collateral type are switched off, and the 2.5-cent price cap that governs those loans was proposed by Christensen in a forum post last year..."
     },
     {
-      "title": "Securitize Plans IPO-Day Anthropic Tokens on Solana",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana",
-      "pubDate": "2026-11-19T14:16:05.000Z",
+      "title": "Mast Says US Cleared 879,868 AI Chips for Chinese Firms",
+      "link": "https://thedefiant.io/frontier/ai/mast-says-us-cleared-879-868-ai-chips-for-chinese-firms",
+      "pubDate": "2026-11-19T20:57:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The platform's share-backed stock model includes eligible US investors. Live trading in its planned ANT token was not independently confirmed...."
+      "summary": "The May snapshot covers Nvidia H200 and AMD MI325X chips across 21 applications, all listed as approved but not shipped...."
     },
     {
-      "title": "How to Read Prediction-Market Odds in a News Headline",
-      "link": "https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline",
-      "pubDate": "2026-11-19T14:16:03.000Z",
+      "title": "Nvidia Erases Earnings Bounce, Down About $632B Since Nov. 11",
+      "link": "https://thedefiant.io/frontier/markets/nvidia-erases-earnings-bounce-down-about-632b-since-nov-11",
+      "pubDate": "2026-11-19T20:53:06.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "An odds percentage is a price-based forecast, not a poll or confirmation. The contract’s rules, quote method and timestamp explain what it measures...."
+      "summary": "Shares were about 5% below their pre-earnings close Thursday afternoon, extending a decline that outpaced both semiconductor stocks and the Nasdaq 100...."
     },
     {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "pubDate": "2026-11-19T11:52:23.000Z",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "pubDate": "2026-11-19T18:47:58.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vuln..."
+      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks stra..."
     },
     {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "pubDate": "2026-11-19T09:31:26.000Z",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "pubDate": "2026-11-19T16:59:56.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, caus..."
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with..."
     },
     {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "pubDate": "2026-11-19T08:42:11.000Z",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "pubDate": "2026-11-19T15:18:07.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-co..."
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affecte..."
     },
     {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "pubDate": "2026-11-19T08:14:00.000Z",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "pubDate": "2026-11-19T15:11:06.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown,..."
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VM..."
     },
     {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "pubDate": "2026-11-19T08:00:00.000Z",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "pubDate": "2026-11-19T14:33:06.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI L..."
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to r..."
+    },
+    {
+      "title": "ZDI-26-1039: Oracle PeopleSoft register Incorrect Authorization Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1039/",
+      "pubDate": "2026-11-19T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oracle PeopleSoft. Authentication is required to exploit this..."
+    },
+    {
+      "title": "ZDI-26-1038: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A OCPP UpdateFirmware Out-Of-Bounds Write Remote Code Execution Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1038/",
+      "pubDate": "2026-11-19T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
     },
     {
       "title": "Achieving the impossible: XSS in innerHTML without equals",
@@ -148,24 +166,6 @@
     {
       "title": "ZDI-26-1035: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A Download of Code Without Integrity Check Remote Code Execution Vulnerability",
       "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1035/",
-      "pubDate": "2026-11-18T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
-    },
-    {
-      "title": "ZDI-26-1034: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A FTP URL Path Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1034/",
-      "pubDate": "2026-11-18T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
-    },
-    {
-      "title": "ZDI-26-1033: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A OCPP GetConfiguration Stack-based Buffer Overflow Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1033/",
       "pubDate": "2026-11-18T06:00:00.000Z",
       "source": "Zero Day Initiative",
       "category": "Vulnerability Research",
