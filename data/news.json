@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T00:15:22.758Z",
+  "lastUpdated": "2026-11-20T14:50:58.491Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
-      "link": "https://thedefiant.io/news/blockchains/solana-resumes-upgrades-with-direct-mapping-warning",
-      "pubDate": "2026-11-19T23:48:10.000Z",
+      "title": "Intel 18A vs. TSMC N2: How to Read the Chip Claims",
+      "link": "https://thedefiant.io/news/technology/intel-18a-vs-tsmc-n2-how-to-read-the-chip-claims",
+      "pubDate": "2026-11-20T14:19:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Direct mapping remains pending on mainnet without a firm activation date. Associated memory rules can break unsafe account access and some older Anchor patterns..."
+      "summary": "Node names are not transistor measurements. Public disclosures show different approaches to making chips faster and more efficient—but use different comparison..."
     },
     {
-      "title": "Backpack Targets 10,000 Stocks With Solana Routing Plan",
-      "link": "https://thedefiant.io/news/tokens/backpack-targets-10-000-stocks-with-solana-routing-plan",
-      "pubDate": "2026-11-19T22:44:05.000Z",
+      "title": "PI Hits Record Low After Pi Network’s First Summit",
+      "link": "https://thedefiant.io/news/markets/pi-hits-record-low-after-pi-network-s-first-summit",
+      "pubDate": "2026-11-20T14:05:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Ferrante outlined a system to route wallet orders to stock-market liquidity. Board member Kyle Samani said the expansion would arrive in the next few weeks...."
+      "summary": "PI lost about 26% in a week, compared with bitcoin’s 11%, while Pi outlined developer incentives and plans for mainnet trading tools...."
     },
     {
-      "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
-      "link": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
-      "pubDate": "2026-11-19T21:09:53.000Z",
+      "title": "Anthropic Nears IPO Price After 27% Fall From High",
+      "link": "https://thedefiant.io/frontier/ai/anthropic-nears-ipo-price-after-27-fall-from-high",
+      "pubDate": "2026-11-20T13:49:29.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Liquidations for the collateral type are switched off, and the 2.5-cent price cap that governs those loans was proposed by Christensen in a forum post last year..."
+      "summary": "ANT traded at $83.81 before the open on Nov. 20, down 13.75% from its first-day close and barely above its $83 offering price...."
     },
     {
-      "title": "Mast Says US Cleared 879,868 AI Chips for Chinese Firms",
-      "link": "https://thedefiant.io/frontier/ai/mast-says-us-cleared-879-868-ai-chips-for-chinese-firms",
-      "pubDate": "2026-11-19T20:57:46.000Z",
+      "title": "Bitcoin ETF Outflows Hit $582 Million, Most Since Oct. 30",
+      "link": "https://thedefiant.io/news/markets/bitcoin-etf-outflows-hit-582-million-most-since-oct-30",
+      "pubDate": "2026-11-20T13:34:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The May snapshot covers Nvidia H200 and AMD MI325X chips across 21 applications, all listed as approved but not shipped...."
+      "summary": "BlackRock's IBIT led the Nov. 19 bitcoin ETF withdrawals. Farside's tracked US spot ether ETFs, including staking products, had $131 million in net outflows...."
     },
     {
-      "title": "Nvidia Erases Earnings Bounce, Down About $632B Since Nov. 11",
-      "link": "https://thedefiant.io/frontier/markets/nvidia-erases-earnings-bounce-down-about-632b-since-nov-11",
-      "pubDate": "2026-11-19T20:53:06.000Z",
+      "title": "SpaceX Lenders Sought to Keep AI Chips on Earth: FT",
+      "link": "https://thedefiant.io/frontier/technology/spacex-lenders-sought-to-keep-ai-chips-on-earth-ft",
+      "pubDate": "2026-11-20T12:48:29.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Shares were about 5% below their pre-earnings close Thursday afternoon, extending a decline that outpaced both semiconductor stocks and the Nasdaq 100...."
+      "summary": "The proposed restriction would protect lenders’ ability to reclaim collateral if SpaceX defaults, according to the Financial Times...."
     },
     {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "pubDate": "2026-11-19T18:47:58.000Z",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "pubDate": "2026-11-20T12:20:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks stra..."
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their o..."
     },
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "pubDate": "2026-11-19T16:59:56.000Z",
+      "title": "The Path to AI Autonomy in the SOC",
+      "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "pubDate": "2026-11-20T12:00:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with..."
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said th..."
     },
     {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "pubDate": "2026-11-19T15:18:07.000Z",
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "pubDate": "2026-11-20T10:38:22.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affecte..."
+      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge..."
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "pubDate": "2026-11-19T15:11:06.000Z",
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "pubDate": "2026-11-20T10:32:50.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VM..."
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the p..."
     },
     {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "pubDate": "2026-11-19T14:33:06.000Z",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "pubDate": "2026-11-20T09:38:15.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to r..."
+      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical securit..."
     },
     {
       "title": "ZDI-26-1039: Oracle PeopleSoft register Incorrect Authorization Remote Code Execution Vulnerability",
