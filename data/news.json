@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T14:09:36.404Z",
+  "lastUpdated": "2026-11-21T22:44:29.075Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,22 +20,49 @@
   },
   "items": [
     {
-      "title": "Nvidia Falls 14%, Sealing Seventh Straight Weekly Loss",
-      "link": "https://thedefiant.io/frontier/markets/nvidia-falls-14-sealing-seventh-straight-weekly-loss",
-      "pubDate": "2026-11-21T13:37:19.000Z",
+      "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+      "link": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+      "pubDate": "2026-11-21T20:54:00.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The stock lost 22.9% for the week ended Nov. 20, compared with 17.3% for SOXX and 10.4% for the Nasdaq 100...."
+      "summary": "Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected...."
     },
     {
-      "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
-      "link": "https://thedefiant.io/news/defi/btcs-warns-of-liquidation-risk-on-54m-aave-debt",
-      "pubDate": "2026-11-21T12:42:42.000Z",
+      "title": "Tesla Begins FSD v15 Rollout to First-Wave Customers",
+      "link": "https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers",
+      "pubDate": "2026-11-21T19:43:54.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Nasdaq-listed company reported about $10 million less debt over ten days, but its ETH-backed borrowing remains exposed to liquidation...."
+      "summary": "Musk targets December for wider availability. The update changes driving AI and visualizations, but customer FSD still requires active supervision...."
+    },
+    {
+      "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+      "link": "https://thedefiant.io/news/hacks/chainflip-offers-10-bounty-for-return-of-stolen-funds",
+      "pubDate": "2026-11-21T19:32:58.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Chainflip says the theft included 122.86 BTC, widening the scope beyond earlier Ethereum outflows. Its recovery offer expires Nov. 23...."
+    },
+    {
+      "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+      "link": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+      "pubDate": "2026-11-21T19:02:34.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 million USDC unborrowed, versus roughly 1.06 billion in the snapshot...."
+    },
+    {
+      "title": "Cyber Warns Against Bridge Use After Unexpected Minting",
+      "link": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+      "pubDate": "2026-11-21T18:37:19.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Cyber urged users to avoid its bridge and exchange deposits. Upbit suspended CYBER deposits and withdrawals on Ethereum; Bithumb announced a similar halt...."
     },
     {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -63,33 +90,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root..."
-    },
-    {
-      "title": "ECB Seeks Partners for Appia Tokenized Finance Tests",
-      "link": "https://thedefiant.io/converge/regulation/ecb-seeks-partners-for-appia-tokenized-finance-tests",
-      "pubDate": "2026-11-21T10:10:04.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Applications for the first exercises are due Dec. 11, with later submissions reviewed on a rolling basis. The call includes deposit-settlement tests using mock..."
-    },
-    {
-      "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
-      "link": "https://thedefiant.io/news/security/chainflip-halts-swaps-over-potential-vault-exploit",
-      "pubDate": "2026-11-21T09:48:32.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Deposits, withdrawals and quotes are disabled. A security monitor flagged Ethereum vault outflows it valued at about $4.86 million...."
-    },
-    {
-      "title": "Aave Voters Back Plan to Narrow V3 Core Collateral",
-      "link": "https://thedefiant.io/news/defi/aave-voters-back-plan-to-narrow-v3-core-collateral",
-      "pubDate": "2026-11-21T09:17:08.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Existing loans would stay open as LlamaRisk’s plan steers borrowers toward retained collateral or Aave V4...."
     },
     {
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
