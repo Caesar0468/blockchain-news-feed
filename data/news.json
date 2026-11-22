@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T04:55:46.196Z",
+  "lastUpdated": "2026-11-22T13:59:26.208Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,42 @@
     ]
   },
   "items": [
+    {
+      "title": "Anthropic Token Debuts on Solana With $135M in Reported Trading Volume",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
+      "pubDate": "2026-11-22T13:44:01.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Sunrise reported $134.7 million in ANT's first-24-hour trading volume. Backpack calls the token redeemable for shares, but wallet holders have different rights..."
+    },
+    {
+      "title": "OpenRouter Drops Zero-Data-Retention Labels From Affected MiniMax Endpoints",
+      "link": "https://thedefiant.io/frontier/ai/openrouter-drops-zero-data-retention-labels-from-affected-minimax-endpoints",
+      "pubDate": "2026-11-22T06:10:26.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Novita confirmed forwarding some MiniMax requests to the model maker. OpenRouter removed 125 endpoints from zero-data-retention eligibility in a wider provider..."
+    },
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "pubDate": "2026-11-22T05:06:55.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity c..."
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "pubDate": "2026-11-22T05:03:41.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript..."
+    },
     {
       "title": "MUFG Details Canton Test for Intraday JGB Repo Funding",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
@@ -47,24 +83,6 @@
       "summary": "Its post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed. Personal data and viewing keys were also exposed...."
     },
     {
-      "title": "Together AI Discloses Prompt Leak After Dragos Study",
-      "link": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
-      "pubDate": "2026-11-21T23:32:49.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experimen..."
-    },
-    {
-      "title": "Loudoun Pauses Data Center Votes, Not New Filings",
-      "link": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
-      "pubDate": "2026-11-21T20:54:00.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected...."
-    },
-    {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
       "pubDate": "2026-11-21T11:53:07.000Z",
@@ -90,24 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root..."
-    },
-    {
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "pubDate": "2026-11-21T08:49:20.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devi..."
-    },
-    {
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "pubDate": "2026-11-21T08:49:13.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadc..."
     },
     {
       "title": "ZDI-26-1039: Oracle PeopleSoft register Incorrect Authorization Remote Code Execution Vulnerability",
