@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T05:36:59.744Z",
+  "lastUpdated": "2026-11-23T17:17:23.254Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Bitquery Finds 400 BTC Gap in Maple's Listed Wallets",
-      "link": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
-      "pubDate": "2026-11-23T04:19:13.000Z",
+      "title": "CFTC Prediction-Market Rule Reaches White House Review",
+      "link": "https://thedefiant.io/news/regulation/cftc-prediction-market-rule-reaches-white-house-review",
+      "pubDate": "2026-11-23T16:59:26.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Bitquery said its Nov. 18 check found 97.6% of the Bitcoin Maple reported for syrupUSDC, while estimating that counted collateral still exceeded loans...."
+      "summary": "OIRA received the public-interest rule on Nov. 20. It is separate from the October swap-definition measures challenged by 44 attorneys general...."
     },
     {
-      "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
-      "link": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
-      "pubDate": "2026-11-22T20:13:12.000Z",
+      "title": "Polygon Says Agglayer v1.0 Cuts Ethereum Transfer Waits",
+      "link": "https://thedefiant.io/news/infrastructure/polygon-says-agglayer-v1-0-cuts-ethereum-transfer-waits",
+      "pubDate": "2026-11-23T16:28:57.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC...."
+      "summary": "Katana is first on the fast settlement path. Polygon says transfers back to Ethereum take under 15 minutes, down from about 90...."
     },
     {
-      "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-s-latest-launch-notice-lists-six-stock-tokens",
-      "pubDate": "2026-11-22T20:01:26.000Z",
+      "title": "Elliptic Traces About $247M in Binance Theft-Linked Bitcoin to Coinjoins",
+      "link": "https://thedefiant.io/news/hacks/elliptic-traces-about-247m-in-binance-theft-linked-bitcoin-to-coinjoins",
+      "pubDate": "2026-11-23T16:07:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The latest public notice lists six stock tokens for launch, compared with an earlier announcement anticipating more than 70 assets, including 59 Direxion ETFs...."
+      "summary": "Elliptic says almost all of the theft-linked coinjoins were coordinated by Kruw, which organizes transactions without taking custody of users’ funds...."
     },
     {
-      "title": "Blur Disables Upgrades, Removing an ETH Rescue Route",
-      "link": "https://thedefiant.io/news/security/blur-disables-upgrades-removing-an-eth-rescue-route",
-      "pubDate": "2026-11-22T19:15:44.000Z",
+      "title": "S&P 500 Rebounds 5.4% After Seven-Session Selloff",
+      "link": "https://thedefiant.io/frontier/markets/s-p-500-rebounds-5-4-after-seven-session-selloff",
+      "pubDate": "2026-11-23T15:49:46.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Developer Quit identified 545.6 ETH in 315 contracts lacking a direct withdrawal path. Ordinary wallet withdrawals remain available...."
+      "summary": "Nvidia shares rose 34.5% by 10:40 a.m. ET, while the broader index recovered part of last week's steep losses...."
     },
     {
-      "title": "Polymarket US Adds 70% Taker-Fee Rebate for Straight API Trades",
-      "link": "https://thedefiant.io/news/cefi/polymarket-us-adds-70-taker-fee-rebate-for-straight-api-trades",
-      "pubDate": "2026-11-22T19:03:49.000Z",
+      "title": "Strategy Moves $1 Billion Out of Its Dividend Reserve",
+      "link": "https://thedefiant.io/converge/cefi/strategy-moves-1-billion-out-of-its-dividend-reserve",
+      "pubDate": "2026-11-23T15:48:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The temporary rebate covers API straight trades through Dec. 31. App traders keep their ordinary volume-based rebates of 0–30%...."
+      "summary": "The bitcoin treasury company expanded its preferred-stock buyback authorization to $4 billion while leaving a smaller cash cushion dedicated to interest and div..."
     },
     {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "pubDate": "2026-11-22T05:06:55.000Z",
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "pubDate": "2026-11-23T15:10:48.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity c..."
+      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't..."
     },
     {
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-      "pubDate": "2026-11-22T05:03:41.000Z",
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "pubDate": "2026-11-23T13:22:20.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript..."
+      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitra..."
     },
     {
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "pubDate": "2026-11-21T11:53:07.000Z",
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+      "pubDate": "2026-11-23T12:41:04.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, resear..."
+      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves a..."
     },
     {
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "pubDate": "2026-11-21T11:05:53.000Z",
+      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+      "pubDate": "2026-11-23T12:28:09.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. T..."
+      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service i..."
     },
     {
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "pubDate": "2026-11-21T11:03:17.000Z",
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "pubDate": "2026-11-23T09:11:56.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root..."
+      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the d..."
     },
     {
       "title": "ZDI-26-1039: Oracle PeopleSoft register Incorrect Authorization Remote Code Execution Vulnerability",
