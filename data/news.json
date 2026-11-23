@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T23:10:59.347Z",
+  "lastUpdated": "2026-11-23T05:36:59.744Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -19,6 +19,15 @@
     ]
   },
   "items": [
+    {
+      "title": "Bitquery Finds 400 BTC Gap in Maple's Listed Wallets",
+      "link": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
+      "pubDate": "2026-11-23T04:19:13.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Bitquery said its Nov. 18 check found 97.6% of the Bitcoin Maple reported for syrupUSDC, while estimating that counted collateral still exceeded loans...."
+    },
     {
       "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
       "link": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
@@ -54,15 +63,6 @@
       "category": "DeFi & Web3",
       "type": "blockchain",
       "summary": "The temporary rebate covers API straight trades through Dec. 31. App traders keep their ordinary volume-based rebates of 0–30%...."
-    },
-    {
-      "title": "RAILGUN Community Account Touts Post-Quantum Prototype",
-      "link": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
-      "pubDate": "2026-11-22T18:50:09.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "ZKNOX's wallet proof of concept demonstrates new note encryption on Sepolia, but does not make RAILGUN's spending system quantum-resistant...."
     },
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
