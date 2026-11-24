@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T03:45:38.266Z",
+  "lastUpdated": "2026-11-24T16:55:29.040Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Oregon, Virginia Sue SpaceX Over Grok Image Safeguards",
-      "link": "https://thedefiant.io/frontier/regulation/oregon-virginia-sue-spacex-over-grok-image-safeguards",
-      "pubDate": "2026-11-24T03:44:39.000Z",
+      "title": "DOJ Details Crypto Cases in Broad Anti-Scam Crackdown",
+      "link": "https://thedefiant.io/news/regulation/doj-details-crypto-cases-in-broad-anti-scam-crackdown",
+      "pubDate": "2026-11-24T16:53:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The states allege misleading safety assurances over sexualized images of real people, including children, and are seeking civil penalties and injunctions...."
+      "summary": "The campaign spans more than 400 cases. DOJ's claim of over $8 billion in 'intended loss' does not establish how much was seized or returned to victims...."
     },
     {
-      "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
-      "link": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code",
-      "pubDate": "2026-11-24T03:43:22.000Z",
+      "title": "Nvidia Falls 8% After Rally on Huang's Return as CEO",
+      "link": "https://thedefiant.io/frontier/ai/nvidia-falls-8-after-rally-on-huang-s-return-as-ceo",
+      "pubDate": "2026-11-24T16:21:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The beta adds agents for GitHub pull requests on Team and Enterprise plans. Human sign-off depends on a team's policy and repository rules...."
+      "summary": "The stock retained much of Monday's 31.5% gain, while a steeper decline in a chip-stock ETF showed the retreat extended beyond Nvidia...."
     },
     {
-      "title": "Sierra Announces $1.75B Raise at a $30B Valuation",
-      "link": "https://thedefiant.io/frontier/ai/sierra-announces-1-75b-raise-at-a-30b-valuation",
-      "pubDate": "2026-11-24T03:37:47.000Z",
+      "title": "US Blacklists Megaspeed, Tightening Access to AI Chips",
+      "link": "https://thedefiant.io/frontier/regulation/us-blacklists-megaspeed-tightening-access-to-ai-chips",
+      "pubDate": "2026-11-24T15:42:04.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The AI customer-service company's valuation is nearly twice its reported May valuation, as Sierra reports more than $400 million in annual recurring revenue...."
+      "summary": "Commerce's licensing restrictions reach suppliers beyond Nvidia. The action came the same day Jensen Huang returned as CEO...."
     },
     {
-      "title": "Anthropic Publishes Claude's Claimed VP ≠ VNP Proof",
-      "link": "https://thedefiant.io/frontier/ai/anthropic-publishes-claude-s-claimed-vp-vnp-proof",
-      "pubDate": "2026-11-24T03:28:17.000Z",
+      "title": "Euler Technologies Replaces Labs in Commercial Push",
+      "link": "https://thedefiant.io/news/defi/euler-technologies-replaces-labs-in-commercial-push",
+      "pubDate": "2026-11-24T15:36:48.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The official release includes Lean 4 code and passing automated checks, but Anthropic says no human mathematician has checked the proof...."
+      "summary": "Christopher Cameron joins as head of strategy as the new provider takes over development and the app. Administrative permissions are due to transfer by November..."
     },
     {
-      "title": "Bitcoin Falls Below $60,000, Erasing Monday's Rebound",
-      "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-60-000-erasing-monday-s-rebound",
-      "pubDate": "2026-11-24T03:28:07.000Z",
+      "title": "Fidelity Crypto Adds AAVE, LINK and UNI to Its Lineup",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-crypto-adds-aave-link-and-uni-to-its-lineup",
+      "pubDate": "2026-11-24T15:31:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The evening low on Coinbase was 8% below Monday's peak and 30% below its Oct. 21 high, but remained above the weekend trough...."
+      "summary": "Eligible customers can trade the tokens in individual, joint and crypto IRA accounts, with Oregon excluded and a 1% fee on buys and sells...."
     },
     {
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "pubDate": "2026-11-23T17:45:15.000Z",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "pubDate": "2026-11-24T13:28:26.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove r..."
+      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug..."
     },
     {
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "pubDate": "2026-11-23T15:10:48.000Z",
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "pubDate": "2026-11-24T13:28:21.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't..."
+      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called I..."
     },
     {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "pubDate": "2026-11-23T13:22:20.000Z",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "pubDate": "2026-11-24T12:42:09.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitra..."
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers ha..."
     },
     {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "pubDate": "2026-11-23T12:41:04.000Z",
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "pubDate": "2026-11-24T12:02:00.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves a..."
+      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Googl..."
     },
     {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "pubDate": "2026-11-23T12:28:09.000Z",
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "pubDate": "2026-11-24T12:01:54.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service i..."
+      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover..."
     },
     {
       "title": "VirtualBox Process Hardening on Windows 2026 Edition: What’s a Single Bit Between Friends?",
