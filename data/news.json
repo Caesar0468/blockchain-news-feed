@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T17:17:23.254Z",
+  "lastUpdated": "2026-11-24T03:45:38.266Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,58 @@
   },
   "items": [
     {
-      "title": "CFTC Prediction-Market Rule Reaches White House Review",
-      "link": "https://thedefiant.io/news/regulation/cftc-prediction-market-rule-reaches-white-house-review",
-      "pubDate": "2026-11-23T16:59:26.000Z",
+      "title": "Oregon, Virginia Sue SpaceX Over Grok Image Safeguards",
+      "link": "https://thedefiant.io/frontier/regulation/oregon-virginia-sue-spacex-over-grok-image-safeguards",
+      "pubDate": "2026-11-24T03:44:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "OIRA received the public-interest rule on Nov. 20. It is separate from the October swap-definition measures challenged by 44 attorneys general...."
+      "summary": "The states allege misleading safety assurances over sexualized images of real people, including children, and are seeking civil penalties and injunctions...."
     },
     {
-      "title": "Polygon Says Agglayer v1.0 Cuts Ethereum Transfer Waits",
-      "link": "https://thedefiant.io/news/infrastructure/polygon-says-agglayer-v1-0-cuts-ethereum-transfer-waits",
-      "pubDate": "2026-11-23T16:28:57.000Z",
+      "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
+      "link": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code",
+      "pubDate": "2026-11-24T03:43:22.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Katana is first on the fast settlement path. Polygon says transfers back to Ethereum take under 15 minutes, down from about 90...."
+      "summary": "The beta adds agents for GitHub pull requests on Team and Enterprise plans. Human sign-off depends on a team's policy and repository rules...."
     },
     {
-      "title": "Elliptic Traces About $247M in Binance Theft-Linked Bitcoin to Coinjoins",
-      "link": "https://thedefiant.io/news/hacks/elliptic-traces-about-247m-in-binance-theft-linked-bitcoin-to-coinjoins",
-      "pubDate": "2026-11-23T16:07:46.000Z",
+      "title": "Sierra Announces $1.75B Raise at a $30B Valuation",
+      "link": "https://thedefiant.io/frontier/ai/sierra-announces-1-75b-raise-at-a-30b-valuation",
+      "pubDate": "2026-11-24T03:37:47.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Elliptic says almost all of the theft-linked coinjoins were coordinated by Kruw, which organizes transactions without taking custody of users’ funds...."
+      "summary": "The AI customer-service company's valuation is nearly twice its reported May valuation, as Sierra reports more than $400 million in annual recurring revenue...."
     },
     {
-      "title": "S&P 500 Rebounds 5.4% After Seven-Session Selloff",
-      "link": "https://thedefiant.io/frontier/markets/s-p-500-rebounds-5-4-after-seven-session-selloff",
-      "pubDate": "2026-11-23T15:49:46.000Z",
+      "title": "Anthropic Publishes Claude's Claimed VP ≠ VNP Proof",
+      "link": "https://thedefiant.io/frontier/ai/anthropic-publishes-claude-s-claimed-vp-vnp-proof",
+      "pubDate": "2026-11-24T03:28:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Nvidia shares rose 34.5% by 10:40 a.m. ET, while the broader index recovered part of last week's steep losses...."
+      "summary": "The official release includes Lean 4 code and passing automated checks, but Anthropic says no human mathematician has checked the proof...."
     },
     {
-      "title": "Strategy Moves $1 Billion Out of Its Dividend Reserve",
-      "link": "https://thedefiant.io/converge/cefi/strategy-moves-1-billion-out-of-its-dividend-reserve",
-      "pubDate": "2026-11-23T15:48:04.000Z",
+      "title": "Bitcoin Falls Below $60,000, Erasing Monday's Rebound",
+      "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-60-000-erasing-monday-s-rebound",
+      "pubDate": "2026-11-24T03:28:07.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The bitcoin treasury company expanded its preferred-stock buyback authorization to $4 billion while leaving a smaller cash cushion dedicated to interest and div..."
+      "summary": "The evening low on Coinbase was 8% below Monday's peak and 30% below its Oct. 21 high, but remained above the weekend trough...."
+    },
+    {
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "pubDate": "2026-11-23T17:45:15.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove r..."
     },
     {
       "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
@@ -101,13 +110,22 @@
       "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service i..."
     },
     {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "pubDate": "2026-11-23T09:11:56.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "VirtualBox Process Hardening on Windows 2026 Edition: What’s a Single Bit Between Friends?",
+      "link": "https://projectzero.google/2026/11/virtualbox-process-hardening.html",
+      "pubDate": "2026-11-23T08:00:00.000Z",
+      "source": "Project Zero",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the d..."
+      "summary": "Back in 2017 I did some research into Oracle VirtualBox on Windows. Specifically I focussed on their mechanism to protect their VM processes from the user on th..."
+    },
+    {
+      "title": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "link": "https://blog.ethereum.org/en/2026/11/23/pqai-0",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on Ethereum'..."
     },
     {
       "title": "ZDI-26-1039: Oracle PeopleSoft register Incorrect Authorization Remote Code Execution Vulnerability",
@@ -225,24 +243,6 @@
       "category": "Security Research",
       "type": "cybersecurity",
       "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
-    },
-    {
-      "title": "EIP-8037/EIP-8038 Glamsterdam",
-      "link": "https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038",
-      "pubDate": "2026-11-06T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be vulner..."
-    },
-    {
-      "title": "Making HTTP header injection critical with one prompt",
-      "link": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
-      "pubDate": "2026-11-04T15:12:29.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We..."
     }
   ]
 }
