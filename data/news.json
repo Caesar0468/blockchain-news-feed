@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T16:55:29.040Z",
+  "lastUpdated": "2026-11-25T01:53:07.069Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,58 @@
   },
   "items": [
     {
-      "title": "DOJ Details Crypto Cases in Broad Anti-Scam Crackdown",
-      "link": "https://thedefiant.io/news/regulation/doj-details-crypto-cases-in-broad-anti-scam-crackdown",
-      "pubDate": "2026-11-24T16:53:22.000Z",
+      "title": "Trump Says He Lobbied Nvidia Board for Huang’s Return",
+      "link": "https://thedefiant.io/frontier/ai/trump-says-he-lobbied-nvidia-board-for-huang-s-return",
+      "pubDate": "2026-11-25T00:20:09.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The campaign spans more than 400 cases. DOJ's claim of over $8 billion in 'intended loss' does not establish how much was seized or returned to victims...."
+      "summary": "The president told the WSJ that Nvidia’s falling stock helped his push. Directors reinstated Huang while their independent inquiry remained open...."
     },
     {
-      "title": "Nvidia Falls 8% After Rally on Huang's Return as CEO",
-      "link": "https://thedefiant.io/frontier/ai/nvidia-falls-8-after-rally-on-huang-s-return-as-ceo",
-      "pubDate": "2026-11-24T16:21:35.000Z",
+      "title": "Trezor Says Firmware Blocks Known Spying Implants",
+      "link": "https://thedefiant.io/news/security/trezor-says-firmware-blocks-known-spying-implants",
+      "pubDate": "2026-11-24T22:59:45.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The stock retained much of Monday's 31.5% gain, while a steeper decline in a chip-stock ETF showed the retreat extended beyond Nvidia...."
+      "summary": "The Nov. 11 update cannot protect a recovery phrase already captured, Trezor says. Users holding funds on CryptoBilis-supplied devices bought from March 2026 on..."
     },
     {
-      "title": "US Blacklists Megaspeed, Tightening Access to AI Chips",
-      "link": "https://thedefiant.io/frontier/regulation/us-blacklists-megaspeed-tightening-access-to-ai-chips",
-      "pubDate": "2026-11-24T15:42:04.000Z",
+      "title": "New York Enacts Five-Year Ban on AI Companion Toys",
+      "link": "https://thedefiant.io/frontier/regulation/new-york-enacts-five-year-ban-on-ai-companion-toys",
+      "pubDate": "2026-11-24T22:56:03.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Commerce's licensing restrictions reach suppliers beyond Nvidia. The action came the same day Jensen Huang returned as CEO...."
+      "summary": "The ban takes effect February 22, 2027, leaving this holiday season outside the moratorium. It covers children's toys with embedded or integrated AI companions...."
     },
     {
-      "title": "Euler Technologies Replaces Labs in Commercial Push",
-      "link": "https://thedefiant.io/news/defi/euler-technologies-replaces-labs-in-commercial-push",
-      "pubDate": "2026-11-24T15:36:48.000Z",
+      "title": "Morpho Borrow Rate Doubled Amid Spark Liquidity Pullback",
+      "link": "https://thedefiant.io/news/defi/morpho-borrow-rate-doubled-amid-spark-liquidity-pullback",
+      "pubDate": "2026-11-24T22:53:41.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Christopher Cameron joins as head of strategy as the new provider takes over development and the app. Administrative permissions are due to transfer by November..."
+      "summary": "Spark cut its position in a Base lending market by about 468 million USDC. The pool's daily-average borrow rate rose above 10% before easing...."
     },
     {
-      "title": "Fidelity Crypto Adds AAVE, LINK and UNI to Its Lineup",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-crypto-adds-aave-link-and-uni-to-its-lineup",
-      "pubDate": "2026-11-24T15:31:45.000Z",
+      "title": "Huawei Convicted on 10 Counts, Acquitted of Racketeering Conspiracy",
+      "link": "https://thedefiant.io/frontier/regulation/huawei-convicted-on-10-counts-acquitted-of-racketeering-conspiracy",
+      "pubDate": "2026-11-24T22:48:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Eligible customers can trade the tokens in individual, joint and crypto IRA accounts, with Oregon excluded and a 1% fee on buys and sells...."
+      "summary": "The Brooklyn jury rejected two conspiracy charges. Huawei’s lawyer said the company would appeal the convictions...."
+    },
+    {
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "pubDate": "2026-11-24T16:54:07.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastru..."
     },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -101,13 +110,58 @@
       "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Googl..."
     },
     {
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-      "pubDate": "2026-11-24T12:01:54.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
+      "title": "ZDI-26-1159: X.Org Server PCF Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1159/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
       "type": "cybersecurity",
-      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover..."
+      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of X.Org Server. An attacker must first obtain the ability..."
+    },
+    {
+      "title": "ZDI-26-1158: X.Org Server libfontenc Encoding File Parsing Improper Validation of Array Index Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1158/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
+    },
+    {
+      "title": "ZDI-26-1157: ASUS Control Center Express User Creation Improper Authorization Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1157/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to escalate privileges on affected installations of ASUS Control Center Express. Authentication is required to exploi..."
+    },
+    {
+      "title": "ZDI-26-1156: ASUS Control Center Express Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1156/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to bypass authentication of affected installations of ASUS Control Center Express. Authentication is not required to..."
+    },
+    {
+      "title": "ZDI-26-1155: ASUS Control Center Express Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1155/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to bypass authentication on affected installations of ASUS Control Center Express. Authentication is not required to..."
+    },
+    {
+      "title": "PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era",
+      "link": "https://blog.ethereum.org/en/2026/11/24/pqai-1",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "*This decision is the product of a multi-year effort, with many researchers and engineers inside and outside the EF contributing the ideas, proving breakthrough..."
     },
     {
       "title": "VirtualBox Process Hardening on Windows 2026 Edition: What’s a Single Bit Between Friends?",
@@ -128,24 +182,6 @@
       "summary": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on Ethereum'..."
     },
     {
-      "title": "ZDI-26-1039: Oracle PeopleSoft register Incorrect Authorization Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1039/",
-      "pubDate": "2026-11-19T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oracle PeopleSoft. Authentication is required to exploit this..."
-    },
-    {
-      "title": "ZDI-26-1038: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A OCPP UpdateFirmware Out-Of-Bounds Write Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1038/",
-      "pubDate": "2026-11-19T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
-    },
-    {
       "title": "Achieving the impossible: XSS in innerHTML without equals",
       "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
       "pubDate": "2026-11-18T14:39:45.000Z",
@@ -162,33 +198,6 @@
       "category": "Web3 Bug Bounty",
       "type": "blockchain",
       "summary": "Immunefi Studio shows how each program behaves, flags duplicates and known issues before you submit, and works with your agents. When Review gives a report the..."
-    },
-    {
-      "title": "ZDI-26-1037: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A OCPP Backend Configuration Authentication Bypass Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1037/",
-      "pubDate": "2026-11-18T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Authe..."
-    },
-    {
-      "title": "ZDI-26-1036: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A Wi-Fi Configuration Server Missing Authentication Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1036/",
-      "pubDate": "2026-11-18T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to modify Wi-Fi configuration on affected installations of United Chargers Grizzl-E Smart 40A EV chargers...."
-    },
-    {
-      "title": "ZDI-26-1035: (0Day) (Pwn2Own) United Chargers Grizzl-E Smart 40A Download of Code Without Integrity Check Remote Code Execution Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1035/",
-      "pubDate": "2026-11-18T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of United Chargers Grizzl-E Smart 40A EV chargers. Auth..."
     },
     {
       "title": "Policy and Disclosure: 2026 Edition",
@@ -234,15 +243,6 @@
       "category": "Web3 Bug Bounty",
       "type": "blockchain",
       "summary": "At least 33 lending and Collateralized Debt Position (CDP) protocols were hacked this year. Data shows attackers target protocols of all sizes, and vulnerabilit..."
-    },
-    {
-      "title": "After Binance, check what your signing systems can approve",
-      "link": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
-      "pubDate": "2026-11-06T12:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
     }
   ]
 }
