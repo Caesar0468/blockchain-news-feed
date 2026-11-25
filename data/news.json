@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T01:53:07.069Z",
+  "lastUpdated": "2026-11-25T16:44:23.861Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Trump Says He Lobbied Nvidia Board for Huang’s Return",
-      "link": "https://thedefiant.io/frontier/ai/trump-says-he-lobbied-nvidia-board-for-huang-s-return",
-      "pubDate": "2026-11-25T00:20:09.000Z",
+      "title": "How Anthropic's Tokens Traded Through Their First Sessions and Weekend",
+      "link": "https://thedefiant.io/news/research-and-opinion/how-anthropic-s-tokens-traded-through-their-first-sessions-and-weekend",
+      "pubDate": "2026-11-25T16:24:44.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The president told the WSJ that Nvidia’s falling stock helped his push. Directors reinstated Huang while their independent inquiry remained open...."
+      "summary": "Anthropic's eight tokens tracked Nasdaq within about 1% at every close in their first three sessions. Underneath, the price was set on a perpetual that traded 2..."
     },
     {
-      "title": "Trezor Says Firmware Blocks Known Spying Implants",
-      "link": "https://thedefiant.io/news/security/trezor-says-firmware-blocks-known-spying-implants",
-      "pubDate": "2026-11-24T22:59:45.000Z",
+      "title": "stUSDS Seller Accepts Roughly 11% Discount on Curve",
+      "link": "https://thedefiant.io/news/defi/stusds-seller-accepts-roughly-11-discount-on-curve",
+      "pubDate": "2026-11-25T16:05:38.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Nov. 11 update cannot protect a recovery phrase already captured, Trezor says. Users holding funds on CryptoBilis-supplied devices bought from March 2026 on..."
+      "summary": "Sky.money displayed $0 withdrawal liquidity, while a posted CoW Swap orderbook snapshot showed a gap between sellers’ asking prices and buyers’ bids...."
     },
     {
-      "title": "New York Enacts Five-Year Ban on AI Companion Toys",
-      "link": "https://thedefiant.io/frontier/regulation/new-york-enacts-five-year-ban-on-ai-companion-toys",
-      "pubDate": "2026-11-24T22:56:03.000Z",
+      "title": "Coinbase Wallet Adds USDC Paycheck Deposits on Base",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wallet-adds-usdc-paycheck-deposits-on-base",
+      "pubDate": "2026-11-25T15:22:48.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The ban takes effect February 22, 2027, leaving this holiday season outside the moratorium. It covers children's toys with embedded or integrated AI companions...."
+      "summary": "The US rollout converts incoming dollars one-for-one into USDC. Users must pass identity checks, and the resulting crypto balance is not an insured bank deposit..."
     },
     {
-      "title": "Morpho Borrow Rate Doubled Amid Spark Liquidity Pullback",
-      "link": "https://thedefiant.io/news/defi/morpho-borrow-rate-doubled-amid-spark-liquidity-pullback",
-      "pubDate": "2026-11-24T22:53:41.000Z",
+      "title": "Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+      "link": "https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide",
+      "pubDate": "2026-11-25T15:12:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Spark cut its position in a Base lending market by about 468 million USDC. The pool's daily-average borrow rate rose above 10% before easing...."
+      "summary": "The index was back above the 20% drawdown line by 10:01 a.m. ET, while earlier readings showed sharp daily losses in Nvidia and semiconductor shares...."
     },
     {
-      "title": "Huawei Convicted on 10 Counts, Acquitted of Racketeering Conspiracy",
-      "link": "https://thedefiant.io/frontier/regulation/huawei-convicted-on-10-counts-acquitted-of-racketeering-conspiracy",
-      "pubDate": "2026-11-24T22:48:35.000Z",
+      "title": "US Growth Revised to 4.3% Ahead of Fed Rate Decision",
+      "link": "https://thedefiant.io/news/markets/us-growth-revised-to-4-3-ahead-of-fed-rate-decision",
+      "pubDate": "2026-11-25T14:54:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Brooklyn jury rejected two conspiracy charges. Huawei’s lawyer said the company would appeal the convictions...."
+      "summary": "Stronger investment and consumer spending drove the GDP upgrade as core PCE inflation topped forecasts ahead of the Fed’s Dec. 8–9 meeting...."
     },
     {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "pubDate": "2026-11-24T16:54:07.000Z",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "pubDate": "2026-11-25T12:48:54.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastru..."
+      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-12070..."
     },
     {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "pubDate": "2026-11-24T13:28:26.000Z",
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "pubDate": "2026-11-25T12:30:08.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug..."
+      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a..."
     },
     {
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "pubDate": "2026-11-24T13:28:21.000Z",
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "pubDate": "2026-11-25T11:51:48.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called I..."
+      "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked i..."
     },
     {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "pubDate": "2026-11-24T12:42:09.000Z",
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "pubDate": "2026-11-25T11:23:26.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers ha..."
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV)..."
     },
     {
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-      "pubDate": "2026-11-24T12:02:00.000Z",
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "pubDate": "2026-11-25T10:43:07.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Googl..."
+      "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1..."
     },
     {
       "title": "ZDI-26-1159: X.Org Server PCF Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
