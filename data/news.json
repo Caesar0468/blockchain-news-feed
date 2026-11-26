@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T16:44:23.861Z",
+  "lastUpdated": "2026-11-26T01:30:26.598Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,49 @@
   },
   "items": [
     {
-      "title": "How Anthropic's Tokens Traded Through Their First Sessions and Weekend",
-      "link": "https://thedefiant.io/news/research-and-opinion/how-anthropic-s-tokens-traded-through-their-first-sessions-and-weekend",
-      "pubDate": "2026-11-25T16:24:44.000Z",
+      "title": "Tempo's Native Multisig Goes Live on Testnet",
+      "link": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+      "pubDate": "2026-11-26T01:09:41.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Anthropic's eight tokens tracked Nasdaq within about 1% at every close in their first three sessions. Underneath, the price was set on a perpetual that traded 2..."
+      "summary": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing a..."
     },
     {
-      "title": "stUSDS Seller Accepts Roughly 11% Discount on Curve",
-      "link": "https://thedefiant.io/news/defi/stusds-seller-accepts-roughly-11-discount-on-curve",
-      "pubDate": "2026-11-25T16:05:38.000Z",
+      "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
+      "link": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+      "pubDate": "2026-11-25T23:41:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Sky.money displayed $0 withdrawal liquidity, while a posted CoW Swap orderbook snapshot showed a gap between sellers’ asking prices and buyers’ bids...."
+      "summary": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots...."
     },
     {
-      "title": "Coinbase Wallet Adds USDC Paycheck Deposits on Base",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wallet-adds-usdc-paycheck-deposits-on-base",
-      "pubDate": "2026-11-25T15:22:48.000Z",
+      "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
+      "link": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+      "pubDate": "2026-11-25T23:18:14.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The US rollout converts incoming dollars one-for-one into USDC. Users must pass identity checks, and the resulting crypto balance is not an insured bank deposit..."
+      "summary": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts...."
     },
     {
-      "title": "Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
-      "link": "https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide",
-      "pubDate": "2026-11-25T15:12:36.000Z",
+      "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
+      "link": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+      "pubDate": "2026-11-25T22:59:12.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The index was back above the 20% drawdown line by 10:01 a.m. ET, while earlier readings showed sharp daily losses in Nvidia and semiconductor shares...."
+      "summary": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable...."
     },
     {
-      "title": "US Growth Revised to 4.3% Ahead of Fed Rate Decision",
-      "link": "https://thedefiant.io/news/markets/us-growth-revised-to-4-3-ahead-of-fed-rate-decision",
-      "pubDate": "2026-11-25T14:54:35.000Z",
+      "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
+      "link": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+      "pubDate": "2026-11-25T22:43:35.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Stronger investment and consumer spending drove the GDP upgrade as core PCE inflation topped forecasts ahead of the Fed’s Dec. 8–9 meeting...."
+      "summary": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced...."
     },
     {
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -108,6 +108,15 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1..."
+    },
+    {
+      "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
+      "link": "https://blog.ethereum.org/en/2026/11/25/devcon-mumbai-wrap",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology. From November 3–6, the Ethereum..."
     },
     {
       "title": "ZDI-26-1159: X.Org Server PCF Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
@@ -234,15 +243,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "Content Security Policy is supposed to be the safety net that stops an HTML injection from turning into XSS. Usually it works. But sometimes it doesn't, because..."
-    },
-    {
-      "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
-      "link": "https://immunefi.com/blog/research/2026-lending-hacks/",
-      "pubDate": "2026-11-06T15:00:00.000Z",
-      "source": "Immunefi",
-      "category": "Web3 Bug Bounty",
-      "type": "blockchain",
-      "summary": "At least 33 lending and Collateralized Debt Position (CDP) protocols were hacked this year. Data shows attackers target protocols of all sizes, and vulnerabilit..."
     }
   ]
 }
