@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T01:30:26.598Z",
+  "lastUpdated": "2026-11-26T16:19:50.251Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Tempo's Native Multisig Goes Live on Testnet",
-      "link": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
-      "pubDate": "2026-11-26T01:09:41.000Z",
+      "title": "Bitcoin Falls 1.3% After US Inflation and GDP Reports",
+      "link": "https://thedefiant.io/news/markets/bitcoin-falls-1-3-after-us-inflation-and-gdp-reports",
+      "pubDate": "2026-11-26T16:08:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing a..."
+      "summary": "A December Fed rate hike was already the market’s base case before the reports. US spot bitcoin ETFs recorded $453 million in net outflows Wednesday...."
     },
     {
-      "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
-      "link": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
-      "pubDate": "2026-11-25T23:41:55.000Z",
+      "title": "Telegram Cuts Fee to 2% on Gift Resales Paid in Gram",
+      "link": "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram",
+      "pubDate": "2026-11-26T15:49:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots...."
+      "summary": "CEO Pavel Durov said sellers trading inside Telegram now get paid directly in Gram when a sale settles on TON...."
     },
     {
-      "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
-      "link": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
-      "pubDate": "2026-11-25T23:18:14.000Z",
+      "title": "Ether Drops 28% in Four Weeks, Lagging Bitcoin",
+      "link": "https://thedefiant.io/news/markets/ether-drops-28-in-four-weeks-lagging-bitcoin",
+      "pubDate": "2026-11-26T15:39:36.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts...."
+      "summary": "US spot ether ETFs recorded $523.3 million in net withdrawals over eight trading sessions through Nov. 25, according to Farside Investors’ data...."
     },
     {
-      "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
-      "link": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
-      "pubDate": "2026-11-25T22:59:12.000Z",
+      "title": "Huawei to Detail New AI Memory Design in February",
+      "link": "https://thedefiant.io/frontier/ai/huawei-to-detail-new-ai-memory-design-in-february",
+      "pubDate": "2026-11-26T15:14:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable...."
+      "summary": "The conference program describes a custom chip but gives no production timetable. US export controls limit China’s access to imported high-bandwidth memory...."
     },
     {
-      "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
-      "link": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
-      "pubDate": "2026-11-25T22:43:35.000Z",
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "pubDate": "2026-11-26T15:13:41.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may h..."
+    },
+    {
+      "title": "Spain Issues Decree to Allow Temporary Crypto Account Freezes",
+      "link": "https://thedefiant.io/news/regulation/spain-issues-decree-to-allow-temporary-crypto-account-freezes",
+      "pubDate": "2026-11-26T14:31:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced...."
+      "summary": "The measure, scheduled for Jan. 25 pending a vote in Congress, would let Sepblac freeze accounts for up to five business days without prior court approval...."
     },
     {
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "pubDate": "2026-11-25T12:48:54.000Z",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "pubDate": "2026-11-26T10:57:55.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-12070..."
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than..."
     },
     {
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "pubDate": "2026-11-25T12:30:08.000Z",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "pubDate": "2026-11-26T10:57:25.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a..."
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of s..."
     },
     {
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "pubDate": "2026-11-25T11:51:48.000Z",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "pubDate": "2026-11-26T07:02:34.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked i..."
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE..."
     },
     {
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "pubDate": "2026-11-25T11:23:26.000Z",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "pubDate": "2026-11-26T06:44:46.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV)..."
-    },
-    {
-      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-      "pubDate": "2026-11-25T10:43:07.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1..."
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, incl..."
     },
     {
       "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
