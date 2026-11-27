@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-11-27T01:27:58.299Z",
+  "lastUpdated": "2026-11-27T16:04:16.857Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
       "Trail of Bits",
+      "Zero Day Initiative",
       "Project Zero",
       "Immunefi",
       "The Defiant",
@@ -12,10 +13,6 @@
     ],
     "failed": [
       {
-        "name": "Zero Day Initiative",
-        "error": "Request timed out after 10000ms"
-      },
-      {
         "name": "Hack The Box",
         "error": "Status code 404"
       }
@@ -23,94 +20,94 @@
   },
   "items": [
     {
-      "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
-      "link": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
-      "pubDate": "2026-11-26T21:35:55.000Z",
+      "title": "LayerZero Names 40-Plus Validators for Zero Launch",
+      "link": "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
+      "pubDate": "2026-11-27T15:37:28.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The estimate may count the same funds more than once. The FBI had asked THORChain node operators to block transactions tied to the theft...."
+      "summary": "Kakao Pay, Broadridge and ZAN are on the roster. LayerZero’s official staking site initially splits each ZRO deposit equally across the launch validators...."
     },
     {
-      "title": "Fluid Pauses DEX Swaps After ‘Mythos 5.2’ Security Review",
-      "link": "https://thedefiant.io/news/security/fluid-pauses-dex-swaps-after-mythos-5-2-security-review",
-      "pubDate": "2026-11-26T21:12:13.000Z",
+      "title": "Tesla Files to Buy Assets From German Toolmaker EMAG",
+      "link": "https://thedefiant.io/frontier/technology/tesla-files-to-buy-assets-from-german-toolmaker-emag",
+      "pubDate": "2026-11-27T15:26:17.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The protocol says borrowers can still repay loans and users can still withdraw funds. It gave no date for trading to resume...."
+      "summary": "EMAG makes equipment for electric motor shafts and humanoid robot joints. Germany’s competition authority hasn’t said which assets Tesla wants to buy...."
     },
     {
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-      "pubDate": "2026-11-26T19:39:57.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with b..."
-    },
-    {
-      "title": "Microsoft Links China, North Korea Hackers to ARTEX",
-      "link": "https://thedefiant.io/frontier/ai/microsoft-links-china-north-korea-hackers-to-artex",
-      "pubDate": "2026-11-26T19:19:13.000Z",
+      "title": "Nvidia Blackwell Chips Found in Shanghai, Bloomberg Says",
+      "link": "https://thedefiant.io/frontier/ai/nvidia-blackwell-chips-found-in-shanghai-bloomberg-says",
+      "pubDate": "2026-11-27T14:52:21.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Microsoft says the AI tool can turn initial probing into lasting access with elevated permissions within minutes, depending on the target’s defenses and the att..."
+      "summary": "Loan records identified a GB300 rack and a separate GB200 server at the same data center, Bloomberg reported. The filings don’t establish how the gear reached C..."
     },
     {
-      "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
-      "link": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
-      "pubDate": "2026-11-26T19:17:27.000Z",
+      "title": "Halogen’s Shariah Bitcoin ETF Set for Dec. 2 Bursa Debut",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/halogen-s-shariah-bitcoin-etf-set-for-dec-2-bursa-debut",
+      "pubDate": "2026-11-27T14:31:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades...."
+      "summary": "Once the spot fund lists, retail investors will be able to trade it in ringgit or US dollars through a stockbroker...."
     },
     {
-      "title": "Cryptio Urges Clients to Revoke API Keys After Attack",
-      "link": "https://thedefiant.io/news/security/cryptio-urges-clients-to-revoke-api-keys-after-attack",
-      "pubDate": "2026-11-26T17:14:48.000Z",
+      "title": "Chainflip Tallies Hack Losses, Payout Plan Still Pending",
+      "link": "https://thedefiant.io/news/hacks/chainflip-tallies-hack-losses-payout-plan-still-pending",
+      "pubDate": "2026-11-27T13:55:53.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The crypto accounting firm said exchange and custody credentials may have been exposed. Its notice did not confirm that any keys were taken or report any losses..."
+      "summary": "The cross-chain exchange plans to route new trades through SwapKit while its own protocol remains paused after the November vault theft...."
     },
     {
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "pubDate": "2026-11-26T15:13:41.000Z",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "pubDate": "2026-11-27T11:49:34.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may h..."
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access tr..."
     },
     {
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "pubDate": "2026-11-26T10:57:55.000Z",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "pubDate": "2026-11-27T10:32:18.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than..."
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers..."
     },
     {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "pubDate": "2026-11-26T10:57:25.000Z",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "pubDate": "2026-11-27T09:29:30.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of s..."
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via..."
     },
     {
-      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-      "pubDate": "2026-11-26T07:02:34.000Z",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "pubDate": "2026-11-27T06:04:20.000Z",
       "source": "The Hacker News",
       "category": "Cybersecurity News",
       "type": "cybersecurity",
-      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE..."
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the c..."
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "pubDate": "2026-11-27T05:48:20.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code executi..."
     },
     {
       "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
@@ -120,6 +117,51 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology. From November 3–6, the Ethereum..."
+    },
+    {
+      "title": "ZDI-26-1159: X.Org Server PCF Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1159/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of X.Org Server. An attacker must first obtain the ability..."
+    },
+    {
+      "title": "ZDI-26-1158: X.Org Server libfontenc Encoding File Parsing Improper Validation of Array Index Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1158/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
+    },
+    {
+      "title": "ZDI-26-1157: ASUS Control Center Express User Creation Improper Authorization Privilege Escalation Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1157/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to escalate privileges on affected installations of ASUS Control Center Express. Authentication is required to exploi..."
+    },
+    {
+      "title": "ZDI-26-1156: ASUS Control Center Express Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1156/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to bypass authentication of affected installations of ASUS Control Center Express. Authentication is not required to..."
+    },
+    {
+      "title": "ZDI-26-1155: ASUS Control Center Express Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability",
+      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1155/",
+      "pubDate": "2026-11-24T06:00:00.000Z",
+      "source": "Zero Day Initiative",
+      "category": "Vulnerability Research",
+      "type": "cybersecurity",
+      "summary": "This vulnerability allows remote attackers to bypass authentication on affected installations of ASUS Control Center Express. Authentication is not required to..."
     },
     {
       "title": "PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era",
@@ -201,51 +243,6 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "Content Security Policy is supposed to be the safety net that stops an HTML injection from turning into XSS. Usually it works. But sometimes it doesn't, because..."
-    },
-    {
-      "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
-      "link": "https://immunefi.com/blog/research/2026-lending-hacks/",
-      "pubDate": "2026-11-06T15:00:00.000Z",
-      "source": "Immunefi",
-      "category": "Web3 Bug Bounty",
-      "type": "blockchain",
-      "summary": "At least 33 lending and Collateralized Debt Position (CDP) protocols were hacked this year. Data shows attackers target protocols of all sizes, and vulnerabilit..."
-    },
-    {
-      "title": "After Binance, check what your signing systems can approve",
-      "link": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
-      "pubDate": "2026-11-06T12:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
-    },
-    {
-      "title": "EIP-8037/EIP-8038 Glamsterdam",
-      "link": "https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038",
-      "pubDate": "2026-11-06T00:00:00.000Z",
-      "source": "Ethereum Foundation",
-      "category": "Protocol Development",
-      "type": "blockchain",
-      "summary": "Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be vulner..."
-    },
-    {
-      "title": "Making HTTP header injection critical with one prompt",
-      "link": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
-      "pubDate": "2026-11-04T15:12:29.000Z",
-      "source": "PortSwigger Research",
-      "category": "Web Security",
-      "type": "cybersecurity",
-      "summary": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We..."
-    },
-    {
-      "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
-      "link": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
-      "pubDate": "2026-11-03T12:00:00.000Z",
-      "source": "Trail of Bits",
-      "category": "Security Research",
-      "type": "cybersecurity",
-      "summary": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases..."
     }
   ]
 }
