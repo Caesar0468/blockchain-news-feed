@@ -1,10 +1,9 @@
 {
-  "lastUpdated": "2026-11-26T16:19:50.251Z",
+  "lastUpdated": "2026-11-27T01:27:58.299Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
       "Trail of Bits",
-      "Zero Day Initiative",
       "Project Zero",
       "Immunefi",
       "The Defiant",
@@ -13,6 +12,10 @@
     ],
     "failed": [
       {
+        "name": "Zero Day Initiative",
+        "error": "Request timed out after 10000ms"
+      },
+      {
         "name": "Hack The Box",
         "error": "Status code 404"
       }
@@ -20,40 +23,58 @@
   },
   "items": [
     {
-      "title": "Bitcoin Falls 1.3% After US Inflation and GDP Reports",
-      "link": "https://thedefiant.io/news/markets/bitcoin-falls-1-3-after-us-inflation-and-gdp-reports",
-      "pubDate": "2026-11-26T16:08:31.000Z",
+      "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
+      "link": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
+      "pubDate": "2026-11-26T21:35:55.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "A December Fed rate hike was already the market’s base case before the reports. US spot bitcoin ETFs recorded $453 million in net outflows Wednesday...."
+      "summary": "The estimate may count the same funds more than once. The FBI had asked THORChain node operators to block transactions tied to the theft...."
     },
     {
-      "title": "Telegram Cuts Fee to 2% on Gift Resales Paid in Gram",
-      "link": "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram",
-      "pubDate": "2026-11-26T15:49:31.000Z",
+      "title": "Fluid Pauses DEX Swaps After ‘Mythos 5.2’ Security Review",
+      "link": "https://thedefiant.io/news/security/fluid-pauses-dex-swaps-after-mythos-5-2-security-review",
+      "pubDate": "2026-11-26T21:12:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "CEO Pavel Durov said sellers trading inside Telegram now get paid directly in Gram when a sale settles on TON...."
+      "summary": "The protocol says borrowers can still repay loans and users can still withdraw funds. It gave no date for trading to resume...."
     },
     {
-      "title": "Ether Drops 28% in Four Weeks, Lagging Bitcoin",
-      "link": "https://thedefiant.io/news/markets/ether-drops-28-in-four-weeks-lagging-bitcoin",
-      "pubDate": "2026-11-26T15:39:36.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "US spot ether ETFs recorded $523.3 million in net withdrawals over eight trading sessions through Nov. 25, according to Farside Investors’ data...."
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "pubDate": "2026-11-26T19:39:57.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with b..."
     },
     {
-      "title": "Huawei to Detail New AI Memory Design in February",
-      "link": "https://thedefiant.io/frontier/ai/huawei-to-detail-new-ai-memory-design-in-february",
-      "pubDate": "2026-11-26T15:14:13.000Z",
+      "title": "Microsoft Links China, North Korea Hackers to ARTEX",
+      "link": "https://thedefiant.io/frontier/ai/microsoft-links-china-north-korea-hackers-to-artex",
+      "pubDate": "2026-11-26T19:19:13.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The conference program describes a custom chip but gives no production timetable. US export controls limit China’s access to imported high-bandwidth memory...."
+      "summary": "Microsoft says the AI tool can turn initial probing into lasting access with elevated permissions within minutes, depending on the target’s defenses and the att..."
+    },
+    {
+      "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
+      "link": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
+      "pubDate": "2026-11-26T19:17:27.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades...."
+    },
+    {
+      "title": "Cryptio Urges Clients to Revoke API Keys After Attack",
+      "link": "https://thedefiant.io/news/security/cryptio-urges-clients-to-revoke-api-keys-after-attack",
+      "pubDate": "2026-11-26T17:14:48.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "The crypto accounting firm said exchange and custody credentials may have been exposed. Its notice did not confirm that any keys were taken or report any losses..."
     },
     {
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
@@ -63,15 +84,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may h..."
-    },
-    {
-      "title": "Spain Issues Decree to Allow Temporary Crypto Account Freezes",
-      "link": "https://thedefiant.io/news/regulation/spain-issues-decree-to-allow-temporary-crypto-account-freezes",
-      "pubDate": "2026-11-26T14:31:28.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The measure, scheduled for Jan. 25 pending a vote in Congress, would let Sepblac freeze accounts for up to five business days without prior court approval...."
     },
     {
       "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
@@ -101,15 +113,6 @@
       "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE..."
     },
     {
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-      "pubDate": "2026-11-26T06:44:46.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, incl..."
-    },
-    {
       "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
       "link": "https://blog.ethereum.org/en/2026/11/25/devcon-mumbai-wrap",
       "pubDate": "2026-11-25T00:00:00.000Z",
@@ -117,51 +120,6 @@
       "category": "Protocol Development",
       "type": "blockchain",
       "summary": "Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology. From November 3–6, the Ethereum..."
-    },
-    {
-      "title": "ZDI-26-1159: X.Org Server PCF Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1159/",
-      "pubDate": "2026-11-24T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of X.Org Server. An attacker must first obtain the ability..."
-    },
-    {
-      "title": "ZDI-26-1158: X.Org Server libfontenc Encoding File Parsing Improper Validation of Array Index Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1158/",
-      "pubDate": "2026-11-24T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of X.Org Server. An attacker must first obtain the ability to execute..."
-    },
-    {
-      "title": "ZDI-26-1157: ASUS Control Center Express User Creation Improper Authorization Privilege Escalation Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1157/",
-      "pubDate": "2026-11-24T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to escalate privileges on affected installations of ASUS Control Center Express. Authentication is required to exploi..."
-    },
-    {
-      "title": "ZDI-26-1156: ASUS Control Center Express Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1156/",
-      "pubDate": "2026-11-24T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to bypass authentication of affected installations of ASUS Control Center Express. Authentication is not required to..."
-    },
-    {
-      "title": "ZDI-26-1155: ASUS Control Center Express Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability",
-      "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-1155/",
-      "pubDate": "2026-11-24T06:00:00.000Z",
-      "source": "Zero Day Initiative",
-      "category": "Vulnerability Research",
-      "type": "cybersecurity",
-      "summary": "This vulnerability allows remote attackers to bypass authentication on affected installations of ASUS Control Center Express. Authentication is not required to..."
     },
     {
       "title": "PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era",
@@ -243,6 +201,51 @@
       "category": "Web Security",
       "type": "cybersecurity",
       "summary": "Content Security Policy is supposed to be the safety net that stops an HTML injection from turning into XSS. Usually it works. But sometimes it doesn't, because..."
+    },
+    {
+      "title": "2026 Lending Hacks: 7 in 10 Protocols Had Been Live Over a Year",
+      "link": "https://immunefi.com/blog/research/2026-lending-hacks/",
+      "pubDate": "2026-11-06T15:00:00.000Z",
+      "source": "Immunefi",
+      "category": "Web3 Bug Bounty",
+      "type": "blockchain",
+      "summary": "At least 33 lending and Collateralized Debt Position (CDP) protocols were hacked this year. Data shows attackers target protocols of all sizes, and vulnerabilit..."
+    },
+    {
+      "title": "After Binance, check what your signing systems can approve",
+      "link": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
+      "pubDate": "2026-11-06T12:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a v..."
+    },
+    {
+      "title": "EIP-8037/EIP-8038 Glamsterdam",
+      "link": "https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "source": "Ethereum Foundation",
+      "category": "Protocol Development",
+      "type": "blockchain",
+      "summary": "Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be vulner..."
+    },
+    {
+      "title": "Making HTTP header injection critical with one prompt",
+      "link": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
+      "pubDate": "2026-11-04T15:12:29.000Z",
+      "source": "PortSwigger Research",
+      "category": "Web Security",
+      "type": "cybersecurity",
+      "summary": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We..."
+    },
+    {
+      "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
+      "link": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
+      "pubDate": "2026-11-03T12:00:00.000Z",
+      "source": "Trail of Bits",
+      "category": "Security Research",
+      "type": "cybersecurity",
+      "summary": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases..."
     }
   ]
 }
