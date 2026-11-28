@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T01:01:52.620Z",
+  "lastUpdated": "2026-11-28T14:59:15.909Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,58 @@
   },
   "items": [
     {
-      "title": "Telegram Urges Users on Older iOS to Update iPhones",
-      "link": "https://thedefiant.io/news/security/telegram-urges-users-on-older-ios-to-update-iphones",
-      "pubDate": "2026-11-27T23:50:31.000Z",
+      "title": "World Liberty Says Binance Closed WLFI Futures Bets",
+      "link": "https://thedefiant.io/news/markets/world-liberty-says-binance-closed-wlfi-futures-bets",
+      "pubDate": "2026-11-28T12:50:21.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "CEO Pavel Durov said just visiting a website can be enough to compromise an iPhone running outdated software...."
+      "summary": "World Liberty says some traders reported that positions showing a profit before closure settled at a loss. Binance has not publicly confirmed how it priced the..."
     },
     {
-      "title": "Anza Urges Immediate Agave Upgrade on Solana Mainnet",
-      "link": "https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet",
-      "pubDate": "2026-11-27T23:37:39.000Z",
+      "title": "BNB Chain Names Woori Bank in Planned Stablecoin Pilot",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bnb-chain-names-woori-bank-in-planned-stablecoin-pilot",
+      "pubDate": "2026-11-28T12:10:34.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Anza said Solana’s clusters were running normally. Jito-Solana and Harmonic released builds based on Agave v4.4.2...."
+      "summary": "The exploratory project would start with the Brazil–South Korea and Hong Kong–South Korea payment corridors...."
     },
     {
-      "title": "SKY Rebounds 16% as Bitcoin and Crypto Market Slip",
-      "link": "https://thedefiant.io/news/tokens/sky-rebounds-16-as-bitcoin-and-crypto-market-slip",
-      "pubDate": "2026-11-27T22:29:08.000Z",
+      "title": "Dolomite’s USD1 Liquidity Thins After 24.6M Withdrawn",
+      "link": "https://thedefiant.io/news/defi/dolomite-s-usd1-liquidity-thins-after-24-6m-withdrawn",
+      "pubDate": "2026-11-28T09:22:54.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The token was still 19% below its Nov. 4 level. Sky’s one-off buyback ran about 11½ hours past its original deadline...."
+      "summary": "Dolomite’s Ethereum lending contract held about 45,500 USD1 shortly after 4 a.m. ET Saturday, with the market’s borrow rate near 35% APY...."
     },
     {
-      "title": "Block Discloses Proposed $442.5M Investor Settlement",
-      "link": "https://thedefiant.io/converge/regulation/block-discloses-proposed-442-5m-investor-settlement",
-      "pubDate": "2026-11-27T22:10:58.000Z",
-      "source": "The Defiant",
-      "category": "DeFi & Web3",
-      "type": "blockchain",
-      "summary": "The Cash App shareholder deal needs a final agreement and court approval. It is separate from a proposed Justice Department deal that would cost Block about $76..."
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "pubDate": "2026-11-28T08:08:11.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their..."
     },
     {
-      "title": "Babylon’s Reported Bitcoin Stake Falls 31% in a Day",
-      "link": "https://thedefiant.io/news/defi/babylon-s-reported-bitcoin-stake-falls-31-in-a-day",
-      "pubDate": "2026-11-27T21:51:27.000Z",
+      "title": "Buterin Backs Glamsterdam Gas Change but Warns Against Rush",
+      "link": "https://thedefiant.io/news/blockchains/buterin-backs-glamsterdam-gas-change-but-warns-against-rush",
+      "pubDate": "2026-11-28T07:33:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The dollar value of the tracked stake fell by $735 million despite a rise in DefiLlama’s implied valuation per BTC...."
+      "summary": "Ethereum developers kept the disputed gas rules and set Dec. 15 for the Hoodi testnet. Buterin says core developers should help apps that break because they rel..."
+    },
+    {
+      "title": "Clear Rules Curbed Claude’s Sandbox Probing in Tests",
+      "link": "https://thedefiant.io/frontier/ai/clear-rules-curbed-claude-s-sandbox-probing-in-tests",
+      "pubDate": "2026-11-28T07:09:16.000Z",
+      "source": "The Defiant",
+      "category": "DeFi & Web3",
+      "type": "blockchain",
+      "summary": "Anthropic tested six Claude models in more than 1,700 scenarios and used the results to tune the command checks in Claude Code’s auto mode...."
     },
     {
       "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via..."
-    },
-    {
-      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
-      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-      "pubDate": "2026-11-27T06:04:20.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the c..."
     },
     {
       "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
