@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T16:04:16.857Z",
+  "lastUpdated": "2026-11-28T01:01:52.620Z",
   "sources": {
     "succeeded": [
       "Ethereum Foundation",
@@ -20,49 +20,58 @@
   },
   "items": [
     {
-      "title": "LayerZero Names 40-Plus Validators for Zero Launch",
-      "link": "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
-      "pubDate": "2026-11-27T15:37:28.000Z",
+      "title": "Telegram Urges Users on Older iOS to Update iPhones",
+      "link": "https://thedefiant.io/news/security/telegram-urges-users-on-older-ios-to-update-iphones",
+      "pubDate": "2026-11-27T23:50:31.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Kakao Pay, Broadridge and ZAN are on the roster. LayerZero’s official staking site initially splits each ZRO deposit equally across the launch validators...."
+      "summary": "CEO Pavel Durov said just visiting a website can be enough to compromise an iPhone running outdated software...."
     },
     {
-      "title": "Tesla Files to Buy Assets From German Toolmaker EMAG",
-      "link": "https://thedefiant.io/frontier/technology/tesla-files-to-buy-assets-from-german-toolmaker-emag",
-      "pubDate": "2026-11-27T15:26:17.000Z",
+      "title": "Anza Urges Immediate Agave Upgrade on Solana Mainnet",
+      "link": "https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet",
+      "pubDate": "2026-11-27T23:37:39.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "EMAG makes equipment for electric motor shafts and humanoid robot joints. Germany’s competition authority hasn’t said which assets Tesla wants to buy...."
+      "summary": "Anza said Solana’s clusters were running normally. Jito-Solana and Harmonic released builds based on Agave v4.4.2...."
     },
     {
-      "title": "Nvidia Blackwell Chips Found in Shanghai, Bloomberg Says",
-      "link": "https://thedefiant.io/frontier/ai/nvidia-blackwell-chips-found-in-shanghai-bloomberg-says",
-      "pubDate": "2026-11-27T14:52:21.000Z",
+      "title": "SKY Rebounds 16% as Bitcoin and Crypto Market Slip",
+      "link": "https://thedefiant.io/news/tokens/sky-rebounds-16-as-bitcoin-and-crypto-market-slip",
+      "pubDate": "2026-11-27T22:29:08.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Loan records identified a GB300 rack and a separate GB200 server at the same data center, Bloomberg reported. The filings don’t establish how the gear reached C..."
+      "summary": "The token was still 19% below its Nov. 4 level. Sky’s one-off buyback ran about 11½ hours past its original deadline...."
     },
     {
-      "title": "Halogen’s Shariah Bitcoin ETF Set for Dec. 2 Bursa Debut",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/halogen-s-shariah-bitcoin-etf-set-for-dec-2-bursa-debut",
-      "pubDate": "2026-11-27T14:31:13.000Z",
+      "title": "Block Discloses Proposed $442.5M Investor Settlement",
+      "link": "https://thedefiant.io/converge/regulation/block-discloses-proposed-442-5m-investor-settlement",
+      "pubDate": "2026-11-27T22:10:58.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "Once the spot fund lists, retail investors will be able to trade it in ringgit or US dollars through a stockbroker...."
+      "summary": "The Cash App shareholder deal needs a final agreement and court approval. It is separate from a proposed Justice Department deal that would cost Block about $76..."
     },
     {
-      "title": "Chainflip Tallies Hack Losses, Payout Plan Still Pending",
-      "link": "https://thedefiant.io/news/hacks/chainflip-tallies-hack-losses-payout-plan-still-pending",
-      "pubDate": "2026-11-27T13:55:53.000Z",
+      "title": "Babylon’s Reported Bitcoin Stake Falls 31% in a Day",
+      "link": "https://thedefiant.io/news/defi/babylon-s-reported-bitcoin-stake-falls-31-in-a-day",
+      "pubDate": "2026-11-27T21:51:27.000Z",
       "source": "The Defiant",
       "category": "DeFi & Web3",
       "type": "blockchain",
-      "summary": "The cross-chain exchange plans to route new trades through SwapKit while its own protocol remains paused after the November vault theft...."
+      "summary": "The dollar value of the tracked stake fell by $735 million despite a rise in DefiLlama’s implied valuation per BTC...."
+    },
+    {
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "pubDate": "2026-11-27T16:36:11.000Z",
+      "source": "The Hacker News",
+      "category": "Cybersecurity News",
+      "type": "cybersecurity",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to ga..."
     },
     {
       "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
@@ -99,15 +108,6 @@
       "category": "Cybersecurity News",
       "type": "cybersecurity",
       "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the c..."
-    },
-    {
-      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
-      "pubDate": "2026-11-27T05:48:20.000Z",
-      "source": "The Hacker News",
-      "category": "Cybersecurity News",
-      "type": "cybersecurity",
-      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code executi..."
     },
     {
       "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
